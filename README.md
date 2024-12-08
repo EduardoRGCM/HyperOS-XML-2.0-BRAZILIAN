@@ -20,8 +20,8 @@ For more info visit:
 - [@EduardoRGCM](https://t.me/eduardorgcm)
 - [@Feurrado](https://github.com/Feurrado)
 - [@igor](https://github.com/igormiguell)
-- [@rickguariento](https://t.me/rickguariento)
 - [@Kircheiss](https://t.me/Kircheiss)
+- [@rickguariento](https://t.me/rickguariento)
 
 ##### Credits:
 - ingbrzy [miuios.cz](https://miuios.cz)
