@@ -6,13 +6,13 @@
 
 HyperOS China is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
 
-Strings are under:
+Strings are under a
 - [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 
-Based on a work at:
+Based on a work at
 - [HyperOS](https://hyperos.mi.com/)
 
-For more info, visit:
+For more info visit:
 - [Xiaomi.eu HyperOS Support](http://xiaomi.eu)
 
 ##### Translators:
@@ -26,7 +26,3 @@ For more info, visit:
 ##### Credits:
 - ingbrzy [miuios.cz](https://miuios.cz)
 - IgorEisberg
-
-##### Thanks:
-- KcNirvana
-- jutruka
