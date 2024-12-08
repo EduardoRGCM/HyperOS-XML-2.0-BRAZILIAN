@@ -4,7 +4,7 @@
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 
-HyperOS China is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+HyperOS China is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 Unported License.
 
 Strings are under a
 - [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 Unported License.](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
