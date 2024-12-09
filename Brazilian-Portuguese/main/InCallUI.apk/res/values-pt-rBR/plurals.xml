@@ -34,44 +34,44 @@
         <item quantity="one">Reportado por %d usuário HyperOS</item>
     </plurals>
     <plurals name="auto_disconnect_timer_tip">
-        <item quantity="other">Desligando em %1$s segundos…</item>
-        <item quantity="one">Desligando em %1$s segundo…</item>
+        <item quantity="other">Desligando em %1$s s…</item>
+        <item quantity="one">Desligando em %1$s s…</item>
     </plurals>
     <plurals name="call_log_day_in">
-        <item quantity="other">Esse número te ligou %1$s dias atrás</item>
-        <item quantity="one">Esse número te ligou %1$s dia atrás</item>
+        <item quantity="other">Este número te ligou %1$s dias atrás</item>
+        <item quantity="one">Este número te ligou %1$s dia atrás</item>
     </plurals>
     <plurals name="call_log_day_out">
         <item quantity="other">Você ligou para esse número %1$s dias atrás</item>
         <item quantity="one">Você ligou para esse número %1$s dia atrás</item>
     </plurals>
     <plurals name="call_log_hour_in">
-        <item quantity="other">Esse número te ligou %1$s horas atrás</item>
-        <item quantity="one">Esse número te ligou %1$s hora atrás</item>
+        <item quantity="other">Este número te ligou %1$s h atrás</item>
+        <item quantity="one">Este número te ligou %1$s h atrás</item>
     </plurals>
     <plurals name="call_log_hour_out">
-        <item quantity="other">Você ligou para esse número %1$s horas atrás</item>
-        <item quantity="one">Você ligou para esse número %1$s hora atrás</item>
+        <item quantity="other">Você ligou para esse número %1$s h atrás</item>
+        <item quantity="one">Você ligou para esse número %1$s h atrás</item>
     </plurals>
     <plurals name="call_log_minute_in">
-        <item quantity="other">Esse número te ligou %1$s minutos atrás</item>
-        <item quantity="one">Esse número te ligou %1$s minuto atrás</item>
+        <item quantity="other">Este número te ligou %1$s min atrás</item>
+        <item quantity="one">Este número te ligou %1$s min atrás</item>
     </plurals>
     <plurals name="call_log_minute_out">
-        <item quantity="other">Você ligou para esse número %1$s minutos atrás</item>
-        <item quantity="one">Você ligou para esse número %1$s minuto atrás</item>
+        <item quantity="other">Você ligou para esse número %1$s min atrás</item>
+        <item quantity="one">Você ligou para esse número %1$s min atrás</item>
     </plurals>
     <plurals name="call_log_month_in">
-        <item quantity="other">Esse número te ligou %1$s meses atrás</item>
-        <item quantity="one">Esse número te ligou %1$s mês atrás</item>
+        <item quantity="other">Este número te ligou %1$s meses atrás</item>
+        <item quantity="one">Este número te ligou %1$s mês atrás</item>
     </plurals>
     <plurals name="call_log_month_out">
         <item quantity="other">Você ligou para esse número %1$s meses atrás</item>
         <item quantity="one">Você ligou para esse número %1$s mês atrás</item>
     </plurals>
     <plurals name="call_log_year_in">
-        <item quantity="other">Esse número te ligou %1$s anos atrás</item>
-        <item quantity="one">Esse número te ligou %1$s ano atrás</item>
+        <item quantity="other">Este número te ligou %1$s anos atrás</item>
+        <item quantity="one">Este número te ligou %1$s ano atrás</item>
     </plurals>
     <plurals name="call_log_year_out">
         <item quantity="other">Você ligou para esse número %1$s anos atrás</item>
@@ -129,9 +129,9 @@
         <item quantity="one">1 minuto atrás</item>
     </plurals>
     <plurals name="satellite_state_fail">
-        <item quantity="other">"%d segundos se passaram sem conexão com o satélite.
+        <item quantity="other">"%d segundos se passaram sem conexão ao satélite.
 Você pode continuar tentando ou sair agora."</item>
-        <item quantity="one">"%d segundo passou sem conexão com o satélite.
+        <item quantity="one">"%d segundo se passou sem conexão ao satélite.
 Você pode continuar tentando ou sair agora."</item>
     </plurals>
 </resources>

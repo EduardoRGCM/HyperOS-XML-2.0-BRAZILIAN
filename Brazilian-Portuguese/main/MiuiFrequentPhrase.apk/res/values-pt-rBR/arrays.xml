@@ -2,11 +2,11 @@
 <resources>
     <string-array name="default_phrases">
         <item>Fatura: *** Inc.</item>
-        <item>Endereço: Rua, Cidade, País/Região, Província, CEP</item>
+        <item>Endereço: Rua, Apt, Cidade, País/Região, Província, Código postal</item>
         <item>Por favor, deixe o pacote na porta. Obrigado!</item>
-        <item>Espere um minuto, já volto.</item>
-        <item>Estou em reunião. Por favor, envie uma mensagem</item>
-        <item>Não posso falar no momento. Ligarei assim que possível</item>
+        <item>Aguarde um momento, já estou voltando.</item>
+        <item>Estou em reunião. Envie uma mensagem de texto.</item>
+        <item>Não posso falar agora. Retornarei a chamada assim que possível.</item>
         <item>Obrigado!</item>
     </string-array>
 </resources>

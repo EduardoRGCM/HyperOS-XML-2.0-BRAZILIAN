@@ -29,9 +29,9 @@
     <string name="abc_toolbar_collapse_description">Recolher</string>
     <string name="actionbar_button_up_description">Voltar</string>
     <string name="afternoon">"PM"</string>
-    <string name="ai_assistant">Assistente de chamada com IA</string>
-    <string name="ai_assistant_not_installed">Instale o Assistente de chamada com IA primeiro</string>
-    <string name="ai_dial">Chamada IA</string>
+    <string name="ai_assistant">Assistente de chamadas IA</string>
+    <string name="ai_assistant_not_installed">Instale o Assistente de chamadas IA primeiro</string>
+    <string name="ai_dial">Chamada por IA</string>
     <string name="ai_mode_auto">Automático</string>
     <string name="ai_mode_manual">Manualmente</string>
     <string name="ai_mode_subtitles">Legendas</string>
@@ -48,14 +48,14 @@
     <string name="antispam_notification_title">Número desconhecido</string>
     <string name="antispam_provider">Identificado por %s</string>
     <string name="app_disable_description_text">"Se você desativar este app, não poderá fazer e receber chamadas e usar outros recursos relacionados. Este app do sistema não pode ser desinstalado."</string>
-    <string name="app_disable_title_text">"Desativar app"</string>
+    <string name="app_disable_title_text">Desativar app</string>
     <string name="app_name">Ui de chamadas</string>
     <string name="bluetooth_permission_content">As permissões do sistema foram atualizadas. Permita que este app acesse os nomes dos seus dispositivos Bluetooth para visualizá-los.</string>
     <string name="bluetooth_permission_grant_immediately">Permitir</string>
     <string name="bluetooth_permission_later">Agora não</string>
     <string name="bluetooth_permission_title">Permissões necessárias</string>
     <string name="calibrate_rotate_again">Tente novamente</string>
-    <string name="calibrate_rotate_tip">Incline o dispositivo bruscamente para fazer a bola girar pelo círculo</string>
+    <string name="calibrate_rotate_tip">Gire o seu dispositivo para rolar a bola pelo círculo</string>
     <string name="callFailed_cb_enabled">Você não pode fazer chamadas enquanto o bloqueio de chamadas estiver ativado.</string>
     <string name="callFailed_congestion">Rede ocupada</string>
     <string name="callFailed_dialToDial">Requisição DIAL modificada para DIAL com um número diferente.</string>
@@ -85,24 +85,24 @@
     <string name="call_button_tools_text">Funções</string>
     <string name="call_contacts_deny_permission_msg">"Você negou as permissões de leitura de contatos, não é possível exibir as informações."</string>
     <string name="call_description_recording">Gravando…</string>
-    <string name="call_log_short_in">Este número te ligou agora pouco</string>
-    <string name="call_log_short_out">Você ligou para este número agora pouco</string>
+    <string name="call_log_short_in">Este número acabou de te ligar</string>
+    <string name="call_log_short_out">Você acabou de ligar para este número</string>
     <string name="call_not_support_high_frequency_click">"Não toque neste botão com muita frequência"</string>
     <string name="call_progress_info_call_forwarding">Esta chamada foi encaminhada</string>
-    <string name="call_progress_info_call_rejected">A outra pessoa está ocupada agora. Ligue de volta mais tarde.</string>
-    <string name="call_progress_info_call_waiting">A outra pessoa está em uma chamada agora. Por favor, espere…</string>
+    <string name="call_progress_info_call_rejected">A outra pessoa está ocupada agora. Por favor, ligue mais tarde.</string>
+    <string name="call_progress_info_call_waiting">A outra pessoa está em uma chamada agora. Aguarde…</string>
     <string name="call_progress_info_no_answer_from_user">"Sua chamada não foi atendida"</string>
     <string name="call_progress_info_no_user_responding">"O número que você discou está temporariamente fora de serviço"</string>
     <string name="call_progress_info_nonuser_call_rejected">"O número que você discou está fora de serviço"</string>
-    <string name="call_progress_info_remote_available">A outra pessoa foi notificada sobre sua chamada. Por favor, espere…</string>
+    <string name="call_progress_info_remote_available">A outra pessoa foi notificada sobre sua chamada. Aguarde…</string>
     <string name="call_progress_info_subscriber_absent">"O número que você discou não está disponível"</string>
     <string name="call_progress_info_unallocated_number">"O número que você discou não existe"</string>
-    <string name="call_progress_info_user_busy">A outra pessoa está ocupada agora. Por favor, ligue de volta mais tarde</string>
+    <string name="call_progress_info_user_busy">A outra pessoa está ocupada agora. Por favor, ligue mais tarde.</string>
     <string name="call_progress_info_user_call_rejected">Seu número está fora de serviço</string>
     <string name="call_record_wait_label">Aguardando</string>
     <string name="call_recording">Gravação de chamada em andamento</string>
     <string name="call_recording_deny_permission_msg">"Não é possível gravar. Conceda as permissões nas Configurações primeiro."</string>
-    <string name="call_recording_disclaimer_msg">"A lei aplicável na jurisdição em que você ou outros participantes da chamada estão localizados pode exigir que todas as partes concordem com a gravação. Você é obrigado a cumprir tais leis e a Xiaomi não será responsável por qualquer uso ilegal deste recurso. As gravações de chamadas são armazenadas apenas no seu dispositivo e não podem ser acessadas pela Xiaomi."</string>
+    <string name="call_recording_disclaimer_msg">"As leis aplicáveis na jurisdição onde os outros participantes da chamada estiverem localizados podem exigir que todos os participantes permitam a gravação. Você é obrigado a cumprir tais leis, e a Xiaomi não será responsável por qualquer uso ilegal deste recurso. As gravações de chamadas são armazenadas apenas no seu dispositivo e não podem ser acessadas pela Xiaomi."</string>
     <string name="call_recording_disclaimer_title">Aviso legal</string>
     <string name="call_recording_error_low_storage">Não há espaço suficiente no armazenamento.</string>
     <string name="call_recording_error_privacy">"Não é possível gravar enquanto você está no Modo convidado"</string>
@@ -126,11 +126,11 @@
     <string name="card_title_answering">Atendendo chamada</string>
     <string name="card_title_call_ended">"Chamada encerrada "</string>
     <string name="card_title_conf_call">Conferência telefônica</string>
-    <string name="card_title_dialing">Chamando…</string>
+    <string name="card_title_dialing">Discando</string>
     <string name="card_title_hanging_up">"Desligando "</string>
     <string name="card_title_in_call">Em chamada</string>
     <string name="card_title_in_call_short">Em chamada</string>
-    <string name="card_title_in_crbt">Aguardando resposta</string>
+    <string name="card_title_in_crbt">Aguardando resposta…</string>
     <string name="card_title_in_video">Vídeo</string>
     <string name="card_title_incoming_conference_call">Recebendo conferência telefônica</string>
     <string name="card_title_on_hold">"Em espera "</string>
@@ -194,13 +194,13 @@
     <string name="dialpad_two">2</string>
     <string name="dialpad_zero">0</string>
     <string name="do_not_support_video_calls_by_remote">"Chamadas de vídeo não são suportadas no outro dispositivo"</string>
-    <string name="dsda_answer_call_prompt">Aceitar esta chamada encerrará sua chamada em andamento.</string>
-    <string name="dsda_not_incall_sim_mo_fail_desc">"Não é possível usar o chip %1$d para chamadas agora. O ambiente de rede atual não oferece suporte à funcionalidade Dual SIM."</string>
+    <string name="dsda_answer_call_prompt">Aceitar esta chamada encerrará sua chamada atual</string>
+    <string name="dsda_not_incall_sim_mo_fail_desc">"Não é possível usar o SIM %1$d para chamadas agora. O ambiente de rede atual não oferece suporte à funcionalidade Dual SIM."</string>
     <string name="dsda_swap_call_prompt">"Você será alternado para uma chamada de voz se continuar."</string>
     <string name="early_morning">"AM"</string>
     <string name="emergency_call_dialog_number_for_display">Número de emergência</string>
     <string name="enter_ai_assistant">Usar</string>
-    <string name="enter_ai_assistant_tip">"A IA pode converter texto em fala se não for conveniente para você falar agora. Usar a IA para esta ligação?"</string>
+    <string name="enter_ai_assistant_tip">"A IA pode converter texto em fala se você não puder falar agora. Usar a IA para esta chamada?"</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="evening">"PM"</string>
@@ -244,9 +244,9 @@
     <string name="fmt_time_second_millis">s.S</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
-    <string name="focus_notification_in_calling">Durante a chamada</string>
+    <string name="focus_notification_in_calling">Chamada em progresso</string>
     <string name="focus_notification_on_call">Chamando…</string>
-    <string name="focus_notification_on_ringing">Recebendo chamada</string>
+    <string name="focus_notification_on_ringing">Chamada recebida</string>
     <string name="font_camera_tip">Dobre o dispositivo para usar a câmera frontal</string>
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
@@ -380,9 +380,9 @@
     <string name="onscreen_change_to_voice">Chamada de voz</string>
     <string name="onscreen_close_preview_camera">Fechar</string>
     <string name="onscreen_collapsed">Recolher</string>
-    <string name="onscreen_collapsed_dialpad">Mostrar teclado de discagem</string>
+    <string name="onscreen_collapsed_dialpad">Mostrar discador</string>
     <string name="onscreen_expand">Mais</string>
-    <string name="onscreen_expand_dialpad">Ocultar teclado de discagem</string>
+    <string name="onscreen_expand_dialpad">Ocultar discador</string>
     <string name="onscreen_hold_text">Espera</string>
     <string name="onscreen_merge_calls_text">Mesclar chamadas</string>
     <string name="onscreen_message_text">Mensagens</string>
@@ -399,7 +399,7 @@
     <string name="private_num">Número privado</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
     <string name="prompt_no_volte_when_failed">Não é possível fazer chamadas. Certifique-se de que seu dispositivo está conectado a uma rede 4G com suporte ao VoLTE.</string>
-    <string name="relay_cal_from_device_name">A partir de %1$s</string>
+    <string name="relay_cal_from_device_name">De %1$s</string>
     <string name="relay_call">Não interferir</string>
     <string name="relay_call_device_name">Dispositivo conectado (%1$s)</string>
     <string name="relay_call_unable_to_work">"Não é possível usar esse recurso para chamadas transferidas"</string>
@@ -437,20 +437,20 @@ Toque \"%1$s\" e depois selecione \"%2$s\"."</string>
     <string name="satellite_dialog_cancel">Cancelar</string>
     <string name="satellite_dialog_cancel_exp">Cancelar</string>
     <string name="satellite_get_gps_timeout">"Não é possível obter informações de localização. Fique em uma área aberta e evite objetos que bloqueiem o sinal."</string>
-    <string name="satellite_guide_azimuth">Mova-se até que o satélite esteja na área de varredura</string>
+    <string name="satellite_guide_azimuth">Mova-se até o ícone do satélite ficar na área azul</string>
     <string name="satellite_guide_azimuth_floating">Entre na área de varredura</string>
     <string name="satellite_guide_azimuth_in">O satélite está na área de varredura</string>
     <string name="satellite_guide_azimuth_in_floating">O satélite está na área de varredura</string>
     <string name="satellite_guide_azimuth_leave">O satélite saiu da área de varredura</string>
     <string name="satellite_guide_azimuth_leave_floating">Está ficando mais longe</string>
-    <string name="satellite_guide_down">"Incline seu dispositivo para baixo
-até colocar a bola na área azul"</string>
-    <string name="satellite_guide_elevation">Incline seu dispositivo para mover o círculo azul para o satélite e fique parado</string>
+    <string name="satellite_guide_down">"Mova seu dispositivo para baixo
+para colocar o ícone do satélite na área azul"</string>
+    <string name="satellite_guide_elevation">Mova seu dispositivo para mover o círculo azul para o satélite e fique parado</string>
     <string name="satellite_guide_elevation_floating">Coloque o círculo no satélite</string>
     <string name="satellite_guide_found">Satélite encontrado</string>
-    <string name="satellite_guide_left">"Incline seu dispositivo para a esquerda
+    <string name="satellite_guide_left">"Mova seu dispositivo para a esquerda
 para colocar o ícone do satélite na área azul"</string>
-    <string name="satellite_guide_right">"Incline seu dispositivo para a direita
+    <string name="satellite_guide_right">"Mova seu dispositivo para a direita
 para colocar o ícone do satélite na área azul"</string>
     <string name="satellite_guide_searching">Procurando por satélite…</string>
     <string name="satellite_guide_searching_floating">Procurando…</string>
@@ -459,7 +459,7 @@ para colocar o ícone do satélite na área azul"</string>
     <string name="satellite_guide_signal">Para um sinal melhor, mova seu dispositivo ligeiramente para cima e para baixo.</string>
     <string name="satellite_guide_up">"Incline seu dispositivo para cima
 até colocar a bola na área azul"</string>
-    <string name="satellite_incall_tip">Não é possível usar o fone de ouvido ao usar comunicações via satélite</string>
+    <string name="satellite_incall_tip">"Não é possível usar o fone de ouvido ao usar comunicações via satélite"</string>
     <string name="satellite_knew">Entendi</string>
     <string name="satellite_latitude_longitude">"Localização atual: "</string>
     <string name="satellite_location_deny_permission_msg">Permitir acesso à localização para ativar as Comunicações do Tiantong Satellite</string>
@@ -467,7 +467,7 @@ até colocar a bola na área azul"</string>
     <string name="satellite_satellite_accessory">"Estou usando um amplificador de sinal de satélite"</string>
     <string name="satellite_satellite_service_redirection">Ativar</string>
     <string name="satellite_satellite_service_tip">"Parece que você não ativou o serviço de conexão direta via satélite. Tente procurar por satélites após a ativação."</string>
-    <string name="satellite_service_provider">Serviço fornecido pela China Telecom</string>
+    <string name="satellite_service_provider">Serviço fornecido por China Telecom</string>
     <string name="satellite_service_reject_cause_imei">"O IMEI do dispositivo não está registrado"</string>
     <string name="satellite_service_reject_cause_not_enable_International_roaming">Ative o roaming internacional</string>
     <string name="satellite_service_reject_cause_not_order_tiantong">Ative os serviços do Tiantong Satellite</string>
@@ -500,10 +500,10 @@ Mantenha o dispositivo nesta posição."</string>
     <string name="select_audio_dialog_title">Selecionar método de atendimento</string>
     <string name="select_one_sim_title">Só é possível usar o SIM %1$d</string>
     <string name="select_one_sim_title_for_heduohao">Só pode usar o SIM %1$d Sub %2$d</string>
-    <string name="select_other_sim_card_dial">Use o SIM %1$d</string>
+    <string name="select_other_sim_card_dial">Usar SIM %1$d</string>
     <string name="select_sim_hint">"Não é possível usar o cartão SIM %2$d enquanto o cartão SIM %1$d está em uso."</string>
     <string name="select_sim_hint_for_heduohao">"Não pode usar outro, enquanto SIM %1$d Sub %2$d está em uso."</string>
-    <string name="select_voice_call_sim">Escolha o cartão SIM</string>
+    <string name="select_voice_call_sim">Escolher cartão SIM</string>
     <string name="send">Enviar</string>
     <string name="separate_from_conference">Separar chamada</string>
     <string name="sim1_description">SIM %d</string>
@@ -602,8 +602,8 @@ Mantenha o dispositivo nesta posição."</string>
     <string name="v7_preference_on">ATIVADO</string>
     <string name="video_call_downgrade_insufficient_bandwidth">Largura de banda insuficiente, volte para a chamada de voz.</string>
     <string name="video_conference_caller_info_name">Videochamada de conferência de %1$s</string>
-    <string name="video_crbt_title">O VRBT do outro usuário está tocando</string>
-    <string name="voice_control_deny_permission_msg">"Não é possível usar os controles de voz agora. Primeiro permita que este app grave o áudio."</string>
+    <string name="video_crbt_title">Reproduzindo vídeo de perfil…</string>
+    <string name="voice_control_deny_permission_msg">"Não é possível usar os controles de voz agora. Permita que este app grave áudio primeiro."</string>
     <string name="voicemail">Mensagem de voz</string>
     <string name="volte_call">"Chamada
 VoLTE"</string>

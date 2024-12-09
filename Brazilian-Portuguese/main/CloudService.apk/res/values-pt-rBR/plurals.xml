@@ -213,7 +213,7 @@
         <item quantity="one">%1$s min</item>
     </plurals>
     <plurals name="verify_open_SMS_dialog_positive_btn_timer">
-        <item quantity="other">Enviar novo código (%ss)</item>
-        <item quantity="one">Enviar novo código (%ss)</item>
+        <item quantity="other">Enviar novo código (%s s)</item>
+        <item quantity="one">Enviar novo código (%s s)</item>
     </plurals>
 </resources>
