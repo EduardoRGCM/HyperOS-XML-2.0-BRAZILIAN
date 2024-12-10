@@ -109,7 +109,7 @@
     <string name="confirm_delete_the_download_item_message">Excluir estes downloads?</string>
     <string name="continue_download">Continuar</string>
     <string name="copy">Copiar</string>
-    <string name="copy_info">Copiado para a área de transferência. Você poderá compartilhar com os amigos!</string>
+    <string name="copy_info">Copiado com sucesso</string>
     <string name="creat_task_success">Adicionado à fila de downloads</string>
     <string name="create_task">Criar tarefa</string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Para baixar itens, bem como exibir e gerenciar downloads.</string>
@@ -429,6 +429,7 @@ Por favor, envie este código para o técnico."</string>
     <string name="no_share_files">"Não é possível compartilhar arquivos excluídos"</string>
     <string name="no_share_files_content">"Alguns dos arquivos que está tentando compartilhar já foram excluídos. Os outros foram compartilhados com sucesso."</string>
     <string name="no_support_modify_path">"Devido à política de segurança mais recente, não é possível modificar a localização para itens baixados."</string>
+    <string name="no_support_open">"Não é possível abrir este item"</string>
     <string name="no_vip_info">Obtenha uma assinatura Xunlei para acelerar seus downloads</string>
     <string name="no_vip_show_info">"Acelere seus downloads
 entre todos os seus dispositivos com o Xunlei"</string>
@@ -686,7 +687,8 @@ entre todos os seus dispositivos com o Xunlei"</string>
     <string name="task_detail">"Downloads"</string>
     <string name="task_detail_notfound_confirm">"OK"</string>
     <string name="task_fail">Erro</string>
-    <string name="temporary_not_available">temporariamente indisponível</string>
+    <string name="task_has_been_deleted">Esta tarefa foi excluída</string>
+    <string name="temporary_not_available">Temporariamente indisponível</string>
     <string name="test_speed">Teste</string>
     <string name="test_speed_detail">Detalhes</string>
     <string name="test_speed_please">Toque para testar a velocidade…</string>

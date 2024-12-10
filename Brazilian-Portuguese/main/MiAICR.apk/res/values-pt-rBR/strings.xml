@@ -464,7 +464,7 @@
     <string name="focus_prepare_car_remote_control_fail">"Não foi possível controlar remotamente. Verifique a conexão e tente novamente."</string>
     <string name="focus_prepare_car_time_out">Executado. Veja o resultado no app Xiaomi EV.</string>
     <string name="focus_proactive_intelligence">Inteligência proativa</string>
-    <string name="focus_weather_button">Veja opções de viagem</string>
+    <string name="focus_weather_button">Ver opções de viagem</string>
     <string name="focus_weather_context">%1$s começa %2$s</string>
     <string name="focus_weather_title">Há %1$s durante o período de deslocamento, é recomendável sair mais cedo, lembre-se de levar capa de chuva e preste atenção à segurança ao viajar.</string>
     <string name="form_action_fill_failed">"Não foi possível preencher. Aguarde um momento e tente novamente."</string>
@@ -629,7 +629,7 @@
     <string name="notification_operation_failed">"Não foi possível lembrar o padrão"</string>
     <string name="notification_remember_habit">Padrão lembrado</string>
     <string name="notification_remember_this_habit">Lembrar padrão</string>
-    <string name="open_qr_code_for_traffic">Abra o código de embarque</string>
+    <string name="open_qr_code_for_traffic">Abrir código de embarque</string>
     <string name="passport_access_denied">Acesso negado</string>
     <string name="passport_account_crop_user_avatar">Cortar foto</string>
     <string name="passport_account_empty_user_name">Digite seu nome</string>

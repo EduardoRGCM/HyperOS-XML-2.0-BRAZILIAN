@@ -99,6 +99,7 @@
     <string name="add_local_picture">Galeria</string>
     <string name="add_online_picture">Imagens online</string>
     <string name="add_to_cw">Adicionar à Apresentação de slides personalizada</string>
+    <string name="add_to_my_wallpaper_success_toast">Adicionado a \"Meus planos de fundo\"</string>
     <string name="add_to_trust_device">Este é um dispositivo confiável</string>
     <string name="add_wallpaper">Adicionar planos de fundo</string>
     <string name="addcw_apply_btn_txt">Adicionar plano de fundo</string>
@@ -1160,6 +1161,7 @@ mm"</string>
     <string name="sst_my_wallpaper_title">Meus planos de fundo</string>
     <string name="sst_new_feature">Novas funcionalidades</string>
     <string name="sst_no_favor_wallpaper_hint">Sem planos de fundo favoritos</string>
+    <string name="sst_no_wallpaper">Nada aqui ainda</string>
     <string name="sst_privacy_policy_title">Política de Privacidade</string>
     <string name="sst_prov_enable_desc">Obtenha novos planos de fundo regularmente</string>
     <string name="sst_prov_enable_title">Ativar Carrossel de planos de fundo</string>

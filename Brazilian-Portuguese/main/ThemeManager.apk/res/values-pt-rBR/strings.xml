@@ -958,7 +958,7 @@ dd 'de' MMM"</string>
 /
 M"</string>
     <string name="miui_pad_c_date">d.M</string>
-    <string name="miui_rhombus_clock_date">"dd MMMM"</string>
+    <string name="miui_rhombus_clock_date">"dd 'de' MMMM"</string>
     <string name="miui_rhombus_clock_week">"EEE"</string>
     <string name="miui_rhombus_clock_week_full">"EEEE"</string>
     <string name="miui_smart_frame_clock_date">d/M</string>

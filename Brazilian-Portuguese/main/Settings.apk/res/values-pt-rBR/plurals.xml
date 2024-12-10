@@ -342,9 +342,17 @@
         <item quantity="other">%d novas notificações</item>
         <item quantity="one">%d nova notificação</item>
     </plurals>
+    <plurals name="musical_rhythm_app_summary">
+        <item quantity="other">%2$d apps incluindo %1$s</item>
+        <item quantity="one">%2$d app incluindo %1$s</item>
+    </plurals>
     <plurals name="network_restrictions_summary">
         <item quantity="other">%1$d restrições</item>
         <item quantity="one">1 restrição</item>
+    </plurals>
+    <plurals name="notification_frequency_summary">
+        <item quantity="other">Cerca de %d itens por dia</item>
+        <item quantity="one">Cerca de %d item por dia</item>
     </plurals>
     <plurals name="notification_group_summary">
         <item quantity="other">%d categorias</item>

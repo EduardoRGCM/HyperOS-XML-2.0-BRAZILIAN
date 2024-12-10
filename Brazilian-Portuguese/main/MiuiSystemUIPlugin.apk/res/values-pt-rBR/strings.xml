@@ -156,8 +156,8 @@
     <string name="expand_button_title">Avançado</string>
     <string name="exposed_dropdown_menu_content_description">Mostrar menu suspenso</string>
     <string name="flashlight_brightness_adjustment">Ajustar o brilho da lanterna</string>
-    <string name="flashlight_button_close">Desligue a lanterna</string>
-    <string name="flashlight_button_open">Ligue a lanterna</string>
+    <string name="flashlight_button_close">Desligar lanterna</string>
+    <string name="flashlight_button_open">Ligar lanterna</string>
     <string name="flashlight_notification_button">Alternar lanterna</string>
     <string name="flashlight_notification_channel_name">Status da lanterna</string>
     <string name="flashlight_notification_content_text">Lanterna ativada</string>

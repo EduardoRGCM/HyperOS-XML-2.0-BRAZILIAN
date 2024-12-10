@@ -681,7 +681,8 @@ Se esta permissão estiver desligada, os alarmes existentes e eventos baseados e
     <string name="all_supported_app_locales_title">Todas os idiomas</string>
     <string name="all_volume_title">"Volume"</string>
     <string name="allow">Permitir</string>
-    <string name="allow_all_rotations_title">Rotação em 360°</string>
+    <string name="allow_all_rotations_title">Permitir todas as rotações</string>
+    <string name="allow_badge_summary">Permita que um ponto vermelho numerado seja mostrado nos ícones da Tela inicial para indicar notificações ou novo conteúdo</string>
     <string name="allow_bind_app_widget_activity_allow_bind">"Depois de criar o widget, o app poderá acessar tudo o que for exibido.
 
 App: %1$s
@@ -705,6 +706,7 @@ Widget: %2$s
     <string name="allow_mock_modem_summary">Permite que este dispositivo execute o serviço de Modem simulado para teste de instrumentação. Não ative isso durante o uso normal do dispositivo.</string>
     <string name="allow_oaid_used">Usar o ID virtual</string>
     <string name="allow_oaid_used_desc">O HyperOS fornecerá o ID virtual (OAID) aos apps instalados. Alguns recursos de recomendação pessoal podem não funcionar corretamente em decorrer disso.</string>
+    <string name="allow_ongoing_summary">Permite notificações que só podem ser excluídas manualmente</string>
     <string name="allow_ongoing_title">Notificações permanentes</string>
     <string name="allow_overlay_description">Permite que este app seja sobreposto a outros apps que você esteja usando. Este app será capaz de ver ou alterar o que é exibido na tela.</string>
     <string name="allow_sound_title">Som</string>
@@ -4103,7 +4105,7 @@ Reinicie o seu dispositivo e tente novamente."</string>
     <string name="external_source_untrusted">Não permitido</string>
     <string name="extreme_threats_summary">Receba alertas sobre ameaças extremas à vida e à propriedade</string>
     <string name="extreme_threats_title">Ameaças extremas</string>
-    <string name="eye_gaze_dialog_message">"Quando você ativa Detectar olhar, o dispositivo não será bloqueado ao detectar que você está olhando para a tela. Suas características faciais não serão analisadas e as informações do seu rosto não serão armazenadas no seu dispositivo nem carregadas na nuvem. Ligue agora?"</string>
+    <string name="eye_gaze_dialog_message">"Quando esse recurso estiver ativado, o sistema detectará se você está olhando para a tela, mas suas características faciais não serão analisadas e esses dados não serão armazenados no seu dispositivo ou carregados na nuvem. Ativar agora?"</string>
     <string name="eye_gaze_dialog_title">Aviso de segurança</string>
     <string name="eye_gaze_summary">"O dispositivo não irá bloquear quando detectar que você está olhando para a tela"</string>
     <string name="eye_gaze_summary_fold_device">"O dispositivo não bloqueia quando detecta que você está olhando para a tela externa"</string>
@@ -4376,6 +4378,7 @@ Para saber mais, entre em contato com seu provedor de crédito."</string>
     <string name="flash_notifications_keywords">flash, luz, dificuldade de audição, perda auditiva</string>
     <string name="flash_notifications_note">\"Feixes para notificações\" usa a tela e o flash da câmera para avisá-lo sobre sons e toques de notificação. Se você é sensível à luz, use esse recurso com cuidado.</string>
     <string name="flash_notifications_preview">Visualização</string>
+    <string name="flash_notifications_settings_title">Notificações flash</string>
     <string name="flash_notifications_summary">Use o flash da câmera ou mostre feixes coloridos na tela conforme as notificações chegam ou quando o dispositivo está tocando</string>
     <string name="flash_notifications_summary_off">Desativado</string>
     <string name="flash_notifications_summary_on_camera">Ativado / Flash da câmera</string>
@@ -4622,7 +4625,7 @@ Quando você ativa o backup automático, os dados do dispositivo e de apps são 
     <string name="game_settings_summary">Ative o atalho do painel de jogo, etc</string>
     <string name="game_settings_title">Configurações de jogo</string>
     <string name="game_storage_settings">Jogos</string>
-    <string name="gaze_lock_screen_summary">O dispositivo permanecerá desbloqueado quando sua presença for detectada e bloqueado quando você se afastar da tela</string>
+    <string name="gaze_lock_screen_summary">"O dispositivo permanecerá desbloqueado quando você estiver olhando para a tela e bloqueado quando você desviar o olhar para proteger sua privacidade, substituindo a configuração de tempo de bloqueio automático."</string>
     <string name="gaze_lock_screen_title">Detectar presença</string>
     <string name="gd_setting_title">Barra inteligente</string>
     <string name="general_category_title">Geral</string>
@@ -4806,6 +4809,12 @@ A área onde você pode confirmar seu bloqueio de tela se moverá para a direita
     <string name="gxzw_quick_open_slow_summary">Pressione e segure o ícone de impressão digital para abrir o menu de atalho. Deslize para usar um atalho.</string>
     <string name="gxzw_quick_open_slow_title">pressione e segure</string>
     <string name="gxzw_quick_open_title">Atalhos</string>
+    <string name="gxzw_recognizing_anim_a">Ondulação</string>
+    <string name="gxzw_recognizing_anim_b">Espiral</string>
+    <string name="gxzw_recognizing_anim_c">Halo</string>
+    <string name="gxzw_recognizing_anim_d">Onda</string>
+    <string name="gxzw_recognizing_anim_e">Abertura</string>
+    <string name="gxzw_recognizing_anim_f">Difusão</string>
     <string name="gxzw_vibrate_summary">A vibração não ocorrerá quando nenhuma animação de impressão digital for selecionada</string>
     <string name="gxzw_vibrate_title">Vibrar ao desbloquear</string>
     <string name="handle_ota_connect_first">Conecte a alça</string>
@@ -5502,6 +5511,7 @@ Abra a MiCloud e restaure os itens por lá."</string>
     <string name="layout_size_small_text">Muito pequeno</string>
     <string name="le_audio_title">Áudio de baixa energia</string>
     <string name="learn_more">Saiba mais</string>
+    <string name="leave_lockscreen_summary">O dispositivo será bloqueado quando você se afastar da tela</string>
     <string name="leave_loclscreen_summary">A tela será bloqueada automaticamente quando você caminhar a uma certa distância do seu dispositivo</string>
     <string name="leave_loclscreen_title">Bloquear tela ao sair</string>
     <string name="led_colors_summary">Cor do LED para notificações</string>
@@ -6193,7 +6203,13 @@ Não poderá reverter esta ação."</string>
     <string name="media_controls_show_player">Mostrar player</string>
     <string name="media_controls_summary">Mídia player em Configurações rápidas</string>
     <string name="media_controls_title">Mídia</string>
+    <string name="media_dialog_ok">Entendi</string>
+    <string name="media_dialog_summary">Quando esse recurso estiver ativado, o dispositivo vibrará junto com o ritmo da música suportada, proporcionando uma experiência mais completa e envolvente.</string>
+    <string name="media_dialog_title">Ative o Feedback tátil de mídia</string>
+    <string name="media_drm_settings_title">Configurações de DRM de mídia</string>
     <string name="media_feedback_enable_title">Vibrar com a batida</string>
+    <string name="media_haptic">Feedback tátil de mídia</string>
+    <string name="media_haptic_summary">Obtenha feedback tátil seguindo o ritmo da sua música</string>
     <string name="media_management_apps_description">Se permitido, este app pode modificar ou excluir arquivos de mídia criados com outros apps sem perguntar. O app deve ter permissão para acessar arquivos e mídia.</string>
     <string name="media_management_apps_title">Apps de gerenciamento de mídia</string>
     <string name="media_management_apps_toggle_label">Permitir que o app gerencie mídia</string>

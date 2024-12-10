@@ -2263,6 +2263,8 @@ monitoramento de terremotos"</string>
     <string name="game_toolbox_cellular_network">Aumento de velocidade da rede móvel</string>
     <string name="game_toolbox_display_avrs">"AVRS"</string>
     <string name="game_toolbox_display_avrs_desc">Ative para reduzir ligeiramente a qualidade da imagem e diminuir significativamente o consumo de energia</string>
+    <string name="game_toolbox_display_enhance_view_frc_notice">"Observação:
+Quando a Taxa de quadros inteligente está ativada, as ferramentas de detecção de taxa de quadros do jogo e de terceiros podem não detectar com precisão a taxa de quadros. Consulte o painel de desempenho para a taxa de quadros real."</string>
     <string name="game_toolbox_display_style_desc">Ajustar o estilo visual (suporta HDR de jogos)</string>
     <string name="game_toolbox_display_style_game_hdr">Jogo HDR</string>
     <string name="game_toolbox_display_style_title">Estilo visual</string>
@@ -2276,6 +2278,8 @@ monitoramento de terremotos"</string>
     <string name="game_toolbox_more_tools_title">Mais ferramentas</string>
     <string name="game_toolbox_perf_config_desc">Definir configurações de desempenho do jogo</string>
     <string name="game_toolbox_perf_config_title">Configurações de desempenho</string>
+    <string name="game_toolbox_performance_config_frc_notice">Quando o Melhor desempenho está ativado, a taxa de quadros real é exibida no painel de desempenho.</string>
+    <string name="game_toolbox_performance_config_resolution_notice">Quando a Melhor imagem está ativada, a taxa de quadros real é exibida no painel de desempenho.</string>
     <string name="game_toolbox_super_follow_up_msg">Melhore a resposta ao toque e o rastreamento por meio de todo o pipeline de hardware-software</string>
     <string name="game_toolbox_super_shake_msg">Reduza a imprecisão ao tocar e deslizar, melhorando a estabilidade do controle.</string>
     <string name="game_toolbox_title">Ferramentas de jogo</string>
@@ -3978,8 +3982,8 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="perfermance_optimization_summary">Evita o superaquecimento e problemas relacionados ao hardware</string>
     <string name="perfermance_optimization_title">Otimização de desempenho</string>
     <string name="perm_intercept_content">Conceder a este app a seguinte permissão: %1s?</string>
-    <string name="performance_frame_enhance_super_display_tips">"A taxa de quadros aprimorada e a super resolução não funcionam ao mesmo tempo. Ativar um irá desativar o outro."</string>
-    <string name="performance_frame_insert_super_display_tips">"A taxa de quadros inteligente e a super resolução não podem funcionar ao mesmo tempo. Ativar um irá desativar o outro."</string>
+    <string name="performance_frame_enhance_super_display_tips">"A Taxa de quadros aprimorada e a Super resolução não funcionam ao mesmo tempo. Ativar um irá desativar o outro."</string>
+    <string name="performance_frame_insert_super_display_tips">"A Taxa de quadros inteligente e a Super resolução não podem funcionar ao mesmo tempo. Ativar um irá desativar o outro."</string>
     <string name="perm_intercept_notification_title">Permitir que o app %1s use notificações permitirá que ele execute as seguintes ações:</string>
     <string name="perm_intercept_privacy_content">Estas ações podem expor os seus dados pessoais. Conceder a permissão (%1s) mesmo assim?</string>
     <string name="perm_intercept_title">Conceder a permissão de acesso aos dados de uso para %1s, permitirá que este app execute as seguintes ações:</string>
@@ -5889,9 +5893,9 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="title_app_lock_disable">Bloquear apps</string>
     <string name="title_app_update">Atualização disponível</string>
     <string name="title_auto_update">Atualizar automaticamente</string>
-    <string name="title_background_connection">Não consegue usar %s em 2º plano?</string>
-    <string name="title_block_calls_from_cantacts">Perdeu chamadas de seus contatos?</string>
-    <string name="title_block_calls_from_strangers">Perdeu chamadas importantes?</string>
+    <string name="title_background_connection">"Não é possível usar %s em 2º plano"</string>
+    <string name="title_block_calls_from_cantacts">Perder chamadas de seus contatos</string>
+    <string name="title_block_calls_from_strangers">Perder chamadas importantes</string>
     <string name="title_chain_start">Restringir início sequencial</string>
     <string name="title_cleaner_cloudscan">Verificação de lixo na nuvem</string>
     <string name="title_cloud_account">Conta Mi</string>
@@ -5930,8 +5934,8 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="title_dev_no">Opções do desenvolvedor ativadas</string>
     <string name="title_dev_yes">Opções do desenvolvedor desativadas</string>
     <string name="title_device_not_root">O acesso root não foi concedido</string>
-    <string name="title_do_not_disturb">Não ouviu o toque do telefone?</string>
-    <string name="title_eye_shield">As cores na tela estão estranhas?</string>
+    <string name="title_do_not_disturb">Não consigo ouvir seu toque</string>
+    <string name="title_eye_shield">A cor da tela não parece certa</string>
     <string name="title_find_device">Encontrar dispositivo</string>
     <string name="title_first_aid_kit">Resolver problemas</string>
     <string name="title_flow_notification">Notificação de dados móveis</string>
@@ -5964,7 +5968,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="title_power_optimizer">Economia de bateria</string>
     <string name="title_realname_verify">Verificação de ID</string>
     <string name="title_reply">Comentar</string>
-    <string name="title_restrict_data_usage">%s não pode se conectar à internet?</string>
+    <string name="title_restrict_data_usage">"%s não consegue se conectar à internet"</string>
     <string name="title_result_absorbed">Modo foco</string>
     <string name="title_result_adjust_volume">"Volume"</string>
     <string name="title_result_airplan">Modo avião</string>

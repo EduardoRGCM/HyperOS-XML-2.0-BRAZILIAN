@@ -153,6 +153,8 @@ Entre em contato com seu vendedor para mais detalhes."</string>
     <string name="lock_msg_phone">Informação de contato: %s</string>
     <string name="login_extra_steps">Verificação de login</string>
     <string name="login_failed">"Não foi possível fazer login. %s."</string>
+    <string name="notification_locate_device">Localizando dispositivos</string>
+    <string name="notification_open_find">Encontrar dispositivo ativado</string>
     <string name="midnight">"AM"</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>

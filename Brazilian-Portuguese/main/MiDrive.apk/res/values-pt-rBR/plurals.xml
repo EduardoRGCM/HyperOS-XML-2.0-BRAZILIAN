@@ -92,6 +92,9 @@
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">1 minuto atrás</item>
     </plurals>
+    <plurals name="operation_delete_desc_vip">
+        <item quantity="other">"Você poderá restaurar este item por %d dias a partir de \"Itens excluídos recentemente\". Excluir agora?"</item>
+    </plurals>
     <plurals name="search_head_hint_file">
         <item quantity="other">%2$d itens contendo \"%1$s\"</item>
         <item quantity="one">%2$d item contendo \"%1$s\"</item>

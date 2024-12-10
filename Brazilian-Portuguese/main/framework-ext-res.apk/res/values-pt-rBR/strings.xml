@@ -208,6 +208,13 @@
     <string name="global_actions_reboot">Reiniciar</string>
     <string name="global_actions_shutdown">Desligar</string>
     <string name="global_actions_silent_mode">Modo silencioso</string>
+    <string name="global_imac">Meu iMac</string>
+    <string name="global_ipad">Meu iPad</string>
+    <string name="global_iphone">Meu iPhone</string>
+    <string name="global_macbook">Meu MacBook</string>
+    <string name="global_macmini">Meu Mac mini</string>
+    <string name="global_macpro">Meu Mac Pro</string>
+    <string name="global_macstudio">Meu Mac Studio</string>
     <string name="global_pad">Meu tablet</string>
     <string name="global_pc">Meu laptop</string>
     <string name="global_phone">Meu telefone</string>

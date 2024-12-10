@@ -862,6 +862,11 @@ Toque para reajustar"</string>
     <string name="connected_via_network_scorer">Conectado automaticamente via %1$s</string>
     <string name="connected_via_network_scorer_default">Conectado automaticamente via provedor de classificação de rede</string>
     <string name="connected_via_passpoint">Conectado via %1$s</string>
+    <string name="connected_with_car">Conectado ao veículo</string>
+    <string name="connected_with_pad">Conectado ao tablet</string>
+    <string name="connected_with_pc">Conectado ao computador</string>
+    <string name="connected_with_phone">Conectado ao telefone</string>
+    <string name="connected_with_tv">Conectado à TV</string>
     <string name="content_description_menu_button">"Menu"</string>
     <string name="control_center_notification_switch_guide">Deslize parar alternar entre o centro de controle e a Área de notificações</string>
     <string name="control_quick_settings_tiles_super_save">gps,nfc,captura de tela,vibrar</string>
@@ -1013,7 +1018,6 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
     <string name="dlg_confirm_kill_storage_users_title">Ativar armazenamento USB</string>
     <string name="dlg_error_title">A operação USB falhou</string>
     <string name="dlg_ok">"OK"</string>
-    <string name="dnd_is_off">O Não perturbe está desativado</string>
     <string name="dnd_notification_warnings_title">O Não perturbe está ativado. Chamadas e notificações serão silenciadas.</string>
     <string name="dnd_suppressing_shade_text">Notificações pausadas pelo Não perturbe</string>
     <string name="do_disclosure_generic">Este dispositivo pertence a organização</string>
@@ -1202,6 +1206,11 @@ Digite seu PIN para desbloquear."</string>
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
+    <string name="fullaod_apply_doodle_keyguard_toast">O tema da Tela ambiente foi personalizado devido aos rabiscos</string>
+    <string name="fullaod_apply_super_wallpaper_toast">O tema da Tela ambiente foi personalizado devido aos Super planos de fundo</string>
+    <string name="fullaod_apply_third_theme_toast">O tema da Tela ambiente foi personalizado devido a temas de terceiros</string>
+    <string name="fullaod_apply_third_wallpaper_toast">O tema da Tela ambiente foi personalizado devido a planos de fundo de terceiros</string>
+    <string name="fullaod_apply_video_depth_toast">Estilo da Tela ambiente alterado para Personalizado</string>
     <string name="fs_gesture_back_home_summary">Deslize rapidamente a partir da área inferior</string>
     <string name="fs_gesture_back_ready_title">Voltar</string>
     <string name="fs_gesture_final_over">Estou pronto</string>
@@ -1765,7 +1774,7 @@ dd/MM"</string>
     <string name="miui_notification_menu_unfold">Importante</string>
     <string name="miui_notification_slide_menu_msg_ongoing">Restringir notificações permanentes para \"%1$s\" agora?</string>
     <string name="miui_notification_slide_menu_ongoing">Restringir notificações permanentes</string>
-    <string name="miui_rhombus_clock_date">dd MMMM</string>
+    <string name="miui_rhombus_clock_date">"dd 'de' MMMM"</string>
     <string name="miui_rhombus_clock_week">"EEE"</string>
     <string name="miui_rhombus_clock_week_full">"EEEE"</string>
     <string name="miui_ringer_count_down">Contagem regressiva</string>
@@ -2701,6 +2710,7 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="screen_pinning_toast_recents_invisible">Para desafixar este app, toque em e segure os botões Voltar e Início</string>
     <string name="screen_pinning_toast_start">Este app está fixado</string>
     <string name="screen_recording_announcement">A gravação da tela foi iniciada</string>
+    <string name="screen_share_dialog_spinner_text">Escopo</string>
     <string name="screen_share_permission_app_selector_title">Compartilhe ou grave um app</string>
     <string name="screen_stopped_recording_announcement">Gravação de tela interrompida</string>
     <string name="screen_zoom_summary_custom">Personalizado (%d)</string>
@@ -3241,7 +3251,12 @@ Qualquer usuário pode atualizar apps para todos os outros usuários."</string>
     <string name="user_switch_to_user">Alternar para %s</string>
     <string name="using_camera">Este app está acessando a câmera</string>
     <string name="using_camera_and_microphone">Este app está acessando a câmera e o microfone</string>
+    <string name="using_house_play">Usando a reprodução de toda a casa</string>
     <string name="using_microphone">Este app está acessando o microfone</string>
+    <string name="using_sound_box">Usando alto-falante</string>
+    <string name="using_sound_box_screen">Usando alto-falante com tela</string>
+    <string name="using_stereo">Usando estéreo</string>
+    <string name="using_wireless_headset">Usando fones de ouvido</string>
     <string name="uvi_format">IUV %1$s %2$s</string>
     <string name="uvi_format_desc">Índice ultravioleta: %1$s, %2$s</string>
     <string name="v7_preference_off">DESATIVADO</string>
@@ -3591,6 +3606,10 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="default_user_icon_description">Ícone de usuário padrão</string>
     <string name="desktop_text">Modo de área de trabalho</string>
     <string name="disabled_by_app_ops_text">Controlado por configuração restrita</string>
+    <string name="dismiss_dialog">Soltar</string>
+    <string name="dismissible_keyguard_swipe">Deslize para cima para continuar</string>
+    <string name="dist_compute_title">Suporte de computação</string>
+    <string name="dnd_is_off">O Não perturbe está desativado</string>
     <string name="dnd_is_on">O Não perturbe está ativado</string>
     <string name="dock_multi_instances_not_supported_text">Este app só pode ser aberto em 1 janela.</string>
     <string name="done">Feito</string>
