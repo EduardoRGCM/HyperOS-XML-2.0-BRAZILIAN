@@ -588,7 +588,7 @@ Você também pode baixá-los separadamente."</string>
     <string name="intelligence_suppression_title">Automático (recomendado)</string>
     <string name="invalid_qr_code">Código QR inválido</string>
     <string name="item_view_role_description">Guia</string>
-    <string name="kddi_long_press_power_guide_assistant_message">Pressione e segure o botão [Liga/Desliga] por %ss para ativar o assistente digital</string>
+    <string name="kddi_long_press_power_guide_assistant_message">Pressione e segure o botão [Liga/Desliga] por %s s para ativar o assistente digital</string>
     <string name="kddi_long_press_power_guide_assistant_title">Acionar o assistente digital</string>
     <string name="kddi_long_press_power_guide_know">Entendi</string>
     <string name="kddi_long_press_power_guide_settings">Configurações</string>
@@ -735,7 +735,7 @@ Se você segurar o botão por %s segundos, abrirá o menu de desligamento."</str
     <string name="long_press_power_guide_settings">Configurações</string>
     <string name="long_press_power_guide_title">Acordar com botão [Liga/Desliga]</string>
     <string name="long_press_power_key">Pressionar e segurar o botão [Liga/Desliga]</string>
-    <string name="long_press_power_key_half_of_second">Pressione e segure o botão [Liga/Desliga] por %ss para acionar o assistente digital</string>
+    <string name="long_press_power_key_half_of_second">Pressione e segure o botão [Liga/Desliga] por %s s para acionar o assistente digital</string>
     <string name="long_press_power_key_half_second">Pressione e segure o botão [Liga/Desliga] por %s s</string>
     <string name="long_press_power_key_tips">&lt;Data>Pressionar e segurar o botão [Liga/Desliga] é &lt;font color=#999999>mais rápido e conveniente&lt;/font>&lt;/Data></string>
     <string name="long_press_volume_down">Pressionar e segurar [Volume -]</string>

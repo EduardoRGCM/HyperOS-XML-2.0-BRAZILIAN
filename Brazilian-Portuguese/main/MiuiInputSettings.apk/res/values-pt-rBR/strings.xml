@@ -164,7 +164,7 @@ Você pode ver os logs gerados no app Arquivos."</string>
     <string name="intelligence_suppression_summary">Ajusta o tamanho da área próximo às bordas dinâmicamente onde toques acidentais serão ignorados com base em sua pegada</string>
     <string name="intelligence_suppression_title">Automático (recomendado)</string>
     <string name="item_view_role_description">Guia</string>
-    <string name="kddi_long_press_power_guide_assistant_message">Pressione e segure o botão [Liga/Desliga] por %ss para ativar o Google Assistente</string>
+    <string name="kddi_long_press_power_guide_assistant_message">Pressione e segure o botão [Liga/Desliga] por %s s para ativar o Google Assistente</string>
     <string name="kddi_long_press_power_guide_assistant_title">Ativar Google Assistente</string>
     <string name="kddi_long_press_power_guide_know">Entendi</string>
     <string name="kddi_long_press_power_guide_settings">Configurações</string>
