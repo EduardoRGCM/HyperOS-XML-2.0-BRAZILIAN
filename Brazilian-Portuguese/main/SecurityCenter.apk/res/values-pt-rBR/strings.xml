@@ -2265,11 +2265,11 @@ monitoramento de terremotos"</string>
     <string name="game_toolbox_display_avrs_desc">Ative para reduzir ligeiramente a qualidade da imagem e diminuir significativamente o consumo de energia</string>
     <string name="game_toolbox_display_enhance_view_frc_notice">"Observação:
 Quando a Taxa de quadros inteligente está ativada, as ferramentas de detecção de taxa de quadros do jogo e de terceiros podem não detectar com precisão a taxa de quadros. Consulte o painel de desempenho para a taxa de quadros real."</string>
-    <string name="game_toolbox_display_style_desc">Ajustar o estilo visual (suporta HDR de jogos)</string>
+    <string name="game_toolbox_display_style_desc">Ajuste o estilo visual (Suporta HDR)</string>
     <string name="game_toolbox_display_style_game_hdr">Jogo HDR</string>
     <string name="game_toolbox_display_style_title">Estilo visual</string>
     <string name="game_toolbox_fps_average">Média %d FPS</string>
-    <string name="game_toolbox_fps_realtime">%d FPS real</string>
+    <string name="game_toolbox_fps_realtime">%d FPS Real</string>
     <string name="game_toolbox_fps_shake">Jitter %d FPS</string>
     <string name="game_toolbox_immersion_sound_desc">Ao usar fones de ouvido, capture com precisão efeitos sonoros como passos e vozes, melhorando a imersão no jogo.</string>
     <string name="game_toolbox_immersion_sound_title">Som imersivo</string>
@@ -3943,6 +3943,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pc_smart_charge_button_summary">Para prolongar a vida útil da bateria, o sistema aprenderá como você carrega o dispositivo e interromperá o carregamento quando o nível da bateria atingir %1$s</string>
     <string name="pc_smart_charge_notify_summary_high_temp">Seu dispositivo esquentou. O carregamento será interrompido quando o nível da bateria atingir %1$s</string>
     <string name="pc_smart_charge_notify_summary_navagition">Navegando… O carregamento será interrompido quando o nível da bateria atingir %1$s</string>
+    <string name="pc_smart_charge_button_summary_new">Para prolongar a vida útil da bateria, o sistema aprenderá como você carrega seu dispositivo e interromperá o carregamento quando o nível da bateria atingir %1$s em situações aplicáveis.</string>
     <string name="pc_smart_charge_notify_summary_night_charge">O carregamento irá parar em %s</string>
     <string name="pc_smart_charge_pogo_project_dialog_content">"Para prolongar a vida útil da bateria, a bateria deste dispositivo não ultrapassará o nível atual enquanto estiver conectado ao carro."</string>
     <string name="pc_smart_charge_pogo_project_dialog_not_show_again">"Não mostrar novamente"</string>
