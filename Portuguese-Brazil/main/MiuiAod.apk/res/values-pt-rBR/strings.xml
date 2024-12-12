@@ -324,6 +324,7 @@ dd/MM"</string>
     <string name="kg_doodle_primary_label">Rabiscos</string>
     <string name="kg_doodle_secondary_disable_tip">Ative o efeito de profundidade</string>
     <string name="kg_doodle_secondary_label">Fundo</string>
+    <string name="kg_doodle_text_not_support_clock_tip">"Não é possível usar rabiscos ao usar este relógio"</string>
     <string name="kg_doodle_text_not_support_gallery_tip">"O Carrossel de planos de fundo não suporta rabiscos"</string>
     <string name="kg_doodle_text_not_support_third_party_wallpaper_service_tip">"Planos de fundo de terceiros não suportam rabiscos"</string>
     <string name="kg_doodle_text_not_support_wallpaper_tip">"Este plano de fundo não suporta rabiscos"</string>
@@ -336,6 +337,7 @@ dd/MM"</string>
     <string name="kg_effects_tip_not_support_third_party_wallpaper_service">"Planos de fundo de terceiros não suportam efeitos"</string>
     <string name="kg_effects_tip_title">Profundidade de campo e filtros</string>
     <string name="kg_enable_blur">Efeito fosco</string>
+    <string name="kg_exit">Sair</string>
     <string name="kg_font_filter_classic_primary_label">Primário</string>
     <string name="kg_font_filter_classic_secondary_label">Secundário</string>
     <string name="kg_font_filter_doodle_primary_label">Rabisco</string>

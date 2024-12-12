@@ -1155,8 +1155,7 @@ Alterar as configurações agora?"</string>
     <string name="back_navigation_animation_summary">Ativa animações do sistema para retorno preditivo</string>
     <string name="back_sensitivity_dialog_message">O aumento da sensibilidade pode prejudicar gestos que usam as bordas da tela</string>
     <string name="back_sensitivity_dialog_title">Sensibilidade da parte de trás</string>
-    <string name="back_strap_image_simplified_text">Quando o dispositivo estiver voltado para baixo com a tela desligada, a luz de fundo exibirá lembretes de notificação.</string>
-    <string name="back_strap_image_text">Quando o dispositivo estiver voltado para baixo com a tela desligada, a luz de fundo exibirá lembretes de notificação e efeitos de iluminação para diferentes cenas.</string>
+    <string name="back_strap_image_text">Receba lembretes de notificação e efeitos de iluminação para diferentes cenas</string>
     <string name="back_strap_status_close">Desativado</string>
     <string name="back_strap_status_open">Ativado</string>
     <string name="back_strap_title">Efeitos de luz de fundo</string>
@@ -4106,7 +4105,7 @@ Reinicie o seu dispositivo e tente novamente."</string>
     <string name="external_source_untrusted">Não permitido</string>
     <string name="extreme_threats_summary">Receba alertas sobre ameaças extremas à vida e à propriedade</string>
     <string name="extreme_threats_title">Ameaças extremas</string>
-    <string name="eye_gaze_dialog_message">"Quando esse recurso estiver ativado, o sistema detectará se você está olhando para a tela, mas suas características faciais não serão analisadas e esses dados não serão armazenados no seu dispositivo ou carregados na nuvem. Ativar agora?"</string>
+    <string name="eye_gaze_dialog_message">"Quando você ativa o Detectar olhar, o dispositivo não será bloqueado ao detectar que você está olhando para a tela. Suas características faciais não serão analisadas e as informações do seu rosto não serão armazenadas no seu dispositivo nem carregadas na nuvem. Ativar agora?"</string>
     <string name="eye_gaze_dialog_title">Aviso de segurança</string>
     <string name="eye_gaze_summary">"O dispositivo não irá bloquear quando detectar que você está olhando para a tela"</string>
     <string name="eye_gaze_summary_fold_device">"O dispositivo não bloqueia quando detecta que você está olhando para a tela externa"</string>
@@ -4626,7 +4625,7 @@ Quando você ativa o backup automático, os dados do dispositivo e de apps são 
     <string name="game_settings_summary">Ative o atalho do painel de jogo, etc</string>
     <string name="game_settings_title">Configurações de jogo</string>
     <string name="game_storage_settings">Jogos</string>
-    <string name="gaze_lock_screen_summary">"O dispositivo permanecerá desbloqueado quando você estiver olhando para a tela e bloqueado quando você desviar o olhar para proteger sua privacidade, substituindo a configuração de tempo de bloqueio automático."</string>
+    <string name="gaze_lock_screen_summary">O dispositivo permanecerá desbloqueado quando sua presença for detectada e bloqueado quando você se afastar da tela</string>
     <string name="gaze_lock_screen_title">Detectar presença</string>
     <string name="gd_setting_title">Barra inteligente</string>
     <string name="general_category_title">Geral</string>

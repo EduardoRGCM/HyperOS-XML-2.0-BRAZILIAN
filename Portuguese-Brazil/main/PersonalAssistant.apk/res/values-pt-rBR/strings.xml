@@ -1104,7 +1104,7 @@ Adicione widgets para começar."</string>
     <string name="pa_widget_menu_improve_replace">Substituir</string>
     <string name="pa_widget_menu_remove">Remover</string>
     <string name="pa_widget_menu_remove_card_in_stack">Remover \"%s\"</string>
-    <string name="pa_widget_menu_replace">Alternar</string>
+    <string name="pa_widget_menu_replace">Substituir</string>
     <string name="pa_widget_navigate_description">Navegação</string>
     <string name="pa_widget_need_download_dialog_cancel">Cancelar</string>
     <string name="pa_widget_need_download_dialog_confirm">"OK"</string>

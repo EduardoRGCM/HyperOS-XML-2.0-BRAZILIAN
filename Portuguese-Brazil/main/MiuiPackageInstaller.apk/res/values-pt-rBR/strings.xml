@@ -405,6 +405,8 @@ Todos os seus dados de usuário anteriores serão salvos."</string>
     <string name="install_app_loading">Verificando o pacote de instalação…</string>
     <string name="install_apps_user_restriction_dlg_text">Este usuário não tem permissão para instalar apps</string>
     <string name="install_completed_pure_open_tip_title">Ative o Modo seguro para bloquear apps arriscados e garantir sua segurança.</string>
+    <string name="install_failed_market_enterprise_limit_reason">Este é um app corporativo interno. O total de downloads ultrapassou o limite definido pela empresa, portanto os downloads não estão mais disponíveis.</string>
+    <string name="install_failed_market_enterprise_limit_solution">Entre em contato com a empresa ou organização e peça que seus desenvolvedores enviem feedback à Xiaomi.</string>
     <string name="install_failed_secure_frp">"Para sua segurança, o Android não permite a instalação de apps imediatamente após a redefinição do dispositivo se sua Conta do Google ainda estiver conectada."</string>
     <string name="install_failed_secure_frp_suggestion">"Passo 1: Toque em \"Serviços básicos do Google\" e ative-o.
 Etapa 2: Adicione a Conta do Google com a qual você estava conectado antes de redefinir o dispositivo.
@@ -1449,6 +1451,9 @@ Proteção aprimorada"</string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
     <string name="verification_word">Verificar</string>
+    <string name="verified_app_hint_content">"O app que você está prestes a instalar vem de \"%1$s\""</string>
+    <string name="verified_app_hint_title">Empresa fonte</string>
+    <string name="verified_app_logo_text">App corporativo interno</string>
     <string name="verify_account_default_title">Verifique sua identidade</string>
     <string name="verify_account_title">Verifique sua identidade</string>
     <string name="verify_and_install">Instalar</string>

@@ -158,6 +158,7 @@
     <string name="flashlight_brightness_adjustment">Ajustar o brilho da lanterna</string>
     <string name="flashlight_button_close">Desligar lanterna</string>
     <string name="flashlight_button_open">Ligar lanterna</string>
+    <string name="flashlight_not_available">"Não é possível usar a lanterna ao usar a câmera"</string>
     <string name="flashlight_notification_button">Alternar lanterna</string>
     <string name="flashlight_notification_channel_name">Status da lanterna</string>
     <string name="flashlight_notification_content_text">Lanterna ativada</string>

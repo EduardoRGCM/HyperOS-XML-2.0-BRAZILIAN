@@ -68,7 +68,7 @@
     <string name="device_offline">O outro dispositivo está offline. Recomeçar.</string>
     <string name="device_status_failed">"Não foi possível enviar"</string>
     <string name="device_status_sending">Enviando…</string>
-    <string name="device_status_success">Enviado com sucesso</string>
+    <string name="device_status_success">Enviado</string>
     <string name="device_status_waiting">Aguardando…</string>
     <string name="device_type_pc">Computador</string>
     <string name="doodle_paint_select_heavy_talkback">Larga</string>
@@ -125,7 +125,7 @@
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
     <string name="functions_are_being_developed">Esse recurso estará disponível em breve. Fique ligado!</string>
-    <string name="global_help">Ajuda</string>
+    <string name="global_help">"Não é possível localizar o dispositivo"</string>
     <string name="global_imac">Meu iMac</string>
     <string name="global_ipad">Meu iPad</string>
     <string name="global_iphone">Meu iPhone</string>
@@ -138,6 +138,8 @@
     <string name="global_pad">Meu tablet</string>
     <string name="global_pc">Meu laptop</string>
     <string name="global_phone">Meu telefone</string>
+    <string name="global_my">"Meu dispositivo
+%1$s"</string>
     <string name="help">"Não consegue encontrar dispositivos?"</string>
     <string name="help_content">"Caso não encontre o dispositivo que está procurando, peça que a outra pessoa ative o Xiaomi Share."</string>
     <string name="image_decode_failed">"Não foi possível decodificar a imagem"</string>
@@ -290,7 +292,7 @@ uma captura de tela estendida"</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>
     <string name="save_success">Salvo com sucesso</string>
-    <string name="scanning_device_tips"><Data>Procurando dispositivos próximos. A outra pessoa precisa ativar o Xiaomi Share no centro de controle.&lt;a>Saiba mais&lt;/a></Data></string>
+    <string name="scanning_device_tips"><Data>Procurando dispositivos próximos. A outra pessoa precisa ativar o Xiaomi Share no centro de controle. &lt;a>Saiba mais&lt;/a></Data></string>
     <string name="screen_doodle_talkback_size">Largura da linha do rabisco</string>
     <string name="screen_editor_btn_delete">Excluir</string>
     <string name="screen_editor_btn_save">Salvar</string>

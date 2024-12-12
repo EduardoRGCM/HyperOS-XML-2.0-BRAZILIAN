@@ -452,6 +452,10 @@
         <item quantity="other">Selecione %1$d segmentos (%2$d)</item>
         <item quantity="one">Selecione %1$d segmento (%2$d)</item>
     </plurals>
+    <plurals name="privacy_watermark_word_count_not_full">
+        <item quantity="other">Insira até mais %d caracteres</item>
+        <item quantity="one">Insira até %d caractere</item>
+    </plurals>
     <plurals name="quickly_discovery_message_format">
         <item quantity="other">%1$d novas fotos encontradas</item>
         <item quantity="one">%1$d nova foto encontrada</item>

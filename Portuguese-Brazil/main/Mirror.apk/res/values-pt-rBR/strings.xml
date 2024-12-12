@@ -383,6 +383,7 @@ Você pode iniciar outra sessão em seu computador."</string>
     <string name="ok">"OK"</string>
     <string name="ok_button">Entendi</string>
     <string name="open_folder">Mostrar</string>
+    <string name="pad_connect_with_car_toast">O tablet está conectado ao veículo</string>
     <string name="pad_fullscreen_sink_activity_label">Meu telefone</string>
     <string name="pad_mirror_device_locked_tips_1">O dispositivo está bloqueado</string>
     <string name="pad_mirror_device_locked_tips_2">Toque na tela para ativá-la</string>
@@ -457,6 +458,7 @@ Você pode iniciar outra sessão em seu computador."</string>
     <string name="pc_settings_current_device_tip">Conecte-se automaticamente a um computador com MIUI+ aberto e conectado à mesma Conta Mi</string>
     <string name="pcmode_not_support_multi_window">"O Modo PC não suporta a exibição de várias janelas."</string>
     <string name="permission_access_nearby_device">Acessar dispositivos próximos</string>
+    <string name="phone_connect_with_car_toast">O telefone está conectado ao veículo</string>
     <string name="phone_pad_app_introduction_summary">Continue tarefas no mesmo app em seu tablet</string>
     <string name="phone_pad_app_introduction_title">"Apps"</string>
     <string name="phone_pad_doc_introduction_summary">Compartilhe sessões de edição de documentos entre dispositivos e salve as alterações no local de sua preferência</string>
