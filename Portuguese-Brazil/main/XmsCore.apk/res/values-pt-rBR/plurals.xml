@@ -29,10 +29,6 @@
         <item quantity="other">%d min atrás</item>
         <item quantity="one">1 min atrás</item>
     </plurals>
-    <plurals name="aqi_all_city_cur_num">
-        <item quantity="other">Média de %1$s estações</item>
-        <item quantity="one">Média de %1$s estação</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
     </plurals>
@@ -59,9 +55,5 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">1 minuto atrás</item>
-    </plurals>
-    <plurals name="view_realtime_clear">
-        <item quantity="other">Limpo</item>
-        <item quantity="one">Limpo</item>
     </plurals>
 </resources>

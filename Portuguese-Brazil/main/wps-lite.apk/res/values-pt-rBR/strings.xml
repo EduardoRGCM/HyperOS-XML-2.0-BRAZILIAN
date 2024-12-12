@@ -53,25 +53,7 @@
     <string name="abc_toolbar_collapse_description">Recolher</string>
     <string name="aboard_mail_body_content">O app é compatível com vários formatos de documento, é pequeno e totalmente gratuito. Obtenha-o aqui:</string>
     <string name="app_unknownError">Saindo devido a um erro desconhecido</string>
-    <string name="common_google_play_services_enable_button">Ativar</string>
-    <string name="common_google_play_services_enable_text">"%1$s só funciona com o Google Play Services ativado."</string>
-    <string name="common_google_play_services_enable_title">Ativar o Google Play Services</string>
-    <string name="common_google_play_services_install_button">Instalar</string>
-    <string name="common_google_play_services_install_text">"%1$s não funciona sem o Google Play Services, o qual não está instalado no seu dispositivo."</string>
-    <string name="common_google_play_services_install_title">Instalar o Google Play Services</string>
-    <string name="common_google_play_services_notification_channel_name">Disponibilidade do Google Play Services</string>
-    <string name="common_google_play_services_notification_ticker">Erro do Google Play Services</string>
-    <string name="common_google_play_services_unknown_issue">%1$s está com problemas com o Google Play Services. Tente novamente.</string>
-    <string name="common_google_play_services_unsupported_text">"%1$s não funciona sem o Google Play Services, o qual não é compatível com seu dispositivo."</string>
-    <string name="common_google_play_services_update_button">Atualizar</string>
-    <string name="common_google_play_services_update_text">"%1$s só funciona com uma versão atualizada do Google Play Services."</string>
-    <string name="common_google_play_services_update_title">Atualizar o Google Play Services</string>
-    <string name="common_google_play_services_updating_text">"%1$s não funciona sem o Google Play Services, o qual está sendo atualizado no momento."</string>
-    <string name="common_google_play_services_wear_update_text">É necessária uma nova versão do Google Play Services. Ele será atualizado em breve.</string>
-    <string name="common_open_on_phone">Abrir no dispositivo</string>
-    <string name="common_signin_button_text">Fazer login</string>
-    <string name="common_signin_button_text_long">Fazer login com o Google</string>
-    <string name="chart_NotSupportedPic_bmw">Não foi possível exibir esta imagem</string>
+    <string name="chart_NotSupportedPic_bmw">Não foi possível exibir esta imagem.</string>
     <string name="chart_OtherCategoryName_bmw">Outros</string>
     <string name="chart_defaultAxisTitle_bmw">Títulos dos eixos</string>
     <string name="chart_defaultChartTitle_bmw">Título dos gráficos</string>
@@ -112,7 +94,6 @@
     <string name="et_cardmode">Cartões de bolso</string>
     <string name="et_cardmode_color_setting">Definir cor</string>
     <string name="et_cardmode_hide_col">Ocultar coluna</string>
-    <string name="et_cardmode_location">Posicionamento</string>
     <string name="et_cardmode_location_cell">Localizar célula</string>
     <string name="et_cardmode_tips_content1">A tabela contém filtros</string>
     <string name="et_cardmode_tips_content2">6 colunas ≤ áreas de filtro ≤ 200 colunas</string>
@@ -151,8 +132,8 @@
     <string name="feedback_noopen_subject">O arquivo não pode ser aberto</string>
     <string name="feedback_other_subject">Outros problemas</string>
     <string name="feedback_save_subject">Perda de dados</string>
-    <string name="feedback_subject">"Feedback"</string>
-    <string name="feedback_suggestion_subject">Sugestões de funcionalidades</string>
+    <string name="feedback_subject">Feedback do usuário</string>
+    <string name="feedback_suggestion_subject">Sugestões de recursos</string>
     <string name="filter">Filtrar</string>
     <string name="func_extract_sheet">Extrair</string>
     <string name="func_output_as_pic">Imagem</string>
@@ -199,7 +180,7 @@
     <string name="public_cancel">Cancelar</string>
     <string name="public_chart_category">Categorias</string>
     <string name="public_chart_series">Séries</string>
-    <string name="public_checkPasswdFaild">Senha inválida</string>
+    <string name="public_checkPasswdFaild">Senha incorreta</string>
     <string name="public_close">Fechar</string>
     <string name="public_comment">Comentário</string>
     <string name="public_continue">Continuar</string>
@@ -237,7 +218,7 @@
     <string name="public_keep_format">Manter formato</string>
     <string name="public_kitkat_file_cant_write_tips">"A versão atual do Android não permite que os apps salvem no \"Cartão SD (%1$s)\" agora. O arquivo precisa ser salvo no \"Cartão SD (%2$s)\" como um novo arquivo. Salvar agora?"</string>
     <string name="public_kitkat_unable_to_write">"Não é possível gravar em"</string>
-    <string name="public_lite_cloud_dialog_message">Utilize o WPS Office e desfrute do serviço %s</string>
+    <string name="public_lite_cloud_dialog_message">Use o WPS Office e desfrute do serviço %s</string>
     <string name="public_lite_install_app_tips">Use o WPS Office para editar documentos a qualquer hora e em qualquer lugar</string>
     <string name="public_lite_update_cloud_dialog_message">Atualize o WPS Office e desfrute do serviço %s</string>
     <string name="public_lite_update_right_now">Atualizar agora</string>
@@ -254,8 +235,6 @@
     <string name="public_mi_other_app_open_title">Abrir usando</string>
     <string name="public_mi_privacy_desc">Para ver e gerenciar documentos neste dispositivo</string>
     <string name="public_mi_privacy_purpose">Bem-vindo ao Visualizador de Documentos Mi. Este app permite ver documentos de diferentes formatos.</string>
-    <string name="public_more_operate">Mais ações</string>
-    <string name="public_more_operate_fail">A operação falhou, não há mais conteúdo acionável</string>
     <string name="public_more_wps">Mais funções estão disponíveis no WPS</string>
     <string name="public_no_format">Sem formato</string>
     <string name="public_not_support_in_multiwindow">"Este recurso não é suportado quando você está usando a Tela dividida"</string>
@@ -263,7 +242,6 @@
     <string name="public_openDocumentFormatError">"O arquivo não pode ser aberto porque seu conteúdo não é suportado."</string>
     <string name="public_open_file_failed">"Não foi possível abrir o arquivo"</string>
     <string name="public_open_file_in_error_account">"Não foi possível abrir o arquivo. Inicie uma sessão na sua conta primeiro."</string>
-    <string name="public_oppo_search">Procure pela palavra-chave</string>
     <string name="public_other_app">Abrir em outro app</string>
     <string name="public_outline">Conteúdo</string>
     <string name="public_paste">Colar</string>
@@ -284,7 +262,6 @@
     <string name="public_pdf_print_title">Imprimir</string>
     <string name="public_permission_request">Conceda as permissões necessárias nas Configurações para poder trabalhar com os documentos.</string>
     <string name="public_permission_storage_disallow_msg">"Você não poderá trabalhar com os documentos após revogar a autorização."</string>
-    <string name="public_picture_savefail">A imagem está danificada e não pode ser salva</string>
     <string name="public_play">Reproduzir</string>
     <string name="public_ppt_label">Visualizador de Apresentações Mi</string>
     <string name="public_privacy_policy">Política de Privacidade</string>
@@ -302,7 +279,6 @@
     <string name="public_revoke_privacy_desc">Retire seu consentimento para a Política de Privacidade do Visualizador Mi (Fornecido por WPS)</string>
     <string name="public_revoke_privacy_title">Retirada de consentimento</string>
     <string name="public_ribbon_font">Fonte</string>
-    <string name="public_rotate">Girar a tela</string>
     <string name="public_save">Salvar</string>
     <string name="public_saveAs">Salvar como</string>
     <string name="public_saveDocumentError">"Não foi possível salvar o arquivo"</string>
@@ -310,7 +286,6 @@
     <string name="public_saving">Aguarde…</string>
     <string name="public_search">Localizar</string>
     <string name="public_search_empty">Insira o conteúdo primeiro</string>
-    <string name="public_search_hint">Por favor, insira o que você está procurando</string>
     <string name="public_searchnotfound">Nenhum resultado</string>
     <string name="public_secre_dialog_content_1">Para lhe fornecer nossos serviços e melhorar os nossos produtos, precisamos de permissão para acessar o armazenamento e para coletar as informações que descrevem como você usa nossos recursos.</string>
     <string formatted="false" name="public_secre_dialog_content_2">&lt;Data>Protegeremos suas informações pessoais de acordo com o nosso &lt;a href=\"%s\">Contrato do Usuário&lt;/a > e a &lt;a href=\"%s\">Política de Privacidade&lt;/a >.&lt;/Data></string>
@@ -325,14 +300,8 @@
     <string name="public_sensor_ratation_port_tip">Modo retrato</string>
     <string name="public_service_disable_error_tips">"Este recurso não pode ser usado porque o serviço relacionado foi desativado."</string>
     <string name="public_share">Compartilhar</string>
-    <string name="public_share_change_to_pdf">Enviar como PDF</string>
-    <string name="public_share_change_to_pic">Enviar como imagem</string>
-    <string name="public_share_change_to_word">Enviar como Word</string>
-    <string name="public_share_doc">Enviar como arquivo</string>
     <string name="public_share_no_network">"Não foi possível conectar-se à rede"</string>
     <string name="public_share_retry">Tentar novamente</string>
-    <string name="public_share_title">Método de envio</string>
-    <string name="public_share_to_tv">Transmitir</string>
     <string name="public_shareplay_connect_fail">Verifique a sua conexão de rede</string>
     <string name="public_shareplay_connection">Conectando…</string>
     <string name="public_shareplay_paly_bar">Projeção</string>
@@ -355,12 +324,8 @@
     <string name="public_wpscloud_recovery_edit_not_save_tips">"O último conteúdo editado não foi salvo e foi recuperado pelo WPS Cloud Docs"</string>
     <string name="public_wpscloud_recovery_edit_not_saved_and_to_save">Salvar o documento com segurança</string>
     <string name="public_writer2pic">Exportar para arquivo somente imagem</string>
-    <string name="public_writer_font_enlarge">Aumentar</string>
-    <string name="public_writer_font_narrow">Reduzir</string>
-    <string name="public_writer_label">Visualizador de Textos Mi</string>
-    <string name="public_writer_table_of_contents_empty">Vazio</string>
+    <string name="public_writer_label">Visualizador de textos Mi</string>
     <string name="public_writer_ui_delete">Excluir</string>
-    <string name="public_writer_words">Contagem de palavras</string>
     <string name="reader_ppt_autoplay">Rep. automática</string>
     <string name="reader_ppt_play_exit">Sair</string>
     <string name="reader_ppt_play_options">Opções</string>
