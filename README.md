@@ -18,10 +18,8 @@ For more info visit:
 ##### Translators:
 - [@dio_s](https://t.me/dio_s)
 - [@EduardoRGCM](https://t.me/eduardorgcm)
-- [@Feurrado](https://github.com/Feurrado)
 - [@igor](https://github.com/igormiguell)
-- [@Kircheiss](https://t.me/Kircheiss)
-- [@rickguariento](https://t.me/rickguariento)
+
 
 ##### Credits:
 - ingbrzy [miuios.cz](https://miuios.cz)
