@@ -16,7 +16,7 @@
     <string-array name="settings_search_account_and_authority_non_global">
         <item>Contas</item>
         <item>Veja seu WeChat conectado e outras contas SNS</item>
-        <item>Permissões;SNS;WeChat;Conta Xiaomi;Conta</item>
+        <item>permissões;SNS;WeChat;Conta Xiaomi;conta</item>
     </string-array>
     <string-array name="settings_search_change_password">
         <item>Alterar senha</item>

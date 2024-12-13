@@ -32,6 +32,10 @@
         <item>"&lt;3.7 mph"</item>
         <item>"&lt;3.2 kn"</item>
     </string-array>
+    <string-array name="dislike_alert_dialog_selectitems">
+        <item>Não estou interessado</item>
+        <item>Má qualidade de conteúdo</item>
+    </string-array>
     <string-array name="hot_city">
         <item>Pequim</item>
         <item>"Shanghai"</item>
@@ -77,8 +81,8 @@
     </string-array>
     <string-array name="realtime_pressure_status">
         <item>Alta</item>
-        <item>Moderado</item>
-        <item>Baixo</item>
+        <item>Moderada</item>
+        <item>Baixa</item>
     </string-array>
     <string-array name="realtime_temperature_status">
         <item>Muito frio</item>
