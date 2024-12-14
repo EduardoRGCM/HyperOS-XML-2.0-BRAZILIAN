@@ -160,7 +160,6 @@
     <string name="daily_forcast_temperature_transfer_F">%1$s / %2$s℉</string>
     <string name="daily_forcast_weather_transfer">%1$s. %2$s depois.</string>
     <string name="daily_forcast_whirl_wind">Furacão</string>
-    <string name="daily_forcast_wind_connect">%2$s %1$s</string>
     <string name="daily_forecast_add_city_add">Seguir</string>
     <string name="daily_forecast_add_city_message">Siga o clima em %1$s para uma previsão mais detalhada.</string>
     <string name="daily_forecast_add_city_title">Siga o clima em %1$s</string>
@@ -343,7 +342,7 @@ Leia e aceite a nova versão da %2$s antes de continuar."</string>
     <string name="life_index_title">Índice meteorológico</string>
     <string name="locate_fail_detail_err">"Não é possível localizar o dispositivo
 Toque na tela para adicionar ou reposicionar manualmente a cidade"</string>
-    <string name="location_provider_btn_text">Permitir acesso a sua localização</string>
+    <string name="location_provider_btn_text">Permita que o app Clima acesse sua localização</string>
     <string name="location_tag">Localizar</string>
     <string name="manager_city_option_add_city_back_search">Voltar à pesquisa</string>
     <string name="manager_city_option_add_city_content">Cidade adicionada à página inicial com sucesso</string>

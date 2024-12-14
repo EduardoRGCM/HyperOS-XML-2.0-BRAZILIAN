@@ -469,6 +469,7 @@ Você pode fazer login com sua Conta Mi usando %s agora."</string>
     <string name="off">Desativado</string>
     <string name="ok">"OK"</string>
     <string name="on">Ativado</string>
+    <string name="operator_broadnet">"China Broadnet"</string>
     <string name="operator_mobile">"China Mobile"</string>
     <string name="operator_mobile_agreement">Serviços de verificação fornecidos pela China Mobile</string>
     <string name="operator_other">Número de telefone</string>
