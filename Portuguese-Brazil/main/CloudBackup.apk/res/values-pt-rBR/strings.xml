@@ -317,6 +317,7 @@ Por favor, envie este código para o técnico."</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
     <string name="get_device_id_error">"Não foi possível obter o ID do dispositivo"</string>
+    <string name="greater_than_or_equal_to_content_description">pelo menos</string>
     <string name="help_and_feedback">Ajuda e feedback</string>
     <string name="hint_restore_wechat_data">Observação: Os dados do WeChat podem não ser restaurados devido a problemas de compatibilidade em alguns casos.</string>
     <string name="home_hint_global_launcher">"POCO Launcher"</string>
@@ -578,7 +579,7 @@ Verifique sua conexão e tente novamente."</string>
     <string name="session_failed_get_installed_apps_denied_title">Permissões necessárias</string>
     <string name="session_failed_invalid_token_action">Fazer login</string>
     <string name="session_failed_invalid_token_detail">Fazer login novamente</string>
-    <string name="session_failed_invalid_token_title">Invalid credentials</string>
+    <string name="session_failed_invalid_token_title">Credenciais inválidas</string>
     <string name="session_failed_no_server_response_title">"Não foi possível conectar ao servidor."</string>
     <string name="session_failed_override_detail">O backup local é diferente do da MiCloud. Se você continuar, o backup atual substituirá o anterior. Substituir agora?</string>
     <string name="session_failed_override_title">Sobrescrevendo backup</string>

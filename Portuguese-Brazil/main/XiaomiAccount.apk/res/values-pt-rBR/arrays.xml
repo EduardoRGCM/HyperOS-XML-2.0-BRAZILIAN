@@ -71,7 +71,7 @@
     <string-array name="settings_search_user_information">
         <item>Informações da conta</item>
         <item>Veja sua foto de perfil e gerencie informações da conta</item>
-        <item>Informações pessoais;foto de perfil;apelido;informações da conta;Mi ID;ID;Conta Mi;Conta;Conta Xiaomi</item>
+        <item>Informações pessoais;foto de perfil;apelido;informações da conta;ID Mi;ID;Conta Mi;Conta;Conta Xiaomi</item>
     </string-array>
     <string-array name="settings_search_user_protocol">
         <item>Contrato do Usuário</item>

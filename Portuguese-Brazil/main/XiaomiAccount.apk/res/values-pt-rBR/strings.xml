@@ -44,7 +44,6 @@
     <string name="account_global_region">Exterior</string>
     <string name="account_invalid_user_avatar">Esta foto é inválida. Tente uma diferente.</string>
     <string name="account_no_set">Não definida</string>
-    <string name="account_none">Não definido</string>
     <string name="account_none_binded_info">Não definido</string>
     <string name="account_none_user_name">Não definido</string>
     <string name="account_notification_message">Sessão expirada. Faça o login novamente.</string>

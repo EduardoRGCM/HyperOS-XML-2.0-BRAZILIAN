@@ -15,14 +15,14 @@
     <string name="bugreport_info_title">Título do bug</string>
     <string name="bugreport_intent_chooser_title">Compartilhar relatório do bug</string>
     <string name="bugreport_notification_channel">Relatórios de bugs</string>
-    <string name="bugreport_screenshot_action">Capturas de tela</string>
+    <string name="bugreport_screenshot_action">Captura de tela</string>
     <string name="bugreport_screenshot_failed">Não foi possível fazer a captura de tela.</string>
     <string name="bugreport_screenshot_taken">Captura de tela concluída.</string>
     <string name="bugreport_storage_title">Relatórios de bugs</string>
-    <string name="bugreport_unnamed">sem nome</string>
+    <string name="bugreport_unnamed">Sem nome</string>
     <string name="bugreport_unreadable_text">Não foi possível ler o arquivo de relatório de bug</string>
     <string name="bugreport_updating_title">Adicionando detalhes ao relatório do bug</string>
-    <string name="bugreport_updating_wait">Aguarde…</string>
+    <string name="bugreport_updating_wait">Por favor, aguarde…</string>
     <string name="call_notification_answer_action">Atender</string>
     <string name="call_notification_answer_video_action">Vídeo</string>
     <string name="call_notification_decline_action">Recusar</string>

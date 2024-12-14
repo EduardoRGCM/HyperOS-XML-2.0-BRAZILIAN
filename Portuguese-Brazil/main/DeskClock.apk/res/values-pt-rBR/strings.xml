@@ -538,7 +538,7 @@ mm"</string>
     <string name="notification_permission_dialog_not_open">Agora não</string>
     <string name="notification_permission_dialog_open">Configurações</string>
     <string name="notification_permission_dialog_title">Permissões necessárias</string>
-    <string name="oneshot_alarm">Excluir após alarme disparar</string>
+    <string name="oneshot_alarm">Excluir após o alarme disparar</string>
     <string name="open_keep_screen">A tela será mantida ligada</string>
     <string name="open_notification_permission_remind">Permita as notificações para desativar os alarmes</string>
     <string name="open_sleep_record">Ativar</string>

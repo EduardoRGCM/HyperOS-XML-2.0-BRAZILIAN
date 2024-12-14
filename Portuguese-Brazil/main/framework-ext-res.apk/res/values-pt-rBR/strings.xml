@@ -124,7 +124,7 @@
     <string name="description_title">Modo silencioso</string>
     <string name="device_status_failed">"Não foi possível enviar"</string>
     <string name="device_status_sending">Enviando…</string>
-    <string name="device_status_success">Enviado com sucesso</string>
+    <string name="device_status_success">Enviado</string>
     <string name="device_status_waiting">Aguardando…</string>
     <string name="device_type_pc">Computador</string>
     <string name="device_xiaomi">Dispositivo Mi</string>
@@ -208,6 +208,7 @@
     <string name="global_actions_reboot">Reiniciar</string>
     <string name="global_actions_shutdown">Desligar</string>
     <string name="global_actions_silent_mode">Modo silencioso</string>
+    <string name="global_help">"Não é possível localizar o dispositivo"</string>
     <string name="global_imac">Meu iMac</string>
     <string name="global_ipad">Meu iPad</string>
     <string name="global_iphone">Meu iPhone</string>
@@ -215,6 +216,8 @@
     <string name="global_macmini">Meu Mac mini</string>
     <string name="global_macpro">Meu Mac Pro</string>
     <string name="global_macstudio">Meu Mac Studio</string>
+    <string name="global_my">"Meu dispositivo
+%1$s"</string>
     <string name="global_pad">Meu tablet</string>
     <string name="global_pc">Meu laptop</string>
     <string name="global_phone">Meu telefone</string>

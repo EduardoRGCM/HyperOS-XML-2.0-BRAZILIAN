@@ -818,7 +818,7 @@ Você precisa aceitar nosso Contrato do Usuário e a Política de Privacidade an
     <string name="terms_of_use_label_secure">Elemento de segurança do app</string>
     <string name="terms_of_use_label_simcard">Serviço de ativação do SIM</string>
     <string name="terms_of_use_label_smart_service">Serviços inteligentes</string>
-    <string name="terms_of_use_label_statistics">Estatisticas</string>
+    <string name="terms_of_use_label_statistics">Estatísticas</string>
     <string name="terms_of_use_label_system_quality_monitoring">Monitoramento da qualidade do sistema</string>
     <string name="terms_of_use_label_systemhelper">Serviço auto-registrado</string>
     <string name="terms_of_use_label_translation">Serviço de tradução</string>

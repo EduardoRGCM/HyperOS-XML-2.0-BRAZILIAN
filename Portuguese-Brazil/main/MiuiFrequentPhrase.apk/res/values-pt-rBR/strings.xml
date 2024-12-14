@@ -123,7 +123,7 @@
     <string name="input_method_clipboard_move_cursor_guide2">Mova o seu dedo horizontalmente</string>
     <string name="input_method_clipboard_participle">Palavras separadas</string>
     <string name="input_method_clipboard_settings_button">Configurações</string>
-    <string name="input_method_clipboard_tips">Os itens copiados serão deletados após 48 horas</string>
+    <string name="input_method_clipboard_tips">Os itens copiados serão deletados após %d horas</string>
     <string name="input_method_edit_phrase_text">Editar frases frequentes</string>
     <string name="input_method_empty_text">Os itens copiados podem ser visualizados e colados aqui</string>
     <string name="input_method_function_clipboard">Área de transferências e frases frequentes</string>

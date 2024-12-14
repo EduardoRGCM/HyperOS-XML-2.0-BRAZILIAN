@@ -229,6 +229,7 @@
     <string name="asm_batch_download_failed">"Não foi possível baixar"</string>
     <string name="asm_buy_member_success">Assinatura VIP adquirida com sucesso</string>
     <string name="asm_check_video_playing">"Reproduzindo vídeo. Não é possível adicionar item à playlist."</string>
+    <string name="asm_congratulations">Parabéns!</string>
     <string name="asm_delete_all">Limpar</string>
     <string name="asm_delete_all_data">Limpar todos os dados</string>
     <string name="asm_delete_all_data_failed">"Não foi possível limpar os dados. Tente novamente."</string>
@@ -274,6 +275,7 @@ Quando você opta por limpar todos os dados permanentemente, você é desconecta
     <string name="asm_dp_load_error">"Não foi possível carregar os dados"</string>
     <string name="asm_dp_load_unsupport">"Este item não está disponível na sua região"</string>
     <string name="asm_during_the_payment">Verificando status do pagamento…</string>
+    <string name="asm_euro_try_one_month">Experimente um mês grátis</string>
     <string name="asm_fail_play_song">"Não foi possível baixar a música"</string>
     <string name="asm_full_tracks">Faixas completas</string>
     <string name="asm_google_connect_failed">"Não foi possível concluir o pagamento. Certifique-se de estar conectado à Play Store."</string>
@@ -284,12 +286,15 @@ Quando você opta por limpar todos os dados permanentemente, você é desconecta
     <string name="asm_google_service_failed">"Não foi possível iniciar os serviços do Google. Tente novamente."</string>
     <string name="asm_gooleplay_notice">"O Google Play Service não está instalado"</string>
     <string name="asm_goto_online_music">Ver músicas online</string>
+    <string name="asm_grab_coupon">Você ganhou um cupom de assinatura grátis de %d mês</string>
     <string name="asm_hate_ads">Sem anúncios, primeiro mês grátis</string>
     <string name="asm_hq">Alta qualidade</string>
     <string name="asm_item_not_available">O item não está disponível</string>
     <string name="asm_loadstate_error_retry">Conecte-se à internet e toque para tentar novamente</string>
     <string name="asm_loadstate_not_more">"Isso é tudo por enquanto"</string>
     <string name="asm_message">Notificações</string>
+    <string name="asm_mill_song_click">"Milhões de músicas incríveis
+"<font size="38"><b>a um toque de distância</b></font></string>
     <string name="asm_network_error">Verifique sua conexão de rede</string>
     <string name="asm_new_song_title">Novas musicas</string>
     <string name="asm_no_copyright_or_expire">Sem direitos autorais ou expirar</string>
@@ -320,6 +325,8 @@ Quando você opta por limpar todos os dados permanentemente, você é desconecta
     <string name="asm_song_err_not_exist_clear">"A música não existe. Removida da fila."</string>
     <string name="asm_song_err_play">"Não foi possível reproduzir. Tente novamente."</string>
     <string name="asm_song_load_error">"Não foi possível carregar a música"</string>
+    <string name="asm_song_to_soul">"Qualidade super alta permite que você
+"<font size="55"><b>ouça cada nota</b></font></string>
     <string name="asm_songlist_all_genre_close">Recolher tudo</string>
     <string name="asm_songlist_all_genre_title">Todas as categorias</string>
     <string name="asm_songs_is_downloading">Baixando música…</string>
@@ -332,6 +339,7 @@ Quando você opta por limpar todos os dados permanentemente, você é desconecta
     <string name="asm_unknow_artist">Artista desconhecido</string>
     <string name="asm_unlock_tracks_ad_free">Com uma assinatura, você pode aproveitar músicas em alta qualidade e downloads sem anúncios ou interrupções.</string>
     <string name="asm_vip_center">"Premium"</string>
+    <string name="asm_vip_share_rights">Inscreva-se para receber estes benefícios</string>
     <string name="audio_ad_countdown">Pular anúncio em %s s</string>
     <string name="audio_ad_pass">Pular anúncio</string>
     <string name="audio_picker_title">Escolha uma música</string>
@@ -869,6 +877,7 @@ Envie este código para o supervisor."</string>
     <string name="home_tab_podcast">Podcasts</string>
     <string name="home_tab_recommend">"Online"</string>
     <string name="home_tab_search">Pesquisar</string>
+    <string name="home_tab_webpage">Navegar</string>
     <string name="hot_recommend">Popular agora</string>
     <string name="home_tab_yandex">Música Yandex</string>
     <string name="hungama_batch_download_alert_summary">Apenas membros Gold podem baixar várias músicas. Obter uma assinatura Gold agora?</string>
@@ -915,6 +924,12 @@ Envie este código para o supervisor."</string>
     <string name="info_system">Sistema:</string>
     <string name="info_system_version">Versão do sistema:</string>
     <string name="input_hint_prefix">Digite %1$s</string>
+    <string name="insight_detail_hot_music">Principais músicas de %s</string>
+    <string name="insight_detail_overview">Visão geral</string>
+    <string name="insight_detail_search_and_play">Pesquise e ouça</string>
+    <string name="insight_rank">Classificações</string>
+    <string name="insight_web_favorite_toast">Adicionado aos favoritos. Veja em suas páginas da web favoritas.</string>
+    <string name="insight_web_overview">Itens para download encontrados</string>
     <string name="installing_apk">Instalando…</string>
     <string name="insufficient_space">"Espaço insuficiente no armazenamento interno do seu dispositivo"</string>
     <string name="invalid_number">Desculpe, o número é inválido</string>
@@ -1606,9 +1621,9 @@ Envie este código para o supervisor."</string>
     <string name="privacy_desc">Política de Privacidade (obrigatório)</string>
     <string name="privacy_policy">Política de Privacidade</string>
     <string name="privacy_policy_title_asm">Um mundo de música na ponta dos seus dedos</string>
-    <string name="privacy_request_desc">"&lt;Data>O Música precisa coletar as informações pessoais necessárias para fornecer a você serviços de streaming online. Você pode saber mais sobre como lidamos com as informações que coletamos em nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>. Você pode retirar o seu consentimento da Política de Privacidade do Música nas Configurações a qualquer momento.
+    <string name="privacy_request_desc"><Data>"O Música precisa coletar as informações pessoais necessárias para fornecer a você serviços de streaming online. Você pode saber mais sobre como lidamos com as informações que coletamos em nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>. Você pode retirar o seu consentimento da Política de Privacidade do Música nas Configurações a qualquer momento.
 Leia e aceite o nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> antes de usar o Música.
-Se você não aceitar em usar os serviços acima mencionados, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você.&lt;/Data>"</string>
+Se você não aceitar em usar os serviços acima mencionados, você não poderá usar alguns recursos deste app; no entanto, sua funcionalidade básica ainda estará disponível para você."</Data></string>
     <string name="privacy_request_subtitle">"Bem-vindo ao Música! Este app fornece os seguintes serviços:
 • Um reprodutor de áudio local
 • Serviços de streaming online"</string>
@@ -1621,11 +1636,11 @@ Se você não aceitar em usar os serviços acima mencionados, você não poderá
     <string name="pulluprefreshrecyclerview_loading_finished">Carregado com sucesso</string>
     <string name="pulluprefreshrecyclerview_loading_running">Carregando…</string>
     <string name="queue_is_empty">A fila de reprodução está vazia.</string>
-    <string name="read_and_agree_asm_protocol">&lt;Data>Leia e aceite a &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Política de Privacidade do ASM&lt;/a>&lt;/font> para poder usar os serviços de música online.&lt;/Data></string>
-    <string name="read_and_agree_hungama_protocol">"&lt;Data>Li e aceito a &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Política de Privacidade da hungama
-&lt;/a>&lt;/font>&lt;/Data>"</string>
-    <string name="read_and_agree_joox_protocol">"&lt;Data>Li e aceito a &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Política de Privacidade da JOOX&lt;/a>&lt;/font>&lt;/Data>"</string>
-    <string name="read_and_agree_mi_protocol">"&lt;Data>Li e aceito o &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Contrato do Usuário&lt;/a>&lt;/font> e a &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Política de Privacidade&lt;/a>&lt;/font> da Xiaomi&lt;/Data>"</string>
+    <string name="read_and_agree_asm_protocol"><Data>Leia e aceite a &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Política de Privacidade do ASM&lt;/a>&lt;/font> para poder usar os serviços de música online.<Data></string>
+    <string name="read_and_agree_hungama_protocol"><Data>"Li e aceito a &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Política de Privacidade da hungama
+&lt;/a>&lt;/font>"</Data></string>
+    <string name="read_and_agree_joox_protocol"><Data>"Li e aceito a &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Política de Privacidade da JOOX&lt;/a>&lt;/font>"</Data></string>
+    <string name="read_and_agree_mi_protocol"><Data>"Li e aceito o &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Contrato do Usuário&lt;/a>&lt;/font> e a &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Política de Privacidade&lt;/a>&lt;/font> da Xiaomi"</Data></string>
     <string name="read_and_agree_protocol">Leia e aceite o nosso Contrato do Usuário e a Política de Privacidade antes de continuar.</string>
     <string name="ready_to_play">A seguir</string>
     <string name="recently_played">Repr. recentemente</string>
@@ -2175,6 +2190,15 @@ Seja feliz"</string>
     <string name="watch_video">Assistir vídeo</string>
     <string name="web_reward_dialog_cancle">Cancelar</string>
     <string name="web_reward_dialog_ok">Sair</string>
+    <string name="webpage_hot_rank">"Popular"</string>
+    <string name="webpage_pop_rank">Melhor classificado</string>
+    <string name="webpage_rec_today">"Recomendações de hoje"</string>
+    <string name="webpage_recent_play">Reproduzido recentemente</string>
+    <string name="webpage_remove_store">Removido com sucesso</string>
+    <string name="webpage_store_delete_desc">Excluir este item agora?</string>
+    <string name="webpage_store_from">"Adicionado: "</string>
+    <string name="webpage_store_title">Páginas da web favoritas</string>
+    <string name="webpage_view_all">Ver tudo</string>
     <string name="wednesday">Quarta</string>
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>
