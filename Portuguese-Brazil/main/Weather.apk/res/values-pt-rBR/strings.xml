@@ -214,7 +214,7 @@ Leia e aceite a nova versão da %2$s antes de continuar."</string>
     <string name="exo_download_description">Baixar</string>
     <string name="exo_download_downloading">Baixando</string>
     <string name="exo_download_failed">Falha no download</string>
-    <string name="exo_download_notification_channel_name">Downloads</string>
+    <string name="exo_download_notification_channel_name">"Downloads"</string>
     <string name="exo_download_removing">Removendo downloads</string>
     <string name="exo_track_mono">"Mono"</string>
     <string name="exo_track_selection_auto">Automático</string>

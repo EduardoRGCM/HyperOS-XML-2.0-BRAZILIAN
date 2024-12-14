@@ -58,6 +58,7 @@
     <string name="disabled_by_app_ops_text">Controlado por configuração restrita</string>
     <string name="dont_show_again">"Não mostrar novamente"</string>
     <string name="eight_hours">8 horas</string>
+    <string name="eight_thousand_kb">"8.192 KB"</string>
     <string name="enabled_by_admin">Ativado pelo administrador</string>
     <string name="error_icon_content_description">Erro</string>
     <string name="expand_button_title">Avançado</string>
@@ -98,10 +99,10 @@
     <string name="mtrl_picker_save">Salvar</string>
     <string name="mtrl_picker_start_date_description">Data de início %1$s</string>
     <string name="mtrl_picker_today_description">Hoje %1$s</string>
-    <string name="mtrl_picker_toggle_to_calendar_input_mode">Alternar para o modo de entrada da agenda</string>
-    <string name="mtrl_picker_toggle_to_day_selection">Toque para alternar para a visualização da agenda</string>
-    <string name="mtrl_picker_toggle_to_text_input_mode">Alternar para o modo de entrada de texto</string>
-    <string name="mtrl_picker_toggle_to_year_selection">Toque para alternar para a visualização do ano</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Mudar para o modo de entrada da agenda</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Toque para mudar para a visualização da Agenda</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Mudar para o modo de entrada de texto</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Toque para mudar para a visualização do ano</string>
     <string name="not_set">Não definido</string>
     <string name="num_categories_selected">{count, plural, =1 {# selecionado} other {# selecionados} }</string>
     <string name="one_hour">1 hora</string>
@@ -136,6 +137,8 @@
     <string name="show_quick_settings_tile">Mostrar bloco de configurações rápidas de rastreamento</string>
     <string name="show_stack_sampling_quick_settings_tile">Mostrar bloco de configurações rápidas de perfil de CPU</string>
     <string name="side_sheet_accessibility_pane_title">Página lateral</string>
+    <string name="sixteen_thousand_kb">"16.384 KB"</string>
+    <string name="sixtyfive_thousand_kb">"65.536 KB"</string>
     <string name="stack_samples_are_being_recorded">Amostras de pilha estão sendo gravadas</string>
     <string name="stack_samples_saved">Amostras de pilha salvas</string>
     <string name="start_new_trace">Iniciar novo rastreamento</string>
@@ -157,6 +160,7 @@
     <string name="ten_seconds">10 segundos</string>
     <string name="thirty_minutes">30 minutos</string>
     <string name="thirty_seconds">30 segundos</string>
+    <string name="thirtytwo_thousand_kb">"32.768 KB"</string>
     <string name="trace_debuggable_applications">Rastrear apps depuráveis</string>
     <string name="trace_is_being_recorded">O rastreamento está sendo gravado</string>
     <string name="trace_saved">Rastros salvos</string>

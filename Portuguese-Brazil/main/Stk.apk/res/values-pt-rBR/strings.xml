@@ -170,10 +170,10 @@
     <string name="mtrl_picker_save">Salvar</string>
     <string name="mtrl_picker_start_date_description">Data de início %1$s</string>
     <string name="mtrl_picker_today_description">Hoje %1$s</string>
-    <string name="mtrl_picker_toggle_to_calendar_input_mode">Alternar para o modo de entrada da agenda</string>
-    <string name="mtrl_picker_toggle_to_day_selection">Toque para alternar para a visualização da agenda</string>
-    <string name="mtrl_picker_toggle_to_text_input_mode">Alternar para o modo de entrada de texto</string>
-    <string name="mtrl_picker_toggle_to_year_selection">Toque para alternar para a visualização do ano</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Mudar para o modo de entrada da agenda</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Toque para mudar para a visualização da Agenda</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Mudar para o modo de entrada de texto</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Toque para mudar para a visualização do ano</string>
     <string name="night">"PM"</string>
     <string name="no_sim_card_inserted">Insira um cartão SIM para iniciar os Serviços do SIM.</string>
     <string name="noon">"PM"</string>
