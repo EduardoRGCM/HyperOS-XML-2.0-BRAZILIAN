@@ -20,7 +20,6 @@ For more info visit:
 - [@EduardoRGCM](https://t.me/eduardorgcm)
 - [@igor](https://github.com/igormiguell)
 
-
 ##### Credits:
 - ingbrzy [miuios.cz](https://miuios.cz)
 - IgorEisberg
