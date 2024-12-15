@@ -1636,11 +1636,6 @@ Se você não aceitar em usar os serviços acima mencionados, você não poderá
     <string name="pulluprefreshrecyclerview_loading_finished">Carregado com sucesso</string>
     <string name="pulluprefreshrecyclerview_loading_running">Carregando…</string>
     <string name="queue_is_empty">A fila de reprodução está vazia.</string>
-    <string name="read_and_agree_asm_protocol"><Data>Leia e aceite a &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Política de Privacidade do ASM&lt;/a>&lt;/font> para poder usar os serviços de música online.<Data></string>
-    <string name="read_and_agree_hungama_protocol"><Data>"Li e aceito a &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Política de Privacidade da hungama
-&lt;/a>&lt;/font>"</Data></string>
-    <string name="read_and_agree_joox_protocol"><Data>"Li e aceito a &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Política de Privacidade da JOOX&lt;/a>&lt;/font>"</Data></string>
-    <string name="read_and_agree_mi_protocol"><Data>"Li e aceito o &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Contrato do Usuário&lt;/a>&lt;/font> e a &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Política de Privacidade&lt;/a>&lt;/font> da Xiaomi"</Data></string>
     <string name="read_and_agree_protocol">Leia e aceite o nosso Contrato do Usuário e a Política de Privacidade antes de continuar.</string>
     <string name="ready_to_play">A seguir</string>
     <string name="recently_played">Repr. recentemente</string>
