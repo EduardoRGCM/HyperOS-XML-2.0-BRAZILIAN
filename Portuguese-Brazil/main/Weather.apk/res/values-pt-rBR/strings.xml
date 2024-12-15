@@ -319,7 +319,6 @@ Leia e aceite a nova versão da %2$s antes de continuar."</string>
     <string name="incognito_mode_dialog_confirm_text">Desativar</string>
     <string name="incognito_mode_dialog_summary">"Você está anônimo. Não é possível usar os serviços de localização agora."</string>
     <string name="incognito_mode_dialog_title">"Você está anônimo"</string>
-    <string name="index_item_install_now">Instalar agora</string>
     <string name="index_item_install_dialog">%1$s instalado com sucesso. Abrir agora?</string>
     <string name="index_item_install_now">Instalar agora</string>
     <string name="index_item_installing">Instalando</string>
