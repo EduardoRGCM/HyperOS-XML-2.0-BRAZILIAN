@@ -28,5 +28,5 @@
     <string name="translate">Traduzir</string>
     <string name="translation_more">Mais</string>
     <string name="translation_query_error">Nenhum resultado encontrado</string>
-    <string name="translation_query_error_network">"Não foi possível obter informações, verifique a conexão de rede e tente novamente."</string>
+    <string name="translation_query_error_network">"Não foi possível obter informações. Verifique a conexão de rede e tente novamente."</string>
 </resources>
