@@ -926,10 +926,10 @@ Envie este código para o supervisor."</string>
     <string name="input_hint_prefix">Digite %1$s</string>
     <string name="insight_detail_hot_music">Principais músicas de %s</string>
     <string name="insight_detail_overview">Visão geral</string>
-    <string name="insight_detail_search_and_play">Pesquise e ouça</string>
+    <string name="insight_detail_search_and_play">Pesquisar e reproduzir</string>
     <string name="insight_rank">Classificações</string>
     <string name="insight_web_favorite_toast">Adicionado aos favoritos. Veja em suas páginas da web favoritas.</string>
-    <string name="insight_web_overview">Itens para download encontrados</string>
+    <string name="insight_web_overview">Itens baixáveis encontrados</string>
     <string name="installing_apk">Instalando…</string>
     <string name="insufficient_space">"Espaço insuficiente no armazenamento interno do seu dispositivo"</string>
     <string name="invalid_number">Desculpe, o número é inválido</string>

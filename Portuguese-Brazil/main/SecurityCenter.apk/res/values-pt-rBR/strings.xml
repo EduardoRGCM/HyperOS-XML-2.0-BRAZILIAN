@@ -173,8 +173,8 @@
     <string name="add_done">Adicionado com sucesso</string>
     <string name="add_game">Adicionar jogo</string>
     <string name="add_game_notification_summary">Toque para executar e otimizar a velocidade</string>
-    <string name="add_miservice_dialog_content">%s requer que você adicione a estrutura de serviços Mi à lista de exceções. Você poderá receber notificações de apps integrados do HyperOS e outros apps de terceiros.</string>
-    <string name="add_miservice_dialog_title">Estrutura de serviços Mi</string>
+    <string name="add_miservice_dialog_content">%s requer que você adicione a Estrutura de serviços Xiaomi à lista de exceções. Você poderá receber notificações de apps integrados do HyperOS e outros apps de terceiros.</string>
+    <string name="add_miservice_dialog_title">Estrutura de serviços Xiaomi</string>
     <string name="add_to_whitelist_button">Exceções do roaming de dados</string>
     <string name="add_whitelist">Adicionar às exceções</string>
     <string name="added_game_notification_summary">Comece a jogar agora</string>
