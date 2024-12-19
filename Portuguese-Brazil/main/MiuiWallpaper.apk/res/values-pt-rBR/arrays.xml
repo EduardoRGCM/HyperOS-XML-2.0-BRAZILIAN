@@ -3,7 +3,7 @@
     <string-array name="settings_search_earth">
         <item>Nosso planeta</item>
         <item>Plano de fundo/Super planos de fundo/Nosso planeta</item>
-        <item>Terra;Super plano de fundo;Edição Terra;Plano de fundo</item>
+        <item>Terra;Super planos de fundo;Edição Terra;Plano de fundo</item>
     </string-array>
     <string-array name="settings_search_geometry">
         <item>Geometria</item>
@@ -13,31 +13,26 @@
     <string-array name="settings_search_mars">
         <item>O planeta vermelho</item>
         <item>Plano de fundo/Super planos de fundo/O planeta vermelho</item>
-        <item>Marte;Edição Marte;Super plano de fundo;Plano de fundo</item>
+        <item>Marte;Edição Marte;Super planos de fundo;Plano de fundo</item>
     </string-array>
     <string-array name="settings_search_moon">
         <item>A Lua</item>
         <item>Plano de fundo/Super planos de fundo/A Lua</item>
-        <item>Espaço;Lua;Super plano de fundo;Plano de fundo</item>
+        <item>espaço;Lua;Super planos de fundo;plano de fundo</item>
     </string-array>
     <string-array name="settings_search_saturn">
         <item>Anéis de Saturno</item>
         <item>Plano de fundo/Super planos de fundo/Anéis de Saturno</item>
-        <item>Planeta;Saturno;Super plano de fundo;Plano de fundo</item>
+        <item>Saturno;Anéis de Saturno;Super plano de fundo;Plano de fundo</item>
     </string-array>
     <string-array name="settings_search_snowmountain">
         <item>Picos nevados</item>
         <item>Plano de fundo/Super planos de fundo/Picos nevados</item>
-        <item>Terra;Montanhas;Super plano de fundo;Plano de fundo</item>
+        <item>Picos nevados;Montanhas;Super planos de fundo;Plano de fundo</item>
     </string-array>
     <string-array name="settings_search_superwp">
-        <item>Super plano de fundo</item>
+        <item>Super planos de fundo</item>
         <item>Plano de fundo/Super planos de fundo</item>
         <item>Super plano de fundo;Plano de fundo;Plano de fundo dinâmico;Plano de fundo 3D</item>
-    </string-array>
-    <string-array name="settings_search_weather">
-        <item>Clima</item>
-        <item>Plano de fundo/Super planos de fundo/Clima</item>
-        <item>Tempo;Informações meteorológicas;Super plano de fundo;Plano de fundo</item>
     </string-array>
 </resources>

@@ -2387,7 +2387,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="photo_editor_crop_size_fullscreen">Tela cheia</string>
     <string name="photo_editor_crop_size_movie" formatted="false">%1.2f:%d</string>
     <string name="photo_editor_crop_size_origin">"Original"</string>
-    <string name="photo_editor_doodle">"Doodle"</string>
+    <string name="photo_editor_doodle">Rabiscos</string>
     <string name="photo_editor_filter">Filtro</string>
     <string name="photo_editor_font_default">Sistema</string>
     <string name="photo_editor_frame">Moldura</string>

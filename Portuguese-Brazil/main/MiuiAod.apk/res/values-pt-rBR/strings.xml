@@ -320,7 +320,7 @@ dd/MM"</string>
     <string name="kg_dialog_no_content_available_the_moment">Nada aqui ainda</string>
     <string name="kg_dialog_too_much_time_blocking">"O relógio está obscurecido. Não é possível usar o efeito de profundidade."</string>
     <string name="kg_discard_changes_text">Descartar alterações?</string>
-    <string name="kg_doodle_font_label">"Doodle"</string>
+    <string name="kg_doodle_font_label">Rabiscos</string>
     <string name="kg_doodle_primary_label">Rabiscos</string>
     <string name="kg_doodle_secondary_disable_tip">Ative o efeito de profundidade</string>
     <string name="kg_doodle_secondary_label">Fundo</string>

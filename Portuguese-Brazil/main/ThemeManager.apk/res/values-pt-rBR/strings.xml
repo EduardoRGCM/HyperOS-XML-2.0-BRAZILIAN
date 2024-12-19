@@ -716,7 +716,7 @@ Para desativar este recurso, vá em Configurações > Som e vibração > Vídeo 
     <string name="kg_dialog_fashion_gallery_title">Atenção!</string>
     <string name="kg_dialog_fontfilter_dualclock_button">"Não é possível editar a fonte quando o Relógio duplo está ativado"</string>
     <string name="kg_discard_changes_text">Descartar alterações?</string>
-    <string name="kg_doodle_font_label">"Doodle"</string>
+    <string name="kg_doodle_font_label">Rabiscos</string>
     <string name="kg_doodle_primary_label">Rabiscos</string>
     <string name="kg_doodle_secondary_disable_tip">Ative o efeito de profundidade</string>
     <string name="kg_doodle_secondary_label">Fundo</string>
