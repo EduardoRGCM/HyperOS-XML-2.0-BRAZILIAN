@@ -38,9 +38,9 @@
     <string name="account_error_user_name">Este apelido é inválido. Tente um diferente.</string>
     <string name="account_invalid_user_avatar">Esta foto é inválida. Tente uma diferente.</string>
     <string name="account_limit_update_birthday">"Não é possível atualizar a data de nascimento no momento"</string>
-    <string name="account_no_set">Não definida</string>
-    <string name="account_none_bind_info">Não definida</string>
-    <string name="account_none_user_name">Não definida</string>
+    <string name="account_no_set">Não definido</string>
+    <string name="account_none_bind_info">Não definido</string>
+    <string name="account_none_user_name">Não definido</string>
     <string name="account_secure_info_pref_title">Informações da conta</string>
     <string name="account_security_info_pref_title">Informação de segurança</string>
     <string name="account_user_avatar">Foto de perfil</string>
@@ -527,12 +527,12 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="passport_account_none_bind_info">Nenhum</string>
     <string name="passport_account_none_user_name">Nenhum</string>
     <string name="passport_account_secure_info_pref_title">Informações da Conta</string>
-    <string name="passport_account_security_info_pref_title">Informação de segurança</string>
+    <string name="passport_account_security_info_pref_title">Informações de segurança</string>
     <string name="passport_account_user_avatar">Foto de perfil</string>
     <string name="passport_account_user_avatar_from_album">Galeria</string>
     <string name="passport_account_user_avatar_from_camera">Câmera</string>
-    <string name="passport_account_user_base_info">Informação básica</string>
-    <string name="passport_account_user_details">Informação pessoal</string>
+    <string name="passport_account_user_base_info">Informações básicas</string>
+    <string name="passport_account_user_details">Informações pessoais</string>
     <string name="passport_account_user_email">E-mail de recuperação</string>
     <string name="passport_account_user_gender">Gênero</string>
     <string name="passport_account_user_id">ID da Conta Mi</string>
@@ -541,7 +541,7 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="passport_account_user_phone">Telefone de recuperação</string>
     <string name="passport_activity_not_found_notice">"Não consigo encontrar o app"</string>
     <string name="passport_agree">Aceitar</string>
-    <string name="passport_area_code_title">Código de área</string>
+    <string name="passport_area_code_title">Código do país</string>
     <string name="passport_attention">Atenção!</string>
     <string name="passport_auth_fail_warning">Sessão expirada. Faça login novamente.</string>
     <string name="passport_back">Voltar</string>

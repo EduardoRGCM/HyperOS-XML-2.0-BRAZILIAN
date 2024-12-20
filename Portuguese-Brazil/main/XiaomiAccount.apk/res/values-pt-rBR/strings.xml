@@ -43,7 +43,7 @@
     <string name="account_error_user_name">O nome inserido é inválido</string>
     <string name="account_global_region">Exterior</string>
     <string name="account_invalid_user_avatar">Esta foto é inválida. Tente uma diferente.</string>
-    <string name="account_no_set">Não definida</string>
+    <string name="account_no_set">Não definido</string>
     <string name="account_none_binded_info">Não definido</string>
     <string name="account_none_user_name">Não definido</string>
     <string name="account_notification_message">Sessão expirada. Faça o login novamente.</string>
@@ -87,7 +87,7 @@ ID da sua conta: %s"</string>
     <string name="auto_fill_not_sport_on_water_mark_version">"O login com preenchimento automático não é compatível com versões com marca d'água"</string>
     <string name="bind_facebook">Conectar sua conta do Facebook</string>
     <string name="bind_google">Conectar sua Conta do Google</string>
-    <string name="bind_safe_phone_msg">Adicione seu número de telefone para conseguir fazer login em sua Conta Mi da próxima vez.</string>
+    <string name="bind_safe_phone_msg">Adicione seu número de telefone para poder fazer login em sua Conta Mi da próxima vez.</string>
     <string name="bind_sns_description">Fazer login com %s</string>
     <string name="bind_weixin">Conecte sua Conta do WeChat</string>
     <string name="binded">Conectada</string>
@@ -99,7 +99,7 @@ Você pode fazer login com sua Conta Mi usando %s agora."</string>
     <string name="button_unbind">Desconectar</string>
     <string name="cancel">Cancelar</string>
     <string name="change_password">Alterar senha</string>
-    <string name="check_apk_update">Verifique se há atualizações</string>
+    <string name="check_apk_update">Procurar por atualizações</string>
     <string name="child_account_system_ad_disable_hint">Este recurso não está disponível para contas infantis</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
     <string name="close">Fechar</string>
@@ -108,7 +108,7 @@ Você pode fazer login com sua Conta Mi usando %s agora."</string>
     <string name="cloud_description_closed">Ocupado | Sincronização desativada</string>
     <string name="cloud_description_normal">Ocupado</string>
     <string name="cloud_member_status_expired">Expirado</string>
-    <string name="cloud_member_status_expired_soon">Expira logo</string>
+    <string name="cloud_member_status_expired_soon">Expira em breve</string>
     <string name="cloud_member_status_non_vip">"Upgrade"</string>
     <string name="cloud_member_vipname_free">Grátis</string>
     <string name="cloud_member_vipname_mega">"Mega"</string>
@@ -118,7 +118,7 @@ Você pode fazer login com sua Conta Mi usando %s agora."</string>
     <string name="cloud_service_cloud_open">Ativar</string>
     <string name="cloud_service_space_full">Armazenamento cheio</string>
     <string name="cloud_service_space_not_enough">Armazenamento insuficiente</string>
-    <string name="cloud_service_space_used">Ocupado</string>
+    <string name="cloud_service_space_used">Em uso</string>
     <string name="cloud_service_state_error">"Não foi possível carregar"</string>
     <string name="cloud_service_status_backup_not_open">Backup desativado</string>
     <string name="cloud_service_status_cloud_not_open">Desativado</string>
@@ -213,17 +213,17 @@ Você pode fazer login com sua Conta Mi usando %s agora."</string>
     <string name="fcm_fallback_notification_channel_label">Diversos</string>
     <string name="fido2_client_for_fingerprint_auth">Toque para verificar por impressão digital</string>
     <string name="fido2_close_fingerprint_auth">Desativando</string>
-    <string name="fido2_close_fingerprint_auth_desc">Desativar a verificação de impressão digital agora?</string>
-    <string name="fido2_err_already_registered">Esta conta já ativou esse recurso</string>
+    <string name="fido2_close_fingerprint_auth_desc">Desativar a verificação por impressão digital agora?</string>
+    <string name="fido2_err_already_registered">Esta conta já possui este recurso ativo</string>
     <string name="fido2_err_def">Ocorreu um erro. Aguarde um momento e tente novamente.</string>
-    <string name="fido2_err_not_regisetered">"Esta conta ainda não ativou esse recurso"</string>
+    <string name="fido2_err_not_regisetered">"Esta conta ainda não possui este recurso ativo"</string>
     <string name="fido2_err_not_support">"Este recurso não é compatível com este dispositivo"</string>
     <string name="fido2_err_security">"Riscos de segurança detectados. Não é possível usar esse recurso."</string>
     <string name="fido2_err_service_exception">Ocorreu um erro no servidor. Aguarde um momento e tente novamente.</string>
-    <string name="fido2_err_timeout">O pedido excedeu o tempo limite. Aguarde um momento e tente novamente.</string>
+    <string name="fido2_err_timeout">O solicitação excedeu o tempo limite. Aguarde um momento e tente novamente.</string>
     <string name="fido2_fingerprint_auth">Verificação de impressão digital</string>
     <string name="fido2_fingerprint_auth_desc"><Data>Use sua impressão digital para entrar em sua Conta Mi e verificar sua identidade.&lt;a href=>Saiba mais&lt;/a></Data></string>
-    <string name="fido2_fingerprint_changed_and_afresh_register">A impressão digital do seu dispositivo mudou. Verifique novamente sua conta para poder ativar a verificação de impressão digital.</string>
+    <string name="fido2_fingerprint_changed_and_afresh_register">A impressão digital do seu dispositivo foi alterada. Verifique novamente a sua conta para poder ativar a verificação de impressão digital.</string>
     <string name="fido2_fingerprint_verify">Verificação de impressão digital</string>
     <string name="fido2_psw_changed_and_afresh_register">Sua senha foi alterada. Verifique sua impressão digital novamente.</string>
     <string name="fido2_setting_ps_notify">"Você precisará definir uma senha de conta para poder usar a verificação de impressão digital. Você pode fazer isso em Configurações > Conta Mi > Segurança da conta > Senha."</string>
@@ -237,7 +237,7 @@ Você pode fazer login com sua Conta Mi usando %s agora."</string>
     <string name="find_device_clear_data">Apagar dados</string>
     <string name="find_device_close">Desativado</string>
     <string name="find_device_error_password_not_confirmed">"Não é possível desativar o Encontrar dispositivo. Insira a senha da Conta Mi novamente."</string>
-    <string name="find_device_error_password_recently_changed">"Você alterou sua senha nos últimos %d dias. Não é possível desativar o Encontrar dispositivo por motivos de segurança."</string>
+    <string name="find_device_error_password_recently_changed">"Você alterou sua senha nos últimos %d dias. Para sua segurança, não é possível desativar o Encontrar dispositivo agora."</string>
     <string name="find_device_interrupted">A ação foi interrompida. Aguarde um momento e tente novamente.</string>
     <string name="find_device_io_error">"Não é possível conectar-se à rede"</string>
     <string name="find_device_location">Localizar</string>
@@ -337,23 +337,23 @@ Você pode fazer login com sua Conta Mi usando %s agora."</string>
     <string name="inconsistent_pwd">"As senhas não coincidem"</string>
     <string name="indeterminate">Nem marcado nem desmarcado</string>
     <string name="input_email_address_notice">"Enviaremos um e-mail com um código de verificação para o endereço que você fornecer"</string>
-    <string name="input_new_pwd">Insira uma nova senha</string>
+    <string name="input_new_pwd">Insira a nova senha</string>
     <string name="input_ps">Inserir senha</string>
     <string name="io_error_title">Confirme sua rede</string>
     <string name="just_a_second">Aguarde…</string>
-    <string name="keep_phone_ticket_login">Entrar com código de verificação</string>
+    <string name="keep_phone_ticket_login">Fazer login com código de verificação</string>
     <string name="kr_license_desc">Você deve aceitar o nosso Contrato do Usuário e a Política de Privacidade antes de usar a Conta Mi e os serviços da MiCloud.</string>
     <string name="kr_permission_contacts_desc">Para acessar informações de contato</string>
     <string name="kr_permission_desc">Permissões necessárias</string>
     <string name="kr_permission_phone_desc">Para proteger sua conta</string>
     <string name="kr_permission_sms_desc">Para preencher códigos de verificação automaticamente</string>
     <string name="kr_permission_storage_desc">Para salvar diagnósticos</string>
-    <string name="login_3rd_app_with_system_account">Fazer login com %s</string>
+    <string name="login_3rd_app_with_system_account">Fazer login em %s</string>
     <string name="login_check_find_device">Obtendo informações de segurança do dispositivo…</string>
     <string name="login_check_find_device_failed_title">"Não foi possível verificar as informações de segurança do dispositivo"</string>
     <string name="login_find_device_bind">Este dispositivo está associado à um ID de Conta Mi existente (%s).</string>
-    <string name="login_notification_button_text">Entrar</string>
-    <string name="login_notification_desc">Desfrute de serviços em nuvem, espaço de armazenamento familiar e muito mais</string>
+    <string name="login_notification_button_text">Fazer login</string>
+    <string name="login_notification_desc">Aproveite os serviços na nuvem, espaço de armazenamento familiar e muito mais</string>
     <string name="login_notification_title">Faça login na sua Conta Mi</string>
     <string name="login_or_register_by_other_way">Usar outro método</string>
     <string name="login_with_other">Mais opções</string>
@@ -455,8 +455,8 @@ Você pode fazer login com sua Conta Mi usando %s agora."</string>
     <string name="noon">"PM"</string>
     <string name="not_selected">Não selecionado</string>
     <string name="not_set">Não definido</string>
-    <string name="notify_bind_security_phone">Adicione um telefone de recuperação</string>
-    <string name="notify_complete_security_info">Adicione informações de recuperação</string>
+    <string name="notify_bind_security_phone">Adicionar um telefone de recuperação</string>
+    <string name="notify_complete_security_info">Adicionar informações de recuperação</string>
     <string name="notify_network_restricted_content_bg_network">"O acesso à internet da Conta Mi está restrito. Toque para permitir."</string>
     <string name="notify_network_restricted_content_hidden_state">"A atividade em segundo plano da Conta Mi está restrita. Toque para permitir."</string>
     <string name="notify_network_restricted_content_mobile_network">"O acesso à internet da Conta Mi está restrito. Toque para permitir."</string>
@@ -471,12 +471,12 @@ Você pode fazer login com sua Conta Mi usando %s agora."</string>
     <string name="on">Ativado</string>
     <string name="operator_broadnet">"China Broadnet"</string>
     <string name="operator_mobile">"China Mobile"</string>
-    <string name="operator_mobile_agreement">Serviços de verificação fornecidos pela China Mobile</string>
+    <string name="operator_mobile_agreement">Serviços de verificação fornecidos por China Mobile</string>
     <string name="operator_other">Número de telefone</string>
     <string name="operator_telecom">"China Telecom"</string>
-    <string name="operator_telecom_agreement">Serviços de verificação fornecidos pela conta eSurfing</string>
+    <string name="operator_telecom_agreement">Serviços de verificação fornecidos por conta eSurfing</string>
     <string name="operator_unicom">"China Unicom"</string>
-    <string name="operator_unicom_agreement">Serviços de verificação fornecidos pela China Unicom</string>
+    <string name="operator_unicom_agreement">Serviços de verificação fornecidos por China Unicom</string>
     <string name="optional_permissions">Permissões opcionais</string>
     <string name="page_load_failed">Não é possível abrir a página</string>
     <string name="passport_access_denied">Acesso negado</string>
@@ -497,14 +497,14 @@ Você pode fazer login com sua Conta Mi usando %s agora."</string>
     <string name="passport_account_not_activated">"A conta não foi ativada"</string>
     <string name="passport_account_not_actived">"Sua conta não foi ativada"</string>
     <string name="passport_account_secure_info_pref_title">Informações da Conta</string>
-    <string name="passport_account_security_info_pref_title">Informação de segurança</string>
+    <string name="passport_account_security_info_pref_title">Informações de segurança</string>
     <string name="passport_account_set_password_prompt">Defina a senha da sua conta para fazer login na próxima vez.</string>
     <string name="passport_account_set_password_title">Definir senha</string>
     <string name="passport_account_user_avatar">Foto de perfil</string>
     <string name="passport_account_user_avatar_from_album">Selecionar da Galeria</string>
     <string name="passport_account_user_avatar_from_camera">Câmera</string>
-    <string name="passport_account_user_base_info">Informação básica</string>
-    <string name="passport_account_user_details">Informação pessoal</string>
+    <string name="passport_account_user_base_info">Informações básicas</string>
+    <string name="passport_account_user_details">Informações pessoais</string>
     <string name="passport_account_user_email">E-mail de recuperação</string>
     <string name="passport_account_user_gender">Gênero</string>
     <string name="passport_account_user_id">ID da Conta Mi</string>
@@ -516,7 +516,7 @@ Você pode fazer login com sua Conta Mi usando %s agora."</string>
     <string name="passport_activity_not_found_notice">"Não consigo encontrar o app"</string>
     <string name="passport_adding_account">Adicionando conta…</string>
     <string name="passport_agree">Aceitar</string>
-    <string name="passport_area_code_title">Código de área</string>
+    <string name="passport_area_code_title">Código do país</string>
     <string name="passport_attention">Atenção!</string>
     <string name="passport_back">Voltar</string>
     <string name="passport_bad_authentication">Usuário ou senha incorretos</string>
@@ -636,7 +636,7 @@ Você pode fazer login com sua Conta Mi usando %s agora."</string>
     <string name="passport_message_dialog_title">SMS com códigos de verificação</string>
     <string name="passport_mi_account_first_title">"Criaremos uma conta automaticamente se você estiver usando seu número de telefone pela primeira vez."</string>
     <string name="passport_mi_account_title">Fazer login com a Conta Mi</string>
-    <string name="passport_network_error">Ocorreu um erro de rede.</string>
+    <string name="passport_network_error">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
     <string name="passport_network_error_hint">Verifique a URL e tente novamente ou copie a URL e abra-a em seu navegador.</string>
     <string name="passport_network_timeout">"Não foi possível conectar-se à rede. Tente novamente."</string>
     <string name="passport_next">Próximo</string>
@@ -728,17 +728,17 @@ Você pode fazer login com sua Conta Mi usando %s agora."</string>
     <string name="passport_to_password_login">Fazer login usando senha</string>
     <string name="passport_to_verify_code_login">Fazer login por SMS</string>
     <string name="passport_trust_device">Confiar neste dispositivo</string>
-    <string name="passport_tz_invalid">Riscos de segurança encontrados. Este dispositivo pode ter sido rooteado ou flashado. Tente outras opções de login.</string>
+    <string name="passport_tz_invalid">Riscos de segurança encontrados. Este dispositivo pode estar com acesso root ou ter sido modificado. Tente outras opções de login.</string>
     <string name="passport_unknown_error">Erro desconhecido</string>
     <string name="passport_unknown_host_network_error">Verifique suas configurações de rede e tente novamente</string>
     <string name="passport_uplink_reg">Usar número de telefone</string>
-    <string name="passport_uplink_send_sms_hint">"Toque em \"Enviar\" depois de ser redirecionado para a página com uma mensagem composta."</string>
+    <string name="passport_uplink_send_sms_hint">"Toque em \"Enviar\" após ser redirecionado para a página com a mensagem escrita."</string>
     <string name="passport_uplink_slot1_reg">Usar SIM %d</string>
     <string name="passport_uplink_sms_send_cancel">Envio do link SMS cancelado</string>
     <string name="passport_uplink_sms_send_confirm">Enviado</string>
     <string name="passport_uplink_sms_send_failed">"Não foi possível verificar o envio do SMS"</string>
     <string name="passport_uplink_sms_sending">Enviando mensagem paga…</string>
-    <string name="passport_uplink_suggest_dialog_msg">"Não foi possível receber o código. Usar um envio de SMS pago?"</string>
+    <string name="passport_uplink_suggest_dialog_msg">"Não foi possível receber o código. Usar um SMS pago em vez disso?"</string>
     <string name="passport_uplink_suggest_dialog_title">Atenção!</string>
     <string name="passport_user_agreement">Contrato do Usuário</string>
     <string name="passport_user_agreement_hint_3rd_app"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> e com o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi."</Data></string>
@@ -807,7 +807,7 @@ Escaneie o código abaixo com o app Scanner."</string>
     <string name="qrcode_login_entry_text"><Data>Fez login em um dispositivo diferente? Use o &lt;a href=>login rápido&lt;/a></Data></string>
     <string name="qrcode_login_load_refresh"><Data>Este código QR expirou. Toque para &lt;a href=>atualizar&lt;/a>.</Data></string>
     <string name="qrcode_login_load_retry"><Data>"Não foi possível carregar. &lt;a href=>Tente novamente&lt;/a>."</Data></string>
-    <string name="qrcode_login_message">"Escaneie com Mi AI Scanner ou outro app da Xiaomi para entrar em sua Conta Mi"</string>
+    <string name="qrcode_login_message">"Escaneie com o Mi AI Scanner ou outro app da Xiaomi para entrar em sua Conta Mi"</string>
     <string name="qrcode_login_title">Escaneie para fazer login</string>
     <string name="range_end">Fim do intervalo</string>
     <string name="range_start">Início do intervalo</string>
@@ -817,9 +817,9 @@ Escaneie o código abaixo com o app Scanner."</string>
     <string name="reopen">Ativar</string>
     <string name="request_open_permission">Permissões necessárias</string>
     <string name="request_use_camera_message">"Permitir que a Conta Mi acesse a câmera do seu dispositivo?"</string>
-    <string name="request_use_camera_title">Acesso a Câmera</string>
+    <string name="request_use_camera_title">Acessar a câmera</string>
     <string name="request_use_gallery_message">Permitir que a Conta Mi acesse a Galeria?</string>
-    <string name="request_use_gallery_title">Acesso a Galeria</string>
+    <string name="request_use_gallery_title">Acessar a Galeria</string>
     <string name="request_use_writing_clipboard_message">Para copiar o ID da sua Conta Mi, permita que a Conta Mi salve itens na área de transferência.</string>
     <string name="resend_email_reach_limit_message">"Você solicitou muitos códigos de verificação. Certifique-se de que o e-mail de verificação não está na sua caixa de Spam."</string>
     <string name="restart_action">Reiniciar</string>
@@ -833,7 +833,7 @@ Escaneie o código abaixo com o app Scanner."</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>
-    <string name="scan_barcode_title">Para fazer login em sua Conta Mi, digitalize o código QR</string>
+    <string name="scan_barcode_title">Para fazer login em sua Conta Mi, escaneie o código QR</string>
     <string name="search_account_security">Segurança da conta</string>
     <string name="search_account_security_desc">Configurações da conta</string>
     <string name="search_account_security_key_words">Alterar telefone,Alterar e-mail,Proteção da conta,Contas,Sina Weibo,QQ,Autorização,Dispositivos</string>
@@ -953,9 +953,9 @@ Escaneie o código abaixo com o app Scanner."</string>
     <string name="tuesday_short">Ter</string>
     <string name="tuesday_shortest">Ter</string>
     <string name="turn_off_find_device_failed_title">"Não é possível desativar o Encontrar dispositivo"</string>
-    <string name="unbind_sns_description">"Após você desconectar esta conta, você não será capaz de usar sua conta %s para fazer login em sua Conta Mi."</string>
+    <string name="unbind_sns_description">"Após desconectar esta conta, você não será capaz de usar sua conta %s para fazer login em sua Conta Mi."</string>
     <string name="unlock_help_notice">"Ajuda:
-%1$d. Caso tenha esquecido a sua senha, acesse id.mi.com para redefini-la.
+%1$d. Caso esqueça a sua senha, acesse id.mi.com para redefini-la.
 %2$d. Caso não consiga redefinir a sua senha ou se alguém bloqueou o seu dispositivo, acesse i.mi.com para desbloqueá-lo.
 %3$d. Seu número de desbloqueio: %4$s"</string>
     <string name="update_apk_version_later">Agora não</string>
@@ -966,7 +966,7 @@ Escaneie o código abaixo com o app Scanner."</string>
     <string name="use_google_account_login">Fazer login com o Google</string>
     <string name="user_agreement_device_permission_desc">Para garantir a segurança do ambiente de login</string>
     <string name="user_agreement_device_permission_title">Acessar informações do dispositivo</string>
-    <string name="user_agreement_must_permission_msg">Permissões obrigatórias (usadas para recursos e serviços básicos deste app)</string>
+    <string name="user_agreement_must_permission_msg">Permissões obrigatórias (usadas para recursos básicos e serviços deste app)</string>
     <string name="user_agreement_permission_summary_msg">A Conta Mi permite que você acesse todos os serviços fornecidos pela Xiaomi. Este app precisa se conectar à internet e requer as seguintes permissões para funcionar normalmente:</string>
     <string name="user_agreement_read_phone_permission_desc">Para fazer login usando o número de telefone</string>
     <string name="user_agreement_read_phone_permission_title">Ler números de telefone</string>

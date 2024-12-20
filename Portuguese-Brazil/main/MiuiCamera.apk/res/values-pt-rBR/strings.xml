@@ -133,6 +133,7 @@
     <string name="accessibility_flash_soft_light_off">Flash suave desativado</string>
     <string name="accessibility_flash_soft_light_touch">Flash suave em modo lanterna</string>
     <string name="accessibility_flash_torch">Flash ativado (modo lanterna)</string>
+    <string name="accessibility_focal">Distância do foco</string>
     <string name="accessibility_focal_lens">%s mm equivalente à distância focal</string>
     <string name="accessibility_focus_face_pos_bottom">Localizado próximo à borda inferior da tela</string>
     <string name="accessibility_focus_face_pos_left">Localizado próximo à borda esquerda da tela</string>
@@ -283,14 +284,14 @@
     <string name="actionbar_button_up_description">Voltar</string>
     <string name="afternoon">"PM"</string>
     <string name="agent_flip_tbc">Continue na tela interna</string>
-    <string name="agent_function_max">Ajustado ao valor máximo</string>
-    <string name="agent_function_min">Ajustado ao valor mínimo</string>
-    <string name="agent_workspace_mode_not_supported">"Este recurso não é compatível"</string>
-    <string name="agent_workspace_mode_not_supported_use_default">"Este recurso não é compatível.
-Em vez disso, o modo Foto foi aberto."</string>
+    <string name="agent_function_max">Ajustado para o valor máximo</string>
+    <string name="agent_function_min">Ajustado para o valor mínimo</string>
+    <string name="agent_workspace_mode_not_supported">"Este recurso não é suportado"</string>
+    <string name="agent_workspace_mode_not_supported_use_default">"Este recurso não é suportado.
+Modo Foto aberto em vez disso."</string>
     <string name="agent_workspace_on">Parâmetros definidos para fotografar \"%1$s\"</string>
-    <string name="agent_workspace_tbc">Cena de estudo</string>
-    <string name="agent_workspace_tbc_use_default">"Cena de estudo…
+    <string name="agent_workspace_tbc">Estudando a cena</string>
+    <string name="agent_workspace_tbc_use_default">"Estudando a cena…
 Parâmetros da câmera definidos como padrão."</string>
     <string name="ai">IA</string>
     <string name="ai_agra_fort">Forte de Agra</string>

@@ -1350,7 +1350,7 @@ Para começar, toque em \"Mesclar\" na parte inferior da tela"</string>
     <string name="saturday_shortest">Sáb</string>
     <string name="savingContact">Salvando contato…</string>
     <string name="savingDisplayGroups">Salvando opções de exibição…</string>
-    <string name="scan_business_card">Digitalizar cartão de visita</string>
+    <string name="scan_business_card">Escanear cartão de visita</string>
     <string name="scan_bussiness_card_merge_tip">Dados conflitantes foram substituídos</string>
     <string name="scan_merge">Procurando contatos duplicados…</string>
     <string name="scan_not_installed">Instale o Scanner primeiro</string>
@@ -1398,7 +1398,7 @@ Para começar, toque em \"Mesclar\" na parte inferior da tela"</string>
     <string name="shortcutContact">Contato</string>
     <string name="shortcutDialContact">"Discagem direta "</string>
     <string name="shortcut_new_contact_label">Novo contato</string>
-    <string name="shortcut_scan_label">Digitalizar cartão de visita</string>
+    <string name="shortcut_scan_label">Escanear cartão de visita</string>
     <string name="simContacts_airplaneMode">Para importar os contatos do cartão SIM, desative o Modo avião</string>
     <string name="simContacts_empty">Nenhum contato no cartão SIM</string>
     <string name="simContacts_emptyLoading">Carregando contatos do cartão SIM…</string>

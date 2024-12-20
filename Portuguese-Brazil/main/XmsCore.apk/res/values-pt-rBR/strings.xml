@@ -226,9 +226,9 @@
     <string name="system_app_restore_completed">Restaurado com sucesso</string>
     <string name="system_app_restore_completed_detail">Todos os itens do sistema foram restaurados com sucesso</string>
     <string name="system_app_restore_failed">Ocorreu um erro</string>
-    <string name="system_app_restore_failed_detail">"Não foi possível restaurar itens do sistema. Verifique as configurações de rede e não reinicie ou desligue o dispositivo até que os itens sejam totalmente restaurados. Toque no botão abaixo para tentar novamente."</string>
+    <string name="system_app_restore_failed_detail">"Não foi possível restaurar itens do sistema. Verifique suas configurações de rede e não reinicie ou desligue seu dispositivo até que os itens sejam totalmente restaurados. Toque no botão abaixo para tentar novamente."</string>
     <string name="system_restore">Restaurar itens</string>
-    <string name="tap_to_update_system_app">Toque para atualizar apps do sistema</string>
+    <string name="tap_to_update_system_app">Toque para atualizar os apps do sistema</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversário da remoção da Lei Marcial</string>
     <string name="the_anti_aggression_day">Dia da Anti-agressão</string>
     <string name="the_arbor_day">Dia da Árvore</string>

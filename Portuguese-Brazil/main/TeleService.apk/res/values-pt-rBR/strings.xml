@@ -2375,7 +2375,7 @@ Interface UT: %5$s"</string>
     <string name="satellite_call_sound_quality_message">A qualidade da chamada está relacionada à intensidade do sinal do satélite. Devido à longa distância de transmissão e à largura de banda limitada, haverá atrasos no envio de chamadas e mensagens de texto, e a qualidade do áudio das chamadas será pior do que a de uma rede móvel normal.</string>
     <string name="satellite_call_sound_quality_title">Por que as chamadas via satélite têm baixa qualidade de áudio e velocidade lenta?</string>
     <string name="satellite_camera_enable_toast">Feche a Câmera antes de abrir as comunicações do Tiantong Satellite</string>
-    <string name="satellite_ct_business_summary">Serviços fornecidos pela China Telecom</string>
+    <string name="satellite_ct_business_summary">Serviços fornecidos por China Telecom</string>
     <string name="satellite_display_insert_support_card_message">Para poder usar as comunicações do Tiantong Satellite, insira um cartão SIM ativado para satélite da China Telecom.</string>
     <string name="satellite_display_insert_support_card_title">Insira um cartão SIM ativado para satélite</string>
     <string name="satellite_display_message">"Parece que o seu cartão SIM não suporta comunicações via Tiantong Satellite. Para poder usar esse recurso, insira um cartão SIM ativado para satélite da China Telecom. Continuar mesmo assim?"</string>

@@ -586,7 +586,7 @@ execute esta ação no seu dispositivo."</string>
     <string name="settings_phone">Telefone</string>
     <string name="settings_phone_handoff_title">Conectar automaticamente</string>
     <string name="settings_privacy_policy">Política de Privacidade</string>
-    <string name="settings_scanner_button">Digitalizar</string>
+    <string name="settings_scanner_button">Escanear</string>
     <string name="settings_scanner_summary">Conecte-se ao MIUI+ usando um código QR</string>
     <string name="settings_trusted">Conectar-se automaticamente</string>
     <string name="settings_trusted_delete">Remover</string>

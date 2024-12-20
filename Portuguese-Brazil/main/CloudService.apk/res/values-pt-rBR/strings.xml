@@ -1047,7 +1047,7 @@ As informações de localização podem não ser reportadas se a conexão de red
     <string name="share_sdk_pref_category_family_detail">Detalhes</string>
     <string name="share_sdk_pref_category_member_title">Selecionar membros</string>
     <string name="share_sdk_pref_category_search_local_title">Contatos</string>
-    <string name="share_sdk_pref_category_title_scan_qr_code">Digitalizar código QR</string>
+    <string name="share_sdk_pref_category_title_scan_qr_code">Escanear código QR</string>
     <string name="share_sdk_pref_family_detail_title">Ver detalhes do grupo familiar</string>
     <string name="share_sdk_privacy_link_description">Leia e aceite a <u><a href="https://account.xiaomi.com/about/protocol/privacy">Política de Privacidade da Conta Mi</a></u> antes de usar este serviço.</string>
     <string name="share_sdk_qr_code_description">"Convite de %1$s"</string>

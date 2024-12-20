@@ -432,7 +432,7 @@ Toque \"%1$s\" e depois selecione \"%2$s\"."</string>
     <string name="satellite_debug_evevation">Elevação</string>
     <string name="satellite_debug_rssi">Força do sinal Rssi</string>
     <string name="satellite_debug_satellite">Satélite</string>
-    <string name="satellite_diable_earpiece">"Não é possível usar o fone de ouvido com chamadas via satélite"</string>
+    <string name="satellite_diable_earpiece">"Não é possível usar o auricular com chamadas via satélite"</string>
     <string name="satellite_dialog_button">Janela flutuante</string>
     <string name="satellite_dialog_cancel">Cancelar</string>
     <string name="satellite_dialog_cancel_exp">Cancelar</string>
@@ -468,6 +468,7 @@ até colocar a bola na área azul"</string>
     <string name="satellite_satellite_service_redirection">Ativar</string>
     <string name="satellite_satellite_service_tip">"Parece que você não ativou o serviço de conexão direta via satélite. Tente procurar por satélites após a ativação."</string>
     <string name="satellite_service_provider">Serviço fornecido por China Telecom</string>
+    <string name="satellite_service_provider_tiantong">Fornecido por Tiantong</string>
     <string name="satellite_service_reject_cause_imei">"O IMEI do dispositivo não está registrado"</string>
     <string name="satellite_service_reject_cause_not_enable_International_roaming">Ative o roaming internacional</string>
     <string name="satellite_service_reject_cause_not_order_tiantong">Ative os serviços do Tiantong Satellite</string>

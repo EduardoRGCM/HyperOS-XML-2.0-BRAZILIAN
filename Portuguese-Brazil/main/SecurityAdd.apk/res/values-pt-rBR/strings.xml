@@ -220,6 +220,11 @@ monitoramento de terremoto"</string>
     <string name="gb_gpu_control_optimization_graph">Otimize os gráficos</string>
     <string name="gb_gpu_control_resolution">Resolução</string>
     <string name="gb_gpu_control_texture_filtering_quality">Qualidade de filtragem de textura</string>
+    <string name="gb_gpu_custom_frame_default">Padrão</string>
+    <string name="gb_gpu_custom_frame_high_definition">"HD"</string>
+    <string name="gb_gpu_custom_frame_smooth">Suave</string>
+    <string name="gb_gpu_custom_frame_ultimate">Máx</string>
+    <string name="gb_gpu_custom_frame_ultra_hd">"Ultra HD"</string>
     <string name="gb_gpu_dialog_button">Entendi</string>
     <string name="gb_gpu_dialog_button_countdown">Entendi (%s)</string>
     <string name="gb_gpu_dialog_message">As configurações atuais da GPU foram aplicadas a \"%s\". Reinicie o jogo para aplicar as configurações.</string>
@@ -396,6 +401,10 @@ monitoramento de terremoto"</string>
     <string name="not_set">Não definido</string>
     <string name="ok_button">"OK"</string>
     <string name="open_browser">Abrir no Navegador</string>
+    <string name="open_screen_resolution_tip_cancel">Cancelar</string>
+    <string name="open_screen_resolution_tip_content">Defina a resolução da tela do sistema para WQHD+ nas Configurações antes de continuar.</string>
+    <string name="open_screen_resolution_tip_set">Configurações</string>
+    <string name="open_screen_resolution_tip_title">Atenção!</string>
     <string name="page_load_failed">"Não foi possível abrir a página"</string>
     <string name="password_toggle_content_description">Mostrar senha</string>
     <string name="pc_activity_title">Otimizar bateria</string>

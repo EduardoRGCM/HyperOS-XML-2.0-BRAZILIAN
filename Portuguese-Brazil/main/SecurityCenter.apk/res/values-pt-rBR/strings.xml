@@ -2213,11 +2213,11 @@ monitoramento de terremotos"</string>
     <string name="function_gwsd_detail">"Sobre este recurso:
 1. Quando você estiver usando dados móveis em um SIM de dados ou em um SIM normal conectado a uma rede VoLTE, a conexão não será interrompida por chamadas recebidas até você atender.
 2. Quando este recurso está ativado, a outra pessoa não ouvirá o tom de chamada a não ser que você esteja usando um cartão SIM normal. Chamadas recebidas serão rejeitadas automaticamente após 7-10 segundos de inatividade.
-3. Cartões SIM de dados fornecidos pela China Mobile e China Unicom são suportados. Cartões SIM normais fornecidos pela China Mobile, China Unicom e China Telecom são suportados."</string>
+3. Cartões SIM de dados fornecidos por China Mobile e China Unicom são suportados. Cartões SIM normais fornecidos por China Mobile, China Unicom e China Telecom são suportados."</string>
     <string name="function_gwsd_detail_new">"Sobre este recurso:
 %1$d. Quando você estiver usando dados móveis em um SIM de dados ou um cartão SIM comum conectado a uma rede VoLTE, a conexão não será interrompida por chamadas recebidas até que você atenda.
 %2$d. Quando esse recurso estiver ativado, a outra pessoa não poderá ouvir seus tons de retorno de chamada, a menos que você esteja usando um cartão SIM comum. As chamadas recebidas serão rejeitadas automaticamente após %3$d-%4$d segundos de inatividade.
-%5$d. Cartões SIM de dados emitidos pela China Mobile e China Unicom são suportados. Cartões SIM regulares emitidos pela China Mobile, China Unicom e China Telecom são suportados."</string>
+%5$d. Cartões SIM de dados emitidos por China Mobile e China Unicom são suportados. Cartões SIM regulares emitidos por China Mobile, China Unicom e China Telecom são suportados."</string>
     <string name="function_gwsd_title">Não permitir que chamadas recebidas interrompam a conexão de dados do SIM</string>
     <string name="function_oncall_not_close_network">"Não desconectar para chamadas"</string>
     <string name="function_oncall_not_close_network_detail">"Sobre este recurso: 
@@ -3825,7 +3825,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pc_berserk_mode_noti_summary">O Modo ultimate pode aumentar o consumo de bateria e causar problemas de superaquecimento</string>
     <string name="pc_berserk_mode_performance_title">Modo ultimate</string>
     <string name="pc_button_go_to_setting">Configurações</string>
-    <string name="pc_camera_handle_setting_title">Carregar via grip</string>
+    <string name="pc_camera_handle_setting_title">Carregar pelo punho</string>
     <string name="pc_camera_printer_dialog_battery_full">Completamente carregado</string>
     <string name="pc_camera_printer_dialog_battery_low">Bateria Fraca</string>
     <string name="pc_camera_printer_dialog_negative_button">Entendi</string>
