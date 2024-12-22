@@ -3072,7 +3072,7 @@ Chamadas de emergência só são possíveis em locais com cobertura de redes mó
     <string name="wifi_call_available_title">Ativando Chamada por Wi-Fi</string>
     <string name="wifi_call_cancel">Mais informações</string>
     <string name="wifi_call_help">Ajuda</string>
-    <string name="wifi_call_help_message_1">"Chamadas por Wi-Fi é um serviço fornecido pela Orange que permite que você faça e receba chamadas por Wi-Fi. Este recurso pode ser usado em áreas com cobertura de rede fraca.
+    <string name="wifi_call_help_message_1">"Chamadas por Wi-Fi é um serviço fornecido por Orange que permite que você faça e receba chamadas por Wi-Fi. Este recurso pode ser usado em áreas com cobertura de rede fraca.
 
 Para usar as Chamadas por Wi-Fi, ative-as em Configurações > Chamadas por Wi-Fi.
 
@@ -3085,7 +3085,7 @@ Sempre que este recurso estiver disponível, um ícone será exibido no topo da 
 
 Se você selecionar redes móveis como preferenciais, elas serão usadas por padrão para fazer chamadas telefônicas. Caso não exista cobertura de rede ou o sinal estiver fraco, as redes Wi-Fi serão usadas."</string>
     <string name="wifi_call_help_title">Ajuda das Chamadas Wi-Fi</string>
-    <string name="wifi_call_notification_message">Este serviço é fornecido pela Orange. A ativação do serviço pode levar várias horas. Você receberá um SMS de confirmação assim que ele estiver disponível.</string>
+    <string name="wifi_call_notification_message">Este serviço é fornecido por Orange. A ativação do serviço pode levar várias horas. Você receberá um SMS de confirmação assim que ele estiver disponível.</string>
     <string name="wifi_call_preferred_summary">Se você selecionar as redes móveis como preferenciais, as redes móveis serão usadas para as chamadas por padrão. Caso não haja sinal de rede ou ele esteja muito fraco, a rede Wi-Fi será usada.</string>
     <string name="wifi_call_setting">Chamadas Wi-Fi</string>
     <string name="wifi_call_setting_vodafone_de">Chamadas Wi-Fi</string>

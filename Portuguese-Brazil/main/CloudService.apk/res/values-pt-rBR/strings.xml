@@ -253,7 +253,7 @@
     <string name="error_credential_fail">Erro de senha</string>
     <string name="error_data_in_transfer">A sincronização terminará em %s horas.</string>
     <string name="error_data_in_transfer_title">"A MiCloud não está disponível"</string>
-    <string name="error_keybag_unknown">Ocorreu um erro desconhecido. Espere alguns minutos e tente novamente.</string>
+    <string name="error_keybag_unknown">Ocorreu um erro desconhecido. Aguarde um momento e tente novamente.</string>
     <string name="error_masterkey_changed">A senha foi alterada</string>
     <string name="error_masterkey_exists">A senha já existe</string>
     <string name="error_network">"Não é possível conectar-se à rede"</string>
@@ -264,7 +264,7 @@
     <string name="error_retry_exceed_limit_with_retry">Muitas tentativas malsucedidas. Tente novamente dentro de %s.</string>
     <string name="error_screen_pwd_retry_exceed_limit">Muitas tentativas malsucedidas</string>
     <string name="error_server">Erro no servidor</string>
-    <string name="error_server_busy">Nossos servidores estão ocupados. Espere alguns minutos e tente novamente.</string>
+    <string name="error_server_busy">Nossos servidores estão ocupados. Aguarde um momento e tente novamente.</string>
     <string name="error_server_error">Erro de servidor</string>
     <string name="error_timeout">O pedido expirou</string>
     <string name="error_token_expired">Faça login em sua Conta Mi novamente</string>

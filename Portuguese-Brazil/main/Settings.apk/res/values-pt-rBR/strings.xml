@@ -2992,7 +2992,7 @@ Para continuar usando seu telefone, é necessário restaurar as configurações 
     <string name="current_screen_lock">Bloqueio de tela atual</string>
     <string name="current_use_default_wallet">Selecionado automaticamente</string>
     <string name="current_use_ese">Usando elemento de segurança integrado</string>
-    <string name="current_use_ese_wallet">Você está usando a Carteira Mi. Ele permite que você use o Mi Pay e Cartões de transporte NFC.</string>
+    <string name="current_use_ese_wallet">Você está usando a Mi Wallet. Ele permite que você use o Mi Pay e Cartões de transporte NFC.</string>
     <string name="current_use_hce_wallet">Você está usando a Carteira HCE</string>
     <string name="current_use_uicc_se">Usando elemento de segurança no Cartão SIM</string>
     <string name="current_use_uicc_wallet">Você está usando a Carteira no SIM %1$s</string>
@@ -6337,7 +6337,7 @@ Não poderá reverter esta ação."</string>
     <string name="metadata_not_synced">Metadados não sincronizados</string>
     <string name="metadata_synced">Metadados sincronizados</string>
     <string name="mi_headset_healthy">Saúde auditiva</string>
-    <string name="mi_pay">"Carteira Mi"</string>
+    <string name="mi_pay">"Mi Wallet"</string>
     <string name="mi_pay_indonesia">Conta Mi Pay</string>
     <string name="mi_pay_summary">Cartão de transporte/Mi Pay/Cartão de acesso</string>
     <string name="mi_pay_summary_without_nfc">"Mi Pay"</string>
@@ -6348,8 +6348,8 @@ Não poderá reverter esta ação."</string>
     <string name="mi_smart_play_entry_title">Controle de mídia</string>
     <string name="mi_transfer">"Mi Mover"</string>
     <string name="mi_upi_settings">Conta Mi Pay</string>
-    <string name="mi_wallet">Carteira Mi</string>
-    <string name="mi_wallet_desc">Carteira Mi</string>
+    <string name="mi_wallet">"Mi Wallet"</string>
+    <string name="mi_wallet_desc">"Mi Wallet"</string>
     <string name="mibi_cta_CANCEL">Cancelar</string>
     <string name="mibi_cta_CheckBox">"Não mostrar novamente"</string>
     <string name="mibi_cta_OK">"OK"</string>
@@ -8898,7 +8898,7 @@ Para usar a fixação de apps: \u0009
     <string name="se_route_default">Selecione automaticamente</string>
     <string name="se_route_ese">Elemento de segurança integrado</string>
     <string name="se_route_uicc">Elemento de segurança no cartão SIM</string>
-    <string name="se_wallet_ese">Carteira Mi</string>
+    <string name="se_wallet_ese">"Mi Wallet"</string>
     <string name="se_wallet_hce">Carteira HCE</string>
     <string name="se_wallet_uicc">Carteira SIM %1$s</string>
     <string name="se_wallet_uicc_jp">"Cartão SIM %1$s (não pode ser selecionado automaticamente)"</string>
@@ -10532,7 +10532,7 @@ Tente usar um ^3 mais rápido ou use esse ^4 apenas como armazenamento portátil
     <string name="sync_enable">Sincronizar</string>
     <string name="sync_enabled">Sincronização ativada</string>
     <string name="sync_error">Erro na sincronização</string>
-    <string name="sync_failed">Não foi possível sincronizar. Espere alguns minutos e tente novamente</string>
+    <string name="sync_failed">Não foi possível sincronizar. Aguarde um momento e tente novamente</string>
     <string name="sync_gmail">"Gmail"</string>
     <string name="sync_in_progress">Sincronizando…</string>
     <string name="sync_is_failing">A sincronização está enfrentando problemas no momento. Ela retornará em breve.</string>

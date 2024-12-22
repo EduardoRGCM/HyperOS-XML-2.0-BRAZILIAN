@@ -761,7 +761,7 @@ Se você segurar o botão por %s segundos, abrirá o menu de desligamento."</str
     <string name="media_button">Botão de mídia</string>
     <string name="menu_item_about_privacy_title">Política de Privacidade</string>
     <string name="messageData">Mensagens</string>
-    <string name="mi_pay">Carteira Mi</string>
+    <string name="mi_pay">"Mi Wallet"</string>
     <string name="mi_pay_summary">Cartão de transporte/Pagamentos Mi/Cartão chave</string>
     <string name="mi_pay_summary_without_nfc">Pagamentos Mi</string>
     <string name="midnight">"AM"</string>
@@ -943,7 +943,7 @@ Se você segurar o botão por %s segundos, abrirá o menu de desligamento."</str
     <string name="passwordProtect">Senha</string>
     <string name="password_toggle_content_description">Mostrar senha</string>
     <string name="pin_toast">Deslize de baixo para cima na tela e faça uma pausa para desafixar este app</string>
-    <string name="pin_toast_nav">Pressione e segure os botões Voltar e Visualizar para desafixar este app</string>
+    <string name="pin_toast_nav">Pressione e segure os botões Voltar e Início para desafixar este app</string>
     <string name="please_diff_finger_print">"Certifique-se de que diferentes impressões digitais são usadas no Primeiro e Segundo espaços.
 Ou então você não será capaz de entrar no Segundo espaço a partir da Tela de bloqueio."</string>
     <string name="pm">"PM"</string>

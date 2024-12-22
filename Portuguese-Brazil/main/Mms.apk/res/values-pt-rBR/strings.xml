@@ -1188,7 +1188,7 @@ Dê uma olhada nos recomendados!"</string>
     <string name="rcs_search_result_server_data_empty">Não foi possível encontrar mini apps online</string>
     <string name="rcs_send_hello">Olá!</string>
     <string name="rcs_send_rms_remind_change">Configurações</string>
-    <string name="rcs_send_rms_remind_desp">O Mensagens 5G é um serviço de mensagens instantâneas fornecido pela China Mobile. Você pode desativar este recurso nas Configurações.</string>
+    <string name="rcs_send_rms_remind_desp">O Mensagens 5G é um serviço de mensagens instantâneas fornecido por China Mobile. Você pode desativar este recurso nas Configurações.</string>
     <string name="rcs_send_rms_remind_title">Usar Mensagens 5G</string>
     <string name="rcs_service_agreement">Contrato de Serviço</string>
     <string name="rcs_service_clear_all">Limpar tudo</string>

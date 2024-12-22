@@ -161,8 +161,8 @@
     <string name="material_timepicker_pm">"PM"</string>
     <string name="material_timepicker_select_time">Selecione o horário</string>
     <string name="material_timepicker_text_input_mode_description">Alterne para o modo de entrada de texto para informar o horário.</string>
-    <string name="mi_pay">Carteira Mi</string>
-    <string name="mi_pay_desc">Carteira Mi</string>
+    <string name="mi_pay">"Mi Wallet"</string>
+    <string name="mi_pay_desc">"Mi Wallet"</string>
     <string name="midnight">"AM"</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>

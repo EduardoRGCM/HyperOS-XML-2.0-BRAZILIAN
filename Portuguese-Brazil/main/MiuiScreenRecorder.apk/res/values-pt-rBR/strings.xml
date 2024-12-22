@@ -46,7 +46,7 @@
     <string name="button_goon_recorder">Retomar</string>
     <string name="camera_high_spec_recording">"Não é possível gravar a tela durante a gravação do vídeo em %1$s"</string>
     <string name="cancel_edit">Cancelar</string>
-    <string name="cannot_change_frames">A taxa de quadros só pode ser personalizada para gravações com taxa fixa de quadros.</string>
+    <string name="cannot_change_frames">A taxa de quadros só pode ser personalizada para gravações com taxa de quadros fixa.</string>
     <string name="cannot_change_parames">"Não é possível alterar os parâmetros durante uma gravação"</string>
     <string name="cannot_record">"Não foi possível gravar, tente novamente mais tarde."</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
@@ -66,8 +66,8 @@
     <string name="expand_button_title">Avançado</string>
     <string name="first_using_mic_dialog_message">O Gravador de tela precisa de acesso ao seu microfone para gravar áudio. Permitir?</string>
     <string name="first_using_mic_dialog_title">Permissões necessárias</string>
-    <string name="fixed_frame_rate">Taxa fixa de quadros</string>
-    <string name="fixed_frame_rate_summary">Gravar vídeos com uma taxa fixa de quadros melhora a reprodução em plataformas de mídias sociais e reduz a duração da bateria.</string>
+    <string name="fixed_frame_rate">Taxa de quadros fixa</string>
+    <string name="fixed_frame_rate_summary">Gravar vídeos com uma taxa de quadros fixa melhora a reprodução em plataformas de mídias sociais e reduz a duração da bateria.</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
     <string name="fmt_date_long_month">MMMM</string>

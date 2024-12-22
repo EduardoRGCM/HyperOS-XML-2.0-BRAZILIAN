@@ -4796,7 +4796,7 @@ Retirar o consentimento agora?"</string>
     <string name="privacy_revoke_dialog_positive_text_numbers">Retirar (%d s)</string>
     <string name="privacy_revoke_dialog_title">Retirada de consentimento</string>
     <string name="privacy_revoke_dialog_title_cn">Atenção!</string>
-    <string name="privacy_revoke_failed_dialog_content">Ocorreu um erro no servidor. Espere alguns minutos e tente novamente.</string>
+    <string name="privacy_revoke_failed_dialog_content">Ocorreu um erro no servidor. Aguarde um momento e tente novamente.</string>
     <string name="privacy_revoke_failed_dialog_title">"Não foi possível retirar o consentimento"</string>
     <string name="privacy_revoke_tip_dialog_content"><Data>"Você não poderá continuar usando %1$s a menos que você aceite a nova versão de sua Política de Privacidade. Aceitar a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a> %2$s atualizada agora?"</Data></string>
     <string name="privacy_revoke_tip_dialog_title">"Não é possível usar o app"</string>
@@ -5835,7 +5835,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="terminal_privacy_ability_others">Outros mecanismos</string>
     <string name="terminal_privacy_ability_others_summary">Compartilhamento de tela, teste de ambiente de pagamento, impressão digital e reconhecimento facial.</string>
     <string name="terminal_privacy_ability_suggest">Recomendações</string>
-    <string name="terminal_privacy_ability_suggest_summary">Recomendações e sugestões das pastas da Tela inicial, barra lateral e Carteira Mi.</string>
+    <string name="terminal_privacy_ability_suggest_summary">Recomendações e sugestões das pastas da Tela inicial, barra lateral e Mi Wallet.</string>
     <string name="terminal_privacy_ability_summary">• Os recursos e mecanismos de proteção de privacidade no dispositivo podem variar de acordo com o modelo do dispositivo.</string>
     <string name="terminal_privacy_ability_txt">Texto</string>
     <string name="terminal_privacy_ability_txt_summary">Edição de texto, legendas inteligentes, Taplus, mensagens e área de transferência compartilhada</string>

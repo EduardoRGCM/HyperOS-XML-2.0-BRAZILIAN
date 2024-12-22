@@ -272,7 +272,7 @@
     <string name="comment_model_report_fail">Não foi possível reportar</string>
     <string name="comment_model_report_success">Reportado com sucesso</string>
     <string name="comment_model_send_fail">Não foi possível enviar</string>
-    <string name="comment_model_send_fail_frequently">Não tão rápido! Espere alguns minutos e tente novamente.</string>
+    <string name="comment_model_send_fail_frequently">Não tão rápido! Aguarde um momento e tente novamente.</string>
     <string name="comment_model_send_forbid_desc">Você publicou vários comentários com itens que violam nossos padrões de comunidade. Sua conta está suspensa permanentemente agora. Você pode recorrer de nossa decisão usando o feedback do app.</string>
     <string name="comment_model_send_forbid_tips">Conta suspensa</string>
     <string name="comment_model_send_success">Enviado com sucesso</string>

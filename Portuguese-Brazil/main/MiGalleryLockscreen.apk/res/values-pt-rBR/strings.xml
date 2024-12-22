@@ -471,7 +471,7 @@ Isso pode gerar cobranças adicionais."</string>
     <string name="llks_subscribe">Cadastre-se</string>
     <string name="llks_subscribe_sucess">Inscrito com sucesso</string>
     <string name="llks_tools_gallery_name">Carrossel de planos de fundo</string>
-    <string name="llks_tools_mipay_wallet_name">Carteira Mi</string>
+    <string name="llks_tools_mipay_wallet_name">"Mi Wallet"</string>
     <string name="llks_tools_nfc_data">%s CNY</string>
     <string name="llks_tools_nfc_name">"NFC"</string>
     <string name="llks_tools_remote_control_name">Mi Remote</string>

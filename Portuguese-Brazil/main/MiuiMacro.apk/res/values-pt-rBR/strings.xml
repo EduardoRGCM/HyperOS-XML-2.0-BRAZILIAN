@@ -29,9 +29,6 @@
     <string name="abc_toolbar_collapse_description">Recolher</string>
     <string name="app_name">Mi Macro</string>
     <string name="brvah_app_name">Biblioteca</string>
-    <string name="brvah_load_end">Sem dados</string>
-    <string name="brvah_load_failed">O carregamento falhou, toque para tentar novamente.</string>
-    <string name="brvah_loading">Carregando…</string>
     <string name="cancel">Cancelar</string>
     <string name="character_counter_content_description">Limite de caracteres excedido: %1$d de %2$d</string>
     <string name="four_guide_introduce">Toque no botão [Macro] para ativar as funções macro definidas</string>
@@ -56,14 +53,14 @@
     <string name="gb_game_macro_config_prefix">Combinação %d</string>
     <string name="gb_game_macro_create_button">Criar uma combinação</string>
     <string name="gb_game_macro_create_macro">Criar</string>
-    <string name="gb_game_macro_create_message">Toque no botão abaixo para iniciar a gravação de uma combinação</string>
-    <string name="gb_game_macro_delete">Apagar</string>
+    <string name="gb_game_macro_create_message">Toque no botão abaixo para iniciar a gravação de uma combinação.</string>
+    <string name="gb_game_macro_delete">Excluir</string>
     <string name="gb_game_macro_enable">Desativado</string>
     <string name="gb_game_macro_guide_tips">Após iniciar, execute várias ações para fazer uma combinação.</string>
     <string name="gb_game_macro_guide_tips_two">Toque para atribuir um botão</string>
     <string name="gb_game_macro_play_count">Número de repetições</string>
-    <string name="gb_game_macro_preview">Pré-visualização</string>
-    <string name="gb_game_macro_preview_macro">Pré-visualização</string>
+    <string name="gb_game_macro_preview">Prévia</string>
+    <string name="gb_game_macro_preview_macro">Prévia</string>
     <string name="gb_game_macro_re_record">Recomeçar</string>
     <string name="gb_game_macro_record_action">Toque para iniciar a gravação</string>
     <string name="gb_game_macro_save">Salvar</string>
@@ -75,7 +72,7 @@
     <string name="name_not_empty">O nome do macro não pode estar em branco</string>
     <string name="name_not_greater_than_twenty_character_tips">O nome pode conter até 20 caracteres</string>
     <string name="name_not_less_than_two_character_tips">O nome deve conter pelo menos 2 caracteres</string>
-    <string name="notification_content">Combinação em execução…</string>
+    <string name="notification_content">Uma combinação está em execução…</string>
     <string name="notification_title">Macro</string>
     <string name="number_times">Número de vezes que uma ação é executada</string>
     <string name="ok">"OK"</string>
@@ -96,8 +93,8 @@
     <string name="second">Segundo</string>
     <string name="second_times">Atraso em segundos</string>
     <string name="three_guide_introduce">Suporte a mais ajustes. Toque em ativar para definir a posição do botão Macro.</string>
-    <string name="time">Vez</string>
-    <string name="times">Vezes</string>
+    <string name="time">vez</string>
+    <string name="times">vezes</string>
     <string name="two_guide_introduce">Toque na tela um a um para criar um conjunto de ações</string>
     <string name="using_tutorial">Usar tutorial</string>
 </resources>

@@ -191,7 +191,7 @@
     <string name="name_handy_mode">Modo para uma mão</string>
     <string name="name_long_press_power_key">Pressionar e segurar botão Liga/Desliga</string>
     <string name="name_memory_clean">Limpar cache</string>
-    <string name="name_mi_wallet">Carteira Mi</string>
+    <string name="name_mi_wallet">"Mi Wallet"</string>
     <string name="name_music_next_song">Próxima música</string>
     <string name="name_music_prev_song">Música anterior</string>
     <string name="name_music_toggle">Reproduzir/pausar música</string>
@@ -219,7 +219,7 @@
     <string name="pay_entry_dialog_title_setting">Definir app</string>
     <string name="permission_desc">Detalhes de permissões</string>
     <string name="pin_toast">Deslize de baixo para cima na tela e faça uma pausa para desafixar este app</string>
-    <string name="pin_toast_nav">Pressione e segure os botões Voltar e Visualizar para desafixar este app</string>
+    <string name="pin_toast_nav">Pressione e segure os botões Voltar e Início para desafixar este app</string>
     <string name="pm">"PM"</string>
     <string name="pref_category_mipay">Atalhos do NFC</string>
     <string name="pref_category_others">Outros</string>
@@ -316,7 +316,7 @@
     <string name="the_valentines_day">Dia dos Namorados</string>
     <string name="the_water_lantern_festival">Festival da Lanterna da Água</string>
     <string name="theme_manager_not_supported">"O Temas não é suportado."</string>
-    <string name="three_seconds_auto_hide">Ocultar na lateral após %d segundos de inatividade</string>
+    <string name="three_seconds_auto_hide">Mover para a borda após %d segundos de inatividade</string>
     <string name="thursday">Quinta</string>
     <string name="thursday_short">Qui</string>
     <string name="thursday_shortest">Qui</string>

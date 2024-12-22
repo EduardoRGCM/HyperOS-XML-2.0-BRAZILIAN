@@ -481,7 +481,7 @@
     <string name="wfcmode_mobile_preferred">Preferir dados móveis</string>
     <string name="wfcmode_wifi_only">Apenas Wi-Fi</string>
     <string name="wfcmode_wifi_preferred">Preferir Wi-Fi</string>
-    <string name="wifi_call_notification_message">"Este serviço é fornecido pela Orange. A ativação do serviço pode levar várias horas. Você receberá um SMS de confirmação assim que ele estiver disponível."</string>
+    <string name="wifi_call_notification_message">"Este serviço é fornecido por Orange. A ativação do serviço pode levar várias horas. Você receberá um SMS de confirmação assim que ele estiver disponível."</string>
     <string name="wifi_call_setting">Chamadas Wi-Fi</string>
     <string name="wifi_call_setting_vodafone_de">Chamadas Wi-Fi</string>
     <string name="wifi_call_setting_vodafone_uk">Chamada Wi-Fi</string>

@@ -306,7 +306,7 @@ Se você segurar o botão por %s segundos, abrirá o menu de desligamento."</str
     <string name="material_timepicker_text_input_mode_description">Alterne para o modo de entrada de texto para informar o horário.</string>
     <string name="media_button">Botão de mídia</string>
     <string name="menu_key">"Menu"</string>
-    <string name="mi_pay">Carteira Mi</string>
+    <string name="mi_pay">"Mi Wallet"</string>
     <string name="mi_pay_summary">Cartão de transporte/Mi Pay/Cartão-chave</string>
     <string name="mi_pay_summary_without_nfc">"Mi Pay"</string>
     <string name="midnight">"AM"</string>

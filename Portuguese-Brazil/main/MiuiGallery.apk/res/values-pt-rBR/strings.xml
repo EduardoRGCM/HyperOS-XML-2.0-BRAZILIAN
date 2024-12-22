@@ -2131,7 +2131,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="operation_slide_show">Iniciar apresentação de slides</string>
     <string name="operation_sort">Ordenar</string>
     <string name="operation_successful">Concluído</string>
-    <string name="operation_too_often">Epa! Muitas requisições estão sendo feitas do seu endereço IP. Espere alguns minutos e tente novamente.</string>
+    <string name="operation_too_often">Epa! Muitas requisições estão sendo feitas do seu endereço IP. Aguarde um momento e tente novamente.</string>
     <string name="operation_unforce_top">Desafixar</string>
     <string name="operation_unhide">Reexibir</string>
     <string name="operation_upgrade_gallery">Atualizar</string>

@@ -1473,7 +1473,7 @@ prioridades"</string>
 %2$s"</string>
     <string name="keyguard_instructions_when_pattern_disabled">Pressione Menu para desbloquear.</string>
     <string name="keyguard_invalid_sim_puk_hint">O código PUK deve conter %1$d dígitos.</string>
-    <string name="keyguard_left_mi_wallet">Carteira Mi</string>
+    <string name="keyguard_left_mi_wallet">"Mi Wallet"</string>
     <string name="keyguard_left_remotecentral">Mi Remote</string>
     <string name="keyguard_left_smarthome">Mi Home</string>
     <string name="keyguard_left_torch">Lanterna</string>
@@ -2204,7 +2204,7 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="phone_locked_forget_password_suggesstions_title">Como apagar os dados?</string>
     <string name="phone_locked_string">Este dispositivo foi bloqueado</string>
     <string name="pin_toast">Deslize de baixo para cima na tela e faça uma pausa para desafixar este app</string>
-    <string name="pin_toast_nav">Pressione e segure os botões Voltar e Visualizar para desafixar este app</string>
+    <string name="pin_toast_nav">Pressione e segure os botões Voltar e Início para desafixar este app</string>
     <string name="phone_locked_string_owner_user">Muitas tentativas malsucedidas de inserir a senha do Primeiro espaço. Este dispositivo está bloqueado agora.</string>
     <string name="phone_locked_string_second_user">Muitas tentativas malsucedidas de inserir a senha do Segundo espaço. Este dispositivo está bloqueado agora.</string>
     <string name="picture_color_mode">Modo de cor da imagem</string>
