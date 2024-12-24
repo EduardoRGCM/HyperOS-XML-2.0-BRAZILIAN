@@ -80,7 +80,7 @@
     <string name="bugreport_dialog_informed_consent_content">"Detectamos um erro relacionado à senha da Tela de bloqueio. Você pode enviar os logs do seu dispositivo para nos ajudar a localizar e resolver o problema. As informações de log serão enviadas anonimamente, serão usadas apenas para solução de problemas e serão excluídas assim que a solução for concluída."</string>
     <string name="bugreport_dialog_informed_consent_title">Consentimento informado</string>
     <string name="bugreport_dialog_not_show_again">"Não mostrar novamente"</string>
-    <string name="bugreport_dialog_submit_content">"&lt;Data>Você está salvando logs de software neste dispositivo agora. Os logs podem conter informações pessoais e os seus dados de localização. Não compartilhe os seus logs com mais ninguém se não quiser que estas informações sejam expostas. Ao selecionar \"Aceitar\" você estará afirmando que leu e aceitou a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a>.&lt;/Data>"</string>
+    <string name="bugreport_dialog_submit_content"><Data>"Você está salvando logs de software neste dispositivo agora. Os logs podem conter informações pessoais e os seus dados de localização. Não compartilhe os seus logs com mais ninguém se não quiser que estas informações sejam expostas. Ao selecionar \"Aceitar\" você estará afirmando que leu e aceitou a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a>."</Data></string>
     <string name="bugreport_dump_complete_notification_summary">Toque para ver.</string>
     <string name="bugreport_dump_complete_notification_title">Relatório de erros criado</string>
     <string name="bugreport_dump_start_notification_summary">Isto pode levar vários minutos.</string>
@@ -184,7 +184,7 @@
     <string name="cta_confirm">"OK"</string>
     <string name="cta_dialog_content">Este app precisa se conectar à internet para funcionar corretamente.</string>
     <string name="cta_dialog_title">Conexão com a internet</string>
-    <string name="cta_message">&lt;Data>Para poder funcionar normalmente, o Feedback precisa se conectar à internet. Este app também pode solicitar permissão para acessar sua localização. Leia e aceite a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> antes de continuar.&lt;/Data></string>
+    <string name="cta_message"><Data>Para poder funcionar normalmente, o Feedback precisa se conectar à internet. Este app também pode solicitar permissão para acessar sua localização. Leia e aceite a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> antes de continuar.</Data></string>
     <string name="cta_not_show_again">"Não mostrar novamente"</string>
     <string name="customer_service_apply">Solicitar suporte ao cliente</string>
     <string name="customer_service_complain">Reportar suporte ao cliente</string>
@@ -192,6 +192,13 @@
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="description">Descreva o problema</string>
+    <string name="device_header">"%1$d. Todos os dispositivos devem estar conectados à mesma Conta Mi.
+%2$d. Os dispositivos devem estar conectados ao Wi-Fi ou usando dados móveis."</string>
+    <string name="device_header_china">"%1$d. Todos os dispositivos devem estar conectados à mesma Conta Mi.
+%2$d. Os dispositivos devem estar conectados ao Wi-Fi ou usando dados móveis."</string>
+    <string name="device_not_found">Nenhum dispositivo conectado</string>
+    <string name="device_not_found_tips">Certifique-se de que os outros dispositivos estejam conectados à sua Conta Mi</string>
+    <string name="device_tips">A seleção de dispositivos conectados nos ajudará a analisar o problema com mais rapidez. Você pode fazer upload de logs deste dispositivo e dos dispositivos selecionados.</string>
     <string name="diagnosis_log_send_failed">"Não foi possível enviar os logs. Tente novamente."</string>
     <string name="diagnosis_log_sent_format">"Logs enviados com sucesso.
 ID: %s
@@ -255,6 +262,8 @@ Envie este código ao supervisor."</string>
     <string name="feedback_answer_detail_submit_dialog_title">Enviar feedback?</string>
     <string name="feedback_bug_status_change_notification_desc">Problema de %1$s - \"%2$s\"</string>
     <string name="feedback_choose_app_tag">Selecionar problema</string>
+    <string name="feedback_choose_device">Selecionar dispositivo</string>
+    <string name="feedback_choose_device_hint">"Você não selecionou nenhum dispositivo"</string>
     <string name="feedback_choose_module">Selecionar item</string>
     <string name="feedback_choose_module_hint">Obrigatório</string>
     <string name="feedback_choose_occurrence_time">Hora</string>
@@ -995,9 +1004,9 @@ Leia e aceite a nova versão da %3$s antes de continuar."</string>
     <string name="stop_full_log_dialog_title">Gerando logs…</string>
     <string name="submit_dialog_cancel">"Não aceitar"</string>
     <string name="submit_dialog_confirm">Aceitar</string>
-    <string name="submit_dialog_content">"&lt;Data>Leia e aceite a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> antes de enviar seu feedback. Os problemas que você reportar, juntamente com os itens que você anexar (incluindo os logs que podem conter informações pessoais, bem como informações sobre seu dispositivo e a rede) serão enviados aos servidores do HyperOS. Isto nos ajudará a localizar e corrigir os problemas que você reportar. Se você reportar problemas relacionados a vários dispositivos, os logs dos outros dispositivos onde a sua Conta Mi é usada também serão enviados.&lt;/Data>"</string>
-    <string name="submit_dialog_content_global">"&lt;Data>O seu feedback, junto com anexos (caso existam) e logs (você pode desmarcar as caixas correspondentes aos itens que você não deseja enviar) serão enviados aos servidores do HyperOS. Os logs podem conter informações pessoais e seus dados de localização. Ao selecionar \"Aceitar\" você estará afirmando que leu e aceitou a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a>.&lt;/Data>"</string>
-    <string name="submit_dialog_content_global_with_contactinfo">"&lt;Data>O seu feedback, junto com anexos (caso existam), logs (você pode desmarcar as caixas correspondentes aos itens que você não deseja enviar), número de telefone ou e-mail serão enviados aos servidores do HyperOS. Os logs podem conter informações pessoais e seus dados de localização. Ao selecionar \"Aceitar\" você estará afirmando que leu e aceitou a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a>.&lt;/Data>"</string>
+    <string name="submit_dialog_content"><Data>Leia e aceite a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> antes de enviar seu feedback. Os problemas que você reportar, juntamente com os itens que você anexar (incluindo os logs que podem conter informações pessoais, bem como informações sobre seu dispositivo e a rede) serão enviados aos servidores do HyperOS. Isto nos ajudará a localizar e corrigir os problemas que você reportar. Se você reportar problemas relacionados a vários dispositivos, os logs dos outros dispositivos onde a sua Conta Mi é usada também serão enviados.</Data></string>
+    <string name="submit_dialog_content_global"><Data>"O seu feedback, junto com anexos (caso existam) e logs (você pode desmarcar as caixas correspondentes aos itens que você não deseja enviar) serão enviados aos servidores do HyperOS. Os logs podem conter informações pessoais e seus dados de localização. Ao selecionar \"Aceitar\" você estará afirmando que leu e aceitou a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a>."</Data></string>
+    <string name="submit_dialog_content_global_with_contactinfo"><Data>"O seu feedback, junto com anexos (caso existam), logs (você pode desmarcar as caixas correspondentes aos itens que você não deseja enviar), número de telefone ou e-mail serão enviados aos servidores do HyperOS. Os logs podem conter informações pessoais e seus dados de localização. Ao selecionar \"Aceitar\" você estará afirmando que leu e aceitou a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a>."</Data></string>
     <string name="submit_dialog_not_show_again">"Não mostrar novamente"</string>
     <string name="submit_dialog_title">Enviar relatório</string>
     <string name="submit_feedback_info_failed">"Não foi possível enviar o relatório"</string>
@@ -1156,15 +1165,20 @@ Tamanho: %2$s"</string>
     <string name="withdraw_consent_failed_hint_connect_net">Seu dispositivo precisa se conectar à rede para que você possa retirar o consentimento. Verifique suas configurações de rede e tente novamente.</string>
     <string name="withdraw_consent_hint">"Se continuar, você retirará seu consentimento com a Política de Privacidade de %1$s. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido de outra forma. Como %2$s fornece seus serviços com base na coleta das informações pessoais necessárias, sua retirada de consentimento será considerada como uma recusa em aceitar os serviços de %3$s. Retirar o consentimento agora?"</string>
     <string name="withdrawing">Retirando consentimento…</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Agora não</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Atualizar</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Uma atualização está disponível</string>
     <string name="xiaomi_update_sdk_bytes_unit">"%1$s B"</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Falha ao conectar o Gerenciador de downloads, verifique o estado do Gerenciador de downloads no Gerenciamento de apps</string>
     <string name="xiaomi_update_sdk_dialog_message">"Apresentando a versão %1$s
 Tamanho: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_message_diff">"Apresentando a versão %1$s
 Tamanho da atualização delta: %2$s"</string>
-    <string name="xiaomi_update_sdk_dialog_title">%1$s atualizar!</string>
+    <string name="xiaomi_update_sdk_dialog_title">Uma atualização está disponível</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Armazenamento indisponível, verifique o cartão SD.</string>
     <string name="xiaomi_update_sdk_kilobytes_unit">"%1$s KB"</string>
     <string name="xiaomi_update_sdk_megabytes_unit">"%1$s MB"</string>
+    <string name="xiaomi_update_sdk_update_dialog_cancel">Agora não</string>
+    <string name="xiaomi_update_sdk_update_dialog_ok">Atualizar</string>
     <string name="yesterday">Ontem</string>
 </resources>

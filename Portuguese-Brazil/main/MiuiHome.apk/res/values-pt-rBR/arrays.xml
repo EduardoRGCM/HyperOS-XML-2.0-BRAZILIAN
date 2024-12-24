@@ -5,11 +5,6 @@
         <item>Balanceado</item>
         <item>Rápido</item>
     </string-array>
-    <string-array name="editing_mode_entries">
-        <item>Plano de fundo</item>
-        <item>"Widgets"</item>
-        <item>Configurar</item>
-    </string-array>
     <string-array name="editing_mode_entries_new">
         <item>Plano de fundo</item>
         <item>Efeitos</item>
@@ -19,37 +14,6 @@
     <string-array name="layout_preview_button">
         <item>Padrão</item>
         <item>Denso</item>
-    </string-array>
-    <string-array name="gadget_weather_image">
-        <item>Limpo</item>
-        <item>Nublado</item>
-        <item>Nebuloso</item>
-        <item>Nevoeiro</item>
-        <item>Tempestade intensa</item>
-        <item>Tempestade</item>
-        <item>Chuva muito intensa</item>
-        <item>Trovoada</item>
-        <item>Chuva</item>
-        <item>Chuva intensa</item>
-        <item>Chuva</item>
-        <item>Garoa</item>
-        <item>Granizo</item>
-        <item>Tempestade de neve</item>
-        <item>Queda esparsa de neve</item>
-        <item>Nevasca intensa</item>
-        <item>Queda de neve</item>
-        <item>Nevasca fraca</item>
-        <item>Tempestade intensa de areia</item>
-        <item>Tempestade de areia</item>
-        <item>Tempestade fraca de areia</item>
-        <item>Tempestade de areia</item>
-        <item>Granizo</item>
-        <item>Poeira flutuante</item>
-        <item>Neblina</item>
-    </string-array>
-    <string-array name="gadget_weather_theme_type_entries">
-        <item>Padrão</item>
-        <item>Clássico</item>
     </string-array>
     <string-array name="icon_size">
         <item>EP</item>
@@ -82,16 +46,5 @@
         <item>Cascata</item>
         <item>Rodar</item>
         <item>Cubo</item>
-    </string-array>
-    <string-array name="wallpaper_scroll_entries">
-        <item>Padrão do tema</item>
-        <item>Centralizado</item>
-        <item>Esquerda</item>
-        <item>Direita</item>
-    </string-array>
-    <string-array name="widget_package_install_status">
-        <item>Não instalado</item>
-        <item>Instalado</item>
-        <item>Atualizável</item>
     </string-array>
 </resources>

@@ -93,6 +93,10 @@ total de %2$d música"</item>
         <item quantity="other">%1$d músicas</item>
         <item quantity="one">%1$d música</item>
     </plurals>
+    <plurals name="asm_tracks">
+        <item quantity="other">%1$s músicas</item>
+        <item quantity="one">%1$s música</item>
+    </plurals>
     <plurals name="backpack_gift_timerleft_day">
         <item quantity="other">%1$d dias</item>
         <item quantity="one">%1$d dia</item>

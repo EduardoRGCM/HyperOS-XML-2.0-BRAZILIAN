@@ -4,13 +4,13 @@
         <item quantity="other">1 hora atrás</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 hora atrás</item>
+        <item quantity="other">%d hora atrás</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Em 1 hora</item>
+        <item quantity="other">Em %d hora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Em meia hora</item>
@@ -20,7 +20,7 @@
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">Em %d min</item>
-        <item quantity="one">Em 1 min</item>
+        <item quantity="one">Em %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Agora mesmo</item>
@@ -36,14 +36,6 @@
     <plurals name="announce_for_unread">
         <item quantity="other">%2$s não lidas de %1$s</item>
         <item quantity="one">%2$s não lida de %1$s</item>
-    </plurals>
-    <plurals name="delete_wallpapers_message">
-        <item quantity="other">Excluir %1$d planos de fundo?</item>
-        <item quantity="one">Excluir %1$d plano de fundo?</item>
-    </plurals>
-    <plurals name="editing_mode_title">
-        <item quantity="other">%1$d itens selecionados</item>
-        <item quantity="one">%1$d item selecionado</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
@@ -67,10 +59,6 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d itens selecionados</item>
         <item quantity="one">%d item selecionado</item>
-    </plurals>
-    <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d novas notificações</item>
-        <item quantity="one">%d nova notificação</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minutos atrás</item>
