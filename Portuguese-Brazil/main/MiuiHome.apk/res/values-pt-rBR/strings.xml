@@ -135,7 +135,6 @@
     <string name="app_category_travel">Viagem</string>
     <string name="app_category_vr">RV</string>
     <string name="app_edit_icon">Editar ícone</string>
-    <string name="app_install_state">Instalado</string>
     <string name="app_name">Janela pequena</string>
     <string name="application_name">Launcher do sistema</string>
     <string name="apply">Definir</string>
@@ -302,8 +301,8 @@
     <string name="folder_picker_default_text">"Regular"</string>
     <string name="folder_picker_options_tab_text">Tamanho</string>
     <string name="folder_picker_tab_text">Pasta</string>
-    <string name="free_style_title">Espaço Mi</string>
-    <string name="free_style_unavailable_message">O Espaço Mi não é mais suportado nesta versão. Você ainda pode continuar usando este tema.</string>
+    <string name="free_style_title">"Mi Space"</string>
+    <string name="free_style_unavailable_message">O Mi Space não é mais suportado nesta versão. Você ainda pode continuar usando este tema.</string>
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
@@ -312,7 +311,7 @@
     <string name="fs_gesture_final_over">"Estou pronto"</string>
     <string name="fs_gesture_final_restart">Mais uma vez</string>
     <string name="fs_gesture_final_see_more">Veja mais demonstrações em Configurações > Tela inicial > Navegação do sistema</string>
-    <string name="fs_gesture_final_summary">Você pode voltar a usar os botões em Configurações > Tela cheia</string>
+    <string name="fs_gesture_final_summary">Você pode voltar a usar os botões em Configurações > Tela infinita</string>
     <string name="fs_gesture_final_title">"Você está pronto para começar!"</string>
     <string name="fs_gesture_finish">Ótimo!</string>
     <string name="fs_gesture_left_back_ready_summary">Deslize para a direita a partir da borda</string>
@@ -357,7 +356,7 @@
     <string name="how_to_switch_recents">Abrir apps recentes</string>
     <string name="how_to_use_app_quick">Como alternar entre apps</string>
     <string name="how_to_use_app_quick_hide_line_summary">Deslize para cima a partir da parte inferior da tela e deslize para a esquerda ou direita</string>
-    <string name="how_to_use_app_quick_summary">Deslize para a esquerda ou direita a partir do indicador de tela cheia ou na parte inferior da tela</string>
+    <string name="how_to_use_app_quick_summary">Deslize para a esquerda ou direita a partir do indicador da tela infinita ou na parte inferior da tela</string>
     <string name="how_to_use_drawer">Como abrir o menu lateral</string>
     <string name="how_to_use_drawer_summary">Deslize para a direita na parte superior da tela</string>
     <string name="how_to_use_fsg">Você pode executar as seguintes ações usando gestos:</string>
@@ -527,14 +526,13 @@ Segurança aprimorada."</string>
     <string name="navigation_guide_dialog_summary">Aprenda quais gestos você pode usar para a navegação do sistema.</string>
     <string name="navigation_guide_dialog_title">Aprender gestos</string>
     <string name="navigation_guide_gesture_line_dialog_summary">Um novo gesto para alternar entre apps será usado depois que você ocultar o indicador de tela infinita. Aprender este gesto agora?</string>
-    <string name="navigation_guide_gesture_line_dialog_title">Aprender mais gestos</string>
+    <string name="navigation_guide_gesture_line_dialog_title">Aprenda um novo gesto</string>
     <string name="navigation_guide_hide_gesture_line_summary">"Oculta o indicador de tela infinita ao usar os gestos em tela cheia"</string>
     <string name="navigation_guide_hide_gesture_line_title">Ocultar indicador de tela infinita</string>
     <string name="navigation_guide_home_summary">Deslize para cima da parte inferior da tela</string>
     <string name="navigation_guide_home_title">Voltar à Tela inicial</string>
     <string name="navigation_guide_recent_summary">Deslize para cima a partir da parte inferior da tela e segure</string>
     <string name="navigation_guide_recent_title">Abrir apps recentes</string>
-    <string name="navigation_guide_recent_title_spec_with_quotation_pad">Abrir apps recentes</string>
     <string name="navigation_guide_settings">Demonstração de gestos</string>
     <string name="navigation_position_center">Centro</string>
     <string name="navigation_position_left">Esquerda</string>
@@ -552,7 +550,7 @@ Segurança aprimorada."</string>
     <string name="new_default_folder_title_tools">Apps do sistema</string>
     <string name="new_folder_picker_sliding_button_tab_text">Ordenar apps automaticamente</string>
     <string name="new_open_personal_assistant_settings_simplified">Assistente</string>
-    <string name="new_privacy_thumbnail_blur_summary">Desfoca a visualizações de apps nos Recentes</string>
+    <string name="new_privacy_thumbnail_blur_summary">Desfoca a prévias de apps nos Recentes</string>
     <string name="new_recents_config_title">Outros</string>
     <string name="night">"PM"</string>
     <string name="no_space_toast">Não há espaço suficiente</string>
@@ -622,9 +620,9 @@ Segurança aprimorada."</string>
     <string name="recents_title_garbage_cleanup">Limpeza</string>
     <string name="recents_title_garbage_deepclean">Limpeza profunda</string>
     <string name="recents_title_market">Encontrar apps</string>
-    <string name="recents_title_security_scan">Verificação de segurança</string>
+    <string name="recents_title_security_scan">Verificar segurança</string>
     <string name="recents_worldcirculate_text">Solte para selecionar</string>
-    <string name="recnets_relay_device_info">A partir de %s</string>
+    <string name="recnets_relay_device_info">De %s</string>
     <string name="recnets_worldcirculate_display_computer_info">O app está funcionando em %s.</string>
     <string name="recnets_worldcirculate_display_default_info">Toque para trazê-lo de volta aqui.</string>
     <string name="recnets_worldcirculate_display_pad_info">O app está funcionando em %s.</string>
@@ -637,7 +635,7 @@ Segurança aprimorada."</string>
     <string name="recommend_xout">"Não mostrar"</string>
     <string name="remove_dialog_title_format">Remover \"%s\" da Tela inicial?</string>
     <string name="remove_invalidate_gadget_tips">Um dos widgets que você usa não está mais disponível. Você pode adicionar outro.</string>
-    <string name="remove_sys_app_content">"Você poderá adicionar o atalho da Tela inicial novamente nas Configurações > Apps > Gerenciar atalhos da Tela inicial. Remover agora?"</string>
+    <string name="remove_sys_app_content">"Você ainda poderá adicionar o atalho na Tela inicial novamente em Configurações > Apps > Gerenciar atalhos da Tela inicial. Remover agora?"</string>
     <string name="remove_sys_app_title">Remover o atalho da Tela inicial?</string>																   
     <string name="reset_cate_tip_content">Se você continuar, os grupos padrão de apps serão restaurados. Continuar mesmo assim?</string>
     <string name="reset_cate_tip_title">Restaurar grupos padrão</string>
@@ -646,7 +644,7 @@ Segurança aprimorada."</string>
     <string name="reset_fail">"Não foi possível restaurar"</string>
     <string name="reset_title">Restaurar</string>
     <string name="restore_icon_successful">Adicionado com sucesso</string>
-    <string name="risk_app_report">Denunciar este app</string>
+    <string name="risk_app_report">Reportar este app</string>
     <string name="russia_preinstall_folder_name">Rússia</string>
     <string name="safe_launcher_header_check_update">Procurar por atualizações</string>
     <string name="safe_launcher_header_check_update_available">Uma atualização da launcher está disponível. Você pode instalar a nova versão do GetApps.</string>
@@ -664,6 +662,7 @@ Segurança aprimorada."</string>
     <string name="search_in_apps_store">Pesquisar por \"%1$s\" no %2$s</string>
     <string name="search_menu_title">Pesquisar</string>
     <string name="search_no_result">Nenhum resultado encontrado</string>
+    <string name="select_all">Selecionar todos</string>
     <string name="send">Enviar</string>
     <string name="server_error">Ocorreu um erro no servidor. Aguarde um momento e tente novamente.</string>
     <string name="setting_close">Desativado</string>
@@ -674,6 +673,7 @@ Segurança aprimorada."</string>
     <string name="settings_shortcut">Configurações</string>
     <string name="shake_to_align_icons">Balance o dispositivo para preencher espaços vazios com ícones</string>
     <string name="share">Enviar</string>
+    <string name="shortcut_menu_add_widget">Adicionar widget</string>
     <string name="shortcut_share_dialog_content">"Os arquivos que você envia do seu dispositivo, bem como os destinatários, são selecionados e determinados por você. Tenha atenção ao escolher arquivos para compartilhar e os destinatários que selecionar. Você não pode usar o seu dispositivo para transmitir nenhum vírus, malware, trojans, bombas-relógio e outros objetos prejudiciais para outras pessoas. Não use seu dispositivo para transmitir qualquer software que possa afetar o uso normal do dispositivo do destinatário ou qualquer item que possa danificar, interferir, interceptar ou excluir quaisquer dados de sistema ou informações pessoais em dispositivos terminais móveis. Você será o responsável por qualquer dano causado a outros usuários ou dispositivos terminais móveis. A Xiaomi fará o seu melhor para garantir que a funcionalidade de compartilhamento, bem como as tecnologias e informações envolvidas, sejam seguras, efetivas, precisas e confiáveis. No entanto, devido às limitações de tecnologias atuais, a Xiaomi não garante que a funcionalidade de compartilhamento é livre de erros e satisfará as suas necessidades."</string>
     <string name="shortcut_share_dialog_content_pad">"Os arquivos que você envia do seu dispositivo, bem como os destinatários, são selecionados e determinados por você. Tenha atenção ao escolher arquivos para compartilhar e os destinatários que selecionar. Você não pode usar o seu dispositivo para transmitir nenhum vírus, malware, trojans, bombas-relógio e outros objetos prejudiciais para outras pessoas. Não use seu dispositivo para transmitir qualquer software que possa afetar o uso normal do dispositivo do destinatário ou qualquer item que possa danificar, interferir, interceptar ou excluir quaisquer dados de sistema ou informações pessoais em dispositivos terminais móveis. Você será o responsável por qualquer dano causado a outros usuários ou dispositivos terminais móveis. A Xiaomi fará o seu melhor para garantir que a funcionalidade de compartilhamento, bem como as tecnologias e informações envolvidas, sejam seguras, efetivas, precisas e confiáveis. No entanto, devido às limitações de tecnologias atuais, a Xiaomi não garante que a funcionalidade de compartilhamento é livre de erros e satisfará as suas necessidades."</string>
     <string name="shortcut_share_dialog_positive_button">Entendi</string>
@@ -733,6 +733,7 @@ Disponível: %1$s | Total: %2$s"</string>
     <string name="system_shortcuts_icon_remove">Remover</string>
     <string name="system_shortcuts_more_operation">Detalhes</string>
     <string name="system_shortcuts_remove">Remover</string>
+    <string name="system_shortcuts_size_adapt">Ajustar tamanho</string>
     <string name="system_text">Automático</string>
     <string name="talkback_systemaction_item_cts">Circule para pesquisar</string>
     <string name="task_access_locked_app_msg">Bloqueio de apps ativado</string>
@@ -817,8 +818,8 @@ Disponível: %1$s | Total: %2$s"</string>
     <string name="widgets_preview_title">Adicionar widgets</string>
     <string name="work_mode_off_detailed_text">"Seus apps de trabalho não podem enviar notificações, usar sua bateria ou acessar sua localização."</string>
     <string name="work_mode_off_text">Os apps de trabalho estão pausados</string>
-    <string name="work_mode_toggle_off">Desative os apps de trabalho</string>
-    <string name="work_mode_toggle_on">Ative os apps de trabalho</string>
+    <string name="work_mode_toggle_off">Desativar apps de trabalho</string>
+    <string name="work_mode_toggle_on">Ativar apps de trabalho</string>
     <string name="work_profile_first_content">Dados pessoais estão separados e ocultos de apps de trabalho</string>
     <string name="work_profile_got_button">Entendi</string>
     <string name="work_profile_next_button">Avançar</string>
