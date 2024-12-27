@@ -479,6 +479,7 @@ Você pode fazer login com sua Conta Mi usando %s agora."</string>
     <string name="operator_unicom_agreement">Serviços de verificação fornecidos por China Unicom</string>
     <string name="optional_permissions">Permissões opcionais</string>
     <string name="page_load_failed">Não é possível abrir a página</string>
+    <string name="pasport_register_dialog_message">Criar uma Conta Mi através do seu número de telefone %s agora?</string>
     <string name="passport_access_denied">Acesso negado</string>
     <string name="passport_account_crop_user_avatar">Cortar foto</string>
     <string name="passport_account_empty_user_name">Digite seu nome</string>
@@ -675,6 +676,8 @@ Você pode fazer login com sua Conta Mi usando %s agora."</string>
     <string name="passport_register_account_verified_confirm">Conta verificada</string>
     <string name="passport_register_by_local_phone_long_text">Criar conta</string>
     <string name="passport_register_by_local_phone_short_text">Criar conta</string>
+    <string name="passport_register_dialog_positive">Criar</string>
+    <string name="passport_register_dialog_title">Criar Conta Mi</string>
     <string name="passport_register_restricted">Muitas contas foram associadas a este número. Experimente um diferente.</string>
     <string name="passport_register_restricted_title">"Não é possível usar este número de telefone"</string>
     <string name="passport_registered_phone_num">Telefone: %s</string>

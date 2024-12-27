@@ -441,7 +441,7 @@ Usuários de outros fones de ouvido: redefina seus fones de ouvido nas configura
     <string name="quick_settings_batterysaver_label">Economia de bateria</string>
     <string name="quick_settings_bluetooth_detail_empty_text">Nenhum dispositivo emparelhado disponível</string>
     <string name="quick_settings_bluetooth_label">"Bluetooth"</string>
-    <string name="quick_settings_camera_grip_charge">Carregar pelo punho</string>
+    <string name="quick_settings_camera_grip_charge">Carregar via grip</string>
     <string name="quick_settings_cellular_detail_dialog_message_turnoff">Os dados móveis (WCDMA/LTE) serão desativados. A menos que você use Wi-Fi, você não poderá mais usar apps que requerem uma conexão de dados. O envio ou recebimento de mensagens multimídia será restrito.</string>
     <string name="quick_settings_cellular_detail_dialog_message_turnon">Os dados móveis serão ativados. A conexão a redes móveis pode resultar em custos adicionais, dependendo do seu plano de dados.</string>
     <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">Cancelar</string>

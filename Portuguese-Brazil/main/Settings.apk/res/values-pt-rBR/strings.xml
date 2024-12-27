@@ -7811,7 +7811,12 @@ Leia e aceite o %s antes de usar este recurso."</string>
     <string name="photography_handle_charge_protected_summary">"Quando o dispositivo reconhecer que você está usando o grip da câmera, o dispositivo irá parar de carregar e manter a bateria em %1$s"</string>
     <string name="photography_handle_charge_settings">Configurações de carregamento</string>
     <string name="photography_handle_charge_state">Carregar grip da câmera</string>
+    <string name="photography_handle_charge_state_choice_always">Sempre</string>
+    <string name="photography_handle_charge_state_choice_emergency">Emergência</string>
     <string name="photography_handle_charge_state_summary">Carregue este dispositivo pelo grip da câmera sempre que ele estiver conectado</string>
+    <string name="photography_handle_charge_state_summary_new">Comece a carregar este dispositivo com o grip da câmera depois de conectado</string>
+    <string name="photography_handle_emergency_charge_summary">Inicie o carregamento de emergência quando a bateria estiver abaixo de %1$s</string>
+    <string name="photography_handle_emergency_charge_title">Nível de carregamento de emergência</string>
     <string name="photography_handle_function_settings">Configurações de aderência da câmera</string>
     <string name="photography_handle_launch_and_take_photo">Tirar fotos</string>
     <string name="photography_handle_launch_camera">Abrir câmera</string>

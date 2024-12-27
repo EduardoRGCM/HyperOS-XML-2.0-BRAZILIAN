@@ -3825,7 +3825,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="pc_berserk_mode_noti_summary">O Modo ultimate pode aumentar o consumo de bateria e causar problemas de superaquecimento</string>
     <string name="pc_berserk_mode_performance_title">Modo ultimate</string>
     <string name="pc_button_go_to_setting">Configurações</string>
-    <string name="pc_camera_handle_setting_title">Carregar pelo punho</string>
+    <string name="pc_camera_handle_setting_title">Carregar via grip</string>
     <string name="pc_camera_printer_dialog_battery_full">Completamente carregado</string>
     <string name="pc_camera_printer_dialog_battery_low">Bateria Fraca</string>
     <string name="pc_camera_printer_dialog_negative_button">Entendi</string>

@@ -306,6 +306,7 @@
     <string name="accessibility_quick_settings_dnd_priority_on">Não perturbe ativado, apenas prioridades.</string>
     <string name="accessibility_quick_settings_edit">Editar ordem das configurações.</string>
     <string name="accessibility_quick_settings_expand">Abrir configurações rápidas.</string>
+    <string name="accessibility_quick_settings_handle_handsfree_battery_level">Grip conectado</string>
     <string name="accessibility_quick_settings_flashlight_changed_off">A lanterna foi desligada.</string>
     <string name="accessibility_quick_settings_flashlight_changed_on">A lanterna foi ligada.</string>
     <string name="accessibility_quick_settings_flashlight_off">Lanterna desligada.</string>
@@ -1273,7 +1274,7 @@ Digite seu PIN para desbloquear."</string>
     <string name="gxzw_quick_open_wechat_scan">"Scanner"</string>
     <string name="gxzw_quick_open_wechat_scan_sub">WeChat</string>
     <string name="gxzw_quick_open_xiaoai_sub">"Mi AI"</string>
-    <string name="gxzw_quick_open_xiaoai_super_sub">Xiaomi Hyper XiaoAi</string>
+    <string name="gxzw_quick_open_xiaoai_super_sub">"Xiaomi Hyper XiaoAi"</string>
     <string name="gxzw_quick_open_xiaoai_title1">Diga o nome do app que deseja abrir</string>
     <string name="gxzw_quick_open_xiaoai_title2">Diga o nome do recurso que deseja usar</string>
     <string name="gxzw_quick_tip_press">Continue pressionando…</string>
@@ -3608,7 +3609,7 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="disabled_by_app_ops_text">Controlado por configuração restrita</string>
     <string name="dismiss_dialog">Soltar</string>
     <string name="dismissible_keyguard_swipe">Deslize para cima para continuar</string>
-    <string name="dist_compute_title">Suporte de computação</string>
+    <string name="dist_compute_title">Suporte computacional</string>
     <string name="dnd_is_off">O Não perturbe está desativado</string>
     <string name="dnd_is_on">O Não perturbe está ativado</string>
     <string name="dock_multi_instances_not_supported_text">Este app só pode ser aberto em 1 janela.</string>

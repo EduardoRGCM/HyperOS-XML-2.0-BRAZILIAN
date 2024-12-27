@@ -802,7 +802,7 @@ Libere pelo menos %s."</string>
     <string name="size_mega_byte">"MB"</string>
     <string name="size_peta_byte">"PB"</string>
     <string name="size_tera_byte">"TB"</string>
-    <string name="skip_compatibility_mode">Agora não</string>
+    <string name="skip_compatibility_mode">Pular</string>
     <string name="sms_title">Mensagens</string>
     <string name="soft_ap_create_failed">"Não foi possível criar o hotspot"</string>
     <string name="soft_ap_creating">Criando hotspot…</string>
@@ -921,7 +921,7 @@ Libere pelo menos %s."</string>
     <string name="thursday_short">Qui</string>
     <string name="thursday_shortest">Qui</string>
     <string name="time_picker_dialog_title">Ajuste a hora</string>
-    <string name="title_compatibility_mode">Ative o Modo de compatibilidade de apps</string>
+    <string name="title_compatibility_mode">Modo de compatibilidade de apps</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
     <string name="total_size">, %s</string>
