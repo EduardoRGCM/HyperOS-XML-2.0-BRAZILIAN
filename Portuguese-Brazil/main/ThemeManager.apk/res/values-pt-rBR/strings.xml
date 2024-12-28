@@ -121,6 +121,7 @@
     <string name="ai_wallpaper_inside_invitation">Teste beta do Planos de fundo dinâmicos IA</string>
     <string name="ai_wallpaper_inside_invitation_agree">Aceitar</string>
     <string name="ai_wallpaper_inside_invitation_description">Este recurso usa recursos de modelos grandes para usar fotos de paisagens, cidades, plantas e carros para criar planos de fundo de vídeo dinâmicos. Toque em \"Aceitar\" para experimentar!</string>
+    <string name="ai_wallpaper_inside_invitation_description_all">Este recurso usa recursos de modelos grandes para usar fotos de paisagens, cidades, plantas e carros para criar planos de fundo de vídeo dinâmicos. Toque em \"Aceitar\" para experimentar!</string>
     <string name="ai_wallpaper_inside_invitation_disagree">"Não aceitar"</string>
     <string name="ai_wallpaper_network_connection_exception">"Não foi possível conectar-se à rede"</string>
     <string name="ai_wallpaper_network_exception">Ocorreu um erro de rede</string>
