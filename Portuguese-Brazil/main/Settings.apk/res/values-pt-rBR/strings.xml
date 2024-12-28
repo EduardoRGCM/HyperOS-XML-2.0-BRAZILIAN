@@ -2388,8 +2388,8 @@ Se você instalar um certificado de CA, o proprietário do certificado poderá a
     <string name="call_notification_ongoing_text">Chamada em andamento</string>
     <string name="call_notification_screening_text">Filtrando uma ligação recebida</string>
     <string name="call_records_name_1">Diorgenes Setubal</string>
-    <string name="call_records_name_2">Gabriela Kircheiss</string>
-    <string name="call_records_name_3">Ricardo Guariento</string>
+    <string name="call_records_name_2">Igor Miguel</string>
+    <string name="call_records_name_3">Eduardo Rodrigues</string>
     <string name="call_records_summary_1">9:35 AM | 26 segundos</string>
     <string name="call_records_summary_2">16 de Agosto | 1m 16s</string>
     <string name="call_records_summary_3">16 de Agosto | 2m 24s</string>

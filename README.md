@@ -18,7 +18,7 @@ For more info visit:
 ##### Translators:
 - [@dio_s](https://t.me/dio_s)
 - [@EduardoRGCM](https://t.me/eduardorgcm)
-- [@igor](https://github.com/igormiguell)
+- [@igormiguell](https://github.com/igormiguell)
 
 ##### Credits:
 - ingbrzy [miuios.cz](https://miuios.cz)
