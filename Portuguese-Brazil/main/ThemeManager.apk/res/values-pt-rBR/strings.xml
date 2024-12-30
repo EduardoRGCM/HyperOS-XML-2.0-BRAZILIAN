@@ -99,6 +99,8 @@
     <string name="ai_in_line">"Você está na fila…"</string>
     <string name="ai_inquire_apply_wallpaper">Aplicar este plano de fundo?</string>
     <string name="ai_moving_your_wallpaper">Veja como a IA pode dar vida aos seus planos de fundo</string>
+    <string name="ai_pic_unavailable_content">Certifique-se de que o assunto da foto esteja claro e desobstruído.</string>
+    <string name="ai_pic_unavailable_title">"Esta foto não atende aos requisitos de geração"</string>
     <string name="ai_read_the_privacy_policy">&lt;Data>Leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de continuar.&lt;/Data></string>
     <string name="ai_read_the_privacy_policy_pad">&lt;Data>Leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade do Plano de Fundo e Personalização&lt;/a> antes de continuar.&lt;/Data></string>
     <string name="ai_select_again">Selecionar</string>
@@ -121,7 +123,7 @@
     <string name="ai_wallpaper_inside_invitation">Teste beta do Planos de fundo dinâmicos IA</string>
     <string name="ai_wallpaper_inside_invitation_agree">Aceitar</string>
     <string name="ai_wallpaper_inside_invitation_description">Este recurso usa recursos de modelos grandes para usar fotos de paisagens, cidades, plantas e carros para criar planos de fundo de vídeo dinâmicos. Toque em \"Aceitar\" para experimentar!</string>
-    <string name="ai_wallpaper_inside_invitation_description_all">Este recurso usa recursos de modelos grandes para usar fotos de paisagens, cidades, plantas e carros para criar planos de fundo de vídeo dinâmicos. Toque em \"Aceitar\" para experimentar!</string>
+    <string name="ai_wallpaper_inside_invitation_description_all">Este recurso usa recursos de modelos grandes para usar fotos para criar planos de fundo de vídeo dinâmicos. Toque em \"Aceitar\" para experimentar!</string>
     <string name="ai_wallpaper_inside_invitation_disagree">"Não aceitar"</string>
     <string name="ai_wallpaper_network_connection_exception">"Não foi possível conectar-se à rede"</string>
     <string name="ai_wallpaper_network_exception">Ocorreu um erro de rede</string>

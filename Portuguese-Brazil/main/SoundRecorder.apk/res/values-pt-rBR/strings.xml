@@ -45,10 +45,12 @@
     <string name="airecorder_notification_recording_pause">Gravador pausado</string>
     <string name="airecorder_notification_recording_stopped">Gravação parada</string>
     <string name="airecorder_notification_recording_ticker">Telefone silenciado</string>
+    <string name="airecorder_os2_notification_recording">Gravando</string>
+    <string name="airecorder_os2_off_screen_notification_stop">Gravação concluída</string>
     <string name="airecorder_pause_status_focus_notification">Gravação pausada</string>
     <string name="airecorder_record_while_in_call_tip">"Não é possível gravar durante chamadas"</string>
     <string name="airecorder_recording_status_focus_notification">Gravando</string>
-    <string name="airecorder_speaker">Interlocutor</string>
+    <string name="airecorder_speaker">"Interlocutor "</string>
     <string name="airecorder_stop_status_focus_notification">Gravação concluída</string>
     <string name="airecorder_text_btn_complete">Finalizar</string>
     <string name="airecorder_text_btn_pause">Pausar</string>
@@ -386,6 +388,7 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="noon">"PM"</string>
     <string name="not_allowed">Não permitido</string>
     <string name="not_set">Não definido</string>
+    <string name="notice_for_ai_search_tips">Detalhes</string>
     <string name="notification_message_all_paused">Aguardando conexão Wi-Fi.</string>
     <string name="notification_playback">Reproduzindo…</string>
     <string name="notification_recording">Gravando…</string>
@@ -777,7 +780,7 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="solar_term_winter_begins">O inverno começa</string>
     <string name="solar_term_winter_solstice">Solstício de inverno</string>
     <string name="sound_recorder_settings">Configurações</string>
-    <string name="speaker">Interlocutor</string>
+    <string name="speaker">"Interlocutor "</string>
     <string name="status_bar_back">Toque para voltar ao Gravador</string>
     <string name="status_bar_recording">Gravando…</string>
     <string name="status_bar_recording_pause">Gravação pausada</string>
@@ -803,7 +806,10 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="tab_apps">"Apps"</string>
     <string name="tab_call">Chamadas</string>
     <string name="tab_fm">Rádio FM</string>
+    <string name="talkback_component_exit_button">Fechar janela flutuante</string>
+    <string name="talkback_return_speak_location">Voltar para a reprodução sincronizada</string>
     <string name="talkback_traslation">Traduzir</string>
+    <string name="talkback_traslation_ai_recognize">Ocultar caixa de texto</string>
     <string name="talkback_traslation_close">Parar tradução</string>
     <string name="text_btn_backward_3_seconds">Voltar %d segundos</string>
     <string name="text_btn_complete">Parar</string>
@@ -817,6 +823,10 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="text_btn_wave">Onda</string>
     <string name="text_finish">Confirmar</string>
     <string name="text_for_build_database_progress">Analisando gravação… (%s)</string>
+    <string name="text_for_build_database_progress_state_paused">As gravações serão analisadas no seu dispositivo para fornecer resultados mais precisos</string>
+    <string name="text_for_build_database_progress_state_running">Analisando as gravações para fornecer resultados mais precisos…</string>
+    <string name="text_for_build_database_progress_state_stooping">"As gravações serão analisadas no seu dispositivo para fornecer resultados mais precisos.
+Atualmente pausado. A análise será retomada quando você não estiver usando seu dispositivo."</string>
     <string name="text_play_speed_0_5">Velocidade de reprodução 0.5X</string>
     <string name="text_play_speed_1_0">Velocidade de reprodução normal</string>
     <string name="text_play_speed_1_5">Velocidade de reprodução 1.5X</string>
