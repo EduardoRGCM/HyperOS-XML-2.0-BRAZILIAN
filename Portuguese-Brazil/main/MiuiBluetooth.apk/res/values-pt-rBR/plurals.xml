@@ -68,10 +68,6 @@
         <item quantity="other">%d itens selecionados</item>
         <item quantity="one">%d item selecionado</item>
     </plurals>
-    <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d novas notificações</item>
-        <item quantity="one">%d nova notificação</item>
-    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">1 minuto atrás</item>
@@ -79,9 +75,5 @@
     <plurals name="offline_call_map_distance_meters">
         <item quantity="other">Distância: %d metros</item>
         <item quantity="one">Distância: %d metro</item>
-    </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">%1$d dispositivos conectados</item>
-        <item quantity="one">%1$d dispositivo conectado</item>
     </plurals>
 </resources>

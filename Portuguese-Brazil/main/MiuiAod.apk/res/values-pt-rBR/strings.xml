@@ -484,19 +484,15 @@ dd/MMM"</string>
 d/M"</string>
     <string name="miui_lock_screen_large_date_12">"EEE
 d/M"</string>
-    <string name="miui_magazine_c_clock_style1_week">"EEEE"</string>
     <string name="miui_magazine_c_clock_style2_date">EE, d/M</string>
     <string name="miui_magazine_c_clock_style2_date_content_description">EEEE, dd/MMM</string>
     <string name="miui_magazine_clock_date">d/M</string>
     <string name="miui_magazine_clock_date_content_description">dd/MM</string>
-    <string name="miui_magazine_clock_week">"EEE"</string>
     <string name="miui_oversize_a_date">"d
 /
 M"</string>
     <string name="miui_pad_c_date">d.M</string>
     <string name="miui_rhombus_clock_date">"dd 'de' MMMM"</string>
-    <string name="miui_rhombus_clock_week">"EEE"</string>
-    <string name="miui_rhombus_clock_week_full">"EEEE"</string>
     <string name="miui_smart_frame_clock_date">d/M</string>
     <string name="miui_smart_frame_clock_date_dot">d.M</string>
     <string name="miui_smart_frame_clock_week">"EEE"</string>

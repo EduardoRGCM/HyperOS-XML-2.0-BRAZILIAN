@@ -66,7 +66,7 @@
     </plurals>
     <plurals name="aod_batch_has_update_text">
         <item quantity="other">Atualizações disponíveis para %1$d temas</item>
-        <item quantity="one">Atualização disponível %1$d tema</item>
+        <item quantity="one">Atualização disponível para %1$d tema</item>
     </plurals>
     <plurals name="aod_batch_updating_text">
         <item quantity="other">Atualizando %1$d temas</item>
@@ -160,8 +160,8 @@
         <item quantity="one">Meta permanente: %1$s hora</item>
     </plurals>
     <plurals name="health_chart_stand_schedule_format">
-        <item quantity="other">%1$s/%2$s horas</item>
-        <item quantity="one">%1$s/%2$s hora</item>
+        <item quantity="other">%1$s/%2$s h</item>
+        <item quantity="one">%1$s/%2$s h</item>
     </plurals>
     <plurals name="health_chart_step_count_current_schedule_format_desc">
         <item quantity="other">Contagem de passos atual: %1$s passos</item>
@@ -244,7 +244,7 @@
         <item quantity="one">%1$s toque</item>
     </plurals>
     <plurals name="theme_batch_has_update_text">
-        <item quantity="other">Atualização disponível para %1$d temas.</item>
+        <item quantity="other">Atualizações disponíveis para %1$d temas.</item>
         <item quantity="one">Atualização disponível para %1$d tema.</item>
     </plurals>
     <plurals name="theme_designer_products_count">
@@ -252,7 +252,7 @@
         <item quantity="one">Trabalho de %1$s</item>
     </plurals>
     <plurals name="theme_update_local_resource_notifaction">
-        <item quantity="other">Atualização disponível para %1$d temas</item>
+        <item quantity="other">Atualizações disponíveis para %1$d temas</item>
         <item quantity="one">Atualização disponível para %1$d tema</item>
     </plurals>
     <plurals name="transparent_wallpaper_filter_hint">

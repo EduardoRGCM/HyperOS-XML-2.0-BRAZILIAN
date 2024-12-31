@@ -386,7 +386,7 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="no_records">Não há gravações aqui ainda</string>
     <string name="no_text_content">Sem texto</string>
     <string name="noon">"PM"</string>
-    <string name="not_allowed">Não permitido</string>
+    <string name="not_allowed">Não concedido</string>
     <string name="not_set">Não definido</string>
     <string name="notice_for_ai_search_tips">Detalhes</string>
     <string name="notification_message_all_paused">Aguardando conexão Wi-Fi.</string>
