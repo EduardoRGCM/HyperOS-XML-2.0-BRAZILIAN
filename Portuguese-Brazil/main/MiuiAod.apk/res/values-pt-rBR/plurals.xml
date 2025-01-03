@@ -91,20 +91,20 @@ Animações mais longas serão interrompidas neste ponto."</item>
         <item quantity="one">Meta permanente: %1$s hora</item>
     </plurals>
     <plurals name="health_chart_stand_schedule_format">
-        <item quantity="other">%1$s/%2$s horas</item>
-        <item quantity="one">%1$s/%2$s horas</item>
+        <item quantity="other">%1$s/%2$s h</item>
+        <item quantity="one">%1$s/%2$s h</item>
     </plurals>
     <plurals name="health_chart_step_count_current_schedule_format_desc">
         <item quantity="other">Contagem de passos atual: %1$s passos</item>
-        <item quantity="one">Contagem de passos atual: %1$s passos</item>
+        <item quantity="one">Contagem de passos atual: %1$s passo</item>
     </plurals>
     <plurals name="health_chart_step_count_goal_schedule_format_desc">
         <item quantity="other">Meta de passos: %1$s passos</item>
         <item quantity="one">Meta de passos: %1$s passo</item>
     </plurals>
     <plurals name="health_chart_step_count_schedule_format">
-        <item quantity="other">%1$s/%2$s etapas</item>
-        <item quantity="one">">%1$s/%2$s etapa</item>
+        <item quantity="other">%1$s/%2$s passos</item>
+        <item quantity="one">%1$s/%2$s passo</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Em 1 hora</item>

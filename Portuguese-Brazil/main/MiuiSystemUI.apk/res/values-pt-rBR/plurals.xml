@@ -78,8 +78,8 @@
         <item quantity="one">Meta permanente: %1$s hora</item>
     </plurals>
     <plurals name="health_chart_stand_schedule_format">
-        <item quantity="other">%1$s/%2$s horas</item>
-        <item quantity="one">%1$s/%2$s hora</item>
+        <item quantity="other">%1$s/%2$s h</item>
+        <item quantity="one">%1$s/%2$s h</item>
     </plurals>
     <plurals name="health_chart_step_count_current_schedule_format_desc">
         <item quantity="other">Contagem de passos atual: %1$s passos</item>
