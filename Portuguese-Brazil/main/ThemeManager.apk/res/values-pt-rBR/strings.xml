@@ -79,10 +79,12 @@
     <string formatted="false" name="ai_estimated_two_three_minutes">Isso levará %d–%d minutos</string>
     <string name="ai_generate">Gerado por IA</string>
     <string name="ai_generate_action">Gerar</string>
+    <string name="ai_generate_add_latter">Aguarde até a conclusão antes de adicionar novas fotos.</string>
     <string name="ai_generate_background">Terminar em segundo plano</string>
     <string name="ai_generate_determine">Analisando fotos…</string>
     <string name="ai_generate_fail">"Não foi possível gerar"</string>
     <string name="ai_generate_forbid">"Estamos atualizando esse recurso. Fique ligado!"</string>
+    <string name="ai_generate_latter">Tente novamente mais tarde</string>
     <string name="ai_generate_loading">Gerando plano de fundo…</string>
     <string name="ai_generate_message">"Se você gerar um plano de fundo dinâmico, quaisquer alterações feitas na versão estática do plano de fundo não serão salvas. Gerar agora?"</string>
     <string name="ai_generate_text">Gerar plano de fundo dinâmico</string>
@@ -93,10 +95,12 @@
     <string name="ai_generate_wallpaper_fail">"Não foi possível gerar o plano de fundo dinâmico IA"</string>
     <string name="ai_generate_wallpaper_fail_message">As fotos que você selecionou podem ter violado nossas diretrizes. Selecione novas fotos.</string>
     <string name="ai_generating">Gerando…</string>
+    <string name="ai_generating_loading">Gerando</string>
     <string name="ai_generating_wallpaper">Gerando plano de fundo…</string>
     <string name="ai_image_format_does_not_support_generation">Formato não suportado</string>
     <string name="ai_image_size_too_large">A imagem é muito grande</string>
     <string name="ai_in_line">"Você está na fila…"</string>
+    <string name="ai_in_line_match">A fila está bastante ocupada.</string>
     <string name="ai_inquire_apply_wallpaper">Aplicar este plano de fundo?</string>
     <string name="ai_moving_your_wallpaper">Veja como a IA pode dar vida aos seus planos de fundo</string>
     <string name="ai_pic_unavailable_content">Certifique-se de que o assunto da foto esteja claro e desobstruído.</string>

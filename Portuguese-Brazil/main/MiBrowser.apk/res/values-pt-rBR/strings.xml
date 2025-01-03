@@ -1045,7 +1045,7 @@ Envie este código para o supervisor."</string>
     <string name="homepage_more_sites">Mais sites</string>
     <string name="homepage_search_hint">Pesquisar</string>
     <string name="homepage_setting">Configurações da Página inicial</string>
-    <string name="homepage_tab_tips_chatgpt">Confira nossa nova pesquisa por IA</string>
+    <string name="homepage_tab_tips_chatgpt">Toque aqui para usar os novos recursos de IA</string>
     <string name="homepage_top_card_menu">Topo</string>
     <string name="hot_games">Populares</string>
     <string name="hot_news_notify_summary">Notificações push para as principais notícias</string>
@@ -1296,6 +1296,7 @@ Envie este código para o supervisor."</string>
     <string name="miuix_appcompat_select_all">Selecionar todos</string>
     <string name="miuix_appcompat_select_all_description">Selecionar todos</string>
     <string name="miuix_appcompat_select_item">Selecionar itens</string>
+    <string name="miuix_appcompat_show_dialog_description">Janela pop-up</string>
     <string name="miuix_indexer_collect">Coleções</string>
     <string name="miuix_indexer_selected">Selecionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para baixo para atualizar</string>
