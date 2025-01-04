@@ -196,7 +196,7 @@
     <string name="accessibility_ime_switch_button">Alterar método de entrada.</string>
     <string name="accessibility_key">Botão de navegação personalizado</string>
     <string name="accessibility_keyboard_delete_button">Excluir</string>
-    <string name="accessibility_keyboard_letter_board_caps_lock_button">"Caps lock"</string>
+    <string name="accessibility_keyboard_letter_board_caps_lock_button">"Caps Lock"</string>
     <string name="accessibility_keyboard_letter_board_shift2number_button">Números</string>
     <string name="accessibility_keyboard_letter_board_shift2symbol_button">Símbolos</string>
     <string name="accessibility_keyboard_ok_button">"Enter"</string>

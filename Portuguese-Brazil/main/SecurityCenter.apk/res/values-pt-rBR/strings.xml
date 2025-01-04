@@ -104,7 +104,7 @@
     <string name="access_control_need_to_unlock_nofingerprint">Insira a senha do Bloqueio de apps</string>
     <string name="accessibility_gameboosterservice_description">Ative para silenciar chamadas do WeChat quando você estiver jogando</string>
     <string name="accessibility_keyboard_delete_button">Excluir</string>
-    <string name="accessibility_keyboard_letter_board_caps_lock_button">"Caps lock"</string>
+    <string name="accessibility_keyboard_letter_board_caps_lock_button">"Caps Lock"</string>
     <string name="accessibility_keyboard_letter_board_shift2number_button">Número</string>
     <string name="accessibility_keyboard_letter_board_shift2symbol_button">Símbolos</string>
     <string name="accessibility_keyboard_ok_button">"Enter"</string>

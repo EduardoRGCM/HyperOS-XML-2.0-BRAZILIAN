@@ -127,10 +127,6 @@
         <item quantity="other">Você recebeu %d convites de chat em grupo</item>
         <item quantity="one">Você recebeu %d convite de chat em grupo</item>
     </plurals>
-    <plurals name="recipient_count">
-        <item quantity="other">%1$s pessoas</item>
-        <item quantity="one">%1$s pessoa</item>
-    </plurals>
     <plurals name="search_results_title">
         <item quantity="other">%1$s resultados para \"%2$s\"</item>
         <item quantity="one">%1$s resultado para \"%2$s\"</item>

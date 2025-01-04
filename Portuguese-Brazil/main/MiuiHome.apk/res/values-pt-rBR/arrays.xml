@@ -11,10 +11,6 @@
         <item>"Widgets"</item>
         <item>Configurações</item>
     </string-array>
-    <string-array name="layout_preview_button">
-        <item>Padrão</item>
-        <item>Denso</item>
-    </string-array>
     <string-array name="icon_size">
         <item>EP</item>
         <item>P</item>
