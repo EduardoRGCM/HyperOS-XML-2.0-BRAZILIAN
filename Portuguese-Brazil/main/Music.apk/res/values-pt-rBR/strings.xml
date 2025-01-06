@@ -364,7 +364,7 @@ O streaming de música por dados móveis pode gerar cobranças por parte da sua 
     <string name="asm_ws_now_playing_listen">Ouça a versão completa</string>
     <string name="asm_ws_song_quality_category">Qualidade de áudio</string>
     <string name="asm_ws_vip_ads">Sem anúncios</string>
-    <string name="asm_ws_vip_get_premium">Obtenha o Premium</string>
+    <string name="asm_ws_vip_get_premium">Obter o Premium</string>
     <string name="asm_ws_vip_subscribe">Inscrever-se</string>
     <string name="audio_ad_countdown">Pular anúncio em %s s</string>
     <string name="audio_ad_pass">Pular anúncio</string>

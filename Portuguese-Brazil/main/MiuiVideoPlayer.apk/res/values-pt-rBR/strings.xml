@@ -820,7 +820,7 @@ para vídeos"</string>
     <string name="library_android_database_sqlcipher_libraryDescription">Android SQLite API baseado em SQLCipher</string>
     <string name="library_android_database_sqlcipher_libraryName">SQLCipher para Android</string>
     <string name="library_roundedimageview_libraryDescription">Um ImageView rápido (Drawable) que suporta cantos arredondados (ovais ou círculos) com base no exemplo original de Romain Guy.</string>
-    <string name="listen_video_title">Ouça o vídeo</string>
+    <string name="listen_video_title">Ouvir o vídeo</string>
     <string name="live_now">Ao vivo agora</string>
     <string name="live_title">Ao vivo</string>
     <string name="live_tv_dialog_item_passed">Este programa terminou. Assista-o da próxima vez!</string>
@@ -2004,11 +2004,11 @@ Por favor, tente novamente mais tarde."</string>
     <string name="s7">Anúncio de teste</string>
     <string name="s_double_tap_play_stop">Toque duas vezes para pausar ou retomar</string>
     <string name="safemode_clear_data_tip">Limpar todos os dados do app agora?</string>
-    <string name="safemode_desc">O Mi Vídeo encontrou um erro. Restaurar app agora?</string>
+    <string name="safemode_desc">O Mi Vídeo encontrou um erro. Restaurar o app agora?</string>
     <string name="safemode_exit_btn_text">Sair</string>
     <string name="safemode_fix_btn_text">Restaurar</string>
-    <string name="safemode_fix_tip">Após terminar, você pode retornar à Página inicial tocando no botão ou deslizando para cima</string>
-    <string name="safemode_notification_content">O Mi Vídeo encontrou um erro. Toque para solucionar o problema.</string>
+    <string name="safemode_fix_tip">Após terminar, você pode retornar à página inicial tocando no botão ou deslizando para cima</string>
+    <string name="safemode_notification_content">O Mi Vídeo encontrou um erro. Toque para tentar solucionar.</string>
     <string name="safemode_notification_title">Modo seguro</string>
     <string name="safemode_privacy_checkbox_text">Concordo em enviar informações sobre erros do app para ajudar os desenvolvedores a localizar e resolver problemas</string>
     <string name="same_new_and_old_pwd">Não pode ser a mesma senha que a atual</string>

@@ -22,7 +22,7 @@
         <item>Cazaque</item>
         <item>Russo</item>
         <item>Árabe</item>
-        <item>Hindi</item>
+        <item>"Hindi"</item>
         <item>Tailandês</item>
         <item>Birmanês</item>
         <item>Coreano</item>
@@ -53,7 +53,7 @@
         <item>Cazaque</item>
         <item>Russo</item>
         <item>Árabe</item>
-        <item>Hindi</item>
+        <item>"Hindi"</item>
         <item>Tailandês</item>
         <item>Birmanês</item>
         <item>Coreano</item>
@@ -88,7 +88,7 @@
         <item>Japonês</item>
         <item>Espanhol</item>
         <item>Italiano</item>
-        <item>Hindi</item>
+        <item>"Hindi"</item>
         <item>Indonésio</item>
     </string-array>
     <string-array name="record_quality_entries">
