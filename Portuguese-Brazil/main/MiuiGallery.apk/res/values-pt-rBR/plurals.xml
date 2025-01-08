@@ -768,8 +768,8 @@
         <item quantity="one">%1$d arquivo</item>
     </plurals>
     <plurals name="video_editor_component_hint_text">
-        <item quantity="other">%d segmentos necessários</item>
-        <item quantity="one">%d segmento necessário</item>
+        <item quantity="other">Adicionar %1$d segmentos (%2$d/%3$d)</item>
+        <item quantity="one">Adicionar %1$d segmento (%2$d/%3$d)</item>
     </plurals>
     <plurals name="video_editor_component_imageview_content_description">
         <item quantity="other">Slot %1$d: Adicione um segmento com no máximo %2$s segundos</item>

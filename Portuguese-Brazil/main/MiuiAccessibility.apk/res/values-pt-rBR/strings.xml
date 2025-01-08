@@ -31,7 +31,7 @@
     <string name="afternoon">"PM"</string>
     <string name="agree">Aceitar</string>
     <string name="am">"AM"</string>
-    <string name="app_name_accessbility">Acessibilidade Mi</string>
+    <string name="app_name_accessbility">Mi Ditto</string>
     <string name="app_name_mi_ditto">Mi Ditto</string>
     <string name="call_notification_answer_action">Atender</string>
     <string name="call_notification_answer_video_action">Vídeo</string>
@@ -46,7 +46,7 @@
     <string name="copy">Copiar</string>
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
-    <string name="dialog_message_revoke_authorization_accessbility">"Se continuar, você retirará seu consentimento com a Política de Privacidade da Acessibilidade Mi. Deixaremos de coletar suas informações pessoais. As informações pessoais já coletadas e retidas serão excluídas dentro do período específico, de acordo com as leis e regulamentos aplicáveis, salvo exigência em contrário. Como a Acessibilidade Mi fornece os seus serviços com base na recolha das informações pessoais necessárias, a retirada do seu consentimento será considerada como uma recusa em aceitar os serviços da Acessibilidade Mi. Retirar o consentimento agora?"</string>
+    <string name="dialog_message_revoke_authorization_accessbility">"Se continuar, você retirará seu consentimento com a Política de Privacidade do Mi Ditto. Deixaremos de coletar suas informações pessoais e as informações pessoais já coletadas e retidas serão excluídas dentro do período especificado, de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido de outra forma. Como o Mi Ditto presta seus serviços com base na coleta de informações pessoais necessárias, a retirada do seu consentimento será considerada uma recusa em aceitar os serviços do Mi Ditto. Retirar o consentimento agora?"</string>
     <string name="dialog_message_revoke_authorization_cancel">Cancelar</string>
     <string name="dialog_message_revoke_authorization_common" formatted="false">"Se continuar, você retirará seu consentimento com a Política de Privacidade da %1s. Deixaremos de coletar suas informações pessoais e as informações pessoais já coletadas e retidas serão excluídas dentro do período especificado, de acordo com as leis e regulamentos aplicáveis, a menos que seja exigido de outra forma. Como a %2s fornece seus serviços com base na coleta de informações pessoais necessárias, a retirada do seu consentimento será considerada uma recusa em aceitar esses serviços."</string>
     <string name="dialog_message_revoke_authorization_confirm">Retirar (%d s)</string>
@@ -151,6 +151,7 @@
     <string name="language_turkish">Turco</string>
     <string name="language_uzbek">Uzbeque</string>
     <string name="language_vietnamese">Vietnamita</string>
+    <string name="media_volume_too_low_message">Aumente o volume da mídia para poder ouvir a tradução</string>
     <string name="midnight">"AM"</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
@@ -228,7 +229,7 @@
     <string name="not_set">Não definido</string>
     <string name="notification_content_text">Interpretação simultânea em andamento</string>
     <string name="other_one">Outra pessoa</string>
-    <string name="permission_content_title">Bem-vindo à Acessibilidade Mi! Este app fornece serviços incluindo Mi Ditto, controles de voz e reconhecimento de som ambiente.</string>
+    <string name="permission_content_title">Mi Ditto oferece controles de voz e reconhecimento de som ambiente.</string>
     <string name="permission_content_title_new">Bem-vindo ao Mi Ditto! Este app fornece recursos de interpretação simultânea para chamadas e conferências.</string>
     <string name="pm">"PM"</string>
     <string name="preference_authorization_title">Política de Privacidade</string>
@@ -340,6 +341,10 @@
     <string name="user_instructions_message"><Data>"Você não poderá continuar usando o Mi Ditto a menos que aceite a nova versão da sua &lt;a href=\"%s\">Política de Privacidade&lt;/a>. Aceitar a Política de Privacidade atualizada agora?"</Data></string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
+    <string name="voice_translate_function_description">Abra o Intérprete IA na caixa de ferramentas lateral durante uma chamada ou conferência. Você pode traduzir a conversa entre ambas as partes em tempo real para uma comunicação sem barreiras.</string>
+    <string name="voice_translate_function_name">Traduza chamadas e conferências</string>
+    <string name="voice_translate_summary">Interpretação simultânea para chamadas e conferências</string>
+    <string name="voice_translate_title">Intérprete IA</string>
     <string name="wednesday">Quarta</string>
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>

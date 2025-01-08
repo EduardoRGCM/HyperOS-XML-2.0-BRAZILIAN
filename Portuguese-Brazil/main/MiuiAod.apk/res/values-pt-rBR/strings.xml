@@ -297,7 +297,7 @@ dd/MM"</string>
     <string name="kg_depth_preset_button_downloading">Baixando…</string>
     <string name="kg_depth_preset_button_dynamic">Dinâmico</string>
     <string name="kg_depth_preset_button_static">Estático</string>
-    <string name="kg_depth_preset_dialog_content">Baixe e aplique a versão dinâmica deste plano de fundo com efeito de profundidade?</string>
+    <string name="kg_depth_preset_dialog_content">Baixar e aplicar a versão dinâmica deste plano de fundo com efeito de profundidade?</string>
     <string name="kg_depth_preset_dialog_download_button">Baixar</string>
     <string name="kg_depth_preset_dialog_image_button">Versão estática</string>
     <string name="kg_depth_preset_dialog_title">Baixar plano de fundo dinâmico</string>

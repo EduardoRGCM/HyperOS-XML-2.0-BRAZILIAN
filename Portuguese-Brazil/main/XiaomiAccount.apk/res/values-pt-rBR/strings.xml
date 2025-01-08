@@ -176,6 +176,7 @@ Você pode fazer login com sua Conta Mi usando %s agora."</string>
     <string name="copy_link">Copiar URL</string>
     <string name="copy_to_clipboard_successful">Copiado com sucesso</string>
     <string name="current_account_can_use_pwd_login">Insira sua senha para fazer login</string>
+    <string name="data_access_management">Gerenciar acesso aos dados</string>
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="default_error_message">Entrada inválida</string>
@@ -531,6 +532,10 @@ Você pode fazer login com sua Conta Mi usando %s agora."</string>
     <string name="passport_checking_account">Verificando senha…</string>
     <string name="passport_clear_input">Limpar conteúdo inserido</string>
     <string name="passport_click_email_to_valid">"Para ativar sua conta, siga o link que enviamos para sua caixa de entrada."</string>
+    <string name="passport_close_dialog_close_btn">Desativar</string>
+    <string name="passport_close_dialog_hint">Se você desativar esse recurso, a autenticação de dois fatores não será mais exigida ao fazer login na sua conta. Isso deixará a sua conta menos segura.</string>
+    <string name="passport_close_dialog_open_btn">Manter ativado</string>
+    <string name="passport_close_two_factor_auth">Desativar a autenticação de dois fatores</string>
     <string name="passport_confirm_login">Fazer login</string>
     <string name="passport_confirm_recycle_account">Sim</string>
     <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red>Parece que&lt;/font> o número %s foi reciclado por sua operadora, e existe uma Conta Mi associada com ele. Esta conta é sua?"</string>
@@ -707,6 +712,7 @@ Você pode fazer login com sua Conta Mi usando %s agora."</string>
     <string name="passport_send_vcode_failed">"Não foi possível enviar o código"</string>
     <string name="passport_sending_vcode">Enviando código…</string>
     <string name="passport_set">Definir</string>
+    <string name="passport_set_password_hint">Defina uma senha de conta para poder usar a autenticação de dois fatores</string>
     <string name="passport_set_password_no_phone_msg">Adicione seu número de telefone para proteger sua conta.</string>
     <string name="passport_setting">Configurando…</string>
     <string name="passport_skip_login">Pular</string>
@@ -731,6 +737,8 @@ Você pode fazer login com sua Conta Mi usando %s agora."</string>
     <string name="passport_to_password_login">Fazer login usando senha</string>
     <string name="passport_to_verify_code_login">Fazer login por SMS</string>
     <string name="passport_trust_device">Confiar neste dispositivo</string>
+    <string name="passport_two_factor_auth">Autenticação de dois fatores</string>
+    <string name="passport_two_factor_auth_hint">Ative para exigir a autenticação de dois fatores ao fazer login na sua conta</string>
     <string name="passport_tz_invalid">Riscos de segurança encontrados. Este dispositivo pode estar com acesso root ou ter sido modificado. Tente outras opções de login.</string>
     <string name="passport_unknown_error">Erro desconhecido</string>
     <string name="passport_unknown_host_network_error">Verifique suas configurações de rede e tente novamente</string>
@@ -810,7 +818,7 @@ Escaneie o código abaixo com o app Scanner."</string>
     <string name="qrcode_login_entry_text"><Data>Fez login em um dispositivo diferente? Use o &lt;a href=>login rápido&lt;/a></Data></string>
     <string name="qrcode_login_load_refresh"><Data>Este código QR expirou. Toque para &lt;a href=>atualizar&lt;/a>.</Data></string>
     <string name="qrcode_login_load_retry"><Data>"Não foi possível carregar. &lt;a href=>Tente novamente&lt;/a>."</Data></string>
-    <string name="qrcode_login_message">"Escaneie com o Mi AI Scanner ou outro app da Xiaomi para entrar em sua Conta Mi"</string>
+    <string name="qrcode_login_message">Vá para Configurações > Conta Mi em seu dispositivo Xiaomi e escaneie o código QR para fazer login ou use outro leitor de código QR</string>
     <string name="qrcode_login_title">Escaneie para fazer login</string>
     <string name="range_end">Fim do intervalo</string>
     <string name="range_start">Início do intervalo</string>

@@ -84,6 +84,7 @@
     <string name="agenda_not_today_empty_hint">Nenhum evento aqui ainda. Toque para criar um.</string>
     <string name="agenda_tomorrow">AMANHÃ, %1$s</string>
     <string name="agenda_view">Eventos</string>
+    <string name="ai_introduce_card_sub_title">Deixe a IA adicionar automaticamente viagens, ingressos e outros tipos de eventos ao seu calendário.</string>
     <string name="alarm_close_reminder">Desativando lembrete de alarme</string>
     <string name="alarm_label">Entendi</string>
     <string name="alarm_open_reminder">Definir alarme</string>
@@ -99,6 +100,7 @@
     <string name="anniversary_secondary_tag">Aniversário</string>
     <string name="app_label">Agenda</string>
     <string name="app_name">Agenda</string>
+    <string name="apply_auto_insert_ai_event_button">Ativar</string>
     <string name="app_not_found">"Não foi possível encontrar o app selecionado"</string>
     <string name="aqi_level">IQA %d</string>
     <string name="attendees">Participantes</string>
@@ -112,6 +114,7 @@
     <string name="auth_notification_error_ssl_not_yet_valid">SSL ainda não é válido. Continuar?</string>
     <string name="auth_notification_error_ssl_untrusted">SSL não confiável. Continuar?</string>
     <string name="auto_import_birthday_from_contact">"Importar aniversários de contatos"</string>
+    <string name="auto_insert_ai_event_toast">O Assistente de eventos IA está ativado</string>
     <string name="average_cycle_days">Média do ciclo</string>
     <string name="average_menstruation_days">Duração média do período</string>
     <string name="back_to_today">Hoje</string>
@@ -1169,6 +1172,7 @@ Verifique suas configurações de rede e tente novamente."</string>
     <string name="setting_about_miui_version">Versão do OS:</string>
     <string name="setting_about_summary">Versão:</string>
     <string name="setting_accounts">Contas da agenda</string>
+    <string name="setting_auto_insert">Assistente de eventos IA</string>
     <string name="setting_chinese_calendar">Calendário Chinês</string>
     <string name="setting_daysoff_no_update">As informações sobre feriados estão atualizadas.</string>
     <string name="setting_daysoff_update">Atualizar informações sobre feriados</string>

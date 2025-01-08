@@ -302,6 +302,7 @@ Toque duas vezes para ver os detalhes."</string>
     <string name="pa_comm_time_month_day">dd-MM</string>
     <string name="pa_comm_time_year_month_day">dd-MM-yyyy</string>
     <string name="pa_comm_to_setting">Configurações</string>
+    <string name="pa_comm_voice_error_privacy_update_toast">"A Política de Privacidade do Mi AI foi atualizada. Aceite a nova Política de Privacidade e tente novamente."</string>
     <string name="pa_comm_wallet">"Mi Wallet"</string>
     <string name="pa_covid_card_title">Ferramentas diárias</string>
     <string name="pa_cta_dialog_all_purpose">"Bem-vindo ao Assistente! Este app é um local único para serviços de trabalho, estilo de vida e viagens."</string>

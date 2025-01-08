@@ -230,6 +230,8 @@ A Xiaomi processará o conteúdo das notificações e mensagens (incluindo quais
     <string name="not_sent_recently">Nada recente</string>
     <string name="not_set">Não definido</string>
     <string name="notch_and_status_bar_setting">Centro de controle e barra de status</string>
+    <string name="notification_aon_land_support_dev_message">Para determinar se várias pessoas estão olhando para a tela, esse recurso acessará a câmera frontal quando uma notificação flutuante for exibida. As imagens coletadas são usadas somente para análise no dispositivo do número de pessoas olhando para a tela. Para melhor precisão, esse recurso só é compatível com o modo paisagem. No modo retrato, o conteúdo da notificação fica oculto por padrão.</string>
+    <string name="notification_aon_land_support_dev_summary">Este modelo suporta esse recurso somente no modo paisagem. No modo retrato, o conteúdo da notificação fica oculto por padrão.</string>
     <string name="notification_aon_summary">Oculta o conteúdo das notificações quando várias pessoas estiverem olhando para o dispositivo</string>
     <string name="notification_aon_title">Exibição inteligente de notificação flutuante</string>
     <string name="notification_aon_title_aon">Notificações ambiente</string>
@@ -255,7 +257,7 @@ A Xiaomi processará o conteúdo das notificações e mensagens (incluindo quais
     <string name="privacy_text">"A Xiaomi precisa acessar e processar o conteúdo da notificação (que pode incluir informações privadas) para fornecer esse recurso, mas a Xiaomi não armazenará essas informações."</string>
     <string name="privacy_text_with_link"><Data>Leia a nossa &lt;a href=https://privacy.mi.com/AISummary/en_US/>Política de Privacidade do Briefing por IA&lt;/a></Data><Data> para entender como gerenciamos seus dados. Para obter mais informações sobre este serviço, consulte o nosso &lt;a href=https://terms.miui.com/doc/AiListSummary.html?lang=en_US>Contrato do Usuário do Briefing por IA&lt;/a>.</Data></string>
     <string name="privacy_title">Termos e Condições</string>
-    <string name="rule_keyguard_display">Formato</string>
+    <string name="rule_keyguard_display">%s preferências</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>
