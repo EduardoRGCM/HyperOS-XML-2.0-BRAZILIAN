@@ -418,7 +418,7 @@ Etapa 2: Adicione a Conta do Google com a qual você estava conectado antes de r
     <string name="miui_failed_market_code_download_failed">"Não foi possível baixar"</string>
     <string name="miui_failed_market_code_no_response">"GetApps não responde"</string>
     <string name="miui_failed_market_code_user_canceled">O download foi cancelado</string>
-    <string name="miui_failed_miui_system_incompatible">"O pacote de instalação não é compatível com o HyperOS"</string>
+    <string name="miui_failed_miui_system_incompatible">"O pacote de instalação não é compatível com o sistema"</string>
     <string name="miui_failed_newer_sdk">"A versão do SDK ainda não é suportada"</string>
     <string name="miui_failed_older_sdk">A versão do SDK é muito antiga</string>
     <string name="miui_failed_other">Outro</string>
@@ -992,7 +992,7 @@ apps vem"</string>
     <string name="settings_security_mode_service_opening_msg_4">Proteção de privacidade</string>
     <string name="settings_security_mode_service_opening_msg_5">Proteção antifraude</string>
     <string name="settings_security_mode_service_title_0">Instalar apps seguros</string>
-    <string name="settings_security_mode_service_title_1">Revisão da fonte do aplicativo</string>
+    <string name="settings_security_mode_service_title_1">Revisão da fonte do app</string>
     <string name="settings_security_mode_service_title_2">Monitoramento de instalação</string>
     <string name="settings_security_mode_service_title_3">Identificação de apps arriscados</string>
     <string name="settings_security_mode_service_title_4">Gerenciamento de permissão de privacidade</string>
@@ -1122,7 +1122,6 @@ apps vem"</string>
     <string name="unrecorded_risk_app_description">A instalação deste app é proibida de acordo com os requisitos regulamentares relevantes</string>
     <string name="unrecorded_risk_app_description_2">Como desenvolvedor, você pode enviar um apelo</string>
     <string name="unrecorded_risk_app_description_temp">"O desenvolvedor não forneceu a listagem deste app às autoridades reguladoras. Talvez você não consiga entrar em contato com o desenvolvedor caso seus interesses sejam violados."</string>
-    <string name="untrusted_external_source_always_click">Permitir sempre</string>
     <string name="untrusted_external_source_title">Permitir \"%1$s\" instalar apps?</string>
     <string name="untrusted_external_source_warning">Para sua segurança, seu dispositivo não tem permissão para instalar apps desconhecidos dessa fonte.</string>
     <string name="untrusted_external_source_warning_summary">Seu dispositivo e dados pessoais são vulneráveis a ataques de apps instalados de fontes desconhecidas. Ao permitir a instalação de apps dessa fonte, você concorda em aceitar a responsabilidade por qualquer dano ou perda de dados que possa ocorrer enquanto estiver usando esses apps.</string>

@@ -147,7 +147,7 @@
     <string name="evening">"PM"</string>
     <string name="expand_button_title">Avançado</string>
     <string name="fast_application_introduction">A estrutura dos Apps rápidos permite que você crie e receba serviços dos Apps rápidos.</string>
-    <string name="fast_pairing_introduction">O Mi Link permite que seu dispositivo se conecte a dispositivos Bluetooth próximos usando o Serviço Bluetooth HyperOS. Para encontrar dispositivos próximos, permita que o Serviço Bluetooth HyperOS conecte-se à internet.</string>
+    <string name="fast_pairing_introduction">O Mi Link permite que você se conecte rapidamente a dispositivos Bluetooth</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -454,7 +454,7 @@ Para fins de prevenção de riscos, estatísticas e processamento analítico, pr
     <string name="other_settings">Configurações adicionais</string>
     <string name="other_settings_ad_dialog_agree">Ativar</string>
     <string name="other_settings_ad_dialog_content">"Quando a recomendação personalizada de anúncios está desativada, você ainda verá a mesma quantidade de anúncios de quando o recurso está ativo. Os anúncios, no entanto, não serão mais relevantes, pois não serão baseados em suas preferências pessoais."</string>
-    <string name="other_settings_ad_dialog_content_for_global">"Quando as recomendações de anúncios personalizadas estiverem desativadas, você ainda verá a mesma quantidade de anúncios em apps do sistema HyperOS como quando o recurso estiver ativado. Os anúncios de plataformas Xiaomi e de terceiros, no entanto, não serão mais relevantes, pois não serão baseados em suas preferências pessoais."</string>
+    <string name="other_settings_ad_dialog_content_for_global">"Quando as recomendações de anúncios personalizadas estiverem desativadas, você ainda verá a mesma quantidade de anúncios em apps do sistema como quando o recurso estiver ativado. Os anúncios de plataformas Xiaomi e de terceiros, no entanto, não serão mais relevantes, pois não serão baseados em suas preferências pessoais."</string>
     <string name="other_settings_ad_dialog_disagree">Desativar</string>
     <string name="other_settings_ad_disable_summary">Ative para personalizar os anúncios</string>
     <string name="other_settings_ad_enable">Anúncios personalizados</string>
@@ -464,8 +464,8 @@ Para fins de prevenção de riscos, estatísticas e processamento analítico, pr
     <string name="other_settings_alarm_assistance_summary">"Você pode enviar suas informações de localização para a polícia usando SMS ou dados móveis automaticamente enquanto você liga para os números 110, 120, 119 ou 122. Leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a nossa &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de usar este recurso."</string>
     <string name="other_settings_alarm_assistance_user">Contrato do Usuário</string>
     <string name="other_settings_auto_update">Atualizar automaticamente</string>
-    <string name="other_settings_auto_update_summary">O HyperOS selecionará o melhor horário para baixar e instalar as atualizações. Seu dispositivo será reiniciado automaticamente para aplicar as mudanças.</string>
-    <string name="other_settings_auto_update_summary_v1">Permita que o HyperOS selecione o melhor momento para baixar e instalar atualizações. Seu dispositivo será reinicializado automaticamente para aplicar as alterações.</string>
+    <string name="other_settings_auto_update_summary">O sistema selecionará o melhor horário para baixar e instalar as atualizações. Seu dispositivo será reiniciado automaticamente para aplicar as mudanças.</string>
+    <string name="other_settings_auto_update_summary_v1">Permita que o sistema selecione o melhor momento para baixar e instalar atualizações. Seu dispositivo será reinicializado automaticamente para aplicar as alterações.</string>
     <string name="other_settings_enhanced_lockscreen">Carrossel de planos de fundo</string>
     <string name="other_settings_enhanced_lockscreen_for_india">Glance para Mi</string>
     <string name="other_settings_enhanced_lockscreen_privacy_index">Política de Privacidade</string>
@@ -478,11 +478,11 @@ Você pode desativar as atualizações automáticas em GetApps > Configurações
     <string name="other_settings_location_summary">Permite que os apps e sites acessem suas informações de localização para fornecer serviços baseados na localização</string>
     <string name="other_settings_quality_service">Permissões do HyperOS Daemon</string>
     <string name="other_settings_quality_service_summary">O HyperOS Daemon é usado para melhorar a estabilidade e o desempenho do sistema. Para poder funcionar normalmente, este serviço precisa de permissões para acessar e salvar itens no armazenamento do dispositivo.</string>
-    <string name="other_settings_upload_debug_log_detail">"Ajude a melhorar a experiência do dispositivo HyperOS enviando automaticamente dados de diagnóstico, do dispositivo e do uso de apps para a Xiaomi. Isso ajudará a melhorar a vida útil da bateria, do sistema HyperOS, e da estabilidade do app e muito mais.
-Os dados que você enviará conterão informações gerais sobre seu dispositivo e como você o usa (ex.: nível da bateria, atividade do sistema, dos apps e erros). Os dados serão usados para melhorar os dispositivos HyperOS.
+    <string name="other_settings_upload_debug_log_detail">"Ajude a melhorar sua experiência enviando automaticamente dados de diagnóstico, dispositivo e uso de apps para a Xiaomi. Isso ajudará a melhorar a duração da bateria, a estabilidade do sistema e do app e muito mais.
+Os dados que você enviará conterão informações gerais sobre seu dispositivo e como você o usa (ex.: nível da bateria, atividade do sistema, dos apps e erros). Os dados serão usados para melhorar os dispositivos Xiaomi.
 Desativar este recurso não afeta a capacidade do seu dispositivo de enviar as informações necessárias para serviços essenciais, como atualizações do sistema e segurança.
 Você pode controlar esse recurso em Configurações > Impressões digitais, dados faciais e bloqueio de tela > Privacidade > Uso e diagnósticos."</string>
-    <string name="other_settings_upload_debug_log_summary">"Ajude a melhorar a experiência do dispositivo HyperOS enviando automaticamente dados de diagnóstico, do dispositivo e do uso de apps para a Xiaomi. Isso ajudará a melhorar a vida útil da bateria, do sistema HyperOS, e da estabilidade do app e muito mais. "</string>
+    <string name="other_settings_upload_debug_log_summary">"Ajude a melhorar sua experiência enviando automaticamente dados de diagnóstico, dispositivo e uso de apps para a Xiaomi. Isso ajudará a melhorar a duração da bateria, a estabilidade do sistema e do app e muito mais. "</string>
     <string name="other_settings_upload_debug_log_title">Enviar dados de uso e diagnóstico</string>
     <string name="other_settings_user_experience">Programa de Experiência do Usuário</string>
     <string name="other_settings_user_experience_summary">"Ajude-nos a melhorar nossos produtos e serviços compartilhando suas estatísticas de uso e análises conosco."</string>
@@ -720,7 +720,7 @@ Você pode controlar esse recurso em Configurações > Impressões digitais, dad
     <string name="servicestate_title">Declaração de serviços básicos</string>
     <string name="setting_locale">Definindo região…</string>
     <string name="shut_down">Desligar</string>
-    <string name="sim_activation_introduction">O serviço de ativação do cartão SIM verifica as informações do cartão SIM inserido no momento para garantir que os serviços HyperOS possam funcionar normalmente. Esses serviços incluem Encontrar dispositivo, Mi Mensagens, criar Contas Mi usando números de telefone e sincronizar mensagens e histórico de chamadas.</string>
+    <string name="sim_activation_introduction">O serviço de ativação do cartão SIM verifica as informações do cartão SIM inserido no momento para garantir que os serviços do sistema possam funcionar normalmente. Esses serviços incluem Encontrar dispositivo, Mi Mensagens, criar Contas Mi usando números de telefone e sincronizar mensagens e histórico de chamadas.</string>
     <string name="sim_card_detecting">Procurando um cartão SIM…</string>
     <string name="sim_card_detecting_check">Não foi possível encontrar o cartão SIM. Certifique-se de que o cartão SIM está instalado corretamente e que você possui saldo suficiente.</string>
     <string name="sim_card_detecting_confirm_turn_on_network">Permitir a conexão às redes de dados móveis? Caso permita, o cartão SIM inserido será usado para conectar-se à redes de dados móveis.</string>
@@ -786,10 +786,6 @@ Você pode controlar esse recurso em Configurações > Impressões digitais, dad
     <string name="term_condition_detail">"Obtenha imagens impressionantes e histórias emocionantes entregues em sua Tela de bloqueio diariamente. Este recurso não usará seus dados para personalização sem o seu consentimento. Leia e aceite a &lt;a href =%1$s>Política de Privacidade&lt;/a> e o &lt;a href =%2$s>Contrato do Usuário&lt;/a> do provedor de conteúdo de terceiros antes de usar este recurso."</string>
     <string name="terms_and_statement_title">Termos e Condições</string>
     <string name="terms_of_use">Termos e Condições</string>
-    <string name="terms_of_use_ble_htmlViewer">Fornecedor de Localização, Visualizador de HTML</string>
-    <string name="terms_of_use_label">"Leia nosso Contrato do Usuário e a Política de Privacidade para entender quais informações nós coletamos, como as usamos e quais são as opções disponíveis para você.
-Você precisa aceitar nosso Contrato do Usuário e a Política de Privacidade antes de usar o HyperOS.
-%s e componentes da Conta Mi vão se conectar à internet e obterão a sua localização."</string>
     <string name="terms_of_use_label_MSA">"MSA"</string>
     <string name="terms_of_use_label_Mistore">Loja Mi</string>
     <string name="terms_of_use_label_RMS">Gerenciador de permissões</string>

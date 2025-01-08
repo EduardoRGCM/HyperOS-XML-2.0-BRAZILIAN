@@ -1447,7 +1447,7 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="resource_exchange_has_used">O código digitado já foi usado.</string>
     <string name="resource_exchange_hint">Digite o código</string>
     <string name="resource_exchange_purchase_unkown_error">Ocorreu um erro desconhecido. Faça o login em http://market.xiaomi.com para ver o status do seu pagamento.</string>
-    <string name="resource_exchange_share_code_content">"Você recebeu um vale-presente (%2$s) para o tema \"%1$s\" na Loja de Temas HyperOS. Toque em %3$s para usá-lo agora."</string>
+    <string name="resource_exchange_share_code_content">"Você recebeu um vale-presente (%2$s) para o tema \"%1$s\" no app Temas. Toque em %3$s para usá-lo agora."</string>
     <string name="resource_exchange_share_code_dlg_content">Vale-presente para \"%1$s\": %2$s. Quando você enviar o código para outro usuário HyperOS, ele poderá baixar este tema.</string>
     <string name="resource_exchange_share_code_dlg_title">Enviando</string>
     <string name="resource_exchange_success">Comprado com sucesso</string>
@@ -2068,7 +2068,7 @@ Vá em Temas > Perfil > Laboratório de temas para mais recursos."</string>
     <string name="wallpaper_subject_version">MI</string>
     <string name="warning_miui_optimization_closed_dialog_agree">Configurações</string>
     <string name="warning_miui_optimization_closed_dialog_disagree">Aplicar</string>
-    <string name="warning_miui_optimization_closed_dialog_message">"Parece que você não ativou a otimização do HyperOS. Sem ela, este tema não funcionará corretamente quando aplicado. Você pode aplicá-lo de qualquer maneira ou ativar a otimização do HyperOS nas Configurações."</string>
+    <string name="warning_miui_optimization_closed_dialog_message">"Parece que você não ativou a otimização do sistema. Sem ela, este tema não funcionará corretamente quando aplicado. Você pode aplicá-lo de qualquer maneira ou ativar a otimização do sistema nas Configurações."</string>
     <string name="warning_miui_optimization_closed_dialog_title">Atenção!</string>
     <string name="warning_subscribe_wallpaper_group_content">"Você ativou a apresentação de slides na Tela inicial. %1$s será aplicado à sua Tela inicial."</string>
     <string name="warning_update_super_wallpaper">Atualizar Super plano de fundo</string>

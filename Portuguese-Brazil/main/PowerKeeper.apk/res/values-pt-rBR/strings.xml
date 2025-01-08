@@ -218,7 +218,7 @@ A Economia de bateria irá tratar apps importantes de forma seletiva."</string>
     <string name="more">Mais</string>
     <string name="morning">"AM"</string>
     <string name="night">"PM"</string>
-    <string name="nonui_mode_config_description">"Não ligar a tela para notificações, desligar a luz de LED, sensor de impressão digital e controles de toque para economizar bateria quando o HyperOS detectar que você não está usando seu dispositivo."</string>
+    <string name="nonui_mode_config_description">"Não ligar a tela para notificações, desligar a luz de LED, sensor de impressão digital e controles de toque para economizar bateria quando o sistema detectar que você não está usando seu dispositivo."</string>
     <string name="nonui_mode_config_title">Modo não-interativo</string>
     <string name="noon">"PM"</string>
     <string name="not_set">Não definido</string>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="error_origins">
+        <item>Erro de origem desconhecida</item>
+        <item>Obter informações do perfil</item>
+        <item>Excluir perfil</item>
+        <item>Desativar perfil</item>
+        <item>Ativar perfil</item>
+        <item>Obter tabela de regras de autorização</item>
+        <item>Editar apelido</item>
+        <item>Obter EID do dispositivo</item>
+        <item>Redefinir eSIM</item>
+        <item>Definir endereço SM-DP+ padrão</item>
+        <item>Obter número de contestação do eSIM</item>
+        <item>Obter endereço configurado do eSIM</item>
+        <item>Obter informações do eSIM</item>
+        <item>Inicializar autenticação</item>
+        <item>Verificar regras de política de perfil</item>
+        <item>Preparar download</item>
+        <item>Obter pacote de vínculo de perfil</item>
+        <item>Verificar metadados do perfil</item>
+        <item>Baixar pacote de vínculo de perfil</item>
+        <item>Inicializar canal seguro</item>
+        <item>Configurar domínio de segurança do perfil</item>
+        <item>Armazenar metadados</item>
+        <item>Substituir chave de sessão</item>
+        <item>Baixar metadados do perfil</item>
+        <item>Sequência de configuração do domínio de segurança do perfil</item>
+        <item>Sequência de chaves de proteção do perfil</item>
+        <item>Sequência de metadados armazenados</item>
+        <item>Sequência de elementos do perfil</item>
+        <item>Processar resultados da instalação de perfil</item>
+        <item>Excluir resultados de instalação de perfil</item>
+        <item>Autenticar cliente</item>
+        <item>Autenticar servidor</item>
+        <item>Baixar perfil</item>
+        <item>Obter notificações</item>
+        <item>Excluir resultados de notificações</item>
+        <item>Processar notificações</item>
+        <item>Listar notificações</item>
+        <item>Baixar arquivos de configuração SM-DS</item>
+    </string-array>
+    <string-array name="ppr_ids">
+        <item></item>
+        <item>"Não é possível desativar este perfil"</item>
+        <item>"Não é possível excluir este perfil"</item>
+        <item>Desative este perfil para poder excluí-lo</item>
+    </string-array>
+</resources>

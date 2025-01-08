@@ -309,7 +309,7 @@
     <string name="tuesday">Terça</string>
     <string name="tuesday_short">Ter</string>
     <string name="tuesday_shortest">Ter</string>
-    <string name="using_miui_autofill_message">"Para preencher as senhas automaticamente, o HyperOS irá salvar as informações de sua conta e suas senhas neste dispositivo."</string>
+    <string name="using_miui_autofill_message">"Para inserir senhas automaticamente, salvaremos as informações da sua conta e senhas no seu dispositivo."</string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
     <string name="wednesday">Quarta</string>
