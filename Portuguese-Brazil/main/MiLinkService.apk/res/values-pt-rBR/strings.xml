@@ -57,6 +57,7 @@ seus dispositivos?"</string>
     <string name="appcirculate_fragment_circulate_device_list_button_confirm">Pesquise novamente</string>
     <string name="appcirculate_fragment_circulate_device_list_text_none"><u>"Não consegue encontrar seus dispositivos?"</u></string>
     <string name="appcirculate_fragment_circulate_device_list_text_searching">Procurando por dispositivos próximos…</string>
+    <string name="appcirculate_toast_app_max_screen_count">"Não consigo abrir mais janelas"</string>
     <string name="appcirculate_toast_app_notstall">"Não foi possível transferir. Este app não está instalado no dispositivo."</string>
     <string name="appcirculate_toast_busy">Parece que o outro dispositivo está transferindo arquivos agora. Aguarde até que a transferência seja concluída e tente novamente.</string>
     <string name="appcirculate_toast_cancel">Cancelado</string>
@@ -69,6 +70,8 @@ seus dispositivos?"</string>
     <string name="appcirculate_toast_not_support_device_phone">"Não é possível abrir este app no dispositivo"</string>
     <string name="appcirculate_toast_not_support_device_tv">"Não é possível abrir este app em TVs"</string>
     <string name="appcirculate_toast_not_support_device_tv_connected">Já conectado a esta TV</string>
+    <string name="appcirculate_toast_pad_connection_car">O tablet está conectado ao veículo</string>
+    <string name="appcirculate_toast_phone_connection_car">O telefone está conectado ao veículo</string>
     <string name="appcirculate_toast_success_1">Alternado com sucesso</string>
     <string name="appcirculate_toast_success_2">Transmitindo em modo privado…</string>
     <string name="appcirculate_toast_success_3">Transmitindo…</string>
@@ -454,6 +457,7 @@ seus dispositivos?"</string>
     <string name="connect_settings_privacy_policy">Política de Privacidade</string>
     <string name="connect_settings_relay_app">"Apps"</string>
     <string name="connect_settings_share_clipboard">Prancheta</string>
+    <string name="connect_settings_share_file">Acesso a arquivos</string>
     <string name="connect_settings_share_launcher">Tela inicial+</string>
     <string name="connect_settings_share_notification">Notificações</string>
     <string name="connect_settings_summary"><Data>Descubra automaticamente dispositivos próximos conectados à sua Conta Mi e conecte-os entre si para executar uma variedade de tarefas em vários dispositivos. &lt;a href=%1$s>Saiba mais&lt;/a></Data></string>
@@ -464,6 +468,7 @@ seus dispositivos?"</string>
     <string name="connect_settings_summary_hyper_mind_new">Deixe o Xiaomi HyperMind controlar seus dispositivos próximos de acordo com seus hábitos</string>
     <string name="connect_settings_summary_relay_app">Continue tarefas no mesmo app em outro dispositivo</string>
     <string name="connect_settings_summary_share_clipboard">Cole texto e imagens em outros dispositivos dentro de %d minutos após copiá-los neste dispositivo</string>
+    <string name="connect_settings_summary_share_file">Acesse arquivos locais de computadores próximos</string>
     <string name="connect_settings_summary_share_launcher_pad">Visualize e interaja com as telas iniciais de dispositivos próximos conectados à sua Conta Mi</string>
     <string name="connect_settings_summary_share_launcher_phone">Permita que tablets e computadores próximos visualizem e interajam com a Tela inicial deste dispositivo</string>
     <string name="connect_settings_summary_share_notification_pad">Receba notificações de dispositivos próximos conectados à sua Conta Mi</string>
@@ -561,6 +566,9 @@ Consulte a ajuda caso tenha problemas com a conexão."</string>
     <string name="dialog_select_tv">Selecionar dispositivo (%1$d)</string>
     <string name="dialog_show_help">Ajuda</string>
     <string name="disconnect">Parar transmissão</string>
+    <string name="disconnect_access">Desconectar</string>
+    <string name="dist_file_notification_subtitle">"\"%s\" deseja acessar os arquivos deste dispositivo"</string>
+    <string name="dist_file_notification_title">Acesso a arquivos entre dispositivos</string>
     <string name="dp_casting_start_hint">Conectado via cabo. A transmissão terminou.</string>
     <string name="dual_wifi_warning_china">Desative o dual Wi-Fi e tente novamente</string>
     <string name="dual_wifi_warning_global">Desative o dual Wi-Fi e tente novamente</string>
@@ -844,6 +852,7 @@ Observação: Você receberá um alerta de rotina do sistema ao ativar os recurs
     <string name="invisible_mode_dialog_content_audio_relay">"Não é possível transferir a reprodução quando você está anônimo. Desative o Modo anônimo primeiro."</string>
     <string name="invisible_mode_dialog_pos">Desativar</string>
     <string name="invisible_mode_dialog_title">"Você está anônimo"</string>
+    <string name="is_accessed_by">\"%1$s\" está acessando este dispositivo</string>
     <string name="is_creating_camera_cooperation">Desbloqueie o dispositivo para conectar</string>
     <string name="item_view_role_description">Guia</string>
     <string name="keyguard_security_setting_privacy_policy">Política de Privacidade</string>
@@ -1043,6 +1052,7 @@ Observação: Você receberá um alerta de rotina do sistema ao ativar os recurs
     <string name="mtrl_picker_toggle_to_year_selection">Toque para alternar para a seleção anual</string>
     <string name="mtrl_timepicker_cancel">Cancelar</string>
     <string name="mtrl_timepicker_confirm">"OK"</string>
+    <string name="nearby_device_file_access">"Receba uma notificação quando dispositivos próximos acessarem os arquivos deste dispositivo"</string>
     <string name="nfc_connect_failed_toast">"Não foi possível transmitir. Tente novamente."</string>
     <string name="night">"PM"</string>
     <string name="no_permission">"Não é possível visualizar esta página"</string>
@@ -1075,8 +1085,12 @@ Observação: Você receberá um alerta de rotina do sistema ao ativar os recurs
     <string name="open_wlan_known">Entendi</string>
     <string name="open_wlan_other">Ative o Wi-Fi em %1$s para poder usar os recursos de interconectividade.</string>
     <string name="open_wlan_other_china">Ative o Wi-Fi em %1$s para poder usar os recursos de interconectividade.</string>
+    <string name="open_wlan_other_toast">Ative o Wi-Fi no outro dispositivo e tente novamente</string>
+    <string name="open_wlan_other_toast_china">Ative o Wi-Fi no outro dispositivo e tente novamente</string>
     <string name="open_wlan_self">Ative o Wi-Fi para poder usar os recursos de interconectividade. Ativar agora?</string>
     <string name="open_wlan_self_china">Ative o Wi-Fi para poder usar os recursos de interconectividade. Ativar agora?</string>
+    <string name="open_wlan_self_toast">Ative o Wi-Fi e tente novamente</string>
+    <string name="open_wlan_self_toast_china">Ative o Wi-Fi e tente novamente</string>
     <string name="p2p_location_des">Para conectar seu dispositivo móvel a monitores externos</string>
     <string name="paipai_connect_btn_text">Concluído</string>
     <string name="paipai_connect_tv1_text">Conectado ao dispositivo</string>

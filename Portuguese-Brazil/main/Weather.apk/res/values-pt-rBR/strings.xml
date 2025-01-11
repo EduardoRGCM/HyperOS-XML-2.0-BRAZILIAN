@@ -381,6 +381,7 @@ Toque na tela para adicionar ou reposicionar manualmente a cidade"</string>
     <string name="miuix_appcompat_select_all">Selecionar todos</string>
     <string name="miuix_appcompat_select_all_description">Selecionar todos</string>
     <string name="miuix_appcompat_select_item">Selecionar itens</string>
+    <string name="miuix_appcompat_show_dialog_description">Janela pop-up</string>
     <string name="miuix_indexer_collect">Coleções</string>
     <string name="miuix_indexer_selected">Selecionado: %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Puxe para baixo para atualizar</string>

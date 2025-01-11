@@ -544,6 +544,7 @@ Você pode fazer login com sua Conta Mi usando %s agora."</string>
     <string name="passport_copy_message_vcode">Copiar código</string>
     <string name="passport_copy_to_clipboard_successful">Copiado com sucesso</string>
     <string name="passport_delete_account">Sair</string>
+    <string name="passport_device_code_dialog_hint">"Não compartilhe este código com ninguém"</string>
     <string name="passport_dialog_captcha_title">Código</string>
     <string name="passport_dialog_doing_login">Entrando…</string>
     <string name="passport_dialog_doing_register">Criando conta…</string>

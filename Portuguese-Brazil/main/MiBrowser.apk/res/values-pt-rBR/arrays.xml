@@ -12,6 +12,16 @@
         <item>Verde</item>
         <item>Azul</item>
     </string-array>
+    <string-array name="new_user_guide_info_array">
+        <item>Visão geral do conteúdo de toda a web</item>
+        <item>Sua experiência de navegação mais conveniente até agora</item>
+        <item>Gerencie arquivos no seu dispositivo e torne-os privados</item>
+    </string-array>
+    <string-array name="new_user_guide_title_array">
+        <item>Feed de conteúdo global</item>
+        <item>Novos recursos de IA</item>
+        <item>Arquivos privados</item>
+    </string-array>
     <string-array name="nf_ad_feedback_reason">
         <item>Sem interesse</item>
         <item>Repetitivo</item>

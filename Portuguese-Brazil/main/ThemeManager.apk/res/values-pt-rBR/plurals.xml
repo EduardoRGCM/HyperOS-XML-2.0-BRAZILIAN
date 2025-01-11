@@ -232,8 +232,8 @@
         <item quantity="one">%1$d item foi baixado com sucesso</item>
     </plurals>
     <plurals name="resource_mibi_per_set">
-        <item quantity="other">%1$s Mi Créditos/definido</item>
-        <item quantity="one">%1$s Mi Créditos/definido</item>
+        <item quantity="other">%1$s Mi Créditos cada</item>
+        <item quantity="one">%1$s Mi Créditos cada</item>
     </plurals>
     <plurals name="resource_rating">
         <item quantity="other">%1$.1f pontos</item>

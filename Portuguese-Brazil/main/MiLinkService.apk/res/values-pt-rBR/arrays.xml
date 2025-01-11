@@ -67,6 +67,11 @@
         <item>Interconectividade/Área de transferência</item>
         <item>Área de transferência</item>
     </string-array>
+    <string-array name="settings_search_share_file">
+        <item>Acesso a arquivos entre dispositivos</item>
+        <item>Interconectividade/Acesso a arquivos</item>
+        <item>Acesso a arquivos entre dispositivos, Acesso cruzado a arquivos, Arquivo entre dispositivos, acesso a arquivos, arquivo distribuído, Letra de unidade distribuída</item>
+    </string-array>
     <string-array name="settings_search_share_notify">
         <item>Notificações entre dispositivos</item>
         <item>Interconectividade/Notificações</item>

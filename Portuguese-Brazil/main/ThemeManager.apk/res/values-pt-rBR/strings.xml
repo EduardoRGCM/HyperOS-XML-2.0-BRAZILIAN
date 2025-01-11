@@ -110,8 +110,8 @@
     <string name="ai_select_again">Selecionar</string>
     <string name="ai_select_images_in_the_following_formats">Selecione imagens em qualquer um dos seguintes formatos suportados: *.jpg, *.jpeg, *.png, *.bmp, WebP, HEIC e HEIF.</string>
     <string name="ai_select_images_smaller_than_one_hundred">Selecione uma imagem de %d MB e tente novamente.</string>
-    <string name="ai_select_message">Selecione apenas imagens de paisagens, cidades, plantas e carros e certifique-se de que o assunto principal da imagem esteja claro e desobstruído.</string>
-    <string name="ai_select_title">"Não é possível processar imagens"</string>
+    <string name="ai_select_message">Selecione uma foto em que o assunto esteja claramente visível.</string>
+    <string name="ai_select_title">"Não foi possível gerar"</string>
     <string name="ai_select_wallpaper">Selecionar plano de fundo</string>
     <string name="ai_service_temporarily_unavailable">"Este recurso não está disponível"</string>
     <string name="ai_service_unavailable">"Este recurso não está disponível"</string>
@@ -126,7 +126,7 @@
     <string name="ai_wallpaper_i_know">Entendi</string>
     <string name="ai_wallpaper_inside_invitation">Teste beta do Planos de fundo dinâmicos IA</string>
     <string name="ai_wallpaper_inside_invitation_agree">Aceitar</string>
-    <string name="ai_wallpaper_inside_invitation_description">Este recurso usa recursos de modelos grandes para usar fotos de paisagens, cidades, plantas e carros para criar planos de fundo de vídeo dinâmicos. Toque em \"Aceitar\" para experimentar!</string>
+    <string name="ai_wallpaper_inside_invitation_description">Este recurso usa recursos de modelos grandes para criar planos de fundo dinâmicos a partir de imagens estáticas. Toque em \"Aceitar\" para experimentar!</string>
     <string name="ai_wallpaper_inside_invitation_description_all">Este recurso usa recursos de modelos grandes para criar planos de fundo dinâmicos a partir de imagens estáticas. Toque em \"Aceitar\" para experimentar!</string>
     <string name="ai_wallpaper_inside_invitation_disagree">"Não aceitar"</string>
     <string name="ai_wallpaper_network_connection_exception">"Não foi possível conectar-se à rede"</string>
@@ -401,6 +401,7 @@
     <string name="display">Tela</string>
     <string name="do_not_allow">Restrito</string>
     <string name="download_failed">"Não foi possível baixar"</string>
+    <string name="download_limit">"Não é possível baixar mais itens no momento. Tente novamente mais tarde."</string>
     <string name="download_preview_failed">Não é possível carregar a pré-visualização</string>
     <string name="download_success">Download concluído</string>
     <string name="dynamic_large_icon_not_support_current_type">"%s não é compatível com este ícone dinâmico"</string>
@@ -720,6 +721,10 @@ Para desativar este recurso, vá em Configurações > Som e vibração > Vídeo 
     <string name="kg_color_value_editor_title">Editar cor</string>
     <string name="kg_confirm">"OK"</string>
     <string name="kg_customize">Customizar</string>
+    <string name="kg_dialog_apply_link_video_wallpaper_confirm_title">Aplicar tema</string>
+    <string name="kg_dialog_apply_link_video_wallpaper_nagetive_button">Cancelar</string>
+    <string name="kg_dialog_apply_link_video_wallpaper_positive_button">Aplicar</string>
+    <string name="kg_dialog_apply_link_video_wallpaper_wallpaper_confirm">"Você está usando um conjunto de plano de fundo agora. Se você aplicar um novo tema, os planos de fundo da Tela de bloqueio e da Tela inicial serão substituídos e a Tela ambiente será restaurada para o estilo anterior. Aplicar mesmo assim?"</string>
     <string name="kg_dialog_apply_not_support_super_wallpaper_confirm">"Esta Tela de bloqueio não suporta Super plano de fundo. O plano de fundo nas telas inicial e de bloqueio será substituído se você continuar. Continuar mesmo assim?"</string>
     <string name="kg_dialog_apply_super_wallpaper_confirm">"Você está usando um Super plano de fundo. Ele será substituído por um novo plano de fundo nas telas inicial e de bloqueio se você continuar. Continuar mesmo assim?"</string>
     <string name="kg_dialog_apply_super_wallpaper_negative_button">Cancelar</string>
@@ -736,9 +741,11 @@ Para desativar este recurso, vá em Configurações > Som e vibração > Vídeo 
     <string name="kg_doodle_secondary_disable_tip">Ative o efeito de profundidade</string>
     <string name="kg_doodle_secondary_label">Fundo</string>
     <string name="kg_doodle_text_not_support_gallery_tip">"O Carrossel de planos de fundo não suporta rabiscos"</string>
+    <string name="kg_doodle_text_not_support_third_party_wallpaper_service_tip">"Planos de fundo de terceiros não suportam rabiscos"</string>
     <string name="kg_doodle_text_not_support_wallpaper_tip">"Este plano de fundo não suporta rabiscos"</string>
     <string name="kg_edit_cancel_dialog_content">Descartar todas as alterações agora?</string>
     <string name="kg_edit_cancel_dialog_title">Descartar alterações?</string>
+    <string name="kg_effects_not_support_gallery_tip">"Não é possível definir efeitos ao usar a apresentação de slides de planos de fundo"</string>
     <string name="kg_effects_tip_button">Entendi</string>
     <string name="kg_effects_tip_desc">"O efeito de profundidade de campo não pode ser combinado com filtros. Usar um deles substituirá o outro."</string>
     <string name="kg_effects_tip_not_support">"Não é possível aplicar efeitos a planos de fundo dinâmicos"</string>
@@ -907,6 +914,7 @@ Toque para desativar."</string>
     <string name="login_theme">Fazer login no Temas</string>
     <string name="long_click_can_hide_resource">Pressione e segure para ocultar itens</string>
     <string name="loop_video_wallpaper">Planos de fundo dinâmicos em loop</string>
+    <string name="mashup_sound">Mix da natureza</string>
     <string name="material_clock_toggle_content_description">Selecione AM ou PM</string>
     <string name="material_hour_selection">Selecione a hora</string>
     <string name="material_hour_suffix">"%1$s horas"</string>
@@ -1359,6 +1367,7 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="resource_account_login_title">Fazer login</string>
     <string name="resource_account_switch">Alternar</string>
     <string name="resource_alarm_default">Alarme</string>
+    <string name="resource_alarm_default_with_brackets">Som do alarme (%1$s)</string>
     <string name="resource_app_name">Ver recursos</string>
     <string name="resource_apply">Aplicar</string>
     <string name="resource_apply_trial">Testar agora</string>
@@ -1413,6 +1422,7 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="resource_data_empty">Nenhum item aqui.</string>
     <string name="resource_default">Toque padrão</string>
     <string name="resource_default_name">Recurso</string>
+    <string name="resource_default_with_brackets">Toque padrão (%1$s)</string>
     <string name="resource_delete">Excluir</string>
     <string name="resource_delete_all">Excluir %1$d recursos selecionados?</string>
     <string name="resource_delete_confirm">Excluir estes recursos?</string>
@@ -1488,6 +1498,7 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="resource_no_network_text">"Não é possível conectar-se à rede."</string>
     <string name="resource_no_result">"Nada encontrado"</string>
     <string name="resource_notification_default">Notificações</string>
+    <string name="resource_notification_default_with_brackets">Som de notificação (%1$s)</string>
     <string name="resource_on_trial">Testando: %1$s</string>
     <string name="resource_online">"Online"</string>
     <string name="resource_online_picker">Escolher toque online</string>
@@ -1513,6 +1524,7 @@ Você pode conceder essa permissão em Configurações > Privacidade."</string>
     <string name="resource_restore_fail">"Não foi possível restaurar"</string>
     <string name="resource_restore_succ">Restaurado com sucesso</string>
     <string name="resource_ringtone_default">Toques</string>
+    <string name="resource_ringtone_default_with_brackets">Toque (%1$s)</string>
     <string name="resource_ringtone_playing_error">Erro</string>
     <string name="resource_ringtone_too_large_waring">Os arquivos de toque devem ter %1$d MB ou menos</string>
     <string name="resource_ringtone_volume_mute">Toque silenciado</string>
