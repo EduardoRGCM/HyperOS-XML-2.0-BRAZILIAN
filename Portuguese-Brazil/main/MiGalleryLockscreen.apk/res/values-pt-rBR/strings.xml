@@ -30,7 +30,6 @@
     <string name="about_download_fail">"Não foi possível baixar"</string>
     <string name="about_downloading">Baixando %s</string>
     <string name="about_item_function">Novos recursos</string>
-    <string name="about_net_error">Verifique as conexões de rede e tente novamente.</string>
     <string name="about_newest">O Carrossel de planos de fundo está atualizado.</string>
     <string name="about_permission">Permissões</string>
     <string name="about_update">Atualizar</string>
@@ -65,7 +64,7 @@
     <string name="allowed">Permitido</string>
     <string name="am">"AM"</string>
     <string name="app_name">Carrossel de planos de fundo</string>
-    <string name="applied_and_added_to_custom_wallpaper">"Adicionado à sua apresentação de slides com sucesso. &lt;font color ='#3482FF'>&lt;a href='%1$s'>Visualizar&lt;/font>&lt;/a>."</string>
+    <string name="applied_and_added_to_custom_wallpaper">"Adicionado à sua apresentação de slides com sucesso. &lt;font color ='#3482FF'>&lt;a href='%1$s'>Ver&lt;/font>&lt;/a>"</string>
     <string name="apply">Aplicar</string>
     <string name="apply_success_toast">Plano de fundo definido com sucesso</string>
     <string name="apply_to_above_all">Aplicar em ambos</string>
@@ -95,7 +94,7 @@
     <string name="carousel_declaration_cta">"O Carrossel de planos de fundo precisa de conexão com a internet para funcionar adequadamente. Para ter acesso ao conteúdo online, você precisa aceitar a nossa Política de Privacidade. Aceitar?"</string>
     <string name="carousel_declaration_cta_btn_text">Aceitar e ativar</string>
     <string name="carousel_declaration_des2">Adicione as suas imagens ao Carrossel de planos de fundo</string>
-    <string name="carousel_declaration_des_new">Receba recomendações personalizadas e escolha imagens novas diariamente</string>
+    <string name="carousel_declaration_des_new">Receba recomendações personalizadas e escolha novas imagens e histórias entregues na Tela de bloqueio diariamente</string>
     <string name="carousel_declaration_title_new">Planos de fundo novos diariamente</string>
     <string name="carousel_suggest">Atenção!</string>
     <string name="carousel_suggest1">Obtenha novos planos de fundo entregues diretamente na sua Tela de bloqueio diariamente de forma gratuita.</string>
@@ -110,7 +109,7 @@
     <string name="clearable_edittext_clear_description">Limpar</string>
     <string name="close">Fechar</string>
     <string name="comment_pop_cancel">Agora não</string>
-    <string name="comment_pop_content">Faça uma avaliação se você gostou do nosso Carrossel de planos de fundo!</string>
+    <string name="comment_pop_content">Dê-nos uma avaliação se você gosta do Carrossel de planos de fundo!</string>
     <string name="comment_pop_ok">Avaliar</string>
     <string name="comment_pop_title">Avalie o Carrossel de planos de fundo</string>
     <string name="confirm">Ativar</string>
@@ -158,7 +157,7 @@
     <string name="delete_pic">Excluir imagem</string>
     <string name="deny_des">O Carrossel de planos de fundo precisa de permissão à Galeria para funcionar normalmente</string>
     <string name="detail_ad_download_btn">Baixar</string>
-    <string name="detail_ad_type_ad">Anúncios</string>
+    <string name="detail_ad_type_ad">Anúncio</string>
     <string name="detail_ad_type_close_ad">Fechar anúncio</string>
     <string name="detail_ad_type_video">Vídeos populares</string>
     <string name="detail_add_cw">Adicionar plano de fundo</string>
@@ -168,7 +167,7 @@
     <string name="detail_menu_checkimg_favor">Adicionar aos favoritos</string>
     <string name="detail_menu_favor">Favoritos</string>
     <string name="detail_menu_history">Histórico</string>
-    <string name="detail_menu_home">Ir para início</string>
+    <string name="detail_menu_home">Ir para a página inicial</string>
     <string name="detail_menu_setting">Configurações do app</string>
     <string name="detail_menu_settingbtn_save">Salvar</string>
     <string name="detail_menu_settingbtn_share">Compartilhar</string>
@@ -261,7 +260,7 @@
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
     <string name="from_migallerylockscreen">Do Carrossel de planos de fundo</string>
-    <string name="get_account_no_permission">Permitir que o Carrossel de planos de fundo tenha acesso às contas neste dispositivo antes de iniciar sessão</string>
+    <string name="get_account_no_permission">Permita que o Carrossel de planos de fundo acesse contas neste dispositivo antes de fazer login.</string>
     <string name="goto_confirm">Configurações</string>
     <string name="history_list_no_data">Sem itens aqui</string>
     <string name="hour_1">A cada hora</string>
@@ -270,12 +269,12 @@
     <string name="idbct_desc">Personalize o plano de fundo dependendo do tipo de rede</string>
     <string name="idbct_opt_auto_select_desc_text">Baixe imagens padrão usando dados móveis e imagens HD via Wi-Fi</string>
     <string name="idbct_opt_auto_select_main_text">Automático</string>
-    <string name="idbct_opt_high_def_desc_text">Baixar sempre em HD</string>
+    <string name="idbct_opt_high_def_desc_text">Baixar sempre imagens HD</string>
     <string name="idbct_opt_high_def_main_text">"HD"</string>
     <string name="idbct_opt_low_dev_desc_text">Sempre baixe imagens em qualidade padrão</string>
     <string name="idbct_opt_low_dev_main_text">Padrão</string>
     <string name="idbct_title">Tipos de rede</string>
-    <string name="launch_bg_permission_exception">Permita que o Carrossel de planos de fundo exiba janelas pop-up durante a execução em 2º plano no app Segurança</string>
+    <string name="launch_bg_permission_exception">Permita que o Carrossel de planos de fundo exiba janelas pop-up enquanto é executado em segundo plano no app Segurança</string>
     <string name="left_lks_detail_entrance">Ver mais</string>
     <string name="left_lks_download_now">Baixar</string>
     <string name="left_lks_reverse">Pedido antecipado</string>
@@ -312,7 +311,7 @@
     <string name="llks_pop_btm_des">Comece seu dia com um sorriso</string>
     <string name="llks_pop_btm_des_backup">Inicie seu dia em grande estilo</string>
     <string name="llks_pop_btm_title">Bom dia</string>
-    <string name="llks_pop_btm_title_backup">Saudação matinal</string>
+    <string name="llks_pop_btm_title_backup">Saudações matinais</string>
     <string name="llks_pop_i_know">Entendi</string>
     <string name="llks_pop_top_des">Receba novas imagens regularmente</string>
     <string name="llks_pop_top_des_backup">Entregue à sua tela diariamente</string>
@@ -397,7 +396,7 @@ mm"</string>
     <string name="mode_des">O Carrossel de planos de fundo mostrarão recomendações agora. Troque para a apresentação de slides para poder ver seus itens personalizados.</string>
     <string name="mode_ok">Trocar para apresentação de slides</string>
     <string name="mode_select">Selecionar modo</string>
-    <string name="mode_title">Recomendações</string>
+    <string name="mode_title">Mostrando recomendações</string>
     <string name="monday">Segunda</string>
     <string name="monday_short">Seg</string>
     <string name="monday_shortest">Seg</string>
@@ -491,10 +490,10 @@ mm"</string>
     <string name="open_btn_finish">Concluído</string>
     <string name="open_btn_next">Próximo</string>
     <string name="open_btn_start">Ative o Carrossel de planos de fundo</string>
-    <string name="open_freq_title">Frequência de atualização</string>
+    <string name="open_freq_title">Definir frequência de atualização</string>
     <string name="open_gallery">Carrossel de planos de fundo</string>
     <string name="open_gallery_tips">Toque aqui para ativar o Carrossel de planos de fundo</string>
-    <string name="open_guid_des">Vá em Configurações > Permissões > Outras permissões > Carrossel de planos de fundo e dê todas as permissões necessárias</string>
+    <string name="open_guid_des">Vá em Configurações > Permissões > Outras permissões > Carrossel de planos de fundo e dê todas as permissões necessárias.</string>
     <string name="open_sub_title">Selecionar categorias</string>
     <string name="open_title">Carrossel de planos de fundo</string>
     <string name="pager_load_hd">Ver imagem original</string>
@@ -670,7 +669,7 @@ mm"</string>
     <string name="passport_wrong_vcode">O código inserido está incorreto</string>
     <string name="passport_wrong_voice">O código inserido está incorreto</string>
     <string name="password_toggle_content_description">Mostrar senha</string>
-    <string name="permission_manager">Detalhes de permissões</string>
+    <string name="permission_manager">Detalhes das permissões</string>
     <string name="personalized">Personalização</string>
     <string name="platform_unavailable_qq">Instale o QQ</string>
     <string name="platform_unavailable_qzone">Instale o Qzone</string>
@@ -693,14 +692,14 @@ mm"</string>
     <string name="prv_loading"><CDATA>Aguarde…</CDATA></string>
     <string name="prv_nodata"><CDATA>Nenhum dado</CDATA></string>
     <string name="pull_to_refresh_loading_label">Aguarde…</string>
-    <string name="pull_to_refresh_pull_down_label">Puxe para atualizar</string>
+    <string name="pull_to_refresh_pull_down_label">Puxe para baixo para atualizar</string>
     <string name="pull_to_refresh_pull_up_label">Puxe para atualizar</string>
     <string name="pull_to_refresh_refreshing_label">Atualizando…</string>
     <string name="pull_to_refresh_release_label">Solte para atualizar</string>
-    <string name="reach_custom_limitation">"Não é possível adicionar mais planos de fundo. &lt;font color ='#3482FF'>&lt;a href='%1$s'>Gerenciar&lt;/font>&lt;/a>."</string>
+    <string name="reach_custom_limitation">"Não é possível adicionar mais planos de fundo. &lt;font color ='#3482FF'>&lt;a href='%1$s'>Gerenciar&lt;/font>&lt;/a>"</string>
     <string name="recommend_switch_desc">Receba recomendações de conteúdo com base em suas preferências</string>
     <string name="recommend_switch_dlg_close">Desativar</string>
-    <string name="recommend_switch_dlg_desc">"Não poderá receber recomendações baseadas nas suas preferências se desativar este recurso"</string>
+    <string name="recommend_switch_dlg_desc">"Você não poderá receber recomendações com base nas suas preferências se desativar esse recurso"</string>
     <string name="recommend_switch_dlg_other">"Não desativar"</string>
     <string name="recommend_switch_dlg_title">Desativar recomendações?</string>
     <string name="recommend_switch_title">Recomendações personalizadas</string>
@@ -726,8 +725,8 @@ mm"</string>
     <string name="save_hdpicture_in_favor">Ver imagens HD nos \"Favoritos\"</string>
     <string name="save_to_album">Salvo com sucesso</string>
     <string name="save_to_album_fail">"Não foi possível salvar"</string>
-    <string name="scribe_btn_ok">Cadastre-se</string>
-    <string name="scribe_title1">Cadastre-se no Carrossel de planos de fundo</string>
+    <string name="scribe_btn_ok">Inscreva-se</string>
+    <string name="scribe_title1">Inscreva-se no Carrossel de planos de fundo</string>
     <string name="search">Pesquisar</string>
     <string name="search_menu_title">Pesquisar</string>
     <string name="search_str">Popular agora</string>
@@ -739,7 +738,7 @@ mm"</string>
     <string name="select_photo_album">Selecionar imagens</string>
     <string name="send">Enviar</string>
     <string name="setting_about_item_des">Versão</string>
-    <string name="setting_about_item_title">Sobreo o Carrossel de planos de fundo</string>
+    <string name="setting_about_item_title">Sobre o Carrossel de planos de fundo</string>
     <string name="setting_des">O serviço de apresentação de slides é fornecido pelo Carrossel de planos de fundo. Pesquise por \"Carrossel de planos de fundo\" nas Configurações para ver todas as opções disponíveis.</string>
     <string name="setting_des_custom_only">Nosso recurso de apresentação de slides agora é totalmente personalizável. Você pode ajustar a frequência com que seu plano de fundo muda em: Configurações > Tela de bloqueio > Configurações do Carrossel de planos de fundo.</string>
     <string name="setting_des_recommend_selected">"Nosso recurso de apresentação de slides agora é totalmente personalizável. Obtenha recomendações de imagens que você vai gostar e adicione as suas próprias. Você pode ajustar a frequência com que seu plano de fundo muda em: Configurações > Tela de bloqueio > Configurações do Carrossel de planos de fundo."</string>
@@ -763,13 +762,13 @@ mm"</string>
     <string name="shield_tag_dislike_title">Sem interesse</string>
     <string name="shield_tag_entrance_desc">Selecione para bloquear todas as imagens desta categoria</string>
     <string name="shield_tag_entrance_title">Bloquear esta categoria</string>
-    <string name="shield_tag_list_empty">Sem itens</string>
+    <string name="shield_tag_list_empty">Nenhum item aqui</string>
     <string name="shield_tag_list_title">Itens bloqueados</string>
     <string name="shortcut_ask">Permitir a criação de atalhos em Segurança</string>
-    <string name="shortcut_created">Atalho criado</string>
+    <string name="shortcut_created">Atalho criado com sucesso</string>
     <string name="shortcut_exist">O atalho já existe</string>
     <string name="shortcut_failed">"Não foi possível criar o atalho"</string>
-    <string name="show_wallpaper_loop_entry_title">Configurações de apresentação de slides</string>
+    <string name="show_wallpaper_loop_entry_title">Configurações da apresentação de slides</string>
     <string name="sliding_on_unlock">Deslize para cima para desbloquear</string>
     <string name="solar_term_autumn_begins">O outono começa</string>
     <string name="solar_term_autumn_equinox">Equinócio de outono</string>
@@ -818,11 +817,11 @@ mm"</string>
     <string name="sst_lockscreen_show_headline_title">Mostrar título na Tela de bloqueio</string>
     <string name="sst_logo_desc">Planos de fundo novos diariamente</string>
     <string name="sst_mode_selection">Modo</string>
-    <string name="sst_more_subscription">Mais subscrições</string>
+    <string name="sst_more_subscription">Mais inscrições</string>
     <string name="sst_morning_greeting_desc2">Receba saudações entre %1$s e %2$s todas as manhãs</string>
     <string name="sst_morning_greeting_disable_toast">Este recurso estará disponível em breve</string>
-    <string name="sst_morning_greeting_title">Saudações matinais</string>
-    <string name="sst_morning_history_desc">Ver saudações matinais</string>
+    <string name="sst_morning_greeting_title">Receber saudações matinais</string>
+    <string name="sst_morning_history_desc">Veja saudações matinais anteriores</string>
     <string name="sst_morning_history_title">Histórico de saudações matinais</string>
     <string name="sst_my_wallpaper_desc">Veja planos de fundo do Carrossel de planos de fundo</string>
     <string name="sst_my_wallpaper_title">Meus planos de fundo</string>
@@ -840,9 +839,9 @@ mm"</string>
     <string name="sst_sliding_checkbox_unchecked">Desativado</string>
     <string name="sst_sti_desc">Defina a frequência de atualização</string>
     <string name="sst_sti_title">Frequência de atualização</string>
-    <string name="sst_subscribe_title">Subscrições</string>
+    <string name="sst_subscribe_title">Inscrições</string>
     <string name="sst_subscrible_manager_title_bar_text">Gerenciar inscrições</string>
-    <string name="sst_subscripted">Subscrito</string>
+    <string name="sst_subscripted">Inscrito</string>
     <string name="sst_subscripted2">Categorias disponíveis</string>
     <string name="sst_switch_wallpaper_order_desc">Seleciona a ordem dos slides</string>
     <string name="sst_switch_wallpaper_order_fixed">Sequência</string>
@@ -858,9 +857,9 @@ mm"</string>
     <string name="status_wallpaper_loop_not_start">Desativado</string>
     <string name="status_wallpaper_loop_start">Ativado</string>
     <string name="subscribe_dlg_btn">Iniciar</string>
-    <string name="subscribe_dlg_btn_txt">Cadastre-se</string>
-    <string name="subscribe_dlg_content2">Inscrever-se em \"%1$s\"</string>
-    <string name="subscribe_dlg_desc">Cadastre-se para ver as apresentações</string>
+    <string name="subscribe_dlg_btn_txt">Inscreva-se</string>
+    <string name="subscribe_dlg_content2">Inscreva-se em \"%1$s\"</string>
+    <string name="subscribe_dlg_desc">Inscreva-se para ver as apresentações</string>
     <string name="subscribe_dlg_title">Adicione suas imagens favoritas à mistura</string>
     <string name="subscribe_item_checked">Inscrito</string>
     <string name="subscribe_item_unchecked">Não inscrito</string>
@@ -871,6 +870,7 @@ mm"</string>
     <string name="subscribe_success_content_per_three_hour">Alterar o plano de fundo a cada 3 horas</string>
     <string name="subscribe_success_content_per_unlock">Alterar o plano de fundo cada vez que o dispositivo é bloqueado</string>
     <string name="subscribe_update_time_setting">Defina um intervalo diferente</string>
+    <string name="summary">"Aceite a nossa &lt;a href='%s'>Política de Privacidade&lt;/a> para visualizar conteúdo online. Se você discordar, os planos de fundo locais ainda estarão disponíveis."</string>
     <string name="summary3">"Bem-vindo ao Carrossel de planos de fundo! Aqui você pode se inscrever em suas categorias de plano de fundo favoritas e obter novas imagens na Tela de bloqueio regularmente. Este app precisa se conectar à internet e coletar os dados pessoais necessários para funcionar normalmente.&lt;br>Para fornecer serviços adicionais, podemos pedir permissão para acessar e salvar itens no armazenamento deste dispositivo.&lt;br>Para compreender totalmente seus direitos como usuário, bem como as maneiras como usamos seus dados, leia e aceite o nosso &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Contrato do Usuário&lt;/font>&lt;/a> e a &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Política de Privacidade&lt;/font>&lt;/a> antes de usar este app."</string>
     <string name="summary4">"Bem-vindo ao Carrossel de planos de fundo! Aqui você pode se inscrever em suas categorias de plano de fundo favoritas e obter novas imagens na Tela de bloqueio regularmente. "</string>
     <string name="sunday">Domingo</string>
@@ -944,8 +944,8 @@ mm"</string>
     <string name="toast_has_open_gallery">O Carrossel de planos de fundo foi ativado</string>
     <string name="toast_load_failed_tip">"Não foi possível carregar itens"</string>
     <string name="toast_load_hd_fail">"Não foi possível carregar a imagem original"</string>
-    <string name="toast_neterror_tip">Não foi possível conectar à rede</string>
-    <string name="toast_update_no_more_newest_feeds">Sem itens por hora</string>
+    <string name="toast_neterror_tip">Ocorreu um erro de rede</string>
+    <string name="toast_update_no_more_newest_feeds">Sem item novo por enquanto</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
     <string name="top_search_tip">Procure pelas categorias que gosta</string>
@@ -955,10 +955,10 @@ mm"</string>
     <string name="understand_band_story">Saiba mais</string>
     <string name="uninstall_introducation_text_desc">O Carrossel de planos de fundo oferece imagens novas e de alta de qualidade diretamente na Tela de bloqueio. Certifique-se de que você pode ficar sem seus recursos antes de desinstalar</string>
     <string name="uninstall_introduction_text_title">Sobre o Carrossel de planos de fundo</string>
-    <string name="user_ac_not_login">Sessão não iniciada</string>
+    <string name="user_ac_not_login">Não conectado</string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
-    <string name="wallpaper">Planos de fundo</string>
+    <string name="wallpaper">Plano de fundo</string>
     <string name="wallpaper_added_success_toast">Plano de fundo adicionado com sucesso</string>
     <string name="wallpaper_feed_title">Pode também gostar de</string>
     <string name="wallpaper_relations_title">Recomendado</string>
