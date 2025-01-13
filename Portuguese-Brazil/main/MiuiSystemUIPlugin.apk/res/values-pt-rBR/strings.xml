@@ -488,7 +488,7 @@ Usuários de outros fones de ouvido: redefina seus fones de ouvido nas configura
     <string name="quick_settings_wifi_label">"Wi-Fi"</string>
     <string name="quick_settings_wireless_label">Carregamento reverso sem fio</string>
     <string name="reboot_info_auto_boot">Próximo alarme: %s</string>
-    <string name="reboot_info_shutdown_alarm">Alarme de desligamento: %s</string>
+    <string name="reboot_info_shutdown_alarm">Próximo alarme: %s</string>
     <string name="recovery">"Recovery"</string>
     <string name="reset">Redefinir</string>
     <string name="restart">Reiniciar</string>
