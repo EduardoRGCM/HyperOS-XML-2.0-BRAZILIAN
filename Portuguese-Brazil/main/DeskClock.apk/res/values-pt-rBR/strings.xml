@@ -149,6 +149,7 @@
     <string name="clearable_edittext_clear_description">Limpar</string>
     <string name="click_listen_news_container">Clique no cartão de notícias da manhã</string>
     <string name="click_to_cancel_alarm">Toque para desativar</string>
+    <string name="click_to_view_alarm">Toque para ver o alarme</string>
     <string name="clear_text_end_icon_content_description">Limpar texto</string>
     <string name="clock_bg_button_setting_summary_common">Selecione a cor de fundo para o app do Relógio</string>
     <string name="clock_bg_button_setting_summary_follow_sys">O preto será usado como cor de fundo sempre que você alternar para o Modo escuro</string>
@@ -317,6 +318,8 @@
     <string name="life_post_weather_no_network">Conecte-se à rede para atualizar as informações sobre o clima</string>
     <string name="life_post_weather_temperature_centigrade">°</string>
     <string name="listen_news_privacy"><Data>Para fornecer serviços personalizados e incluir notícias matinais aos seus alarmes, o Relógio precisa de uma conexão com a internet. Antes de usar o Relógio, você também precisa ler e aceitar o nosso &lt;a href=\"%2$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%3$s\">Política de Privacidade&lt;/a>. Aceitar?</Data></string>
+    <string name="locked_show_arriving_alarm_summary">Mostre alarmes configurados para disparar dentro de %d horas na Tela de bloqueio</string>
+    <string name="locked_show_arriving_alarm_title">Mostrar alarmes na Tela de bloqueio</string>
     <string name="look_sleep_data">Ver dados de sono</string>
     <string name="loading_ringtone">Carregando toque…</string>
     <string name="material_clock_toggle_content_description">Selecione AM ou PM</string>

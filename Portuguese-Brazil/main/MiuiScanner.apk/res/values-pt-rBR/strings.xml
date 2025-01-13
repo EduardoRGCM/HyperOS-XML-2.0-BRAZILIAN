@@ -1022,7 +1022,7 @@ Escaneie outra coisa."</string>
     <string name="waybill_num">"Pedido: "</string>
     <string name="web">Site:</string>
     <string name="web_url">"URL"</string>
-    <string name="web_url_confirm_content">O código QR que você escanear levará a um link que pode ser prejudicial. Pode estar relacionado a sites maliciosos ou armadilhas de rede, o que pode comprometer a segurança do seu dispositivo ou privacidade pessoal. Se você optar por continuar, confirme que entende completamente os riscos envolvidos.</string>
+    <string name="web_url_confirm_content">O código QR que você escaneou irá redirecioná-lo para um link que pode ser prejudicial. Ele pode estar relacionado a sites maliciosos ou armadilhas online, podendo comprometer a segurança do seu dispositivo ou a sua privacidade pessoal. Se você optar por continuar, confirme que compreende os riscos envolvidos.</string>
     <string name="web_url_confirm_title">Aviso de segurança</string>
     <string name="website_details">Site:</string>
     <string name="wechat_scan_code">"Scanner WeChat"</string>

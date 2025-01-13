@@ -170,7 +170,7 @@
     <string name="update_title">Uma atualização está disponível</string>
     <string name="using_recorder_cancel">Recusar</string>
     <string name="using_recorder_confirm">Permitir</string>
-    <string name="using_recorder_dialog_message">"O Rádio precisa de acesso aos serviços de gravação do dispositivo para funcionar normalmente."</string>
+    <string name="using_recorder_dialog_message">"O Rádio FM precisa de acesso aos serviços de gravação do dispositivo para funcionar normalmente."</string>
     <string name="using_recorder_dialog_title">Permissão necessária</string>
     <string name="view_stations_list">Ver lista de estações</string>
     <string name="withdraw">Retirar</string>
