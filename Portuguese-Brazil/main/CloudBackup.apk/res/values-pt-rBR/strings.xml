@@ -481,11 +481,11 @@ Por favor, envie este código para o técnico."</string>
     <string name="request_permissions_dialog_title">Permissões necessárias</string>
     <string name="restore_32bit_apps_no_tango_page_primary_button">Continuar</string>
     <string name="restore_32bit_apps_no_tango_page_secondary_button">Cancelar restauração</string>
-    <string name="restore_32bit_apps_no_tango_page_sub_title">"Esses apps não são compatíveis com a arquitetura %d-bit e não podem ser restaurados neste dispositivo. Você pode continuar o processo de restauração, mas esses apps serão ignorados."</string>
+    <string name="restore_32bit_apps_no_tango_page_sub_title">"Esses apps não são compatíveis com a arquitetura %d bits e não podem ser restaurados neste dispositivo. Você pode continuar o processo de restauração, mas esses apps serão ignorados."</string>
     <string name="restore_32bit_apps_no_tango_page_title">Apps incompatíveis</string>
     <string name="restore_32bit_apps_page_primary_button">Ativar</string>
     <string name="restore_32bit_apps_page_secondary_button">Agora não</string>
-    <string name="restore_32bit_apps_page_sub_title">"Esses apps não são compatíveis com a arquitetura %d-bit. Toque abaixo para ativar o Modo de compatibilidade de apps para restaurar esses apps."</string>
+    <string name="restore_32bit_apps_page_sub_title">"Esses apps não são compatíveis com a arquitetura %d bits. Toque abaixo para ativar o Modo de compatibilidade de apps para restaurar esses apps."</string>
     <string name="restore_32bit_apps_page_title">Modo de compatibilidade de apps</string>
     <string name="restore_app_order_finish">Concluído</string>
     <string name="restore_app_order_loading">Aguarde…</string>

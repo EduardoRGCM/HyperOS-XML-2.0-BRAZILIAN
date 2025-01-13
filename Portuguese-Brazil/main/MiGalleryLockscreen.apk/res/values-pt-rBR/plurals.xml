@@ -33,10 +33,6 @@
         <item quantity="other">%d artigos</item>
         <item quantity="one">%d artigo</item>
     </plurals>
-    <plurals name="feed_article_entrance_title">
-        <item quantity="other">Veja os artigos %s recomendado para você</item>
-        <item quantity="one">Veja o artigo %s recomendado para você</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Meia hora atrás</item>
     </plurals>
@@ -55,18 +51,6 @@
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Agora mesmo</item>
-    </plurals>
-    <plurals name="llks_tools_remote_control_data">
-        <item quantity="other">%s itens</item>
-        <item quantity="one">%s item</item>
-    </plurals>
-    <plurals name="llks_tools_smart_devices_data">
-        <item quantity="other">%s dispositivos</item>
-        <item quantity="one">%s dispositivo</item>
-    </plurals>
-    <plurals name="lockscreen_magazine_subscribe">
-        <item quantity="other">%1$s pessoas inscritas</item>
-        <item quantity="one">%1$s pessoa inscrita</item>
     </plurals>
     <plurals name="lockscreen_magazine_system_subscribe">
         <item quantity="other">%1$s planos de fundo</item>

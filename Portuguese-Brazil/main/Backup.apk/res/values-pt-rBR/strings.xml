@@ -159,14 +159,14 @@
     <string name="close">Fechar</string>
     <string name="close_twice_auth_btn">Desativar autenticação de dois fatores</string>
     <string name="close_twice_auth_note">"Observação:
-Após criar uma nova pergunta de segurança e confirmar sua data de nascimento, a função de autenticação de dois fatores será desativada. Se você não ver a opção para desativar a autenticação de dois fatores em sua ID Apple, você não poderá desativá-la."</string>
+Após criar uma nova pergunta de segurança e confirmar sua data de nascimento, a autenticação de dois fatores da Conta Apple será desativada. Se você não encontrar a opção de desativar a autenticação de dois fatores na página da Conta Apple, não poderá desativá-la."</string>
     <string name="close_twice_auth_operation">"URL:
-https://appleid.apple.com/#!&amp;page=signin para desativar"</string>
+Visite https://appleid.apple.com/#!&amp;page=signin para desativar"</string>
     <string name="close_twice_auth_step_1">1. Abra qualquer navegador em um computador e acesse appleid.apple.com.</string>
-    <string name="close_twice_auth_step_2">2. Faça o login com a ID Apple que deseja desativar a autenticação de dois fatores, acesse a seção \"Segurança\" e escolha \"Editar\".</string>
+    <string name="close_twice_auth_step_2">2. Faça o login com a Conta Apple que deseja desativar a autenticação de dois fatores, acesse a seção \"Segurança\" e escolha \"Editar\".</string>
     <string name="close_twice_auth_step_3">3. Clique em \"Desativar autenticação de dois fatores\". Clique novamente para confirmar.</string>
-    <string name="close_twice_auth_steps">Siga estes passos para desativar a autenticação de dois fatores para a ID Apple:</string>
-    <string name="close_twice_auth_tutor">Desativar autenticação de dois fatores da ID Apple</string>
+    <string name="close_twice_auth_steps">Siga estes passos para desativar a autenticação de dois fatores da Conta Apple:</string>
+    <string name="close_twice_auth_tutor">Desativar autenticação de dois fatores da Conta Apple</string>
     <string name="cloud_app_name">Backup na MiCloud</string>
     <string name="cloud_backup_hint">Para acessar seus backups, faça o login agora</string>
     <string name="cloud_backup_login">Faça o login em sua Conta Mi</string>
@@ -331,7 +331,7 @@ Não altere ou renomeie os arquivos de backup."</string>
     <string name="hide_password_description">Ocultar senha</string>
     <string name="hsa_code_null">"O código de verificação não pode estar vazio"</string>
     <string name="hsa_input_hint">Insira o código de verificação</string>
-    <string name="hsa_input_tip">Sua ID Apple usa a autenticação de dois fatores. Insira o código de verificação.</string>
+    <string name="hsa_input_tip">Sua Conta Apple usa a autenticação de dois fatores. Insira o código de verificação.</string>
     <string name="hsa_send_again">Enviar novamente</string>
     <string name="hsa_send_again_countdown">Enviar novamente (%d s)</string>
     <string name="hsa_send_failed">"Não foi possível enviar o código de verificação. Aguarde um momento e tente novamente."</string>
@@ -339,7 +339,7 @@ Não altere ou renomeie os arquivos de backup."</string>
     <string name="hsa_tip_message">"1. Se você não receber o código de verificação, certifique-se de que você já fez o login na iCloud em seu dispositivo Apple.
 2. Se inserir o código de verificação não funcionar, desative a autenticação de dois fatores. "</string>
     <string name="hsa_tip_message_shutdown_hsa">Como desativar a autenticação de dois fatores</string>
-    <string name="hsa_tip_message_with_device">"1. Uma mensagem com o código de verificação foi enviada para o \"%s\" associado à sua ID Apple.
+    <string name="hsa_tip_message_with_device">"1. Uma mensagem com o código de verificação foi enviada para o \"%s\" associado à sua Conta Apple.
 2. Desative a autenticação de dois fatores se o código de verificação não funcionar."</string>
     <string name="hsa_tip_title">Dicas:</string>
     <string name="hsa_title">Autenticação de dois fatores</string>
@@ -1142,7 +1142,7 @@ Libere espaço ou faça várias transferências menores."</string>
 Libere algum espaço ou transfira só itens importantes."</string>
     <string name="user_feedback">"Feedback"</string>
     <string name="user_know_button_text">Entendi</string>
-    <string name="user_name">ID Apple ou e-mail</string>
+    <string name="user_name">Conta Apple ou e-mail</string>
     <string name="user_name_null">"O usuário não pode ficar vazio"</string>
     <string name="user_notice_declaration_ignore">"Não mostrar novamente"</string>
     <string name="user_notice_message">Algumas funcionalidades requerem uma conexão com a internet para funcionarem normalmente.</string>
