@@ -355,7 +355,7 @@
     <string name="app_behavior_desc_other_perm_allowed">Última atividade: %s</string>
     <string name="app_behavior_desc_other_perm_denied">Atividade nas últimas %d horas</string>
     <string name="app_behavior_desc_virtual_once">Mensagem em branco retornada às %1$s</string>
-    <string name="app_behavior_door">Status do app</string>
+    <string name="app_behavior_door">Registro de comportamento do app</string>
     <string name="app_behavior_get_install">%1s acessou a lista dos seus apps</string>
     <string name="app_behavior_get_install_single">Este app acessou a lista dos seus apps</string>
     <string name="app_behavior_global_settings_perm_tips">Receba um alerta na barra de status quando os apps gravarem áudio ou usarem a câmera</string>
