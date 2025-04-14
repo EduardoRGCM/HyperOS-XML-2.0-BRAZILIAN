@@ -1407,7 +1407,7 @@ merece seu próprio app"</string>
     <string name="xspace_head">"Dual app"</string>
     <string name="xspace_header">"Dual apps"</string>
     <string name="xspace_instagram_title">"Instagram"</string>
-    <string name="xspace_install_complete">&lt;font&gt;Dual app criado com sucesso. &lt;/font&gt;&lt;font color="#0D84FF"&gt;Abrir agora&lt;/font&gt;. </string>
+    <string name="xspace_install_complete">Dual App criado com sucesso. Abra-o na tela inicial.</string>
     <string name="xspace_install_completed">Ícone adicionado à Tela inicial</string>
     <string name="xspace_install_completed_global">Ícone adicionado à bandeja</string>
     <string name="xspace_install_failed">Não foi possível criar o app</string>
