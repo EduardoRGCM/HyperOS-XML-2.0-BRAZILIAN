@@ -2803,6 +2803,7 @@ Se você instalar um certificado de CA, o proprietário do certificado poderá a
     <string name="connect_later">Não é possível se conectar a esta rede no momento. Tente novamente mais tarde.</string>
     <string name="connect_mode">Tipo de conexão</string>
     <string name="connect_to_internet">Conecte-se à rede</string>
+    <string name="connect_to_windows">Vincular ao Windows</string>
     <string name="connected_device_add_device_summary">O Bluetooth será ativado para o pareamento</string>
     <string name="connected_device_bluetooth_turned_on_toast">Bluetooth ativado</string>
     <string name="connected_device_call_device_title">Dispositivos de chamada</string>

@@ -98,8 +98,8 @@
     <string name="clank">Clank</string>
     <string name="close">Desativado</string>
     <string name="close_app">Fechar o app atual</string>
-    <string name="config_quick_scanner_notification_content_text">Escaneie códigos QR e abra páginas da web diretamente</string>
-    <string name="config_quick_scanner_notification_title">Scanner rápido</string>
+    <string name="config_quick_scanner_notification_content_text">"Escaneie códigos QR e abra páginas da web diretamente"</string>
+    <string name="config_quick_scanner_notification_title">"Scanner rápido"</string>
     <string name="configure_input_methods">Escolher teclado</string>
     <string name="confirm_cancel_task_files">Cancelar o envio de arquivos para %1$s?</string>
     <string name="confirm_cancel_task_images">Cancelar o envio de imagens para %1$s?</string>
