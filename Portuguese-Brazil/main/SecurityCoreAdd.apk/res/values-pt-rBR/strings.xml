@@ -167,7 +167,7 @@ para visualizá-las a qualquer momento"</string>
     <string name="create_work_space">Criar Espaço de trabalho</string>
     <string name="creating_app_icon">Criando ícone…</string>
     <string name="cta_declaration_agree_and_continue">Aceitar</string>
-    <string formatted="false" name="cta_declaration_message_format">Você precisa ler e aceitar a nossa &lt;font color=%s>&lt;a href=%s>%s&lt;/a>&lt;/font> antes de usar o Modo empresarial. Seu dispositivo precisa conectar-se à internet para ativar o Modo empresarial. Aceitar?</string>
+    <string name="cta_declaration_message_format" formatted="false">Você precisa ler e aceitar a nossa &lt;font color=%s>&lt;a href=%s>Política de Privacidade&lt;/a>&lt;/font> antes de usar o Modo empresarial. Seu dispositivo precisa conectar-se à internet para ativar o Modo empresarial. Aceitar?</string>
     <string name="cta_declaration_title">Termos e Condições</string>
     <string name="current_space">Espaço atual</string>
     <string name="custom_gesture_title">Gestos personalizados</string>
