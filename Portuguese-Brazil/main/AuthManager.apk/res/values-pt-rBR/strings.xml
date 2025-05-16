@@ -59,7 +59,7 @@
     <string name="HIPS_Perm_Read_Call_Log">Ler histórico de chamadas</string>
     <string name="HIPS_Perm_Read_Call_Log_Desc">Leia o histórico de chamadas</string>
     <string name="HIPS_Perm_Read_Contact">Ler seus contatos</string>
-    <string name="HIPS_Perm_Read_Contact_Desc">Leia seus contatos</string>
+    <string name="HIPS_Perm_Read_Contact_Desc">Ler seus contatos</string>
     <string name="HIPS_Perm_Read_MMS">Ler mensagens MMS</string>
     <string name="HIPS_Perm_Read_MMS_Desc">Leia suas mensagens multimídia</string>
     <string name="HIPS_Perm_Read_SMS">Ler mensagens SMS e MMS</string>

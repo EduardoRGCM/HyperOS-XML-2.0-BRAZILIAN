@@ -5714,7 +5714,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="system_permission_declare_optional">"Para fornecer serviços adicionais enquanto você usa o app, podemos precisar das seguintes permissões: %s. Você sempre pode ajustar suas preferências de permissão nas Configurações."</string>
     <string name="system_permission_declare_privacy_declare">"Este app precisa conectar-se à internet e requer as seguintes permissões para funcionar normalmente:"</string>
     <string name="system_permission_declare_privacy_no_network">Este app precisa das seguintes permissões para poder funcionar normalmente:</string>
-    <string name="system_permission_declare_privacy_no_permission">Este app precisa conectar-se à internet e coletar os dados pessoais necessários para poder funcionar normalmente.</string>
+    <string name="system_permission_declare_privacy_no_permission">" Este app precisa conectar-se à internet e coletar os dados pessoais necessários para poder funcionar normalmente."</string>
     <string name="system_permission_declare_privacy_policy"><Data>Para entender totalmente os seus direitos como usuário, bem como as formas nas quais usamos seus dados, leia e aceite a nossa &lt;a href=\"%1$s\">Política de Privacidade&lt;/a>.</Data></string>
     <string name="system_permission_declare_revoke_system">Você pode sair deste app.</string>
     <string name="system_permission_declare_revoke_uninstallable">Você pode sair, desinstalar este app ou revogar a sua autorização em Segurança > Gerenciar apps > Permissões > Permissões.</string>
