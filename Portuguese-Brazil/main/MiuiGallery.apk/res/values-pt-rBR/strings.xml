@@ -1422,9 +1422,7 @@ estão disponíveis"</string>
     <string name="grant_permission_shortcut">Primeiro permita que este app crie atalhos para à Tela inicial.</string>
     <string name="grant_permission_storage">Primeiro permita que este app acesse o armazenamento.</string>
     <string name="grant_permission_storage_unlock">Primeiro desbloqueie seu dispositivo e permita que este app acesse o armazenamento.</string>
-    <string name="grant_permission_text">"A Galeria precisa de acesso a 
-%s
- para funcionar normalmente, toque em \"Configurar\" para ir às Permissões."</string>
+    <string name="grant_permission_text">Permita que a Galeria acesse todas as fotos e vídeos do seu dispositivo. Você pode conceder essa permissão nas Configurações.</string>
     <string name="grant_permission_title">Permitir acesso</string>
     <string name="grant_permission_unlock_and_set">Desbloquear e configurar</string>
     <string name="grant_permission_unlock_and_set_2">Desbloquear</string>

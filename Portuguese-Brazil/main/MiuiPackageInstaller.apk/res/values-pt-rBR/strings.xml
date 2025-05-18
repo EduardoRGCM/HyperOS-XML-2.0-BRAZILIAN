@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="Parse_error_dlg_text">Ocorreu um problema ao analisar o pacote (%1$s)</string>
+    <string name="Parse_error_dlg_text">Ocorreu um problema ao analisar o pacote.</string>
     <string name="abc_action_bar_home_description">Navegar para a página inicial</string>
     <string name="abc_action_bar_up_description">Navegar para cima</string>
     <string name="abc_action_mode_done">Concluído</string>

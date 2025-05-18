@@ -180,6 +180,7 @@ Por favor, envie este código para o técnico."</string>
     <string name="download_error_insufficient_space">Espaço insuficiente</string>
     <string name="download_filesize_unknown">Desconhecido</string>
     <string name="download_from">Fonte:</string>
+    <string name="download_icp">Número de registro do ICP: Guangdong B2-20050219-23A</string>
     <string name="download_in_process">Baixando</string>
     <string name="download_info_start_deleted_tasks">Excluir downloads</string>
     <string name="download_list_get_free_vip">Testar Xunlei</string>

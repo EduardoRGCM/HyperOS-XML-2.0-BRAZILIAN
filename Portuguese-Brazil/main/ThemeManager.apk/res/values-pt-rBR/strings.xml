@@ -76,6 +76,9 @@
     <string name="ai_apply_wallpaper">Aplicar</string>
     <string name="ai_cannot_scrolling_with_the_screen">"Não é possível ativar a rolagem para este plano de fundo"</string>
     <string name="ai_delete_wallpaper">Sair</string>
+    <string name="ai_dialog_support_type_confirm">Experimentar agora</string>
+    <string name="ai_dialog_support_type_content">Agora você pode criar papéis de parede dinâmicos com fotos de pessoas ou animais e imagens de anime.</string>
+    <string name="ai_dialog_support_type_title">Novos tipos de imagem</string>
     <string formatted="false" name="ai_estimated_two_three_minutes">Isso levará %d–%d minutos</string>
     <string name="ai_generate">Gerado por IA</string>
     <string name="ai_generate_action">Gerar</string>
@@ -107,6 +110,9 @@
     <string name="ai_pic_unavailable_title">"Esta foto não atende aos requisitos de geração"</string>
     <string name="ai_read_the_privacy_policy">&lt;Data>Leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de continuar.&lt;/Data></string>
     <string name="ai_read_the_privacy_policy_pad">&lt;Data>Leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade do Plano de Fundo e Personalização&lt;/a> antes de continuar.&lt;/Data></string>
+    <string name="ai_recorded_information">Informações de registro</string>
+    <string name="ai_recorded_name1">Algoritmo de modelo grande de geração de vídeo Xiaomi-1</string>
+    <string name="ai_recorded_number1">Número de computação Netcom: 110108916280901240061</string>
     <string name="ai_select_again">Selecionar</string>
     <string name="ai_select_images_in_the_following_formats">Selecione imagens em qualquer um dos seguintes formatos suportados: *.jpg, *.jpeg, *.png, *.bmp, WebP, HEIC e HEIF.</string>
     <string name="ai_select_images_smaller_than_one_hundred">Selecione uma imagem de %d MB e tente novamente.</string>

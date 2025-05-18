@@ -27,8 +27,9 @@
         <item>Birmanês</item>
         <item>Coreano</item>
         <item>Japonês</item>
-        <item>Chinês (Mandarim)</item>
-        <item>Chinês (Cantonês)</item>
+        <item>Chinês simplificado</item>
+        <item>Chinês tradicional (região de Taiwan)</item>
+        <item>Chinês tradicional (RAE de Hong Kong)</item>
         <item>Filipino</item>
     </string-array>
     <string-array name="global_recognize_language_list">
