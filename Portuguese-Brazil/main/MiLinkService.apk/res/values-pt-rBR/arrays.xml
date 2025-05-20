@@ -20,7 +20,7 @@
     <string-array name="settings_search_connection_home">
         <item>Interconectividade</item>
         <item>Interconectividade/Interconectividade</item>
-        <item>Interconectividade de dispositivos, Serviços de interconectividade de dispositivos, Xiaomi, Xiaomi AIoT, AIoT, Screen Combo, conexão inteligente, Xiaomi Smart Hub, Interconectividade, Duo, Telefone Xiaomi, Laptop Xiaomi, Multiscreen, Dueto, transmissão, combinar apps, handoff, handoff de apps, espelhamento, Ecossistema Xiaomi, conexão de dispositivos</item>
+        <item>Interconectividade de dispositivos, Serviços de interconectividade de dispositivos, Xiaomi, Xiaomi AIoT, AIoT, Screen Combo, conexão inteligente, Xiaomi Smart Hub, Interconectividade, Duo, Telefone Xiaomi, Notebook Xiaomi, Multiscreen, Dueto, transmissão, combinar apps, handoff, handoff de apps, espelhamento, Ecossistema Xiaomi, conexão de dispositivos</item>
     </string-array>
     <string-array name="settings_search_connection_privacy">
         <item>Privacidade</item>

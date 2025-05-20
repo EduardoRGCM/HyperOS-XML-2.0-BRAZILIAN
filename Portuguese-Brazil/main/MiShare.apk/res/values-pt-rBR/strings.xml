@@ -222,16 +222,16 @@
     <string name="mishare_folder_in_file_explorer">Arquivos > Xiaomi Share</string>
     <string name="mishare_service_channel_desc">Notificações sobre processos do Xiaomi Share</string>
     <string name="mishare_settings_summary_international">"Telefones e tablets Xiaomi
-Mais dispositivos Android: vivo, realme, OPPO e outras marcas podem oferecer suporte a esse recurso. Consulte o site oficial de cada marca para mais detalhes."</string>
+Mais dispositivos Android: Vivo, Realme, OPPO e outras marcas podem oferecer suporte a esse recurso. Consulte o site oficial de cada marca para mais detalhes."</string>
     <string name="mishare_state_protection">Ativar o Xiaomi Share automaticamente</string>
     <string name="mishare_state_protection_summary">Ativa o Xiaomi Share automaticamente quando o Bluetooth ou o Wi-Fi forem reativados</string>
     <string name="mishare_state_protection_summary_china">Ativa o Xiaomi Share automaticamente quando o Bluetooth ou o Wi-Fi forem reativados</string>
     <string name="mishare_support_device_comment">Dispositivos suportados</string>
-    <string name="mishare_support_device_summary">"Telefones, tablets e laptops Xiaomi
-Dispositivos Android de outros fabricantes: vivo, realme, OPPO, Black Shark, Meizu, OnePlus, ZTE, Hisense, ASUS, ROG, Samsung, Lenovo, Motorola, NIO"</string>
-    <string name="mishare_support_device_summary_ios">"Telefones, tablets e laptops Xiaomi
+    <string name="mishare_support_device_summary">"Telefones, tablets e notebooks da Xiaomi
+Dispositivos Android de outros fabricantes: Vivo, Realme, OPPO, Black Shark, Meizu, OnePlus, ZTE, Hisense, ASUS, ROG, Samsung, Lenovo, Motorola, NIO"</string>
+    <string name="mishare_support_device_summary_ios">"Telefones, tablets e notebooks da Xiaomi
 Dispositivos Apple: iPhone, iPad, Mac
-Dispositivos Android de outros fabricantes: vivo, realme, OPPO, Black Shark, Meizu, OnePlus, ZTE, Hisense, ASUS, ROG, Samsung, Lenovo, Motorola, NIO"</string>
+Dispositivos Android de outros fabricantes: Vivo, Realme, OPPO, Black Shark, Meizu, OnePlus, ZTE, Hisense, ASUS, ROG, Samsung, Lenovo, Motorola, NIO"</string>
     <string name="mishare_transefer_channel_desc">Notificações sobre itens enviados e recebidos pelo Xiaomi Share</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
@@ -492,10 +492,10 @@ Antes de usar o Xiaomi Share, você precisa conceder as seguintes permissões, b
     <string name="transfer_intercept_to_remote">"Não foi possível enviar: %1$s"</string>
     <string name="transfer_to_different_account_summary">"Ambos os dispositivos (Xiaomi e outros dispositivos Android) precisam ativar o Xiaomi Share no centro de controle. Você poderá receber arquivos de qualquer pessoa por %d minutos."</string>
     <string name="transfer_to_different_account_summary_ios" formatted="false">"%d. Ambos os dispositivos (Xiaomi e outros dispositivos Android) precisam ativar o Xiaomi Share no centro de controle. Você poderá receber arquivos de qualquer pessoa por %d minutos.
-%d. iPhones e iPads precisam ativar os Serviços de Interconectividade Xiaomi e garantir que ambos os dispositivos estejam conectados à mesma LAN."</string>
+%d. iPhones e iPads precisam ativar os Serviços de Interconectividade Xiaomi e garantir que ambos os dispositivos estejam conectados à mesma rede."</string>
     <string name="transfer_to_different_account_title">Descobrindo telefones e tablets</string>
-    <string name="transfer_to_pc_summary_new_plus"><Data>Certifique-se de que o Xiaomi PC Manager tenha sido baixado e ative o Xiaomi Share no centro de controle para poder receber arquivos. Você pode encontrar uma lista de modelos de computador suportados &lt;a href=%1$s>aqui&lt;/a>.</Data></string>
-    <string name="transfer_to_pc_summary_new_plus_ios"><Data>&lt;xliff:g id=mishare_ios_1 refersto=1>%1$d&lt;/xliff:g>. Em um laptop Xiaomi, certifique-se de que o Xiaomi PC Manager tenha sido baixado e ative o Xiaomi Share no centro de controle para poder receber arquivos. Você pode encontrar uma lista de modelos de computador suportados &lt;a href=%2$s>here&lt;/a>.&lt;br>&lt;xliff:g id=mishare_ios_2 refersto=2>%3$d&lt;/xliff:g>. Em um Mac, ative os Serviços de Interconectividade Xiaomi e certifique-se de que ambos os dispositivos estejam conectados à mesma LAN.</Data></string>
+    <string name="transfer_to_pc_summary_new_plus"><Data>Certifique-se de que o Xiaomi PC Manager tenha sido baixado e ative o Xiaomi Share no centro de controle para poder receber arquivos. Você pode encontrar uma lista de modelos de computadores suportados &lt;a href=%1$s>aqui&lt;/a>.</Data></string>
+    <string name="transfer_to_pc_summary_new_plus_ios"><Data>&lt;xliff:g id=mishare_ios_1 refersto=1>%1$d&lt;/xliff:g>. Em um notebooks Xiaomi, certifique-se de que o Xiaomi PC Manager tenha sido baixado e ative o Xiaomi Share no centro de controle para poder receber arquivos. Você pode encontrar uma lista de modelos de computadores suportados &lt;a href=%2$s>aqui&lt;/a>.&lt;br>&lt;xliff:g id=mishare_ios_2 refersto=2>%3$d&lt;/xliff:g>. Em um Mac, ative os Serviços de Interconectividade Xiaomi e certifique-se de que ambos os dispositivos estejam conectados à mesma rede.</Data></string>
     <string name="transfer_to_pc_title">Descobrindo computadores</string>
     <string name="transfer_to_phone_summary">"Ative o Xiaomi Share usando o atalho na Área de notificações. Depois disso, você poderá ver os dispositivos próximos quando começar a compartilhar uma foto ou um arquivo. Toque no dispositivo de destino para enviar o item que você está compartilhando."</string>
     <string name="transfer_to_phone_summary_new">Ative o Xiaomi Share no centro de controle para poder enviar e receber itens com facilidade. Depois de ativá-lo, você pode compartilhar itens com dispositivos próximos por %d minutos antes que ele seja desativado automaticamente.</string>

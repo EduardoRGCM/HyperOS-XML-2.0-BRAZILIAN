@@ -1385,7 +1385,7 @@ estão disponíveis"</string>
     <string name="global_my">"Meu dispositivo
 %1$s"</string>
     <string name="global_pad">Meu tablet</string>
-    <string name="global_pc">Meu laptop</string>
+    <string name="global_pc">Meu notebook</string>
     <string name="global_phone">Meu telefone</string>
     <string name="global_trash_vip_info_text_login_medium_or_low_level">"Os itens excluídos dos quais foi feito backup podem permanecer na nuvem por até %1$s dias. Os itens dos quais não foi feito backup serão retidos por até %2$s dias."</string>
     <string name="google_banner_back_stop">Backup interrompido</string>
@@ -2328,8 +2328,8 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="passport_wrong_vcode">O código inserido está incorreto</string>
     <string name="passport_wrong_voice">O código inserido está incorreto</string>
     <string name="pc_device_model_name">Computador</string>
-    <string name="pc_redmi_device_model_name">Laptop Redmi</string>
-    <string name="pc_xiaomi_device_model_name">Laptop Xiaomi</string>
+    <string name="pc_redmi_device_model_name">Notebook Redmi</string>
+    <string name="pc_xiaomi_device_model_name">Notebook Xiaomi</string>
     <string name="people_album_empty_title">As fotos podem ser ordenadas pos pessoas</string>
     <string name="people_jump_failed">Aguarde até que as fotos com pessoas sejam sincronizadas com a nuvem e tente novamente</string>
     <string name="people_mark_mode_title">Selecionar \"%s\"</string>
