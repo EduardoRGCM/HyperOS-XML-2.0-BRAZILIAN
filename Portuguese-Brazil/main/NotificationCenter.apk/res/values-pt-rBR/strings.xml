@@ -151,8 +151,8 @@ A Xiaomi processará o conteúdo das notificações e mensagens (incluindo quais
     <string name="lockscreen_notifications">Notificações na Tela de bloqueio</string>
     <string name="lockscreen_notifications_short">Tela de bloqueio</string>
     <string name="mi_account_login_dialog_button_text">Fazer login</string>
-    <string name="mi_account_login_dialog_text">Devido às leis e regulamentos aplicáveis, a verificação de identidade é necessária para usar recursos relacionados à IA. Faça login com sua Conta Mi para poder usar este recurso.</string>
-    <string name="mi_account_login_dialog_title">Fazer login com a Conta Mi</string>
+    <string name="mi_account_login_dialog_text">Devido às leis e regulamentos aplicáveis, a verificação de identidade é necessária para usar recursos relacionados à IA. Faça login com sua Conta Xiaomi para poder usar este recurso.</string>
+    <string name="mi_account_login_dialog_title">Fazer login com a Conta Xiaomi</string>
     <string name="midnight">"AM"</string>
     <string name="miui_snooze_always_float">"Não ocultar"</string>
     <string name="miui_snooze_default_time">Por %d minuto</string>

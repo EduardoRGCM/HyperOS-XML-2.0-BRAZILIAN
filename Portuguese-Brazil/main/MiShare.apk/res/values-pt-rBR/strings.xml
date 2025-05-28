@@ -218,7 +218,7 @@
     <string name="midnight">"AM"</string>
     <string name="mini_pc_xiaomi_device_model_name">"Xiaomi Mini PC"</string>
     <string name="mishare_device_find_conditions_comment">Descobrindo dispositivos</string>
-    <string name="mishare_device_version_comment">• Os dispositivos conectados à mesma Conta Mi podem confiar e receber mensagens automaticamente uns dos outros. Este recurso requer que ambos os dispositivos executem o Xiaomi HyperOS e o Xiaomi Share seja atualizado para a versão 3.0.0 ou posterior.</string>
+    <string name="mishare_device_version_comment">• Os dispositivos conectados à mesma Conta Xiaomi podem confiar e receber mensagens automaticamente uns dos outros. Este recurso requer que ambos os dispositivos executem o Xiaomi HyperOS e o Xiaomi Share seja atualizado para a versão 3.0.0 ou posterior.</string>
     <string name="mishare_folder_in_file_explorer">Arquivos > Xiaomi Share</string>
     <string name="mishare_service_channel_desc">Notificações sobre processos do Xiaomi Share</string>
     <string name="mishare_settings_summary_international">"Telefones e tablets Xiaomi

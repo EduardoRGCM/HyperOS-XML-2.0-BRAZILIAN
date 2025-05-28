@@ -191,7 +191,7 @@ Conectando o cabo da TV: Uma extremidade se conecta à tomada da TV do Magic Con
 Conectando o cabo de alimentação: Uma extremidade Tipo C se conecta ao soquete de alimentação do Magic Control Bridge; a outra extremidade USB se conecta a um adaptador de energia para fornecer uma fonte de alimentação estável."</string>
     <string name="mj_uwb_install_help_title">Instruções do Magic Control Bridge com TV</string>
     <string name="mj_uwb_know_it">"OK"</string>
-    <string name="mj_uwb_login_mitv_account">Faça login na Conta Mi para acessar mais funções.</string>
+    <string name="mj_uwb_login_mitv_account">Faça login na Conta Xiaomi para acessar mais funções.</string>
     <string name="mj_uwb_miracast">Espelhando tela…</string>
     <string name="mj_uwb_mitv_control_power_off">A TV está desligada.</string>
     <string name="mj_uwb_mitv_control_power_off_fail">Falha de energia. Por favor, reconecte.</string>

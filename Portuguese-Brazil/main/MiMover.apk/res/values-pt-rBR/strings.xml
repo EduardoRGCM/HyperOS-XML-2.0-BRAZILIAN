@@ -382,7 +382,7 @@ Abra o WeChat e vá em Eu > Configurações > Geral > Backup > Migrar conversar.
     <string name="install_app_to_another_phone_content">Instale o Mi Mover no seu dispositivo novo</string>
     <string name="install_complete_count_down_time">Instalado com sucesso. Iniciando a transferência (%1$d)</string>
     <string name="install_mi_cloud_app_summary">Escaneie este código QR com o seu iPhone para baixar e instalar o app.</string>
-    <string name="install_mi_cloud_app_title">Instale a MiCloud</string>
+    <string name="install_mi_cloud_app_title">Instale a Xiaomi Cloud</string>
     <string name="install_new_app_link_text">Instale o Mi Mover no seu novo dispositivo para poder se conectar. Toque para instalar.</string>
     <string name="international_new_trans_intro_desc_8">"Não é possível transferir mensagens de texto devido a problemas de compatibilidade. Apps de terceiros podem restringir a transferência de dados de apps por motivos de segurança."</string>
     <string name="international_new_trans_intro_question_8">"%d. Por que não é possível transferir mensagens de texto e dados de apps de alguns apps de terceiros?"</string>
@@ -675,8 +675,8 @@ Abra o WeChat e vá em Eu > Configurações > Geral > Backup > Migrar conversar.
     <string name="provision_receiver_waiting_title">Continuar no dispositivo antigo</string>
     <string name="provision_select_data_null">Selecione os itens para transferir</string>
     <string name="provision_select_data_one">Selecione os itens a serem transferidos</string>
-    <string name="provision_set_cloud_backup">Restaurar da MiCloud</string>
-    <string name="provision_set_cloud_backup_summary">Conecte-se à internet para baixar e restaurar backups da MiCloud</string>
+    <string name="provision_set_cloud_backup">Restaurar da Xiaomi Cloud</string>
+    <string name="provision_set_cloud_backup_summary">Conecte-se à internet para baixar e restaurar backups da Xiaomi Cloud</string>
     <string name="provision_set_new_pad">Usar como novo dispositivo</string>
     <string name="provision_set_new_phone">Usar como novo dispositivo</string>
     <string name="provision_set_old_pad">Importar do dispositivo antigo</string>
@@ -714,8 +714,8 @@ Abra o WeChat e vá em Eu > Configurações > Geral > Backup > Migrar conversar.
     <string name="request_all_permission_title">Permissões necessárias</string>
     <string name="request_permission">Permitir</string>
     <string name="require_permission">Toque para conceder a permissão para transferir itens</string>
-    <string name="restore_data_to_device_content">"Seus itens foram sincronizados com a MiCloud.
-Entre na sua Conta Mi para restaurá-los."</string>
+    <string name="restore_data_to_device_content">"Seus itens foram sincronizados com a Xiaomi Cloud.
+Entre na sua Conta Xiaomi para restaurá-los."</string>
     <string name="restore_data_to_device_title">Restaure os itens neste dispositivo</string>
     <string name="revoke">Retirar consentimento</string>
     <string name="revoke_agree">Retirada de consentimento</string>
@@ -783,7 +783,7 @@ Libere pelo menos %s."</string>
     <string name="sender_scanning_code">Coloque a imagem no quadro</string>
     <string name="sender_scanning_connecting">Conectando com novo dispositivo…</string>
     <string name="set_app_suspend">Este app está sendo salvo em backup agora. Aguarde até que o backup seja concluído e tente novamente.</string>
-    <string name="set_new_device_account">Sincronizar com a Conta Mi</string>
+    <string name="set_new_device_account">Sincronizar com a Conta Xiaomi</string>
     <string name="set_new_device_lock">Definir bloqueio de tela</string>
     <string name="set_new_device_more">Mais configurações do sistema…</string>
     <string name="set_new_device_navigationbar">Definir navegação do sistema</string>
@@ -844,7 +844,7 @@ Libere pelo menos %s."</string>
     <string name="switching_to_5g">Mudando para canal de transferência de alta velocidade…</string>
     <string name="sync_data_to_mi_cloud_content1">%d. Toque em \"Sincronizar agora\" na aba \"Contatos\".</string>
     <string name="sync_data_to_mi_cloud_content2">%d. Toque em \"Fazer backup agora\" na aba \"Fotos\".</string>
-    <string name="sync_data_to_mi_cloud_summary">Abra a MiCloud no seu iPhone e siga estas etapas para sincronizar dados. Toque no botão abaixo quando a sincronização estiver concluída.</string>
+    <string name="sync_data_to_mi_cloud_summary">Abra a Xiaomi Cloud no seu iPhone e siga estas etapas para sincronizar dados. Toque no botão abaixo quando a sincronização estiver concluída.</string>
     <string name="sync_data_to_mi_cloud_title">Sincronizar dados</string>
     <string name="task_backup_cancel_progress">Cancelando…</string>
     <string name="task_canceled_all_local">Cancelado</string>

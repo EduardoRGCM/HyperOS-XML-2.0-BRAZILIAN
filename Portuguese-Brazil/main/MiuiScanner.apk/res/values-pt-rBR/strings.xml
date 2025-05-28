@@ -241,9 +241,9 @@
     <string name="examples_form_guide">Como escanear tabelas</string>
     <string name="examples_text_guide">Como escanear texto</string>
     <string name="expand_button_title">Avançado</string>
-    <string name="experience_new_feature_tips">"Faça login em sua Conta Mi para solicitar permissões de uso da versão Beta. Você poderá usar a versão Beta após revisarmos seu app. A versão beta pode conter bugs."</string>
+    <string name="experience_new_feature_tips">"Faça login em sua Conta Xiaomi para solicitar permissões de uso da versão Beta. Você poderá usar a versão Beta após revisarmos seu app. A versão beta pode conter bugs."</string>
     <string name="experience_new_features">Versão beta</string>
-    <string name="experiential_version_of_the_prompt_content">Faça login em sua Conta Mi para acessar o Scanner Beta. Fazer login agora?</string>
+    <string name="experiential_version_of_the_prompt_content">Faça login em sua Conta Xiaomi para acessar o Scanner Beta. Fazer login agora?</string>
     <string name="express_no_empty">Insira o número do pedido primeiro</string>
     <string name="failed_to_get_xiaomi_account">"Não foi possível fazer login"</string>
     <string name="fax">"Fax"</string>

@@ -36,7 +36,7 @@
     <string name="app_name">Backup na nuvem</string>
     <string name="arrange_restore_order">Reordenando apps…</string>
     <string name="as_new_device">Substituir configurações e Tela inicial anterior</string>
-    <string name="as_new_device_summary">Apagar backups anteriores da MiCloud</string>
+    <string name="as_new_device_summary">Apagar backups anteriores da Xiaomi Cloud</string>
     <string name="authentication_failed">"Não foi possível verificar a conta."</string>
     <string name="auto_backup_failed">"Não foi possível fazer backup automaticamente"</string>
     <string name="back_up_task_in_process">Fazendo backup…</string>
@@ -110,7 +110,7 @@ Tente novamente."</string>
     <string name="click_try_to_restore_again">Toque para tentar novamente</string>
     <string name="close">Fechar</string>
     <string name="cloud_app_backup_success">Backup dos apps concluído</string>
-    <string name="cloud_app_check_data">Conversando com a MiCloud…</string>
+    <string name="cloud_app_check_data">Conversando com a Xiaomi Cloud…</string>
     <string name="cloud_app_current_device">Dispositivo atual</string>
     <string name="cloud_app_dont_restore">Usar como um novo dispositivo</string>
     <string name="cloud_app_no_data">Nenhum backup</string>
@@ -121,18 +121,18 @@ Tente novamente."</string>
     <string name="cloud_app_restore_success">Apps restaurados</string>
     <string name="cloud_app_restore_wifi_prompt">Restaurar do backup na nuvem.</string>
     <string name="cloud_back_up_date_format">HH:mm, dd/MM/yyyy</string>
-    <string name="cloud_back_up_detail_discription">"Estes itens serão salvos na MiCloud quando o seu dispositivo estiver conectado ao Wi-Fi: 
+    <string name="cloud_back_up_detail_discription">"Estes itens serão salvos na Xiaomi Cloud quando o seu dispositivo estiver conectado ao Wi-Fi: 
 • Apps, layout da Tela inicial e planos de fundo 
 • Configurações de alarme, relógio e hora 
 • Configurações de notificações 
 • Configurações do HyperOS e do sistema 
-Observação: Os dados dos apps que estão instalados não serão salvos na MiCloud."</string>
-    <string name="cloud_back_up_detail_discription_china">"Estes itens serão salvos na MiCloud quando o seu dispositivo estiver conectado ao Wi-Fi: 
+Observação: Os dados dos apps que estão instalados não serão salvos na Xiaomi Cloud."</string>
+    <string name="cloud_back_up_detail_discription_china">"Estes itens serão salvos na Xiaomi Cloud quando o seu dispositivo estiver conectado ao Wi-Fi: 
 • Apps, layout da Tela inicial e planos de fundo 
 • Configurações de alarme, relógio e hora 
 • Configurações de notificações 
 • Configurações do HyperOS e do sistema 
-Observação: Os dados dos apps que estão instalados não serão salvos na MiCloud."</string>
+Observação: Os dados dos apps que estão instalados não serão salvos na Xiaomi Cloud."</string>
     <string name="cloud_back_up_frequence_choice_title">Programação de backup</string>
     <string name="cloud_back_up_frequence_long">A cada %d dias</string>
     <string name="cloud_back_up_frequence_short">Diariamente</string>
@@ -140,7 +140,7 @@ Observação: Os dados dos apps que estão instalados não serão salvos na MiCl
     <string name="cloud_back_up_opening">Aguarde…</string>
     <string name="cloud_back_up_subscribe_vip_confirm">Fazer upgrade</string>
     <string name="cloud_back_up_subscribe_vip_discription">Obtenha mais espaço de armazenamento, backups diários e muito mais.</string>
-    <string name="cloud_back_up_subscribe_vip_title">Upgrade da Conta Mi</string>
+    <string name="cloud_back_up_subscribe_vip_title">Upgrade da Conta Xiaomi</string>
     <string name="cloud_back_up_task">Fazendo backup…</string>
     <string name="cloud_backup">Backups na nuvem</string>
     <string name="cloud_backup_derail_size_summary">Tamanho: %s</string>
@@ -167,7 +167,7 @@ Observação: Os dados dos apps que estão instalados não serão salvos na MiCl
     <string name="cloud_backup_detail_title">Fazer backup de itens</string>
     <string name="cloud_backup_get_installed_apps_summary">Para fazer backup e restaurar apps da Tela inicial</string>
     <string name="cloud_backup_get_installed_apps_title">Acesse a lista de apps instalados neste dispositivo</string>
-    <string name="cloud_backup_have_data">Backup encontrado na MiCloud</string>
+    <string name="cloud_backup_have_data">Backup encontrado na Xiaomi Cloud</string>
     <string name="cloud_backup_in_cancel">Cancelar</string>
     <string name="cloud_backup_in_process">Fazendo backup</string>
     <string name="cloud_backup_permission_allow">Permitido</string>
@@ -176,7 +176,7 @@ Observação: Os dados dos apps que estão instalados não serão salvos na MiCl
     <string name="cloud_backup_phone_state_title">Acessar informações do dispositivo</string>
     <string name="cloud_backup_rw_storage_summary">Para backup em nuvem do layout da Tela inicial, dados e configurações do app</string>
     <string name="cloud_backup_rw_storage_title">Acessar o armazenamento</string>
-    <string name="cloud_backup_select_recover">Escolher backup da MiCloud</string>
+    <string name="cloud_backup_select_recover">Escolher backup da Xiaomi Cloud</string>
     <string name="cloud_restore_from_other_device">"Parar a restauração de %s e excluir este backup? Você não pode reverter esta ação."</string>
     <string name="cloud_restore_task">Restaurando…</string>
     <string name="cloud_task_in_process">"Parar %s e excluir este backup? Você não pode reverter esta ação."</string>
@@ -231,12 +231,12 @@ Por favor, envie este código para o técnico."</string>
     <string name="dialog_cancel_backup_confirm">"OK"</string>
     <string name="dialog_cancel_backup_msg">Alternar o botão cancelará os backups em andamento.</string>
     <string name="dialog_cancel_backup_title">Cancelar o backup em andamento?</string>
-    <string name="dialog_cloud_space_not_enough">Este backup requer %1$s de espaço de armazenamento na MiCloud. Atualize seu plano de armazenamento para fazer backup de itens</string>
+    <string name="dialog_cloud_space_not_enough">Este backup requer %1$s de espaço de armazenamento na Xiaomi Cloud. Atualize seu plano de armazenamento para fazer backup de itens</string>
     <string name="dialog_content_cancel_backup">Os dados já carregados serão perdidos caso cancele o backup. Cancelar?</string>
     <string name="dialog_content_cancel_restore">Os dados já restaurados serão retidos caso pare de restaurar. Parar de restaurar?</string>
     <string name="dialog_get_installed_apps_consent_message">Para poder fazer backup automaticamente, conceda permissão a este app nas Configurações para acessar a lista de apps instalados em seu dispositivo e selecione \"Sempre permitir\".</string>
     <string name="dialog_get_installed_apps_consent_title">Permissões necessárias</string>
-    <string name="dialog_msg_overwrite_backup">O backup local é diferente do existente na MiCloud. Caso continue, o backup atual substituirá o anterior.</string>
+    <string name="dialog_msg_overwrite_backup">O backup local é diferente do existente na Xiaomi Cloud. Caso continue, o backup atual substituirá o anterior.</string>
     <string name="dialog_msg_restore_require_wlan">A restauração de backups requer uma conexão Wi-Fi.</string>
     <string name="dialog_msg_restore_require_wlan_china">A restauração de backups requer uma conexão de rede sem fio.</string>
     <string name="dialog_need_permission">Permissões necessárias</string>
@@ -244,8 +244,8 @@ Por favor, envie este código para o técnico."</string>
     <string name="dialog_negative_btn_cancel_restore">Parar</string>
     <string name="dialog_positive_btn_cancel_backup">"Continuar"</string>
     <string name="dialog_positive_btn_cancel_restore">"Continuar"</string>
-    <string name="dialog_recommend_wechat_backup_content">Agora você pode fazer backup de conversas do WeChat e outros dados na MiCloud. Para poder fazer backup de seus itens, certifique-se de ter espaço de armazenamento em nuvem suficiente e de que este dispositivo esteja bloqueado, tenha mais de %s de bateria e esteja conectado ao Wi-Fi à noite. Você também pode fazer backup manualmente a qualquer momento.</string>
-    <string name="dialog_recommend_wechat_backup_content_china">Agora você pode fazer backup de conversas do WeChat e outros dados na MiCloud. Para poder fazer backup de seus itens, certifique-se de ter espaço de armazenamento em nuvem suficiente e de que este dispositivo esteja bloqueado, tenha mais de %s de bateria e esteja conectado ao Wi-Fi à noite. Você também pode fazer backup manualmente a qualquer momento.</string>
+    <string name="dialog_recommend_wechat_backup_content">Agora você pode fazer backup de conversas do WeChat e outros dados na Xiaomi Cloud. Para poder fazer backup de seus itens, certifique-se de ter espaço de armazenamento em nuvem suficiente e de que este dispositivo esteja bloqueado, tenha mais de %s de bateria e esteja conectado ao Wi-Fi à noite. Você também pode fazer backup manualmente a qualquer momento.</string>
+    <string name="dialog_recommend_wechat_backup_content_china">Agora você pode fazer backup de conversas do WeChat e outros dados na Xiaomi Cloud. Para poder fazer backup de seus itens, certifique-se de ter espaço de armazenamento em nuvem suficiente e de que este dispositivo esteja bloqueado, tenha mais de %s de bateria e esteja conectado ao Wi-Fi à noite. Você também pode fazer backup manualmente a qualquer momento.</string>
     <string name="dialog_recommend_wechat_backup_negative">Entendi</string>
     <string name="dialog_recommend_wechat_backup_positive">Saiba mais</string>
     <string name="dialog_recommend_wechat_backup_title">Faça backup dos dados do WeChat</string>
@@ -414,8 +414,8 @@ Por favor, envie este código para o técnico."</string>
     <string name="month_september_shortest">Set</string>
     <string name="more">Mais</string>
     <string name="morning">"AM"</string>
-    <string name="msg_alert_cancel_restore">Restaurando itens da MiCloud. Cancelar agora?</string>
-    <string name="msg_alert_restore_error">"Não foi possível restaurar itens da MiCloud. Tente novamente."</string>
+    <string name="msg_alert_cancel_restore">Restaurando itens da Xiaomi Cloud. Cancelar agora?</string>
+    <string name="msg_alert_restore_error">"Não foi possível restaurar itens da Xiaomi Cloud. Tente novamente."</string>
     <string name="msg_restore_start_with_metered_network">"Se você restaurar esse backup, sua Tela inicial será redefinida e seus apps serão baixados e instalados automaticamente.&lt;br />&lt;b>&lt;font color='red'>Tamanho do backup: %s&lt;/font>&lt;/b>"</string>
     <string name="msg_restore_with_metered_network_hint">Se você prosseguir com a restauração destes itens, os dados móveis serão usados para baixá-los.</string>
     <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'>&lt;b>%s&lt;/b>&lt;/font> de arquivos serão baixados."</string>
@@ -423,8 +423,8 @@ Por favor, envie este código para o técnico."</string>
     <string name="network_error_info">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
     <string name="network_timeout_info">"Não foi possível conectar à rede. Tente novamente."</string>
     <string name="night">"PM"</string>
-    <string name="no_account">Não conectado a uma Conta Mi.</string>
-    <string name="no_backup">Nenhum backup na MiCloud.</string>
+    <string name="no_account">Não conectado a uma Conta Xiaomi.</string>
+    <string name="no_backup">Nenhum backup na Xiaomi Cloud.</string>
     <string name="noon">"PM"</string>
     <string name="not_backup_reason">Motivo da falha no backup: %s</string>
     <string name="not_backup_reason_battery_exception">Bateria abaixo de %s</string>
@@ -463,7 +463,7 @@ Por favor, envie este código para o técnico."</string>
     <string name="provision_restore_data">Restaurando itens</string>
     <string name="provision_skip_underline">Pular</string>
     <string name="query_restore_description">"Caso restaure o layout e as configurações da Tela inicial, os apps que já estão instalados serão restaurados para suas posições originais anteriormente na Tela inicial. Os apps que não fazem parte desse backup serão movidos para a última página da Tela inicial."</string>
-    <string name="query_restore_summary">Foi encontrado um backup na MiCloud para este dispositivo. Restaurar apps da Tela inicial e suas configurações, ou usá-lo como um novo dispositivo, excluindo os backups anteriores da MiCloud?</string>
+    <string name="query_restore_summary">Foi encontrado um backup na Xiaomi Cloud para este dispositivo. Restaurar apps da Tela inicial e suas configurações, ou usá-lo como um novo dispositivo, excluindo os backups anteriores da Xiaomi Cloud?</string>
     <string name="recover_home_settings">Restaurar configurações da Tela inicial</string>
     <string name="recover_miui_settings">Restaurar configurações do sistema</string>
     <string name="recover_settings_description">Mantenha seu dispositivo ligado</string>
@@ -537,7 +537,7 @@ Verifique sua conexão e tente novamente."</string>
     <string name="restoring_app_data_title_no_progress">Restaurando dados do WeChat…</string>
     <string name="restoring_data">Restaurando dados…</string>
     <string name="restoring_file_title_no_progress">Restaurando apps…</string>
-    <string name="restoring_home_screen_apps">Restaurando da MiCloud…</string>
+    <string name="restoring_home_screen_apps">Restaurando da Xiaomi Cloud…</string>
     <string name="restoring_settings">Restaurando Configurações…</string>
     <string name="retry">Repetir</string>
     <string name="saturday">Sábado</string>
@@ -546,7 +546,7 @@ Verifique sua conexão e tente novamente."</string>
     <string name="save_not_backup_reason_app_data_error">"Não foi possível fazer backup dos dados do WeChat. Tente fazer backup manualmente."</string>
     <string name="save_not_backup_reason_app_usage_denied_message">Conceda as permissões necessárias para poder usar este recurso. Você pode fazer isso em Configurações > Apps > Permissões > Backup na nuvem. Abrir as Configurações agora?</string>
     <string name="save_not_backup_reason_cloud_space_not_enough">Armazenamento em nuvem insuficiente</string>
-    <string name="save_not_backup_reason_cloud_space_not_enough_dialog_message">Obtenha uma assinatura dos serviços da MiCloud para desfrutar de mais espaço de armazenamento em nuvem e outras vantagens. Comprar agora?</string>
+    <string name="save_not_backup_reason_cloud_space_not_enough_dialog_message">Obtenha uma assinatura dos serviços da Xiaomi Cloud para desfrutar de mais espaço de armazenamento em nuvem e outras vantagens. Comprar agora?</string>
     <string name="save_not_backup_reason_cloud_space_not_enough_dialog_title">Armazenamento insuficiente</string>
     <string name="save_not_backup_reason_disk_space_not_enough">Armazenamento insuficiente do dispositivo</string>
     <string name="save_not_backup_reason_disk_space_not_enough_dialog_message">Este backup requer pelo menos %s de armazenamento disponível. Libere espaço no seu dispositivo e tente novamente.</string>
@@ -584,7 +584,7 @@ Verifique sua conexão e tente novamente."</string>
     <string name="session_failed_invalid_token_detail">Fazer login novamente</string>
     <string name="session_failed_invalid_token_title">Credenciais inválidas</string>
     <string name="session_failed_no_server_response_title">"Não foi possível conectar ao servidor."</string>
-    <string name="session_failed_override_detail">O backup local é diferente do da MiCloud. Se você continuar, o backup atual substituirá o anterior. Substituir agora?</string>
+    <string name="session_failed_override_detail">O backup local é diferente do da Xiaomi Cloud. Se você continuar, o backup atual substituirá o anterior. Substituir agora?</string>
     <string name="session_failed_override_title">Sobrescrevendo backup</string>
     <string name="session_failed_reason_invalid_token">Credenciais de login inválidas. Faça login novamente.</string>
     <string name="session_failed_restore_app_data_btn_text">Voltar</string>
@@ -633,7 +633,7 @@ Verifique sua conexão e tente novamente."</string>
     <string name="solar_term_white_dews">Orvalho</string>
     <string name="solar_term_winter_begins">O inverno começa</string>
     <string name="solar_term_winter_solstice">Solstício de inverno</string>
-    <string name="start_backup_to_micloud">Fazer backup de apps para a MiCloud</string>
+    <string name="start_backup_to_micloud">Fazer backup de apps para a Xiaomi Cloud</string>
     <string name="start_recover">Restaurar %s</string>
     <string name="storage_unit_gb">"%s GB"</string>
     <string name="storage_unit_mb">"%s MB"</string>

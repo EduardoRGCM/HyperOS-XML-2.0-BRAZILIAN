@@ -184,7 +184,7 @@
     <string name="global_cta_agree">Aceitar</string>
     <string name="global_cta_desc">Bem-vindo ao %s! Nosso app oferece os seguintes serviços:</string>
     <string name="global_cta_exit">"Não aceitar"</string>
-    <string name="global_cta_feature_connect">Conecta telefones e tablets usando sua Conta Mi</string>
+    <string name="global_cta_feature_connect">Conecta telefones e tablets usando sua Conta Xiaomi</string>
     <string name="global_cta_feature_control">Visualizar e usar apps de smartphone em seu tablet</string>
     <string name="global_cta_user_agreement">Antes de usar %1$s, leia e aceite o nosso &lt;txt href=\"%2$s\">Contrato do Usuário&lt;/txt> e a nossa &lt;txt href=\"%3$s\">Política de Privacidade&lt;/txt>.</string>
     <string name="guide_window_btn_know">Entendi</string>
@@ -229,9 +229,9 @@ Você pode iniciar outra sessão em seu computador."</string>
     <string name="log_warning">"Alternar as opções de log pode aumentar os riscos à segurança e afetar o desempenho. Use esses botões de alternância apenas quando for necessário."</string>
     <string name="login_xiaomi_account_cancel">Cancelar</string>
     <string name="login_xiaomi_account_goto_login">Fazer login</string>
-    <string name="login_xiaomi_account_summary_pad">Para poder se conectar a outros dispositivos, use a mesma Conta Mi em ambos os dispositivos conectados. Fazer login agora?</string>
-    <string name="login_xiaomi_account_summary_phone">Para poder se conectar a outros tablets, use a mesma Conta Mi em ambos os dispositivos conectados. Fazer login agora?</string>
-    <string name="login_xiaomi_account_title">Fazer login na Conta Mi</string>
+    <string name="login_xiaomi_account_summary_pad">Para poder se conectar a outros dispositivos, use a mesma Conta Xiaomi em ambos os dispositivos conectados. Fazer login agora?</string>
+    <string name="login_xiaomi_account_summary_phone">Para poder se conectar a outros tablets, use a mesma Conta Xiaomi em ambos os dispositivos conectados. Fazer login agora?</string>
+    <string name="login_xiaomi_account_title">Fazer login na Conta Xiaomi</string>
     <string name="low_battery_notification_action">Ativar</string>
     <string name="low_battery_notification_content">Menos de %2$s de bateria restante em %1$s.</string>
     <string name="low_battery_notification_content_default">A bateria do dispositivo está abaixo de %1$s</string>
@@ -339,7 +339,7 @@ Você pode iniciar outra sessão em seu computador."</string>
     <string name="month_september_shortest">Set</string>
     <string name="more">Mais</string>
     <string name="morning">"AM"</string>
-    <string name="nfc_account_number_is_inconsistent">Parece que seu dispositivo e tablet estão usando Contas Mi diferentes. Para transferir itens, entre na mesma Conta Mi em ambos os dispositivos.</string>
+    <string name="nfc_account_number_is_inconsistent">Parece que seu dispositivo e tablet estão usando Contas Mi diferentes. Para transferir itens, entre na mesma Conta Xiaomi em ambos os dispositivos.</string>
     <string name="nfc_check_the_touch_device_china">Para conectar os dispositivos, o Wi-Fi e o Bluetooth também devem estar ativados no outro dispositivo. Verifique se a conexão para o outro dispositivo é permitida em Configurações > Conectividade > Dispositivos conectados e tente novamente.</string>
     <string name="nfc_check_wifi_and_bluetooth_china">Verifique o status do Wi-Fi e do Bluetooth</string>
     <string name="nfc_circulation_failed">"Não foi possível transferir"</string>
@@ -349,7 +349,7 @@ Você pode iniciar outra sessão em seu computador."</string>
     <string name="nfc_login">Entrar</string>
     <string name="nfc_need_to_enable_your_bluetooth_and_wlan_china">Para conectar os dispositivos, primeiro ative o Wi-Fi e o Bluetooth neste dispositivo. Ativar agora?</string>
     <string name="nfc_need_to_enable_your_bluetooth_and_wlan_pc_china">"Não foi possível conectar ao computador. Verifique se o Wi-Fi e o Bluetooth estão ativados em ambos os dispositivos."</string>
-    <string name="nfc_no_xiaomi_account">"Parece que você não fez login na sua Conta Mi. Para transferir itens, entre na Conta Mi que você está usando em seu tablet."</string>
+    <string name="nfc_no_xiaomi_account">"Parece que você não fez login na sua Conta Xiaomi. Para transferir itens, entre na Conta Xiaomi que você está usando em seu tablet."</string>
     <string name="nfc_wifi_and_bluetooth_china">Ative o Wi-Fi e o Bluetooth</string>
     <string name="night">"PM"</string>
     <string name="noon">"PM"</string>
@@ -393,7 +393,7 @@ Você pode iniciar outra sessão em seu computador."</string>
     <string name="pad_settings_connect_pad_group">Trabalhe com seu tablet</string>
     <string name="pad_settings_connect_pc_group">Trabalhe com seu computador</string>
     <string name="pad_settings_connect_phone_group">Trabalhe com seu telefone</string>
-    <string name="pad_settings_current_device_tip">Conecte-se a outros tablets associados à sua Conta Mi automaticamente</string>
+    <string name="pad_settings_current_device_tip">Conecte-se a outros tablets associados à sua Conta Xiaomi automaticamente</string>
     <string name="pad_settings_handoff_app_summary">Continue as tarefas no mesmo app no outro dispositivo</string>
     <string name="pad_settings_handoff_app_title">"Apps"</string>
     <string name="pad_settings_handoff_clipboard_summary">Copie em um dispositivo e cole perfeitamente para o outro</string>
@@ -409,11 +409,11 @@ Você pode iniciar outra sessão em seu computador."</string>
     <string name="pad_settings_handoff_video_title">Vídeos</string>
     <string name="pad_settings_handoff_wps_summary">Visualize, edite e salve documentos enquanto alterna entre dispositivos</string>
     <string name="pad_settings_handoff_wps_title">Documentos</string>
-    <string name="pad_settings_pad_handoff_summary">Use o handoff com apps, prancheta, vídeos e outros itens no outro dispositivo associado à sua Conta Mi.</string>
+    <string name="pad_settings_pad_handoff_summary">Use o handoff com apps, prancheta, vídeos e outros itens no outro dispositivo associado à sua Conta Xiaomi.</string>
     <string name="pad_settings_pc_history_title">Histórico de conexão</string>
     <string name="pad_settings_pc_trusted_title">Conectar automaticamente</string>
     <string name="pad_settings_pc_use_tile">Sobre esse recurso</string>
-    <string name="pad_settings_phone_handoff_summary">Use o handoff com apps, prancheta, vídeos e outros itens no outro dispositivo associado à sua Conta Mi.</string>
+    <string name="pad_settings_phone_handoff_summary">Use o handoff com apps, prancheta, vídeos e outros itens no outro dispositivo associado à sua Conta Xiaomi.</string>
     <string name="pad_settings_phone_handoff_title">"Handoff"</string>
     <string name="pc_account_connect_cta_again">Conecte-se novamente no seu computador</string>
     <string name="pc_cooperate_duplicate_title">Área de trabalho do computador</string>
@@ -446,7 +446,7 @@ Você pode iniciar outra sessão em seu computador."</string>
     <string name="phone_pc_doc_introduction_title">Arquivos</string>
     <string name="phone_pc_message_introduction_summary">Copie o texto ou tire uma foto em seu dispositivo e cole esses itens em um computador conectado</string>
     <string name="phone_pc_message_introduction_title">Área de transferência compartilhada</string>
-    <string name="phone_settings_current_device_tip">Conecte-se a outros telefones associados à sua Conta Mi automaticamente</string>
+    <string name="phone_settings_current_device_tip">Conecte-se a outros telefones associados à sua Conta Xiaomi automaticamente</string>
     <string name="pm">"PM"</string>
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
     <string name="privacy_describe_change_wifi_state_china">Para conectar dispositivos e transferir arquivos usando Wi-Fi</string>
@@ -528,7 +528,7 @@ execute esta ação no seu dispositivo."</string>
     <string name="settings_how_use">Usando handoff</string>
     <string name="settings_log_options">"Logs"</string>
     <string name="settings_more_help">Ajuda</string>
-    <string name="settings_nfc_transfer_desc1">"• Aproxime um dispositivo conectado à sua Conta Mi do módulo NFC deste dispositivo para compartilhar o conteúdo da tela ou transferir os itens selecionados no Arquivos ou na Galeria."</string>
+    <string name="settings_nfc_transfer_desc1">"• Aproxime um dispositivo conectado à sua Conta Xiaomi do módulo NFC deste dispositivo para compartilhar o conteúdo da tela ou transferir os itens selecionados no Arquivos ou na Galeria."</string>
     <string name="settings_nfc_transfer_desc2">• Você pode ver a lista de dispositivos compatíveis aqui: %s</string>
     <string name="settings_nfc_transfer_title">Transferir itens via NFC</string>
     <string name="settings_pad">"Tablet"</string>

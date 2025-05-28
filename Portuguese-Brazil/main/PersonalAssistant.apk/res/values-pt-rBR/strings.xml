@@ -454,7 +454,7 @@ Você também pode acompanhar a entrega expressa nos sites oficiais de serviços
     <string name="pa_feature_hint_lack_location_permission">Permita que este app acesse sua localização e selecione Sempre permitir</string>
     <string name="pa_feature_hint_lack_xiaomi_voice_permission">Permita que Sugestões do Mi AI acessem o Assistente de Voz Mi AI</string>
     <string name="pa_feature_hint_location_provider_close">Conceda permissões de localização para aumentar a precisão das sugestões</string>
-    <string name="pa_feature_hint_no_login_mi_account">Faça login na sua Conta Mi para aproveitar mais recursos</string>
+    <string name="pa_feature_hint_no_login_mi_account">Faça login na sua Conta Xiaomi para aproveitar mais recursos</string>
     <string name="pa_feature_hint_permission_text">Permita o acesso à localização e selecione Sempre permitir</string>
     <string name="pa_feature_hint_tip_agree_cta">Concorde com a Política de Privacidade do %s para poder usar as Sugestões do Mi AI</string>
     <string name="pa_feature_hint_travel_not_compete">Preencha suas informações de deslocamento abaixo</string>
@@ -698,7 +698,7 @@ Você também pode acompanhar a entrega expressa nos sites oficiais de serviços
     <string name="pa_picker_detail_theme_app_cta">Configurações</string>
     <string name="pa_picker_detail_theme_app_cta_pre">"Para poder usar este widget, permita que temas possam se conectarem à internet primeiro."</string>
     <string name="pa_picker_detail_theme_app_need_login">Entrar</string>
-    <string name="pa_picker_detail_theme_app_need_login_pre">"Faça login em sua Conta Mi primeiro. "</string>
+    <string name="pa_picker_detail_theme_app_need_login_pre">"Faça login em sua Conta Xiaomi primeiro. "</string>
     <string name="pa_picker_detail_view_more">Veja mais</string>
     <string name="pa_picker_detail_vp2_indicator">Página selecionada: %1$d de %2$d</string>
     <string name="pa_picker_detail_wait_wifi_download_maml">Este item será baixado via Wi-Fi</string>
@@ -727,7 +727,7 @@ Fique ligado!"</string>
     <string name="pa_picker_no_relevant_content">Nenhum resultado encontrado</string>
     <string name="pa_picker_order_go_to_allow_cta">Permitir</string>
     <string name="pa_picker_order_go_to_login">Entrar</string>
-    <string name="pa_picker_order_login_xiaomi_account">Entre na sua Conta Mi para poder usar este recurso.</string>
+    <string name="pa_picker_order_login_xiaomi_account">Entre na sua Conta Xiaomi para poder usar este recurso.</string>
     <string name="pa_picker_order_theme_app_cta_pre">Permita que este app se conecte à internet para poder usar este recurso.</string>
     <string name="pa_picker_permission_denied">"O Assistente precisa acessar o status de instalação
 para mostrar widgets."</string>
@@ -1142,7 +1142,7 @@ Adicione widgets para começar."</string>
     <string name="pa_world_cup_widget_request_retry">Tente novamente</string>
     <string name="pa_world_cup_widget_reserve_success_toast">"Você receberá um lembrete antes do início da partida"</string>
     <string name="pa_world_cup_widget_title">Copa do Mundo FIFA</string>
-    <string name="passport_oauth_actionbar_title">Conta Mi</string>
+    <string name="passport_oauth_actionbar_title">Conta Xiaomi</string>
     <string name="passport_oauth_sucess_tip">Autorizado com sucesso</string>
     <string name="password_toggle_content_description">Mostrar senha</string>
     <string name="pm">"PM"</string>

@@ -63,8 +63,8 @@
     <string name="add_body_weight_record_button">Adicionar peso</string>
     <string name="add_data_source">Adicionando dados</string>
     <string name="add_data_source_description">Adicione dados de saúde gerados por outros dispositivos ao Mi Saúde para aumentar a precisão das estatísticas e obter conselhos de saúde mais relevantes.</string>
-    <string name="add_data_source_login_and_open_sync">Faça login em sua Conta Mi e ative a sincronização com a nuvem para poder adicionar fontes de dados.</string>
-    <string name="add_data_source_open_sync">Ative a sincronização com a MiCloud para adicionar fontes de dados.</string>
+    <string name="add_data_source_login_and_open_sync">Faça login em sua Conta Xiaomi e ative a sincronização com a nuvem para poder adicionar fontes de dados.</string>
+    <string name="add_data_source_open_sync">Ative a sincronização com a Xiaomi Cloud para adicionar fontes de dados.</string>
     <string name="add_data_source_process">Como adicionar uma fonte de dados</string>
     <string name="add_data_source_support_step">"Este dispositivo não gera dados de contagem de passos. Você pode tentar mudar para outras fontes de dados."</string>
     <string name="add_data_type_datasource">Adicionar fonte de dados (%1$s)</string>
@@ -283,7 +283,7 @@ Caso não queira ter acesso às aulas recomendadas, você ainda pode usar os exe
     <string name="data_details">Detalhes dos dados</string>
     <string name="data_empty">Sem dados</string>
     <string name="data_safety_tip_details">Os seus dados de saúde serão mantidos neste dispositivo após você finalizar a sessão. Os dados podem ser excluídos em Mi Saúde > Fonte de dados</string>
-    <string name="data_safety_tip_details2">Alguns dos seus dados de saúde foram carregados na MiCloud. Você pode manter os seus dados neste dispositivo ou excluí-los. Ao selecionar \"Excluir\", serão excluídos apenas os dados deste dispositivo. Os itens sincronizados estarão disponíveis na MiCloud.
+    <string name="data_safety_tip_details2">Alguns dos seus dados de saúde foram carregados na Xiaomi Cloud. Você pode manter os seus dados neste dispositivo ou excluí-los. Ao selecionar \"Excluir\", serão excluídos apenas os dados deste dispositivo. Os itens sincronizados estarão disponíveis na Xiaomi Cloud.
 Se decidir excluir os seus dados de saúde, poderá ser feito em Mi Saúde > Fonte de dados.</string>
     <string name="data_safety_tip_title">Excluindo dados</string>
     <string name="data_source">Fonte de dados</string>
@@ -356,8 +356,8 @@ Se decidir excluir os seus dados de saúde, poderá ser feito em Mi Saúde > Fon
     <string name="detection_wait_generate_report_detail">Volte mais tarde</string>
     <string name="device_data_manage">Gerenciar dispositivos</string>
     <string name="device_data_sync">Sincronizar dados de saúde</string>
-    <string name="device_description">"Este dispositivo está associado à Conta Mi %s. Caso não encontre o dispositivo necessário, adicione-o primeiro ao Mi Fit ou ao Xiaomi Wear."</string>
-    <string name="device_list_origin_description">"Esses dispositivos estão associados à Conta Mi %1$s. Caso não encontre o dispositivo de que precisa aqui, certifique-se de que já o adicionou no app correspondente."</string>
+    <string name="device_description">"Este dispositivo está associado à Conta Xiaomi %s. Caso não encontre o dispositivo necessário, adicione-o primeiro ao Mi Fit ou ao Xiaomi Wear."</string>
+    <string name="device_list_origin_description">"Esses dispositivos estão associados à Conta Xiaomi %1$s. Caso não encontre o dispositivo de que precisa aqui, certifique-se de que já o adicionou no app correspondente."</string>
     <string name="device_off_sync_description">"Os dados de saúde gerados neste dispositivo não serão sincronizados com o Mi Saúde"</string>
     <string name="device_unbound_from_account">Este dispositivo não está mais associado à sua conta</string>
     <string name="diagnosis_log_send_failed">Falha ao enviar log de diagnóstico.</string>
@@ -614,7 +614,7 @@ Se ainda for difícil adormecer após 30 minutos na cama, reduza os fatores que 
     <string name="gps_unauthorized">Permissões de GPS necessárias</string>
     <string name="gps_unopened">O GPS está desativado</string>
     <string name="group">Ciclos</string>
-    <string name="guide_data_cloud_sync_tip">Você pode desativar a sincronização em Configurações > Conta Mi</string>
+    <string name="guide_data_cloud_sync_tip">Você pode desativar a sincronização em Configurações > Conta Xiaomi</string>
     <string name="guide_exit">Sair do Mi Saúde</string>
     <string name="guide_exit_description">Não podemos prestar serviços a pessoas que ainda não completaram 14 anos. Certifique-se de usar este dispositivo com a permissão de seu responsável. Toque no botão abaixo para sair do app.</string>
     <string name="guide_exit_title">Você pode começar a usar o Mi Saúde após completar 14 anos.</string>
@@ -628,8 +628,8 @@ Se ainda for difícil adormecer após 30 minutos na cama, reduza os fatores que 
     <string name="health_app_name">Mi Saúde</string>
     <string name="health_app_name_dev">Desenvolvimento do Mi Saúde</string>
     <string name="health_cloud_service">MiCloud</string>
-    <string name="health_data_cloud_sync_subtitle">Sincronize os seus dados com a MiCloud e acesse de qualquer dispositivo</string>
-    <string name="health_data_cloud_sync_title">Sincronização com a MiCloud</string>
+    <string name="health_data_cloud_sync_subtitle">Sincronize os seus dados com a Xiaomi Cloud e acesse de qualquer dispositivo</string>
+    <string name="health_data_cloud_sync_title">Sincronização com a Xiaomi Cloud</string>
     <string name="health_data_sync">Sincronizar dados do Health</string>
     <string name="health_score">Resultado de saúde</string>
     <string name="health_score_tips">O resultado de saúde é calculado com base no seu IMC (Índice de Massa Corporal), assim como seus dados de sono e exercícios físicos. Quanto mais próximo você estiver das suas metas, maior a sua pontuação de saúde será.</string>
@@ -730,7 +730,7 @@ Comece de novo."</string>
     <string name="indoor_running">Esteira</string>
     <string name="input_body_weight">Informar peso para obter conselhos de saúde</string>
     <string name="inquire_recover_data">Restaurar dados de saúde agora?</string>
-    <string name="inquire_recover_data_subtitle">"Parece que há dados de saúde associados à sua Conta Mi (%1$s). Ativar a sincronizar e restaurar os dados agora?"</string>
+    <string name="inquire_recover_data_subtitle">"Parece que há dados de saúde associados à sua Conta Xiaomi (%1$s). Ativar a sincronizar e restaurar os dados agora?"</string>
     <string name="instructions_provider">Instruções fornecidas por Miao Health</string>
     <string name="insufficient">Insuficiente</string>
     <string name="jump_freq">Frequência de salto</string>
@@ -1046,7 +1046,7 @@ Se não quiser compartilhar suas informações, você pode desativar esse recurs
     <string name="not_up_to_standard">Abaixo do padrão</string>
     <string name="oar_time">Hora de dirigir</string>
     <string name="oauth_account_failed">"Não foi possível obter informações da conta"</string>
-    <string name="oauth_account_failed_desc">Para adicionar fontes de dados, o Mi Saúde precisa usar sua Conta Mi. Faça login para continuar.</string>
+    <string name="oauth_account_failed_desc">Para adicionar fontes de dados, o Mi Saúde precisa usar sua Conta Xiaomi. Faça login para continuar.</string>
     <string name="oauth_invalid">Sessão expirada. Entre novamente.</string>
     <string name="ok">"OK"</string>
     <string name="open">Ativar</string>
@@ -1067,7 +1067,7 @@ Se não quiser compartilhar suas informações, você pode desativar esse recurs
     <string name="outdoor_running">Corrida</string>
     <string name="outdoor_walking">Caminhada</string>
     <string name="passable">"OK"</string>
-    <string name="passport_oauth_actionbar_title">Conta Mi</string>
+    <string name="passport_oauth_actionbar_title">Conta Xiaomi</string>
     <string name="passport_oauth_sucess_tip">Autorizado com sucesso</string>
     <string name="password_toggle_content_description">Mostrar senha</string>
     <string name="pause">Pausar</string>
@@ -1667,7 +1667,7 @@ os dados de sono"</string>
     <string name="tb_home_sleep_card">"Sono de hoje: %1$s, %2$s"</string>
     <string name="tb_home_sleep_card_no_data">Sono. Sem dados para hoje.</string>
     <string name="tb_home_sleep_card_not_open_trace">Sono. A análise do ciclo de sono está desativada.</string>
-    <string name="tb_home_tip_open_data_sync">Sincronize os itens do Mi Saúde com a MiCloud para acessá-los em outros dispositivos. Toque duas vezes para começar.</string>
+    <string name="tb_home_tip_open_data_sync">Sincronize os itens do Mi Saúde com a Xiaomi Cloud para acessá-los em outros dispositivos. Toque duas vezes para começar.</string>
     <string name="tb_home_weight_card">Peso. %1$.2f quilos. Tempo de pesagem: %2$s. Status: %3$s.</string>
     <string name="tb_home_weight_card_no_data">Peso. Sem dados.</string>
     <string name="tb_manage_home">Aqui você pode remover ou reorganizar os cartões exibidos na página inicial.</string>
@@ -1724,8 +1724,8 @@ os dados de sono"</string>
     <string name="tb_stand_wm_column_click">%1$s, ficou em pé %2$d, %3$s</string>
     <string formatted="false" name="tb_step_widget">Hoje. %1$s. Progresso: %2$d%</string>
     <string name="tb_unmultiple_selecte_all">Desmarcar todos</string>
-    <string name="tb_user_account_signed">Conta Mi: %1$s.</string>
-    <string name="tb_user_account_unsigned">Toque para entrar com a Conta Mi</string>
+    <string name="tb_user_account_signed">Conta Xiaomi: %1$s.</string>
+    <string name="tb_user_account_unsigned">Toque para entrar com a Conta Xiaomi</string>
     <string name="tb_user_sleep_card_info">Meta de sono diário: %1$s.</string>
     <string name="tb_user_sleep_target_btn">Alterar meta de sono</string>
     <string name="tb_user_step_card_info">Meta diária: %1$s, entre %2$s ou %3$s.</string>

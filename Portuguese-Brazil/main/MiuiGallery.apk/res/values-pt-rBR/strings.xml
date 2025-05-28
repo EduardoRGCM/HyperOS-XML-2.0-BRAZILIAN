@@ -140,7 +140,7 @@ Tente criar a imagem IA com fotos diferentes."</string>
     <string name="ai_creation_count_limit_msg">"Não é possível criar mais retratos hoje. Volte amanhã!"</string>
     <string name="ai_creation_delete_msg">Excluir este registro do histórico agora?</string>
     <string name="ai_creation_delete_title">Atenção!</string>
-    <string name="ai_creation_record_footer_tips">Você só pode visualizar itens criados neste dispositivo. Eles serão excluídos depois que você sair da sua Conta Mi.</string>
+    <string name="ai_creation_record_footer_tips">Você só pode visualizar itens criados neste dispositivo. Eles serão excluídos depois que você sair da sua Conta Xiaomi.</string>
     <string name="ai_creation_recreate_button">Recomeçar</string>
     <string name="ai_creation_save_failed_msg">"Não foi possível salvar. Tente novamente."</string>
     <string name="ai_creation_save_success_msg">Salvo com sucesso</string>
@@ -368,7 +368,7 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="all_video_album_display_name">Todos os vídeos</string>
     <string name="already_authorize_to_device">Autorizado</string>
     <string name="already_cancel_authorize_to_device">Autorização revogada</string>
-    <string name="already_create_baby_album">O Álbum do bebê já existe na MiCloud.</string>
+    <string name="already_create_baby_album">O Álbum do bebê já existe na Xiaomi Cloud.</string>
     <string name="already_share">Compartilhado</string>
     <string name="am">"AM"</string>
     <string name="and"> e </string>
@@ -383,7 +383,7 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="app_name">Galeria</string>
     <string name="app_name_view_picture">Ver fotos</string>
     <string name="app_name_view_video">Ver vídeos</string>
-    <string name="app_summary">Gerenciar e editar suas fotos e vídeos no seu dispositivo e na MiCloud</string>
+    <string name="app_summary">Gerenciar e editar suas fotos e vídeos no seu dispositivo e na Xiaomi Cloud</string>
     <string name="app_summary_2">Armazenar, gerenciar e editar fotos e vídeos neste dispositivo</string>
     <string name="apply">Aplicar</string>
     <string name="art_still_download_failed_for_notwork">"Não foi possível baixar. Verifique suas configurações de rede e tente novamente."</string>
@@ -407,14 +407,14 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="auth_fail_warning">Sessão expirada. Faça login novamente.</string>
     <string name="authorize_to_device_failed">"Não foi possível autorizar"</string>
     <string name="authorize_watch_on_tv_failed">"Não foi possível autorizar para ver na TV"</string>
-    <string name="auto_backup_introduce">Sincronizar fotos e vídeos automaticamente (Conta Mi requerida)</string>
+    <string name="auto_backup_introduce">Sincronizar fotos e vídeos automaticamente (Conta Xiaomi requerida)</string>
     <string name="auto_download_media_title">Baixar automaticamente</string>
     <string name="auto_download_title">Selecione a qualidade da imagem</string>
     <string name="auto_update_face">Adicionar fotos automaticamente</string>
     <string name="auto_update_face_summary">Corresponder e adicionar fotos automaticamente ao Álbum do bebê</string>
     <string name="auto_update_off">Desativado</string>
     <string name="auto_update_on">Ativado</string>
-    <string name="auto_upload_before_share_message">Sincronize este álbum com a MiCloud antes de compartilhar</string>
+    <string name="auto_upload_before_share_message">Sincronize este álbum com a Xiaomi Cloud antes de compartilhar</string>
     <string name="auto_upload_before_share_title">Dica</string>
     <string name="auto_upload_disable_tip">Sincronização com a nuvem desativada</string>
     <string name="auto_upload_disable_toast_long_press_menu">Sincronização com a nuvem desativada</string>
@@ -455,15 +455,15 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="back_up_gp_msg_migrating">Agora os itens da nuvem estão sendo transferidos para o Google Fotos. Configure o backup no Google Fotos para poder continuar sincronizando novos itens.</string>
     <string name="back_up_gp_title">Faça backup com o Google Fotos</string>
     <string name="background_picture">Fundo %1$d</string>
-    <string name="backup_automatically_summary">Sincronize fotos e vídeos de todos os seus dispositivos para a MiCloud. Você poderá navegar, ordenar, editar e compartilhar fotos e vídeos em todos os seus dispositivos.</string>
+    <string name="backup_automatically_summary">Sincronize fotos e vídeos de todos os seus dispositivos para a Xiaomi Cloud. Você poderá navegar, ordenar, editar e compartilhar fotos e vídeos em todos os seus dispositivos.</string>
     <string name="backup_automatically_title">Sincronizar automaticamente</string>
     <string name="backup_battery_low_desc">Você pode retomar a sincronização com a bateria fraca</string>
     <string name="backup_battery_low_title">Backup pausado devido a bateria fraca</string>
     <string name="backup_category_title">"Backup"</string>
     <string name="backup_close">Fechar backup</string>
     <string name="backup_cloud_space_low_btn_text">Obter mais</string>
-    <string name="backup_cloud_space_low_desc">%1$s na MiCloud | %2$s disponível</string>
-    <string name="backup_cloud_space_low_title">Espaço insuficiente na MiCloud</string>
+    <string name="backup_cloud_space_low_desc">%1$s na Xiaomi Cloud | %2$s disponível</string>
+    <string name="backup_cloud_space_low_title">Espaço insuficiente na Xiaomi Cloud</string>
     <string name="backup_cta_not_allow_btn_text">Permitir</string>
     <string name="backup_cta_not_allow_desc">Fazer backup automaticamente</string>
     <string name="backup_cta_not_allow_title">"Não é possível acessar a rede"</string>
@@ -484,7 +484,7 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="backup_need_sync_title">Backup parado</string>
     <string name="backup_no_network_btn_text">Configurações</string>
     <string name="backup_no_network_desc">Conecte-se à rede para fazer o backup dos itens</string>
-    <string name="backup_no_network_title">"Não é possível conectar-se à MiCloud"</string>
+    <string name="backup_no_network_title">"Não é possível conectar-se à Xiaomi Cloud"</string>
     <string name="backup_no_wifi_btn_text">Usar dados</string>
     <string name="backup_no_wifi_desc">Você pode retomar a sincronização enquanto usa os dados móveis</string>
     <string name="backup_no_wifi_title">A sincronização será retomada depois que você se conectar ao Wi-Fi</string>
@@ -512,7 +512,7 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="backup_sync_dialog_tips">Ative a sincronização com a nuvem para alterar as configurações.</string>
     <string name="backup_sync_dialog_title">Sincronização desativada</string>
     <string name="backup_sync_error_btn_text">Repetir</string>
-    <string name="backup_sync_error_desc">"Não é possível conectar-se à MiCloud"</string>
+    <string name="backup_sync_error_desc">"Não é possível conectar-se à Xiaomi Cloud"</string>
     <string name="backup_sync_error_title">"Não foi possível sincronizar os itens"</string>
     <string name="backup_sync_off_btn_text">Ativar</string>
     <string name="backup_sync_off_desc">Ative a sincronização com a nuvem para fazer backup de fotos e vídeos</string>
@@ -520,7 +520,7 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="backup_with_gprs_dialog_btn">Fazer backup</string>
     <string name="backup_with_gprs_dialog_message">%s de dados móveis serão necessários para o backup dos itens. Fazer backup agora?</string>
     <string name="backup_with_gprs_dialog_title">Fazer o backup usando dados móveis</string>
-    <string name="backuped_desc">Fotos e vídeos estão sendo salvos na MiCloud</string>
+    <string name="backuped_desc">Fotos e vídeos estão sendo salvos na Xiaomi Cloud</string>
     <string name="backuped_title">Backup concluído com sucesso</string>
     <string name="backuping_title_gprs">Fazendo backup usando dados móveis…</string>
     <string name="backuping_title_normal">Fazendo backup…</string>
@@ -662,7 +662,7 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="cleaner_similar_title">Fotos duplicadas</string>
     <string name="cleaner_size">Limpar itens excluídos (%s)</string>
     <string name="cleaner_slim_action">Iniciar otimização</string>
-    <string name="cleaner_slim_description">Manter fotos otimizadas no seu dispositivo. Os arquivos originais serão armazenados na MiCloud.</string>
+    <string name="cleaner_slim_description">Manter fotos otimizadas no seu dispositivo. Os arquivos originais serão armazenados na Xiaomi Cloud.</string>
     <string name="cleaner_slim_start">Otimizar</string>
     <string name="cleaner_slim_title">Otimizar fotos</string>
     <string name="cleaner_space_description">pode ser liberado</string>
@@ -700,7 +700,7 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="cloud_action_upgrade">"Upgrade"</string>
     <string name="cloud_action_upgrade_free">Upgrade gratuito</string>
     <string name="cloud_action_view">Ver</string>
-    <string name="cloud_authorize_to_share_to_device">Autorize a visualização de itens em TVs associadas à sua Conta Mi</string>
+    <string name="cloud_authorize_to_share_to_device">Autorize a visualização de itens em TVs associadas à sua Conta Xiaomi</string>
     <string name="cloud_authorizing_to_device">Autorizando…</string>
     <string name="cloud_backup_enable_title">Sincronizar</string>
     <string name="cloud_backup_open_button">Ativar</string>
@@ -729,15 +729,15 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="cloud_settings">Sincronização</string>
     <string name="cloud_storage_extend">Estender espaço da nuvem</string>
     <string name="cloud_storage_ok_append_desc">%s disponível</string>
-    <string name="cloud_storage_ok_desc">Armazenamento da MiCloud %s</string>
-    <string name="cloud_storage_ok_title">Espaço suficiente na MiCloud</string>
+    <string name="cloud_storage_ok_desc">Armazenamento da Xiaomi Cloud %s</string>
+    <string name="cloud_storage_ok_title">Espaço suficiente na Xiaomi Cloud</string>
     <string name="cloud_storage_photo_title">Fotos</string>
-    <string name="cloud_storage_subtitle">Todos os itens foram salvos na MiCloud</string>
-    <string name="cloud_storage_title">Armazenamento da MiCloud</string>
+    <string name="cloud_storage_subtitle">Todos os itens foram salvos na Xiaomi Cloud</string>
+    <string name="cloud_storage_title">Armazenamento da Xiaomi Cloud</string>
     <string name="cloud_storage_video_title">Vídeos</string>
     <string name="cloud_storage_warn_desc">Compre o pacote VIP para armazenamento extra</string>
-    <string name="cloud_storage_warn_title">Espaço insuficiente na MiCloud</string>
-    <string name="cloud_sync_card_description">Sincronize suas fotos e vídeos com a MiCloud para acessá-las de vários dispositivos</string>
+    <string name="cloud_storage_warn_title">Espaço insuficiente na Xiaomi Cloud</string>
+    <string name="cloud_sync_card_description">Sincronize suas fotos e vídeos com a Xiaomi Cloud para acessá-las de vários dispositivos</string>
     <string name="cloud_sync_card_title">Ativar sincronização com a nuvem</string>
     <string name="cloud_watch_on_tv">Assistir na TV</string>
     <string name="cloudfolder_cannot_start_with">"O nome do álbum não pode começar com '%s'"</string>
@@ -799,7 +799,7 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="continue_back_up_gp_msg">Para terminar de ativar o backup, abra o Google Fotos.</string>
     <string name="continue_back_up_gp_title">Abrir o Google Fotos</string>
     <string name="continue_feedback">Feedback adicional</string>
-    <string name="continue_migration_msg">Algumas de suas fotos e vídeos foram transferidos para o Google Fotos. Retome a transferência agora para não perder nada importante quando a sincronização com a MiCloud não estiver mais disponível.</string>
+    <string name="continue_migration_msg">Algumas de suas fotos e vídeos foram transferidos para o Google Fotos. Retome a transferência agora para não perder nada importante quando a sincronização com a Xiaomi Cloud não estiver mais disponível.</string>
     <string name="continue_migration_ok">Retomar</string>
     <string name="continue_migration_title">Retomar a transferência</string>
     <string name="copy">Copiar</string>
@@ -840,16 +840,16 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="default_relation_name">Novo grupo</string>
     <string name="define_by_user">Personalizado</string>
     <string name="delete">Excluir</string>
-    <string name="delete_account_message">A Galeria precisa limpar o cache do app porque você saiu da sua Conta Mi.</string>
+    <string name="delete_account_message">A Galeria precisa limpar o cache do app porque você saiu da sua Conta Xiaomi.</string>
     <string name="delete_album_failed">"Não foi possível excluir o álbum"</string>
     <string name="delete_album_msg_format">Excluir álbum \"%2$s\" %1$s %3$s?</string>
-    <string name="delete_album_msg_format_cloud">Excluir %1$s %2$s da MiCloud e de todos os dispositivos sincronizados?</string>
+    <string name="delete_album_msg_format_cloud">Excluir %1$s %2$s da Xiaomi Cloud e de todos os dispositivos sincronizados?</string>
     <string name="delete_album_msg_format_local">Excluir %1$s %2$s?</string>
     <string name="delete_album_success">Álbum excluído</string>
     <string name="delete_all_photos">"Você está prestes a excluir todas as fotos deste dispositivo. Isso pode fazer com que você perca dados importantes. Excluir mesmo assim?"</string>
-    <string name="delete_from_all_devices_and_cloud">de todos os dispositivos e da MiCloud</string>
+    <string name="delete_from_all_devices_and_cloud">de todos os dispositivos e da Xiaomi Cloud</string>
     <string name="delete_from_cloud">Excluir da nuvem também</string>
-    <string name="delete_from_this_album_and_cloud">deste álbum e da MiCloud</string>
+    <string name="delete_from_this_album_and_cloud">deste álbum e da Xiaomi Cloud</string>
     <string name="delete_in_album">Os itens selecionados serão excluídos da nuvem e de todos os dispositivos conectados e armazenados na lixeira da nuvem por %d caso você tenha um plano gratuito. Excluir mesmo assim?</string>
     <string name="delete_in_home_page">Os itens selecionados serão excluídos da nuvem e de todos os dispositivos conectados e armazenados na lixeira da nuvem por %d caso você tenha um plano gratuito. Excluir mesmo assim?</string>
     <string name="delete_in_process">Excluindo…</string>
@@ -931,8 +931,8 @@ Envie este código para o supervisor."</string>
     <string name="download_type_thumbnail_title">Alta qualidade</string>
     <string name="download_type_title">Qualidade do download</string>
     <string name="downloading_dialog_message">Você pode selecionar a qualidade das imagens baixadas ou desativar o download automático nas Configurações.</string>
-    <string name="downloading_title">Baixando fotos da MiCloud</string>
-    <string name="downloading_title_file">Baixando itens da MiCloud…</string>
+    <string name="downloading_title">Baixando fotos da Xiaomi Cloud</string>
+    <string name="downloading_title_file">Baixando itens da Xiaomi Cloud…</string>
     <string name="drag_failed_because_baby_album_cant_sort">"Não é possível ocultar o Álbum do bebê"</string>
     <string name="drag_failed_because_not_custom_sort">Você só pode reordenar os itens quando a ordenação personalizada está selecionada</string>
     <string name="drag_failed_because_screenshots_album_cant_sort">"Não é possível excluir ou ocultar o álbum de capturas de tela"</string>
@@ -951,7 +951,7 @@ Envie este código para o supervisor."</string>
     <string name="editor_export">Salvar</string>
     <string name="editor_talkback_redo">Refazer</string>
     <string name="editor_talkback_undo">Desfazer</string>
-    <string name="editphoto_datetime_needdownload_origin_subtitle">Baixe o arquivo original da MiCloud para poder alterar a hora.</string>
+    <string name="editphoto_datetime_needdownload_origin_subtitle">Baixe o arquivo original da Xiaomi Cloud para poder alterar a hora.</string>
     <string name="editphoto_datetime_needdownload_origin_title">Baixar original</string>
     <string name="email_picker_title">Adicionar e-mail</string>
     <string name="empty_album_cloud_list_title">Nenhum álbum para sincronizar</string>
@@ -970,7 +970,7 @@ Envie este código para o supervisor."</string>
     <string name="empty_title_no_photos">Nenhuma foto ou vídeo</string>
     <string name="enable_auto_upload_tip">Ativar a sincronização com a nuvem para este álbum?</string>
     <string name="enable_auto_upload_title">Ativar sincronização com a nuvem</string>
-    <string name="enable_cloud_for_sharing">Ative os álbuns da MiCloud para ver as fotos compartilhadas.</string>
+    <string name="enable_cloud_for_sharing">Ative os álbuns da Xiaomi Cloud para ver as fotos compartilhadas.</string>
     <string name="enable_face_album_summary">Ordenar fotos automaticamente com base nas pessoas que estão nela</string>
     <string name="enable_face_album_title">Ordenar por pessoas</string>
     <string name="enable_midrop">Ativar</string>
@@ -987,18 +987,18 @@ Envie este código para o supervisor."</string>
     <string name="error_change_storage_action">Alternar armazenamento</string>
     <string name="error_change_storage_msg">Vá em Configurações > Armazenamento, alterne o armazenamento lá, e tente novamente.</string>
     <string name="error_check_network_later">Verifique suas configurações de rede e tente novamente</string>
-    <string name="error_cloud_not_active">Nenhuma foto na MiCloud</string>
+    <string name="error_cloud_not_active">Nenhuma foto na Xiaomi Cloud</string>
     <string name="error_connect_timeout_action">Selecionar rede</string>
     <string name="error_connect_timeout_msg">Conecte-se a uma rede diferente e tente novamente.</string>
     <string name="error_connect_timeout_tip">Tempo limite da conexão atingido.</string>
     <string name="error_create_share_album_fail_default">"Não foi possível criar devido a um erro desconhecido"</string>
     <string name="error_decode_tip">"Formato de arquivo não suportado ou o arquivo está corrompido."</string>
     <string name="error_download_tip">Não foi possível baixar</string>
-    <string name="error_dup_binded_email">Este endereço de e-mail já está associado a outra Conta Mi.</string>
+    <string name="error_dup_binded_email">Este endereço de e-mail já está associado a outra Conta Xiaomi.</string>
     <string name="error_external_sdcard_write_action">Alternar armazenamento</string>
     <string name="error_external_sdcard_write_msg">Vá em Configurações > Armazenamento, alterne o armazenamento lá, e tente novamente.</string>
     <string name="error_external_sdcard_write_tip">"Não é possível salvar itens no cartão SD."</string>
-    <string name="error_forbidden">A sincronização foi desativada devido a problemas com sua Conta Mi.</string>
+    <string name="error_forbidden">A sincronização foi desativada devido a problemas com sua Conta Xiaomi.</string>
     <string name="error_install_connect_fail">"Não foi possível carregar o plugin. Verifique sua conexão de rede."</string>
     <string name="error_install_sdcard_not_available">"Não foi possível carregar o plugin devido a um erro no cartão SD."</string>
     <string name="error_install_storage_not_enough">Libere espaço no seu dispositivo para carregar o plugin.</string>
@@ -1010,8 +1010,8 @@ Envie este código para o supervisor."</string>
     <string name="error_network_restrict_msg">Permita que a Galeria acesse a rede.</string>
     <string name="error_network_restrict_tip">"Não é possível conectar-se à rede."</string>
     <string name="error_no_account_action">Fazer login</string>
-    <string name="error_no_account_msg">Faça o login em sua Conta Mi e tente novamente.</string>
-    <string name="error_no_account_tip">Fazer login na Conta Mi</string>
+    <string name="error_no_account_msg">Faça o login em sua Conta Xiaomi e tente novamente.</string>
+    <string name="error_no_account_tip">Fazer login na Conta Xiaomi</string>
     <string name="error_no_cta_permission_action">Permitir</string>
     <string name="error_no_cta_permission_msg">O acesso à rede é restrito.</string>
     <string name="error_no_cta_permission_tip">Acesso à rede restrito</string>
@@ -1048,7 +1048,7 @@ Envie este código para o supervisor."</string>
     <string name="error_unknown_msg">Ocorreu um erro. Envie-nos o seu feedback.</string>
     <string name="error_unknown_tip">Ocorreu um erro.</string>
     <string name="evening">"PM"</string>
-    <string name="exceed_binded_phone_times_notice">Este número de telefone já está associado a outra Conta Mi.</string>
+    <string name="exceed_binded_phone_times_notice">Este número de telefone já está associado a outra Conta Xiaomi.</string>
     <string name="exif_tag_smart_fusion">Fusão inteligente</string>
     <string name="exif_title_smart_fusion">Melhoria de imagem:</string>
     <string name="exit">Sair</string>
@@ -1290,7 +1290,7 @@ estão disponíveis"</string>
     <string name="filter_sky_yunxu">Cirro</string>
     <string name="filter_texture_shadow">Crepúsculo</string>
     <string name="filter_travel_charlotte">"Charlotte"</string>
-    <string name="finish_create_baby_album_toast">Álbum criado para \"%s\" na MiCloud</string>
+    <string name="finish_create_baby_album_toast">Álbum criado para \"%s\" na Xiaomi Cloud</string>
     <string name="finish_fill_baby">Criar</string>
     <string name="first_delete_media_for_cloud">Os itens selecionados serão removidos da nuvem e de todos os dispositivos sincronizados e movidos para \"Itens excluídos\". Eles serão excluídos permanentemente após %d dias, a não ser que você tenha um plano de armazenamento na nuvem. Excluir mesmo assim?</string>
     <string name="first_time_add_video_to_secret_tips">Atualize a Galeria para poder adicionar vídeos ao álbum privado</string>
@@ -1374,9 +1374,9 @@ estão disponíveis"</string>
     <string name="get_album_info_in_process">"Obtendo detalhes do álbum…"</string>
     <string name="get_phone_verifycode_exceed_limit">Muitos códigos de verificação foram enviados para este número. Aguarde 24 horas e tente novamente.</string>
     <string name="get_user_info_btn_text">Pesquisar</string>
-    <string name="get_user_info_edit_text_hint">Telefone/E-mail/Conta Mi</string>
+    <string name="get_user_info_edit_text_hint">Telefone/E-mail/Conta Xiaomi</string>
     <string name="get_user_info_failed_hint">"Não foi possível encontrar esta pessoa"</string>
-    <string name="get_user_info_top_hint_text">Convidar via Conta Mi</string>
+    <string name="get_user_info_top_hint_text">Convidar via Conta Xiaomi</string>
     <string name="gif_tip">"GIF"</string>
     <string name="gigabyteShort">"GB"</string>
     <string name="global_cloud_action_upgrade_onedrive">Atualizar plano OneDrive</string>
@@ -1600,7 +1600,7 @@ estão disponíveis"</string>
     <string name="loading_video_fail_syncing">Aguarde até os metadados serem baixados e tente novamente</string>
     <string name="loading_video_thumbnail">Baixando a capa do vídeo…</string>
     <string name="local_secret_tip">Você pode manter todos os itens privados neste dispositivo sem sincronizá-los com a nuvem. Você pode alterar suas preferências em Configurações > Sincronizar com a nuvem > Gerenciar álbuns sincronizados.</string>
-    <string name="login_and_enable_service">Fazer login com a Conta Mi</string>
+    <string name="login_and_enable_service">Fazer login com a Conta Xiaomi</string>
     <string name="long_press_to_refocus">Pressione e segure para refocalizar</string>
     <string name="look_baby_info">Ver informações do Álbum do bebê</string>
     <string name="macarons_download_dialog_confirm">"OK"</string>
@@ -1787,7 +1787,7 @@ para personalizar a Galeria"</string>
     <string name="mi_pad_5_pro">Mi Pad 5 Pro</string>
     <string name="mi_pad_5_pro_5g">Mi Pad 5 Pro 5G</string>
     <string name="mi_share_turbo_mode">Transferência turbo</string>
-    <string name="micloud_introduce">Sincronizar fotos e vídeos automaticamente (Conta Mi necessária)</string>
+    <string name="micloud_introduce">Sincronizar fotos e vídeos automaticamente (Conta Xiaomi necessária)</string>
     <string name="midnight">"AM"</string>
     <string name="migrate_gp_bottom_msg_0">Para mover seus itens para o Google Fotos, você precisa adicionar uma Conta do Google e conceder permissão à Xiaomi para:</string>
     <string name="migrate_gp_bottom_msg_1">Depois de mover seus itens para o Google Fotos, todas as suas pastas da Galeria (incluindo itens particulares) serão excluídas.</string>
@@ -1795,7 +1795,7 @@ para personalizar a Galeria"</string>
     <string name="migrate_gp_bottom_msg_li_1">Adicione à sua biblioteca do Google Fotos</string>
     <string name="migrate_gp_btn_migrate">Mover para o Google Fotos</string>
     <string name="migrate_gp_btn_no">Agora não</string>
-    <string name="migrate_gp_msg">"Suas fotos e vídeos não serão mais sincronizados com a MiCloud. Até %1$s, você pode mover seus itens para o Google Fotos ou visitar i.mi.com para baixá-los. Depois disso, os itens que ainda estiverem armazenados na MiCloud serão excluídos permanentemente.
+    <string name="migrate_gp_msg">"Suas fotos e vídeos não serão mais sincronizados com a Xiaomi Cloud. Até %1$s, você pode mover seus itens para o Google Fotos ou visitar i.mi.com para baixá-los. Depois disso, os itens que ainda estiverem armazenados na Xiaomi Cloud serão excluídos permanentemente.
 %2$s"</string>
     <string name="migrate_gp_msg_link">Ver detalhes</string>
     <string name="migrate_gp_title">A sincronização com a nuvem não está mais disponível</string>
@@ -2170,7 +2170,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="passport_account_user_details">Informações pessoais</string>
     <string name="passport_account_user_email">E-mail de recuperação</string>
     <string name="passport_account_user_gender">Gênero</string>
-    <string name="passport_account_user_id">ID da Conta Mi</string>
+    <string name="passport_account_user_id">ID da Conta Xiaomi</string>
     <string name="passport_account_user_name">Apelido</string>
     <string name="passport_account_user_name_dialog_title">Insira o nome</string>
     <string name="passport_account_user_phone">Telefone de recuperação</string>
@@ -2192,7 +2192,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="passport_dialog_doing_login">Entrando…</string>
     <string name="passport_dialog_doing_register">Criando conta…</string>
     <string name="passport_dialog_is_my_account">Sim</string>
-    <string name="passport_dialog_is_your_mi_account">Esta é a sua Conta Mi?</string>
+    <string name="passport_dialog_is_your_mi_account">Esta é a sua Conta Xiaomi?</string>
     <string name="passport_dialog_loading">Aguarde…</string>
     <string name="passport_dialog_nick_name_prefix">Apelido: %s</string>
     <string name="passport_dialog_phone_number_prefix">Número de telefone: %s</string>
@@ -2202,7 +2202,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="passport_doing_query_account">Verificando informações da conta…</string>
     <string name="passport_error_auth_fail">Sessão expirada. Faça login novamente.</string>
     <string name="passport_error_device_id">"Não é possível obter o ID do dispositivo"</string>
-    <string name="passport_error_dup_binded_email">Este endereço de e-mail já está associado a outra Conta Mi.</string>
+    <string name="passport_error_dup_binded_email">Este endereço de e-mail já está associado a outra Conta Xiaomi.</string>
     <string name="passport_error_dynamic_token_error">O código de verificação está incorreto</string>
     <string name="passport_error_email">O endereço de e-mail inserido é inválido</string>
     <string name="passport_error_empty_email">Digite seu endereço de e-mail</string>
@@ -2226,7 +2226,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="passport_error_user_agreement">Aceite o nosso Contrato do Usuário primeiro</string>
     <string name="passport_error_user_name">O usuário inserido está incorreto</string>
     <string name="passport_error_user_password">"As senhas não coincidem"</string>
-    <string name="passport_exceed_binded_phone_times_notice">Este número de telefone já está associado a outra Conta Mi.</string>
+    <string name="passport_exceed_binded_phone_times_notice">Este número de telefone já está associado a outra Conta Xiaomi.</string>
     <string name="passport_facebook_login_btn_content_description">Fazer login com o Facebook</string>
     <string name="passport_frequency_try_later">Muitas tentativas. Aguarde um momento e tente novamente.</string>
     <string name="passport_get_login_type_next">Próximo</string>
@@ -2245,12 +2245,12 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="passport_input_voice_hint">Digite o código de voz</string>
     <string name="passport_login_by_local_phone_long_text">Fazer login agora</string>
     <string name="passport_login_by_local_phone_short_text">Fazer login</string>
-    <string name="passport_login_other">Outra Conta Mi</string>
+    <string name="passport_login_other">Outra Conta Xiaomi</string>
     <string name="passport_login_register_by_local_phone_long_text">Criar conta</string>
     <string name="passport_login_with_sns">Outras maneiras de fazer login</string>
     <string name="passport_logout_account">Sair</string>
     <string name="passport_mi_account_first_title">"Criaremos uma conta automaticamente se você estiver usando seu número de telefone pela primeira vez."</string>
-    <string name="passport_mi_account_title">Fazer login com a Conta Mi</string>
+    <string name="passport_mi_account_title">Fazer login com a Conta Xiaomi</string>
     <string name="passport_network_error">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
     <string name="passport_network_error_hint">Verifique a URL e tente novamente ou copie a URL e abra-a em seu navegador.</string>
     <string name="passport_network_timeout">"Não foi possível conectar-se à rede. Tente novamente."</string>
@@ -2304,18 +2304,18 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="passport_to_verify_code_login">Fazer login por SMS</string>
     <string name="passport_unknown_error">Erro desconhecido</string>
     <string name="passport_unknown_host_network_error">Verifique suas configurações de rede e tente novamente</string>
-    <string name="passport_user_agreement_hint_3rd_app"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> e com o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi."</Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_mobile"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, e com o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, assim como os &lt;a href=%5$s>Termos e condições dos serviços de verificação da China Mobile&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_with_telecom"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, e com o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, assim como os &lt;a href=%5$s>Termos e condições dos serviços de verificação da Conta eSurfing&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_with_unicom"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, e com o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, assim como os &lt;a href=%5$s>Termos e condições dos serviços de verificação da China Unicom&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_default"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi."</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> e com o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Xiaomi."</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_mobile"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, e com o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Xiaomi, assim como os &lt;a href=%5$s>Termos e condições dos serviços de verificação da China Mobile&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_with_telecom"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, e com o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Xiaomi, assim como os &lt;a href=%5$s>Termos e condições dos serviços de verificação da Conta eSurfing&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_with_unicom"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, e com o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Xiaomi, assim como os &lt;a href=%5$s>Termos e condições dos serviços de verificação da China Unicom&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_default"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Xiaomi."</Data></string>
     <string name="passport_user_agreement_hint_first_login">"Criaremos uma conta automaticamente caso esteja usando seu número de telefone pela primeira vez."</string>
-    <string name="passport_user_agreement_hint_with_mobile"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, assim como os &lt;a href=%3$s>Termos e condições dos serviços de verificação da China Mobile&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_with_telecom"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, assim como os &lt;a href=%3$s>Termos e condições dos serviços de verificação da Conta eSurfing&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_with_unicom"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, assim como os &lt;a href=%3$s>Termos e condições dos serviços de verificação da China Unicom&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_with_mobile"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Xiaomi, assim como os &lt;a href=%3$s>Termos e condições dos serviços de verificação da China Mobile&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_with_telecom"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Xiaomi, assim como os &lt;a href=%3$s>Termos e condições dos serviços de verificação da Conta eSurfing&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_with_unicom"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Xiaomi, assim como os &lt;a href=%3$s>Termos e condições dos serviços de verificação da China Unicom&lt;/a>."</Data></string>
     <string name="passport_user_avatar_update_title">Alterar foto do perfil</string>
     <string name="passport_user_avatar_uploading">Aguarde…</string>
-    <string name="passport_user_id_hint">E-mail/número de telefone/ID da Conta Mi</string>
+    <string name="passport_user_id_hint">E-mail/número de telefone/ID da Conta Xiaomi</string>
     <string name="passport_user_id_intro">Digite a senha para %1$s</string>
     <string name="passport_user_name_phone_number">Número de telefone</string>
     <string name="passport_user_password_hint">Senha</string>
@@ -2351,7 +2351,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="permission_location">Localização</string>
     <string name="permission_location_desc">Para exibir fotos e vídeos no mapa</string>
     <string name="permission_optional_category">Permissões opcionais</string>
-    <string name="permission_phone_desc">Para atribuir os dispositivos correspondentes a itens excluídos recentemente na MiCloud</string>
+    <string name="permission_phone_desc">Para atribuir os dispositivos correspondentes a itens excluídos recentemente na Xiaomi Cloud</string>
     <string name="permission_phone_name">Telefone</string>
     <string name="permission_post_notification_desc">Para enviar notificações sobre álbuns compartilhados e atualizar o status de sincronização</string>
     <string name="permission_read_media_images_desc">Para acessar e salvar fotos e vídeos enquanto usa a Galeria</string>
@@ -2573,9 +2573,9 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="print_log">Imprimir log</string>
     <string name="privacy">Política de Privacidade</string>
     <string name="privacy_cloud_confirm">Ative a sincronização</string>
-    <string name="privacy_cloud_confirm_content1">Política de Privacidade da MiCloud</string>
+    <string name="privacy_cloud_confirm_content1">Política de Privacidade da Xiaomi Cloud</string>
     <string name="privacy_cloud_confirm_content2">Contrato do Usuário</string>
-    <string name="privacy_cloud_confirm_detail"><Data>"Depois de ativar a sincronização, fotos e vídeos deste dispositivo serão carregados para a MiCloud e mescladas com itens sincronizados anteriormente (se houver). Leia e aceite o &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> da MiCloud antes de continuar."</Data></string>
+    <string name="privacy_cloud_confirm_detail"><Data>"Depois de ativar a sincronização, fotos e vídeos deste dispositivo serão carregados para a Xiaomi Cloud e mescladas com itens sincronizados anteriormente (se houver). Leia e aceite o &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> da Xiaomi Cloud antes de continuar."</Data></string>
     <string name="privacy_cloud_confirm_detail_negative">Sair</string>
     <string name="privacy_cloud_confirm_detail_positive">Aceitar</string>
     <string name="privacy_cloud_confirm_rejected">Consentimento para a Política de Privacidade da Nuvem Xiaomi foi retirada para esta conta. Tente usar uma conta diferente.</string>
@@ -2615,7 +2615,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="privacy_rejected_map_new">Retirada de consentimento para a Declaração de Compartilhamento de Dados de Terceiros do Mapa da Galeria</string>
     <string name="privacy_rejected_pos_btn">Retirar</string>
     <string name="privacy_share_album_confirm">Termos e Condições</string>
-    <string name="privacy_share_album_confirm_detail">Álbuns compartilhados são alimentados pela MiCloud. Antes de usar este recurso, leia e aceite o nosso &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Contrato do Usuário&lt;/a>&lt;/font> e a nossa &lt;font color=\"#ff32b4ff\">&lt;a href=\"%2$s\" style=\"color:#ff32b4ff;\">Política de Privacidade&lt;/a>&lt;/font>.</string>
+    <string name="privacy_share_album_confirm_detail">Álbuns compartilhados são alimentados pela Xiaomi Cloud. Antes de usar este recurso, leia e aceite o nosso &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Contrato do Usuário&lt;/a>&lt;/font> e a nossa &lt;font color=\"#ff32b4ff\">&lt;a href=\"%2$s\" style=\"color:#ff32b4ff;\">Política de Privacidade&lt;/a>&lt;/font>.</string>
     <string name="privacy_watermark_word_count_full">"Não é possível inserir mais caracteres"</string>
     <string name="private_entry_lock_state_activated_text">Solte para abrir a pasta privada</string>
     <string name="private_entry_lock_state_enterd_text">Puxe para baixo para abrir a pasta privada</string>
@@ -2855,8 +2855,8 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="search_image_result_title">Resultado da pesquisa</string>
     <string name="search_login_now">Fazer login</string>
     <string name="search_login_sub_title">Faça o login para encontrar mais fotos</string>
-    <string name="search_login_title">Conta Mi</string>
-    <string name="search_login_title_full_screen">Faça o login com sua Conta Mi para encontrar mais objetos e pessoas</string>
+    <string name="search_login_title">Conta Xiaomi</string>
+    <string name="search_login_title_full_screen">Faça o login com sua Conta Xiaomi para encontrar mais objetos e pessoas</string>
     <string name="search_mark_feedback_false_negative_title">"OK"</string>
     <string name="search_mark_feedback_false_positive_title">Corrigir</string>
     <string name="search_menu_title">Pesquisar</string>
@@ -2956,7 +2956,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="send_secret_file_space_low">Não há espaço de armazenamento suficiente</string>
     <string name="send_special_video_duration_more_than_40s">Vídeos processados com mais de %d minutos só podem ser compartilhados em seu formato original, que pode não ser compatível com o dispositivo receptor. Continuar?</string>
     <string name="send_too_many_files_error">É possível enviar até %d itens de uma só vez</string>
-    <string name="service_is_provided_by_miui_cloud_service">Este serviço é fornecido pela MiCloud</string>
+    <string name="service_is_provided_by_miui_cloud_service">Este serviço é fornecido pela Xiaomi Cloud</string>
     <string name="set_as_baby_lock_wallpaper">Definir como fundo da Tela de bloqueio</string>
     <string name="set_as_slide_wallpaper_description">Esta imagem é uma miniatura, baixar a original?</string>
     <string name="set_as_slide_wallpaper_title">Definir como fundo da apresentação de slides</string>
@@ -2995,7 +2995,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="share_album_family_invite_default">Compartilhar</string>
     <string name="share_album_family_invite_family_cate_title">Grupo familiar</string>
     <string name="share_album_family_invite_link">URL</string>
-    <string name="share_album_family_invite_miaccount">Conta Mi</string>
+    <string name="share_album_family_invite_miaccount">Conta Xiaomi</string>
     <string name="share_album_family_invite_other_cate_title">Amigos</string>
     <string name="share_album_family_invite_qr">Código QR</string>
     <string name="share_album_family_invite_resend">Convidar de novo</string>
@@ -3237,12 +3237,12 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="sticker_tab_talkback_summer_day">Dia de verão</string>
     <string name="sticker_tab_talkback_words">Texto</string>
     <string name="sticker_words">Palavras</string>
-    <string name="stop_migration_msg">"Você não poderá retomar a transferência se interrompê-la agora. Se você decidir interromper a transferência, pode visitar i.mi.com para baixar os itens ainda armazenados na MiCloud."</string>
+    <string name="stop_migration_msg">"Você não poderá retomar a transferência se interrompê-la agora. Se você decidir interromper a transferência, pode visitar i.mi.com para baixar os itens ainda armazenados na Xiaomi Cloud."</string>
     <string name="stop_migration_ok">Parar</string>
     <string name="stop_migration_title">Parar a transferência agora?</string>
     <string name="stop_use_secret_cancel">Agora não</string>
-    <string name="stop_use_secret_msg">"Suas fotos e vídeos não são mais sincronizados com a MiCloud. Você não poderá usar seu álbum particular, pois ele depende da criptografia na nuvem.
-Até %1$s, você pode mover seus itens para o Google Fotos ou visitar i.mi.com para baixá-los. Depois disso, os itens que ainda estiverem armazenados na MiCloud serão excluídos permanentemente.
+    <string name="stop_use_secret_msg">"Suas fotos e vídeos não são mais sincronizados com a Xiaomi Cloud. Você não poderá usar seu álbum particular, pois ele depende da criptografia na nuvem.
+Até %1$s, você pode mover seus itens para o Google Fotos ou visitar i.mi.com para baixá-los. Depois disso, os itens que ainda estiverem armazenados na Xiaomi Cloud serão excluídos permanentemente.
 %2$s"</string>
     <string name="stop_use_secret_ok">Transferir itens</string>
     <string name="stop_use_secret_title">O álbum privado não está mais disponível</string>
@@ -3301,10 +3301,10 @@ Até %1$s, você pode mover seus itens para o Google Fotos ou visitar i.mi.com p
     <string name="sync_backup_enable_confirm_message">Quando a sincronização com a nuvem estiver ativada, os itens deste dispositivo serão enviados e mesclados com os itens armazenados na nuvem.</string>
     <string name="sync_backup_enable_confirm_title">Mesclar itens sincronizados</string>
     <string name="sync_battery_low">Bateria fraca</string>
-    <string name="sync_cloud_space_full">Espaço na MiCloud insuficiente</string>
+    <string name="sync_cloud_space_full">Espaço na Xiaomi Cloud insuficiente</string>
     <string name="sync_diabled_toast">Sincronização desativada</string>
     <string name="sync_global_metatata_wait_title">Aguardando o início da sincronização…</string>
-    <string name="sync_metatata_wait_title">Aguardando sincronização da MiCloud</string>
+    <string name="sync_metatata_wait_title">Aguardando sincronização da Xiaomi Cloud</string>
     <string name="sync_not_allow_cta_title">"Não é possível acessar a rede"</string>
     <string name="sync_off_global_title">Mantenha suas fotos e vídeos seguros.</string>
     <string name="sync_off_title">Ative a sincronização com a nuvem para fazer o backup de fotos e vídeos automaticamente</string>
@@ -3314,7 +3314,7 @@ Até %1$s, você pode mover seus itens para o Google Fotos ou visitar i.mi.com p
     <string name="synced_title">Backup de fotos e vídeos concluído com sucesso</string>
     <string name="syncing_global_metadata_title">Sincronizando dados com a nuvem…</string>
     <string name="syncing_gprs_title">Usando dados móveis para o backup dos itens</string>
-    <string name="syncing_metadata_title">Sincronizando dados da MiCloud</string>
+    <string name="syncing_metadata_title">Sincronizando dados da Xiaomi Cloud</string>
     <string name="syncing_normal_title">Fazendo backup de fotos e vídeos</string>
     <string name="system_album">Álbum do sistema</string>
     <string name="talkback_album_item_content">%1$s, %2$s itens</string>
@@ -3519,7 +3519,7 @@ Até %1$s, você pode mover seus itens para o Google Fotos ou visitar i.mi.com p
     <string name="tip_leica_master_portrait">Retrato master</string>
     <string name="tip_leica_portrait">Leica retrato</string>
     <string name="tip_leica_vibrant">Leica Vibrante</string>
-    <string name="tip_not_download">O item não está no dispositivo. Ele será baixado da MiCloud durante a reprodução.</string>
+    <string name="tip_not_download">O item não está no dispositivo. Ele será baixado da Xiaomi Cloud durante a reprodução.</string>
     <string name="tip_screenshot_package_info">Nome do app:</string>
     <string name="tips_for_photo_page_selection">Você pode tocar nos itens para visualizá-los</string>
     <string name="tips_prompt_enable_midrop">"Xiaomi Share"</string>
@@ -3580,13 +3580,13 @@ Até %1$s, você pode mover seus itens para o Google Fotos ou visitar i.mi.com p
     <string name="transfer_dialog_btn_open_google_View_backup">Ver backups</string>
     <string name="transfer_dialog_btn_open_google_backup">Ativar</string>
     <string name="transfer_dialog_btn_view_cloud">Ver itens na nuvem</string>
-    <string name="transfer_dialog_consistent_msg">Os serviços de sincronização da MiCloud foram substituídos pelo backup do Google Fotos. Todas as fotos e vídeos armazenados anteriormente na MiCloud foram sincronizados com este dispositivo. Agora você pode ativar o backup do Google Fotos para continuar armazenando itens na nuvem.</string>
-    <string name="transfer_dialog_download_complete_msg">"Os serviços de sincronização da MiCloud foram substituídos pelo backup do Google Fotos. Algumas de suas fotos e vídeos não foram sincronizados com este dispositivo e não serão mais exibidos. No entanto, você já solicitou o download de seus dados em nuvem que incluem esses itens. Você poderá visualizar e gerenciar essas fotos e vídeos no dispositivo para o qual os baixou."</string>
+    <string name="transfer_dialog_consistent_msg">Os serviços de sincronização da Xiaomi Cloud foram substituídos pelo backup do Google Fotos. Todas as fotos e vídeos armazenados anteriormente na Xiaomi Cloud foram sincronizados com este dispositivo. Agora você pode ativar o backup do Google Fotos para continuar armazenando itens na nuvem.</string>
+    <string name="transfer_dialog_download_complete_msg">"Os serviços de sincronização da Xiaomi Cloud foram substituídos pelo backup do Google Fotos. Algumas de suas fotos e vídeos não foram sincronizados com este dispositivo e não serão mais exibidos. No entanto, você já solicitou o download de seus dados em nuvem que incluem esses itens. Você poderá visualizar e gerenciar essas fotos e vídeos no dispositivo para o qual os baixou."</string>
     <string name="transfer_dialog_migrate_complete_msg">"Suas fotos e vídeos foram transferidos para o Google Fotos. Depois disso, os itens que não foram sincronizados com este dispositivo não serão exibidos. Você pode visualizar esses itens entre seus backups agora."</string>
-    <string name="transfer_dialog_migrate_msg">"Os serviços de sincronização da MiCloud foram substituídos pelo backup do Google Fotos. Depois disso, os itens que não foram sincronizados com este dispositivo não serão exibidos. Até %1$s, você pode mover seus itens para o Google Fotos ou visitar i.mi.com para baixá-los. Depois disso, os itens que ainda estiverem armazenados na MiCloud serão excluídos permanentemente."</string>
+    <string name="transfer_dialog_migrate_msg">"Os serviços de sincronização da Xiaomi Cloud foram substituídos pelo backup do Google Fotos. Depois disso, os itens que não foram sincronizados com este dispositivo não serão exibidos. Até %1$s, você pode mover seus itens para o Google Fotos ou visitar i.mi.com para baixá-los. Depois disso, os itens que ainda estiverem armazenados na Xiaomi Cloud serão excluídos permanentemente."</string>
     <string name="transfer_dialog_msg_link">Encerramento dos serviços de sincronização para itens da Galeria e transferência de itens para o Google Fotos</string>
     <string name="transfer_dialog_title">MiCloud substituída pelo backup do Google Fotos</string>
-    <string name="transfer_service_msg">Os serviços de sincronização da MiCloud foram substituídos pelo backup do Google Fotos. Downloads de itens não sincronizados não estão mais disponíveis.</string>
+    <string name="transfer_service_msg">Os serviços de sincronização da Xiaomi Cloud foram substituídos pelo backup do Google Fotos. Downloads de itens não sincronizados não estão mais disponíveis.</string>
     <string name="transfer_status_banner_msg_complete">Itens transferidos com sucesso</string>
     <string name="transfer_status_banner_msg_need_retry">Transferência interrompida. Tente novamente ou visite i.mi.com para baixar itens.</string>
     <string name="transfer_status_banner_msg_no_space">Transferência pausada. Não há armazenamento suficiente na Conta do Google. Atualize o armazenamento para continuar.</string>
@@ -3664,7 +3664,7 @@ Até %1$s, você pode mover seus itens para o Google Fotos ou visitar i.mi.com p
     <string name="update_network_error">Verifique suas configurações de rede e tente novamente</string>
     <string name="update_new_version">Uma atualização está disponível</string>
     <string name="update_title">A versão %s já está disponível</string>
-    <string name="upload_progress_message">"Os serviços de sincronização da MiCloud foram substituídos pelo backup do Google Fotos. Precisamos verificar os itens armazenados neste dispositivo e na nuvem para garantir que você não perca nada importante. Esse processo pode levar vários minutos. Não saia da Galeria até que esteja concluído."</string>
+    <string name="upload_progress_message">"Os serviços de sincronização da Xiaomi Cloud foram substituídos pelo backup do Google Fotos. Precisamos verificar os itens armazenados neste dispositivo e na nuvem para garantir que você não perca nada importante. Esse processo pode levar vários minutos. Não saia da Galeria até que esteja concluído."</string>
     <string name="user_agree">Aceitar</string>
     <string name="user_agreement2">Termos de Serviço</string>
     <string name="user_agreement4">Política de Privacidade</string>
@@ -4055,7 +4055,7 @@ Até %1$s, você pode mover seus itens para o Google Fotos ou visitar i.mi.com p
     <string name="wednesday">Quarta</string>
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>
-    <string name="welcome_to_micloud">Bem-vindo à MiCloud</string>
+    <string name="welcome_to_micloud">Bem-vindo à Xiaomi Cloud</string>
     <string name="where_is_barcode">"Onde está o código QR?"</string>
     <string name="who_is_this">Quem é?</string>
     <string name="widget_custom_store_detail_desc">Adicione o widget e toque nele para selecionar fotos</string>
@@ -4100,7 +4100,7 @@ Até %1$s, você pode mover seus itens para o Google Fotos ou visitar i.mi.com p
     <string name="xiaomi_12">Mi 12</string>
     <string name="xiaomi_12_pro">Mi 12 Pro</string>
     <string name="xiaomi_12x">Mi 12X</string>
-    <string name="xiaomi_account_not_exists_toast">A Conta Mi não existe</string>
+    <string name="xiaomi_account_not_exists_toast">A Conta Xiaomi não existe</string>
     <string name="xiaomi_cc_9">Mi CC9</string>
     <string name="xiaomi_cc_9_custom">Mi CC9 Meitu Edition</string>
     <string name="xiaomi_cc_9_pro">Mi CC9 Pro</string>

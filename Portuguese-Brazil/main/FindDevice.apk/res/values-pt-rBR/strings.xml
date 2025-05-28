@@ -71,7 +71,7 @@
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="default_debt_msg_words">"Este dispositivo está bloqueado devido a uma mensalidade atrasada.
 Entre em contato com seu vendedor para mais detalhes."</string>
-    <string name="default_lock_msg_words">Este dispositivo está associado a uma Conta Mi existente. Por razões de segurança, você precisa inserir a senha desta conta para ativar o dispositivo.</string>
+    <string name="default_lock_msg_words">Este dispositivo está associado a uma Conta Xiaomi existente. Por razões de segurança, você precisa inserir a senha desta conta para ativar o dispositivo.</string>
     <string name="default_lock_msg_words_with_phone">Oi! Eu perdi este dispositivo. Por favor, você poderia entrar em contato? Obrigado!</string>
     <string name="device_locked">Este dispositivo está bloqueado</string>
     <string name="device_lost">Este dispositivo está perdido</string>
@@ -94,8 +94,8 @@ Entre em contato com seu vendedor para mais detalhes."</string>
     <string name="find_device_capture_notification_title">O Encontrar dispositivo está prestes a tirar uma foto</string>
     <string name="find_device_crash">Encontrar dispositivo fechou inesperadamente.</string>
     <string name="find_device_error_access_denied">Acesso negado.</string>
-    <string name="find_device_error_account_sys_timeout">"Não foi possível conectar-se à Conta Mi."</string>
-    <string name="find_device_error_account_unknown_error">Erro na Conta Mi (%s).</string>
+    <string name="find_device_error_account_sys_timeout">"Não foi possível conectar-se à Conta Xiaomi."</string>
+    <string name="find_device_error_account_unknown_error">Erro na Conta Xiaomi (%s).</string>
     <string name="find_device_error_network">Erro de rede.</string>
     <string name="find_device_error_password_changed">A senha da conta foi alterada recentemente.</string>
     <string name="find_device_error_server">Erro no servidor (%s).</string>
@@ -237,7 +237,7 @@ Entre em contato com seu vendedor para mais detalhes."</string>
     <string name="passport_vcode_prompt_long">Digite o código de verificação</string>
     <string name="passport_verify">Verificar</string>
     <string name="password">Digite a senha</string>
-    <string name="phone_locked">Este dispositivo está associado a uma Conta Mi (%s). Digite a senha para ativar o dispositivo.</string>
+    <string name="phone_locked">Este dispositivo está associado a uma Conta Xiaomi (%s). Digite a senha para ativar o dispositivo.</string>
     <string name="phone_locked_account_email">, e-mail associado: %s</string>
     <string name="phone_locked_account_phone">, número de telefone associado: %s</string>
     <string name="pm">"PM"</string>
@@ -344,7 +344,7 @@ Entre em contato com seu vendedor para mais detalhes."</string>
     <string name="unlock_error_device_id">"Não é possível obter o ID do dispositivo"</string>
     <string name="unlock_error_interrupted">Interrompido</string>
     <string name="unlock_error_network">"Não é possível conectar-se à rede"</string>
-    <string name="unlock_error_passport_sdk_timeout">O SDK da Conta Mi não está respondendo</string>
+    <string name="unlock_error_passport_sdk_timeout">O SDK da Conta Xiaomi não está respondendo</string>
     <string name="unlock_error_rpc">Erro de RPC</string>
     <string name="unlock_error_server">Erro no servidor</string>
     <string name="unlock_error_ssl_hand_shake">Não foi possível conectar ao servidor. Tente definir a data e a hora manualmente.</string>
@@ -374,7 +374,7 @@ Acesse i.mi.com/ss e envie sua solicitação para desbloquear o dispositivo."</s
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
     <string name="verifing_account">Verificando senha…</string>
-    <string name="verify_password_failed">"Não foi possível verificar o ID da Conta Mi. %s."</string>
+    <string name="verify_password_failed">"Não foi possível verificar o ID da Conta Xiaomi. %s."</string>
     <string name="wednesday">Quarta</string>
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>

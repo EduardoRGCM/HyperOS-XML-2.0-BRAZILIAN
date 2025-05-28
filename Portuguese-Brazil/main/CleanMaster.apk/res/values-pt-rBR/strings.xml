@@ -343,7 +343,7 @@
     <string name="delete_slected_data">Redefinir</string>
     <string name="desc_image">imagem</string>
     <string name="dialog_cancle">cancelar</string>
-    <string name="dialog_content_checkbox_delete_cloud_image">Excluir também as fotos da MiCloud</string>
+    <string name="dialog_content_checkbox_delete_cloud_image">Excluir também as fotos da Xiaomi Cloud</string>
     <string name="dialog_content_select_all_confirm">Manter uma cópia desta foto?</string>
     <string name="dialog_msg_add_white_list_error">"Não é possível adicionar este arquivo às exceções"</string>
     <string name="dialog_msg_backup_and_uninstall_apps">Fazer backup e desinstalar os apps selecionados?</string>
@@ -1079,7 +1079,7 @@ Compartilharemos mais quando você estiver online novamente."</string>
     <string name="tips_low_storage_dialog_title">Espaço de armazenamento acabando</string>
     <string name="tips_of_app_manage">Exclua apps usados raramente para liberar espaço</string>
     <string name="tips_of_auto_launch_manage">Previne que apps usados raramente iniciem automaticamente</string>
-    <string name="tips_of_cloud_service">Faça o login em sua Conta Mi para usar mais serviços Mi</string>
+    <string name="tips_of_cloud_service">Faça o login em sua Conta Xiaomi para usar mais serviços Mi</string>
     <string name="tips_of_connect">Conectar-se à internet para usar o conjunto completo das funções de Segurança</string>
     <string name="tips_of_garbage_cloud_scan">Encontrar lixo oculto com a verificação na nuvem</string>
     <string name="tips_of_garbage_data_set">Atualizar o banco de dados de Limpeza para encontrar mais lixo em seu dispositivo</string>

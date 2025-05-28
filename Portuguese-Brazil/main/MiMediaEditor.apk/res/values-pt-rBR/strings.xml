@@ -151,7 +151,7 @@ ajustar a área de dispersão"</string>
     <string name="ai_action_toast_function_super_portrait_processing">Processando com o Retrato HD…</string>
     <string name="ai_action_toast_function_watermark_frame_processing">"Aplicando moldura de marca d'água…"</string>
     <string name="ai_action_toast_multiple_function_not_support">"Alguns recursos não estão disponíveis agora"</string>
-    <string name="ai_action_toast_need_login_mi_account">Faça login com a Conta Mi e tente novamente</string>
+    <string name="ai_action_toast_need_login_mi_account">Faça login com a Conta Xiaomi e tente novamente</string>
     <string name="ai_action_toast_not_support_scene">"Este recurso não é suportado aqui. Volte para a página inicial e tente novamente."</string>
     <string name="ai_action_toast_picture_content_illegal">Esta imagem viola os padrões da comunidade. Tente uma diferente.</string>
     <string name="ai_action_toast_picture_size_out_of_limit">"Imagens deste tamanho não são suportadas. Tente uma diferente."</string>
@@ -164,7 +164,7 @@ ajustar a área de dispersão"</string>
     <string name="aicrmanager_download_update_tip">Uma atualização de plugin disponível. Toque para ver.</string>
     <string name="aicrmanager_downloading">Baixando %s</string>
     <string name="aigc_login_confirm">Fazer login</string>
-    <string name="aigc_login_hint_message">Faça login com a Conta Mi para poder usar todos os recursos do Editor IA.</string>
+    <string name="aigc_login_hint_message">Faça login com a Conta Xiaomi para poder usar todos os recursos do Editor IA.</string>
     <string name="aigc_login_hint_title">Fazer login</string>
     <string name="am">"AM"</string>
     <string name="app_name">Editor da Galeria</string>
@@ -524,7 +524,7 @@ ajustar a área de dispersão"</string>
     <string name="copy">Copiar</string>
     <string name="crop_label">Fotos cortadas</string>
     <string name="cta_agreement_declare"><Data>Para entender totalmente os seus direitos como usuário, bem como as formas nas quais usamos seus dados, leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de usar este app.</Data></string>
-    <string name="cta_network_declare">Para sincronizar fotos e vídeos na MiCloud, este app precisa se conectar à internet.</string>
+    <string name="cta_network_declare">Para sincronizar fotos e vídeos na Xiaomi Cloud, este app precisa se conectar à internet.</string>
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
     <string name="default_device_name">Dispositivo desconhecido</string>
@@ -1316,7 +1316,7 @@ ajustar a área de dispersão"</string>
     <string name="permission_location_desc">Para adicionar informações de localização em suas fotos e vídeos</string>
     <string name="permission_location_name">Localização</string>
     <string name="permission_optional_category">Permissões opcionais</string>
-    <string name="permission_phone_desc">Para atribuir os dispositivos correspondentes a itens excluídos recentemente na MiCloud</string>
+    <string name="permission_phone_desc">Para atribuir os dispositivos correspondentes a itens excluídos recentemente na Xiaomi Cloud</string>
     <string name="permission_phone_name">Telefone</string>
     <string name="permission_read_media_aural_desc">Para acessar arquivos de áudio enquanto estiver editando fotos e vídeos</string>
     <string name="permission_read_media_aural_name">Acessar arquivos de áudio armazenados no dispositivo</string>

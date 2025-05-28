@@ -53,7 +53,7 @@
     <string name="cancel_mi_drive_alert_reminder_card_summary">"&lt;xliff:g id=number refersto=1>%1$d&lt;/xliff:g>. Recomendamos fazer backup de seus itens antes de excluí-los. Para fazer isso, visite i.mi.com, clique em Mi Drive e baixe seus itens para um computador.&lt;br />&lt;xliff:g id=number refersto=2>%2$d&lt;/xliff:g>. Observe que os itens apagados de seus itens excluídos recentemente não podem ser recuperados posteriormente."</string>
     <string name="cancel_mi_drive_confirm_button">Cancelar serviços</string>
     <string name="cancel_mi_drive_confirm_description">"Se continuar, você cancelará os serviços do Mi Drive. Deixaremos de coletar suas informações pessoais, e as informações pessoais já coletadas e retidas serão excluídas dentro do período especificado de acordo com as leis e regulamentos aplicáveis, a menos que exigido de outra forma."</string>
-    <string name="cancel_mi_drive_confirm_hint">"Cancelar os serviços do Mi Drive não afetará o uso de outros produtos e serviços da Xiaomi. Se você deseja excluir sua Conta Mi, você pode fazer isso &lt;font color=#0097FF>&lt;a href=%1$s>here&lt;/a>&lt;/font>."</string>
+    <string name="cancel_mi_drive_confirm_hint">"Cancelar os serviços do Mi Drive não afetará o uso de outros produtos e serviços da Xiaomi. Se você deseja excluir sua Conta Xiaomi, você pode fazer isso &lt;font color=#0097FF>&lt;a href=%1$s>here&lt;/a>&lt;/font>."</string>
     <string name="cancel_mi_drive_confirm_reminder_card_summary">&lt;font color=#F22424>Os seguintes itens serão excluídos permanentemente após o cancelamento dos serviços:&lt;/font>&lt;br />&lt;xliff:g id=number refersto=1>%1$d&lt;/xliff:g>. Todos os itens no Mi Drive, incluindo, entre outros, documentos, arquivos privados e itens excluídos.&lt;br />&lt;xliff:g id=number refersto=2>%2$d&lt;/xliff:g>. Permissões do dispositivo, configurações e outros conteúdos em cache.&lt;br />&lt;xliff:g id=number refersto=3>%3$d&lt;/xliff:g>. Histórico de upload e download do Mi Drive.</string>
     <string name="cancel_mi_drive_success">Serviços cancelados com sucesso</string>
     <string name="cancel_mi_drive_title">Cancelar serviços</string>
@@ -277,10 +277,10 @@
     <string name="member_menu_vipname_ultra">"Ultra"</string>
     <string name="micloud_space_applist_detail">Você pode visualizar os backups do layout da Tela inicial no seu dispositivo.</string>
     <string name="micloud_space_duokan_detail">"Abra o Duokan no seu dispositivo e vá em Prateleira > Armazenamento na nuvem para gerenciar o armazenamento na nuvem.
-Verifique se você está usando a Conta Mi atual como sua conta do sistema HyperOS."</string>
+Verifique se você está usando a Conta Xiaomi atual como sua conta do sistema HyperOS."</string>
     <string name="micloud_space_duokan_title">Espaço de armazenamento do Duokan</string>
     <string name="micloud_space_soundrecorder_detail">"Abra o Gravador no seu dispositivo Xiaomi e selecione a pasta com os itens armazenados na nuvem.
-Verifique se você está usando a sua Conta Mi associada como sua conta do sistema."</string>
+Verifique se você está usando a sua Conta Xiaomi associada como sua conta do sistema."</string>
     <string name="micloud_space_soundrecorder_title">Gravações de áudio</string>
     <string name="midnight">"AM"</string>
     <string name="miuix_access_state_desc">Selecionado</string>
@@ -469,10 +469,10 @@ Verifique se você está usando a sua Conta Mi associada como sua conta do siste
     <string name="rename_ext_confirm_dialog_desc">Alterar o tipo do arquivo pode torná-lo inacessível</string>
     <string name="rename_file_select_error">"Não é possível renomear vários itens"</string>
     <string name="rename_success">Renomeado com sucesso</string>
-    <string name="request_permission_account_state">Para fornecer um rápido login para a Conta Mi</string>
+    <string name="request_permission_account_state">Para fornecer um rápido login para a Conta Xiaomi</string>
     <string name="request_permission_confirm">"OK"</string>
-    <string name="request_permission_content">O Mi Drive precisa de permissão para acessar contas, fotos e arquivos em seu dispositivo e enviar notificações. Essas permissões serão usadas para fornecer um rápido login em sua Conta Mi e visualizar, carregar, baixar e sincronizar itens.</string>
-    <string name="request_permission_content_with_phone_state">Para que você possa entrar com a Conta Mi, visualizar, enviar, baixar e sincronizar arquivos e verificar se há atualizações, o Mi Drive requer permissões para acessar suas contas, fotos, arquivos e IMEI.</string>
+    <string name="request_permission_content">O Mi Drive precisa de permissão para acessar contas, fotos e arquivos em seu dispositivo e enviar notificações. Essas permissões serão usadas para fornecer um rápido login em sua Conta Xiaomi e visualizar, carregar, baixar e sincronizar itens.</string>
+    <string name="request_permission_content_with_phone_state">Para que você possa entrar com a Conta Xiaomi, visualizar, enviar, baixar e sincronizar arquivos e verificar se há atualizações, o Mi Drive requer permissões para acessar suas contas, fotos, arquivos e IMEI.</string>
     <string name="request_permission_external_storage">Acessar o armazenamento do dispositivo</string>
     <string name="request_permission_external_storage_desc">Para visualizar, carregar, baixar e sincronizar itens</string>
     <string name="request_permission_manual_authorized">Configurações</string>

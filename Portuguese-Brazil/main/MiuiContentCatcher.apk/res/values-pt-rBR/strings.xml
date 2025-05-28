@@ -69,8 +69,8 @@
     <string name="create_creadential_need_open_sync_title">Ativar o Gerenciador de senhas</string>
     <string name="create_time">Criado</string>
     <string name="credential_desc">Chave de acesso</string>
-    <string name="credential_manage_desc">As chaves de acesso permitem que você faça login em suas contas com mais rapidez e segurança do que os métodos de login convencionais. Esta chave de acesso está associada à sua impressão digital neste dispositivo Xiaomi e é sincronizada entre dispositivos através dos serviços MiCloud.</string>
-    <string name="credential_notification_login_account_desc">Faça login na sua Conta Mi para poder usar uma chave de acesso.</string>
+    <string name="credential_manage_desc">As chaves de acesso permitem que você faça login em suas contas com mais rapidez e segurança do que os métodos de login convencionais. Esta chave de acesso está associada à sua impressão digital neste dispositivo Xiaomi e é sincronizada entre dispositivos através dos serviços Xiaomi Cloud.</string>
+    <string name="credential_notification_login_account_desc">Faça login na sua Conta Xiaomi para poder usar uma chave de acesso.</string>
     <string name="credential_notification_open_sync_desc">Ative o Gerenciador de senhas para poder usar uma chave de acesso.</string>
     <string name="date_picker_lunar">Calendário Tradicional Chinês</string>
     <string name="date_time_picker_dialog_title">Definir data e hora</string>
@@ -141,7 +141,7 @@
     <string name="hide_password_talkback">Ocultar senha</string>
     <string name="invalid_package_signature">A assinatura do app é inválida</string>
     <string name="login_mi_account_alert">Atenção!</string>
-    <string name="login_mi_account_summary">O Gerenciador de senhas sincroniza senhas com sua Conta Mi. Fazer login agora?</string>
+    <string name="login_mi_account_summary">O Gerenciador de senhas sincroniza senhas com sua Conta Xiaomi. Fazer login agora?</string>
     <string name="midnight">"AM"</string>
     <string name="miuix_access_state_desc">Selecionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>

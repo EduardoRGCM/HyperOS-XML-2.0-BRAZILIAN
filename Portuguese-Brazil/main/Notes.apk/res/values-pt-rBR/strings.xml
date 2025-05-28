@@ -46,7 +46,7 @@
     <string name="actionbar_button_up_description">Voltar</string>
     <string name="actionbar_close_description">Fechar</string>
     <string name="actionbar_home_description">Voltar</string>
-    <string name="add_account_desc">Sincronizar suas notas com sua Conta Mi?</string>
+    <string name="add_account_desc">Sincronizar suas notas com sua Conta Xiaomi?</string>
     <string name="add_excerpt_summary">Adicionar à lista de resumo</string>
     <string name="add_pic_excerpt_summary">Adicionar resumo de imagem</string>
     <string name="add_text_excerpt_summary">Adicionar resumo de texto</string>
@@ -318,7 +318,7 @@
     <string name="empty_folder_import_notes">Importar notas</string>
     <string name="empty_folder_no_notes">Nenhuma nota aqui</string>
     <string name="enable_sync">Sincronizar</string>
-    <string name="enable_sync_desc">Sincronizar suas notas com a sua Conta Mi (%1$s)?</string>
+    <string name="enable_sync_desc">Sincronizar suas notas com a sua Conta Xiaomi (%1$s)?</string>
     <string name="enter_content">Insira o conteúdo primeiro</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
@@ -1109,7 +1109,7 @@ Permita que o app Notas leia o status do dispositivo e sua identidade."</string>
 Permita que o app Notas grave áudio."</string>
     <string name="toast_refuse_to_use_storage_in_excerpt">Permita que o Notas acesse o armazenamento para poder adicionar imagens às suas notas</string>
     <string name="toast_show_no_network">Conecte-se à rede e tente novamente.</string>
-    <string name="toast_show_xiaomi_account">Faça login em sua Conta Mi e tente novamente.</string>
+    <string name="toast_show_xiaomi_account">Faça login em sua Conta Xiaomi e tente novamente.</string>
     <string name="today">Hoje</string>
     <string name="todo_alert_title_delete">Excluir tarefas concluídas</string>
     <string name="todo_audio_default_content">"[Tarefa em áudio] "</string>
@@ -1238,8 +1238,8 @@ Permita que o app Notas grave áudio."</string>
     <string name="widget_take_notes_title">Notas</string>
     <string name="word_count_limit">Selecione menos texto e tente novamente</string>
     <string name="xiaomi_account_agree_confirm_ok">Fazer login</string>
-    <string name="xiaomi_account_agree_desc">Faça login com a Conta Mi para poder usar os recursos de IA, incluindo polimento e a criação de resumos.</string>
-    <string name="xiaomi_account_agree_title">Fazer login com a Conta Mi</string>
+    <string name="xiaomi_account_agree_desc">Faça login com a Conta Xiaomi para poder usar os recursos de IA, incluindo polimento e a criação de resumos.</string>
+    <string name="xiaomi_account_agree_title">Fazer login com a Conta Xiaomi</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Agora não</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Atualizar</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Uma atualização está disponível</string>

@@ -49,8 +49,8 @@
     <string name="add_field_toast">Não há mais campos para adicionar.</string>
     <string name="add_google_account_dialog_btn">Usar Conta do Google</string>
     <string name="add_new_account">Adicionar nova conta</string>
-    <string name="add_xiaomi_account_dialog_btn">Usar a Conta Mi</string>
-    <string name="add_xiaomi_account_dialog_msg">Faça backup de seus contatos para a Conta Mi e acesse-os de qualquer lugar!</string>
+    <string name="add_xiaomi_account_dialog_btn">Usar a Conta Xiaomi</string>
+    <string name="add_xiaomi_account_dialog_msg">Faça backup de seus contatos para a Conta Xiaomi e acesse-os de qualquer lugar!</string>
     <string name="add_xiaomi_account_dialog_title">Escolher conta</string>
     <string name="afternoon">"PM"</string>
     <string name="aggregation_suggestion_edit_dialog_message">Passar para a edição do contato com o mesmo nome? As informações inseridas até agora serão copiadas.</string>
@@ -97,7 +97,7 @@
     <string name="bh_cancellation_of_carrier_services_result">"Se continuar, você cancelará os Serviços da operadora Mi. Depois disso, pararemos de coletar e usar suas informações pessoais e excluiremos seu histórico de pedidos permanentemente. Certifique-se de que todas as suas transações sejam concluídas antes de cancelar os serviços."</string>
     <string name="bh_cannot_action">"Não é possível usar %1$s. Instale o app correspondente primeiro."</string>
     <string name="bh_cannot_fetch_num">Número de telefone desconhecido</string>
-    <string name="bh_cannot_login_miacount">"Não foi possível entrar com a Conta Mi"</string>
+    <string name="bh_cannot_login_miacount">"Não foi possível entrar com a Conta Xiaomi"</string>
     <string name="bh_card_order_detail">Informação do pedido</string>
     <string name="bh_card_order_name">Pacote de serviço</string>
     <string name="bh_card_order_pay_price">Quantia paga</string>
@@ -210,7 +210,7 @@
     <string name="bh_save_desc">Salve este número para ser usado na próxima recarga</string>
     <string name="bh_save_sccuss">Salvo com sucesso</string>
     <string name="bh_saved_number">Número salvo: %1$s</string>
-    <string name="bh_should_login_to_buy">Faça login na Conta Mi para poder comprar minutos de chamada e dados móveis</string>
+    <string name="bh_should_login_to_buy">Faça login na Conta Xiaomi para poder comprar minutos de chamada e dados móveis</string>
     <string name="bh_sim">"SIM %1$d"</string>
     <string name="bh_similar_number_hint">Este número é similar ao %1$s. Recarregar este número mesmo assim?</string>
     <string name="bh_stop_carrier_services">Desativar os Serviços de operadora Mi</string>
@@ -402,7 +402,7 @@
     <string name="close_dial_pad_description">Fechar teclado de discagem</string>
     <string name="cloud_antispam_mark">Reportar</string>
     <string name="cloud_antispam_marked">Reportado</string>
-    <string name="cloud_state_disabled">Sincronizar contatos com a MiCloud</string>
+    <string name="cloud_state_disabled">Sincronizar contatos com a Xiaomi Cloud</string>
     <string name="cloud_state_loading">Aguarde…</string>
     <string name="cloud_upgrade_recommend">"Não é possível sincronizar os contatos porque não há espaço suficiente no armazenamento da nuvem. Faça upgrade do plano de armazenamento da nuvem."</string>
     <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
@@ -481,7 +481,7 @@
     <string name="create_group_dialog_title">Criar novo grupo</string>
     <string name="create_qrcode_fail_message">"Não é possível criar o código QR"</string>
     <string name="cta_content_seg1"><Data>"&lt;strong>Informação importante
-Ao tocar em \"Aceitar\" abaixo, você está aceitando o &lt;font color=#33aaff>&lt;a href ='https://static.account.xiaomi.com/html/agreement/account/en.html'>Contrato de Serviço da Conta Mi&lt;/a>&lt;/font>, &lt;font color=#33aaff>&lt;a href ='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'>Contrato do Usuário do Mi Roaming&lt;/a>&lt;/font>, e a &lt;font color=#33aaff>&lt;a href ='http://www.miui.com/res/doc/privacy/en.html'>Política de Privacidade&lt;/a>&lt;/font>. Leia estes documentos cuidadosamente e entenda todos os termos e condições relacionados antes de aceitar.&lt;/strong>"</Data></string>
+Ao tocar em \"Aceitar\" abaixo, você está aceitando o &lt;font color=#33aaff>&lt;a href ='https://static.account.xiaomi.com/html/agreement/account/en.html'>Contrato de Serviço da Conta Xiaomi&lt;/a>&lt;/font>, &lt;font color=#33aaff>&lt;a href ='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'>Contrato do Usuário do Mi Roaming&lt;/a>&lt;/font>, e a &lt;font color=#33aaff>&lt;a href ='http://www.miui.com/res/doc/privacy/en.html'>Política de Privacidade&lt;/a>&lt;/font>. Leia estes documentos cuidadosamente e entenda todos os termos e condições relacionados antes de aceitar.&lt;/strong>"</Data></string>
     <string name="cta_content_seg2">"
 O Mi Roaming precisa se conectar à internet e acessar suas informações de localização para funcionar normalmente. Além disso, Mi Roaming pode coletar, usar e compartilhar suas informações pessoais. Suas informações pessoais serão protegidas de acordo com as leis e regulamentos locais."</string>
     <string name="cta_dialog_cancel">Sair</string>
@@ -579,7 +579,7 @@ O Mi Roaming precisa se conectar à internet e acessar suas informações de loc
     <string name="dialer_title_divider">" ｜ "</string>
     <string name="dialog_delete_contact_button_delete">Excluir</string>
     <string name="dialog_delete_contact_button_keep">Manter</string>
-    <string name="dialog_delete_contact_content">A MiCloud deseja excluir alguns dos seus contatos. Excluir agora?</string>
+    <string name="dialog_delete_contact_content">A Xiaomi Cloud deseja excluir alguns dos seus contatos. Excluir agora?</string>
     <string name="dialog_delete_contact_title">Excluindo contatos</string>
     <string name="dialog_new_contact_account">Criar contato na conta</string>
     <string name="dialog_new_group_account">Criar grupo na conta</string>
@@ -755,7 +755,7 @@ Motivo: \"%s\""</string>
     <string name="import_to_xiaomi_account_confirm">Importar</string>
     <string name="import_to_xiaomi_account_progress_finish">Contatos importados</string>
     <string name="import_to_xiaomi_account_progress_message">Importando…</string>
-    <string name="import_to_xiaomi_account_title">Importar para a Conta Mi</string>
+    <string name="import_to_xiaomi_account_title">Importar para a Conta Xiaomi</string>
     <string name="import_vcard_dialog_message">Importar vCard?</string>
     <string name="importing_sim_contacts_miui">Importando contatos do cartão SIM</string>
     <string name="importing_sim_contacts_miui_prepare">Preparando contatos…</string>
@@ -964,7 +964,7 @@ Toque em \"%1$s\", e então selecione \"%2$s\"."</string>
     <string name="not_applied">"Não foi possível aplicar"</string>
     <string name="not_set">Não definido</string>
     <string name="notification_click_detail">Toque para ver detalhes</string>
-    <string name="notification_micloudsync_delete_contact">A MiCloud deseja excluir alguns dos seus contatos</string>
+    <string name="notification_micloudsync_delete_contact">A Xiaomi Cloud deseja excluir alguns dos seus contatos</string>
     <string name="notification_missedCallTitle">Chamada perdida</string>
     <string name="notification_missedCall_call_back">Retornar chamada</string>
     <string name="notification_missedCall_message">Enviar SMS</string>
@@ -1006,7 +1006,7 @@ Toque em \"%1$s\", e então selecione \"%2$s\"."</string>
     <string name="passport_account_user_details">Informação pessoal</string>
     <string name="passport_account_user_email">E-mail de recuperação</string>
     <string name="passport_account_user_gender">Gênero</string>
-    <string name="passport_account_user_id">ID da Conta Mi</string>
+    <string name="passport_account_user_id">ID da Conta Xiaomi</string>
     <string name="passport_account_user_name">Apelido</string>
     <string name="passport_account_user_name_dialog_title">Insira o nome</string>
     <string name="passport_account_user_phone">Telefone de recuperação</string>
@@ -1028,7 +1028,7 @@ Toque em \"%1$s\", e então selecione \"%2$s\"."</string>
     <string name="passport_dialog_doing_login">Entrando…</string>
     <string name="passport_dialog_doing_register">Criando conta…</string>
     <string name="passport_dialog_is_my_account">Sim</string>
-    <string name="passport_dialog_is_your_mi_account">Esta é a sua Conta Mi?</string>
+    <string name="passport_dialog_is_your_mi_account">Esta é a sua Conta Xiaomi?</string>
     <string name="passport_dialog_loading">Aguarde…</string>
     <string name="passport_dialog_nick_name_prefix">Apelido: %s</string>
     <string name="passport_dialog_phone_number_prefix">Número de telefone: %s</string>
@@ -1036,7 +1036,7 @@ Toque em \"%1$s\", e então selecione \"%2$s\"."</string>
     <string name="passport_doing_query_account">Verificando informações da conta…</string>
     <string name="passport_error_auth_fail">Sessão expirada, faça o login novamente mais tarde</string>
     <string name="passport_error_device_id">Não é possível obter o ID do dispositivo</string>
-    <string name="passport_error_dup_binded_email">Este endereço de e-mail já está associado a outra Conta Mi.</string>
+    <string name="passport_error_dup_binded_email">Este endereço de e-mail já está associado a outra Conta Xiaomi.</string>
     <string name="passport_error_empty_password">Digite sua senha</string>
     <string name="passport_error_empty_phone_num">Digite o número do telefone</string>
     <string name="passport_error_empty_user_id">Digite seu nome de usuário</string>
@@ -1056,7 +1056,7 @@ Toque em \"%1$s\", e então selecione \"%2$s\"."</string>
     <string name="passport_error_unknown">Não é possível fazer o login</string>
     <string name="passport_error_user_name">O usuário inserido está incorreto.</string>
     <string name="passport_error_user_password">"As senhas não correspondem"</string>
-    <string name="passport_exceed_binded_phone_times_notice">Este número de telefone já está associado a outra Conta Mi.</string>
+    <string name="passport_exceed_binded_phone_times_notice">Este número de telefone já está associado a outra Conta Xiaomi.</string>
     <string name="passport_facebook_login_btn_content_description">Entrar com o Facebook</string>
     <string name="passport_frequency_try_later">Muitas tentativas. Aguarde um momento e tente novamente.</string>
     <string name="passport_get_login_type_next">Próximo</string>
@@ -1074,12 +1074,12 @@ Toque em \"%1$s\", e então selecione \"%2$s\"."</string>
     <string name="passport_input_voice_hint">Inserir código de voz</string>
     <string name="passport_login_by_local_phone_long_text">Fazer login agora</string>
     <string name="passport_login_by_local_phone_short_text">Fazer login</string>
-    <string name="passport_login_other">Outra Conta Mi</string>
+    <string name="passport_login_other">Outra Conta Xiaomi</string>
     <string name="passport_login_register_by_local_phone_long_text">Criar uma conta</string>
     <string name="passport_login_with_sns">Outras maneiras de fazer login</string>
     <string name="passport_logout_account">Sair</string>
     <string name="passport_mi_account_first_title">"Criaremos uma conta automaticamente caso esteja usando seu número de telefone pela primeira vez."</string>
-    <string name="passport_mi_account_title">Entrar com a Conta Mi</string>
+    <string name="passport_mi_account_title">Entrar com a Conta Xiaomi</string>
     <string name="passport_network_error">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
     <string name="passport_network_error_hint">Verifique a URL e tente novamente ou copie a URL e abra-a em seu navegador.</string>
     <string name="passport_network_timeout">"Não foi possível conectar-se à rede. Tente novamente."</string>
@@ -1131,18 +1131,18 @@ Toque em \"%1$s\", e então selecione \"%2$s\"."</string>
     <string name="passport_to_verify_code_login">Fazer login por SMS</string>
     <string name="passport_unknown_error">Erro desconhecido</string>
     <string name="passport_unknown_host_network_error">Verifique suas configurações de rede e tente novamente</string>
-    <string name="passport_user_agreement_hint_3rd_app"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> e com o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi."</Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_mobile"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, e com o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, assim como os &lt;a href=%5$s>Termos e condições dos serviços de verificação da China Mobile&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_with_telecom"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, e com o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, assim como os &lt;a href=%5$s>Termos e condições dos serviços de verificação da Conta eSurfing&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_with_unicom"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, e com o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Mi, assim como os &lt;a href=%5$s>Termos e condições dos serviços de verificação da China Unicom&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_default"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi."</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> e com o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Xiaomi."</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_mobile"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, e com o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Xiaomi, assim como os &lt;a href=%5$s>Termos e condições dos serviços de verificação da China Mobile&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_with_telecom"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, e com o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Xiaomi, assim como os &lt;a href=%5$s>Termos e condições dos serviços de verificação da Conta eSurfing&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_with_unicom"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a>, e com o &lt;a href=%3$s>Contrato do Usuário&lt;/a> e a &lt;a href=%4$s>Política de Privacidade&lt;/a> da Conta Xiaomi, assim como os &lt;a href=%5$s>Termos e condições dos serviços de verificação da China Unicom&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_default"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Xiaomi."</Data></string>
     <string name="passport_user_agreement_hint_first_login">"Criaremos uma conta automaticamente caso esteja usando seu número de telefone pela primeira vez."</string>
-    <string name="passport_user_agreement_hint_with_mobile"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, assim como os &lt;a href=%3$s>Termos e condições dos serviços de verificação da China Mobile&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_with_telecom"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, assim como os &lt;a href=%3$s>Termos e condições dos serviços de verificação da Conta eSurfing&lt;/a>."</Data></string>
-    <string name="passport_user_agreement_hint_with_unicom"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Mi, assim como os &lt;a href=%3$s>Termos e condições dos serviços de verificação da China Unicom&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_with_mobile"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Xiaomi, assim como os &lt;a href=%3$s>Termos e condições dos serviços de verificação da China Mobile&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_with_telecom"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Xiaomi, assim como os &lt;a href=%3$s>Termos e condições dos serviços de verificação da Conta eSurfing&lt;/a>."</Data></string>
+    <string name="passport_user_agreement_hint_with_unicom"><Data>"Li e aceito o &lt;a href=%1$s>Contrato do Usuário&lt;/a> e a &lt;a href=%2$s>Política de Privacidade&lt;/a> da Conta Xiaomi, assim como os &lt;a href=%3$s>Termos e condições dos serviços de verificação da China Unicom&lt;/a>."</Data></string>
     <string name="passport_user_avatar_update_title">Alterar foto do perfil</string>
     <string name="passport_user_avatar_uploading">Aguarde…</string>
-    <string name="passport_user_id_hint">E-mail/número de telefone/ID da Conta Mi</string>
+    <string name="passport_user_id_hint">E-mail/número de telefone/ID da Conta Xiaomi</string>
     <string name="passport_user_name_phone_number">Número de telefone</string>
     <string name="passport_user_password_hint">Senha</string>
     <string name="passport_vcode_what_app_send_prompt">Seu código de verificação do WhatsApp será enviado para seu telefone de recuperação &lt;font color=#1F93FF>%s&lt;/font></string>
@@ -1211,9 +1211,9 @@ Toque em \"%1$s\", e então selecione \"%2$s\"."</string>
     <string name="pref_key_sim_manage">Cartões SIM</string>
     <string name="pref_key_sim_manage1">Configurar o cartão SIM 1</string>
     <string name="pref_key_sim_manage2">Configurar o cartão SIM 2</string>
-    <string name="pref_summary_import_from_account">Transferir os contatos do Google e Exchange para minha Conta Mi</string>
+    <string name="pref_summary_import_from_account">Transferir os contatos do Google e Exchange para minha Conta Xiaomi</string>
     <string name="pref_title_account_import">Importar contatos</string>
-    <string name="pref_title_import_from_account">Importar para a Conta Mi</string>
+    <string name="pref_title_import_from_account">Importar para a Conta Xiaomi</string>
     <string name="preference_contacts">Contatos</string>
     <string name="preference_contacts_filter">Listas a serem exibidas</string>
     <string name="preference_contacts_more">Organizar contatos</string>

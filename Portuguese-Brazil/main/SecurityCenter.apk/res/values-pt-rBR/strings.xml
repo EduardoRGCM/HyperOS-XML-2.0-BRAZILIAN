@@ -167,7 +167,7 @@
     <string name="adb_install_open_error">Não foi possível permitir, verifique sua conexão de rede</string>
     <string name="adb_install_reject_notiy">A instalação via USB foi negada para %s</string>
     <string name="adb_install_reject_notiy_desc">Você pode permitir a instalação via USB nas Opções do desenvolvedor</string>
-    <string name="adb_login_xiaomi_account">Faça o login em sua Conta Mi primeiro</string>
+    <string name="adb_login_xiaomi_account">Faça o login em sua Conta Xiaomi primeiro</string>
     <string name="add_auto_task_desktop_icon">Adicionar atalho para a Tela inicial</string>
     <string name="add_bill_reminder_alarm">Defina um aviso de saldo do telefone</string>
     <string name="add_done">Adicionado com sucesso</string>
@@ -730,15 +730,15 @@ Você não perderá nenhum dado de apps."</string>
     <string name="applock_add_account">Adicionar</string>
     <string name="applock_add_account_ignore">Agora não</string>
     <string name="applock_add_account_ignore_with_seconds">Agora não (%d s)</string>
-    <string name="applock_add_account_info">Adicione sua Conta Mi para redefinir a sua senha caso a esqueça.</string>
+    <string name="applock_add_account_info">Adicione sua Conta Xiaomi para redefinir a sua senha caso a esqueça.</string>
     <string name="applock_add_account_setting">Conta e privacidade</string>
-    <string name="applock_add_account_tips">Com a Conta Mi, você poderá restaurar seu Bloqueio de apps caso o esqueça.</string>
-    <string name="applock_add_account_title">Adicione sua Conta Mi</string>
-    <string name="applock_add_account_title_part">Adicione sua Conta Mi para poder redefinir a senha</string>
+    <string name="applock_add_account_tips">Com a Conta Xiaomi, você poderá restaurar seu Bloqueio de apps caso o esqueça.</string>
+    <string name="applock_add_account_title">Adicione sua Conta Xiaomi</string>
+    <string name="applock_add_account_title_part">Adicione sua Conta Xiaomi para poder redefinir a senha</string>
     <string name="applock_already_add_account">Conta atual: %s</string>
     <string name="applock_app_recommend_lock_title">Você pode bloquear os seguintes apps</string>
-    <string name="applock_bind_account_dialog_content">Sua Conta Mi é a única forma de restaurar seu Bloqueio de apps caso o esqueça. Faça o login para adicionar a sua Conta Mi.</string>
-    <string name="applock_bind_account_dialog_title">Adicione sua Conta Mi</string>
+    <string name="applock_bind_account_dialog_content">Sua Conta Xiaomi é a única forma de restaurar seu Bloqueio de apps caso o esqueça. Faça o login para adicionar a sua Conta Xiaomi.</string>
+    <string name="applock_bind_account_dialog_title">Adicione sua Conta Xiaomi</string>
     <string name="applock_bind_account_title">Esqueci a senha</string>
     <string name="applock_biometric_recognition">Biometria</string>
     <string name="applock_close_dialog_summary">Sua senha de Bloqueio de apps será excluída. Desativar o Bloqueio de apps?</string>
@@ -762,7 +762,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="applock_guide_tip1_without_face">Várias opções de tipo de senha estão disponíveis. Desbloqueie apps com sua impressão digital ou insira a senha.</string>
     <string name="applock_guide_tip1_without_finger">Várias opções de tipo de senha estão disponíveis. Desbloqueie apps com seu rosto ou insira a senha.</string>
     <string name="applock_guide_tip1_without_finger_face">Várias opções de tipo de senha estão disponíveis.</string>
-    <string name="applock_guide_tip2">Adicione sua Conta Mi para poder redefinir sua senha.</string>
+    <string name="applock_guide_tip2">Adicione sua Conta Xiaomi para poder redefinir sua senha.</string>
     <string name="applock_guide_tip3">Ocultar o conteúdo das notificações.</string>
     <string name="applock_guide_tip3_global">Ocultar o conteúdo das notificações.</string>
     <string name="applock_guide_title">Proteja sua privacidade com o Bloqueio de apps</string>
@@ -775,7 +775,7 @@ Você não perderá nenhum dado de apps."</string>
     <string name="applock_login_and_add_account">Fazer login e adicionar</string>
     <string name="applock_mixtype_hidepwd_icon">Ocultar</string>
     <string name="applock_mixtype_showpwd_icon">Mostrar</string>
-    <string name="applock_no_account_login">Você não está conectado à sua Conta Mi</string>
+    <string name="applock_no_account_login">Você não está conectado à sua Conta Xiaomi</string>
     <string name="applock_not_add_account"><u>Agora não</u></string>
     <string name="applock_not_add_account_normal">Não adicionar conta</string>
     <string name="applock_not_login_account">Você não fez o login</string>
@@ -1137,10 +1137,10 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="bill_traffic_reminder_instruction_text">Os métodos de cobrança e os padrões de cálculo de dados de diferentes operadoras podem variar. Atrasos no faturamento também podem ocorrer. As estatísticas de uso fornecidas aqui são apenas para sua referência.</string>
     <string name="bind_xiaomi_account_cancel">Cancelar</string>
     <string name="bind_xiaomi_account_confirm">Adicionar</string>
-    <string name="bind_xiaomi_account_dialog_summery">Você está prestes a adicionar a Conta Mi %s. Caso você esqueça sua senha, você poderá usar esta conta para redefini-la. A conta será removida automaticamente caso você saia dela.</string>
-    <string name="bind_xiaomi_account_success">Conta Mi adicionada com sucesso</string>
-    <string name="bind_xiaomi_account_summary">Use sua Conta Mi para redefinir sua senha</string>
-    <string name="bind_xiaomi_account_title">Adicionar Conta Mi</string>
+    <string name="bind_xiaomi_account_dialog_summery">Você está prestes a adicionar a Conta Xiaomi %s. Caso você esqueça sua senha, você poderá usar esta conta para redefini-la. A conta será removida automaticamente caso você saia dela.</string>
+    <string name="bind_xiaomi_account_success">Conta Xiaomi adicionada com sucesso</string>
+    <string name="bind_xiaomi_account_summary">Use sua Conta Xiaomi para redefinir sua senha</string>
+    <string name="bind_xiaomi_account_title">Adicionar Conta Xiaomi</string>
     <string name="birthday">Aniversário</string>
     <string name="bl_no_blacklist">Nenhum número bloqueado.</string>
     <string name="bl_no_block_call">Nenhuma chamada bloqueada.</string>
@@ -1346,7 +1346,7 @@ No entanto, algumas de suas transações ainda não foram concluídas. Para pode
     <string name="confirmSecondSpacePassword">Confirmar senha do Segundo espaço</string>
     <string name="confirm_ai_allow_all_permission">Alterar o status da permissão para \"Exibir notificação\" para todos os apps?</string>
     <string name="confirm_allow_all_permission">Permitir que todos os apps usem este recurso?</string>
-    <string name="confirm_bind_xiaomi_account_dialog_title">Adicionando Conta Mi</string>
+    <string name="confirm_bind_xiaomi_account_dialog_title">Adicionando Conta Xiaomi</string>
     <string name="confirm_close">Desativar</string>
     <string name="confirm_fingerprint_msg">Verifique sua impressão digital</string>
     <string name="confirm_leave">Não, obrigado</string>
@@ -2710,7 +2710,7 @@ mas também aumenta o consumo de energia e pode causar superaquecimento"</string
     <string name="gb_voice_changer_recommend">Recomendado</string>
     <string name="gb_voice_changer_renew_dailog">Renove a sua assinatura para poder usar este efeito.</string>
     <string name="gb_voice_changer_robot">Robô</string>
-    <string name="gb_voice_changer_setting_account_title">Conta Mi</string>
+    <string name="gb_voice_changer_setting_account_title">Conta Xiaomi</string>
     <string name="gb_voice_changer_setting_become_vip">Assinar</string>
     <string name="gb_voice_changer_setting_gender_subtitle">Ajusta os efeitos e recomendações para o gênero selecionado</string>
     <string name="gb_voice_changer_setting_gender_title">Gênero</string>
@@ -2728,7 +2728,7 @@ Alternar entre diferentes personagens e efeitos especiais."</string>
     <string name="gb_voice_changer_user_status_expired">Assinatura expirada</string>
     <string name="gb_voice_changer_user_status_get_trial_card_dialog">"Ganhe um teste grátis de %d dias
 e explore nosso Modificador de voz!"</string>
-    <string name="gb_voice_changer_user_status_no_login">Fazer login na Conta Mi</string>
+    <string name="gb_voice_changer_user_status_no_login">Fazer login na Conta Xiaomi</string>
     <string name="gb_voice_changer_user_status_remain_time">Vencimento: %s</string>
     <string name="gb_voice_changer_user_status_renew">Renovar</string>
     <string name="gb_voice_changer_user_tips_info_vip_expire">Sua assinatura expirou. Renove a assinatura agora para obter benefícios!</string>
@@ -2882,11 +2882,11 @@ Pressione e segure o indicador para mover a janela."</string>
     <string name="gtb_dialog_btn_close">Desativar</string>
     <string name="gtb_dialog_btn_open">Ativar</string>
     <string name="gtb_dialog_hint_smart_5g">Você pode ativar ou desativar este recurso em Game Turbo > Configurações.</string>
-    <string name="gtb_dialog_privacy_speed_message">"Você está prestes a usar o Game Turbo Xunyou. Este serviço coletará seu ID da Conta Mi para registrar a duração da sua associação."</string>
+    <string name="gtb_dialog_privacy_speed_message">"Você está prestes a usar o Game Turbo Xunyou. Este serviço coletará seu ID da Conta Xiaomi para registrar a duração da sua associação."</string>
     <string name="gtb_dialog_privacy_speed_tips"><Data>"Li e aceito a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do Xunyou Game Turbo."</Data></string>
     <string name="gtb_dialog_privacy_speed_tips_new"><Data>"Li e aceito a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do Xunyou Game Turbo."</Data></string>
     <string name="gtb_dialog_privacy_speed_title">Xunyou Game Turbo</string>
-    <string name="gtb_dialog_privacy_voice_message">"Você está prestes a usar o Modificador de voz Xunyou Game. Este serviço coletará seu ID da Conta Mi para registrar a duração da sua associação."</string>
+    <string name="gtb_dialog_privacy_voice_message">"Você está prestes a usar o Modificador de voz Xunyou Game. Este serviço coletará seu ID da Conta Xiaomi para registrar a duração da sua associação."</string>
     <string name="gtb_dialog_privacy_voice_tips"><Data>"Li e aceito a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do Modificador de voz Xunyou Game."</Data></string>
     <string name="gtb_dialog_privacy_voice_title">Modificador de voz Xunyou Game</string>
     <string name="gtb_dialog_summary_smart_5g">Sempre que o Game Turbo detectar uma rede 5G, ele pode conectar seu dispositivo à melhor rede disponível para reduzir o atraso da rede. Ativar este recurso agora?</string>
@@ -3800,9 +3800,9 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="password_forget_pattern_reset">Redefinir</string>
     <string name="password_forget_pattern_title">Atenção!</string>
     <string name="password_or_finger_unlock">Desbloquear via senha ou impressão digital</string>
-    <string name="password_promotion_not_login_xiaomi_account_message">Adicione sua Conta Mi para redefinir sua senha caso a esqueça.</string>
+    <string name="password_promotion_not_login_xiaomi_account_message">Adicione sua Conta Xiaomi para redefinir sua senha caso a esqueça.</string>
     <string name="password_promotion_postbutton_text">Adicionar</string>
-    <string name="password_promotion_title">Adicionar Conta Mi</string>
+    <string name="password_promotion_title">Adicionar Conta Xiaomi</string>
     <string name="password_switch">Usar senha</string>
     <string name="password_toggle_content_description">Mostrar senha</string>
     <string name="password_type">Alterar senha</string>
@@ -4770,7 +4770,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="privacy_pop_record">Gravou áudio hoje</string>
     <string name="privacy_pop_storage">Acessou o armazenamento hoje</string>
     <string name="privacy_prompt_tc_sms_report_message">Seu número de telefone e detalhes da operadora serão encriptados e enviados para os servidores da Mi para atualizar suas informações de uso de dados.</string>
-    <string name="privacy_prompt_traffic_adjust_message">"Após iniciar a calibração, o HyperOS irá conectar-se à rede e codificar a suas informação de operadora, número de telefone, IMEI, Conta Mi, e enviar estes itens para servidores Mi. Isto é feito para adquirir os modelos de calibração da operadora e aprender se possível a comprar dados na sua localização.
+    <string name="privacy_prompt_traffic_adjust_message">"Após iniciar a calibração, o HyperOS irá conectar-se à rede e codificar a suas informação de operadora, número de telefone, IMEI, Conta Xiaomi, e enviar estes itens para servidores Mi. Isto é feito para adquirir os modelos de calibração da operadora e aprender se possível a comprar dados na sua localização.
 
 Enquanto calibra, o HyperOS irá enviar uma mensagem de texto para receber os modelos de calibração."</string>
     <string name="privacy_prompt_upload">Enviar</string>
@@ -4977,7 +4977,7 @@ Retirar o consentimento agora?"</string>
     <string name="report_warning_title">Atenção!</string>
     <string name="required_permissions">"Permissões obrigatórias "</string>
     <string name="required_permissions_desc">Estas permissões são exigidas para que os serviços e recursos básicos do app fiquem disponíveis.</string>
-    <string name="reset_data_dialog_message">Este dispositivo não está associado com a sua Conta Mi. Não é possível restaurar ou redefinir a senha. Faça o backup de todos os itens importantes e restaure os dados de fábrica. Todos os dados serão excluídos permanentemente e o seu cartão SD será formatado durante a redefinição.</string>
+    <string name="reset_data_dialog_message">Este dispositivo não está associado com a sua Conta Xiaomi. Não é possível restaurar ou redefinir a senha. Faça o backup de todos os itens importantes e restaure os dados de fábrica. Todos os dados serão excluídos permanentemente e o seu cartão SD será formatado durante a redefinição.</string>
     <string name="reset_data_dialog_ok">Redefinir dados</string>
     <string name="reset_data_title">Não é possível restaurar a senha</string>
     <string name="restore_device_id_content">As recomendações personalizadas serão redefinidas</string>
@@ -5123,7 +5123,7 @@ Retirar o consentimento agora?"</string>
     <string name="set_now">Configurações</string>
     <string name="set_numeric_password_name">Configurar PIN</string>
     <string name="set_package_tips">Enviaremos um SMS gratuito para sua operadora para verificar seu plano de dados. As informações que você fornecer serão criptografadas e enviadas aos nossos servidores para a composição desta mensagem.</string>
-    <string name="set_package_tips_detail">As informações enviadas aos servidores da Xiaomi incluirão os detalhes da sua operadora, bem como o seu número de telefone, IMEI e Conta Mi.</string>
+    <string name="set_package_tips_detail">As informações enviadas aos servidores da Xiaomi incluirão os detalhes da sua operadora, bem como o seu número de telefone, IMEI e Conta Xiaomi.</string>
     <string name="set_pattern_password_name">Configurar padrão</string>
     <string name="set_traffic_tips">Defina seu plano de dados para gerenciar o uso de dados móveis e evitar cobranças adicionais da operadora</string>
     <string name="setting">Configurações</string>
@@ -5928,7 +5928,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="title_block_calls_from_strangers">Perder chamadas importantes</string>
     <string name="title_chain_start">Restringir início sequencial</string>
     <string name="title_cleaner_cloudscan">Verificação de lixo na nuvem</string>
-    <string name="title_cloud_account">Conta Mi</string>
+    <string name="title_cloud_account">Conta Xiaomi</string>
     <string name="title_cloud_service">"MiCloud"</string>
     <string name="title_cloud_space_almost_full">O armazenamento na nuvem está quase cheio, alguns itens poderão não sincronizar</string>
     <string name="title_cloud_space_full">A nuvem está cheia</string>
@@ -7009,8 +7009,8 @@ Este recurso não funcionará quando a Economia de bateria ou a Ultra economia d
     <string name="sim_lock_setting_keyguard_enable_title">Verifique o PIN logo após a tela ser ligada</string>
     <string name="sim_lock_setting_title">Segurança do SIM</string>
     <string name="sim_lock_start_account_dialog_enable">Fazer login</string>
-    <string name="sim_lock_start_account_dialog_message">Seu cartão SIM será associado a este dispositivo via MiCloud. Fazer login para continuar?</string>
-    <string name="sim_lock_start_account_dialog_title">Faça login na MiCloud</string>
+    <string name="sim_lock_start_account_dialog_message">Seu cartão SIM será associado a este dispositivo via Xiaomi Cloud. Fazer login para continuar?</string>
+    <string name="sim_lock_start_account_dialog_title">Faça login na Xiaomi Cloud</string>
     <string name="sim_lock_start_bind_device_summary">Verifique o PIN automaticamente ao usar neste dispositivo</string>
     <string name="sim_lock_start_bind_device_superscript">Recomendado</string>
     <string name="sim_lock_start_bind_device_title">Bloqueie o USIM e associe-o a este dispositivo</string>

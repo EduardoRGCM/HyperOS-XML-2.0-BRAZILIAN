@@ -127,7 +127,6 @@
     <string name="accessibility_control_not_favorite">Removido dos favoritos</string>
     <string name="accessibility_control_zoom_in">Aumentar zoom</string>
     <string name="accessibility_control_zoom_out">Reduzir zoom</string>
-    <string name="accessibility_data_connection_wifi">"Wi-Fi"</string>
     <string name="accessibility_data_one_bar">Dados uma barra.</string>
     <string name="accessibility_data_saver_off">Economia de dados desativada</string>
     <string name="accessibility_data_saver_on">Economia de dados ativada</string>
@@ -196,17 +195,13 @@
     <string name="accessibility_ime_switch_button">Alterar método de entrada.</string>
     <string name="accessibility_key">Botão de navegação personalizado</string>
     <string name="accessibility_keyboard_delete_button">Excluir</string>
-    <string name="accessibility_keyboard_letter_board_caps_lock_button">"Caps Lock"</string>
     <string name="accessibility_keyboard_letter_board_shift2number_button">Números</string>
     <string name="accessibility_keyboard_letter_board_shift2symbol_button">Símbolos</string>
-    <string name="accessibility_keyboard_ok_button">"Enter"</string>
     <string name="accessibility_keyboard_symbol_board_shift2letter_button">Letras</string>
     <string name="accessibility_keyboard_symbol_board_symbol_lock_button">"Bloqueio de símbolos"</string>
     <string name="accessibility_keyguard_face_unlock_view">Desbloqueio facial</string>
     <string name="accessibility_left_control_center_button">Atalho</string>
     <string name="accessibility_left_lock_screen_magazine_button">Carrossel de planos de fundo</string>
-    <string name="accessibility_left_uwb_button">"Xiaomi Magic Control"</string>
-    <string name="accessibility_left_xmyzl_button">"Xiaomi Magic Control"</string>
     <string name="accessibility_location_active">Solicitação de localização ativada</string>
     <string name="accessibility_lock_icon">Dispositivo bloqueado</string>
     <string name="accessibility_long_click_tile">Abrir configurações</string>
@@ -223,7 +218,6 @@
     <string name="accessibility_managed_profile">Perfil de trabalho</string>
     <string name="accessibility_manual_zen_less_time">Menos tempo.</string>
     <string name="accessibility_manual_zen_more_time">Mais tempo.</string>
-    <string name="accessibility_menu">"Menu"</string>
     <string name="accessibility_menu_item_split_disable">O app não suporta Tela dividida.</string>
     <string name="accessibility_menu_item_split_enable">O app suporta Tela dividida</string>
     <string name="accessibility_multi_user_list_switcher">menu suspenso</string>
@@ -279,7 +273,6 @@
     <string name="accessibility_quick_settings_alarm_on">Alarme definido.</string>
     <string name="accessibility_quick_settings_alarm_set">Alarme definido.</string>
     <string name="accessibility_quick_settings_battery">Bateria %s.</string>
-    <string name="accessibility_quick_settings_bluetooth">"Bluetooth."</string>
     <string name="accessibility_quick_settings_bluetooth_changed_off">O Bluetooth foi desativado.</string>
     <string name="accessibility_quick_settings_bluetooth_changed_on">O Bluetooth foi ativado.</string>
     <string name="accessibility_quick_settings_bluetooth_connected">Bluetooth conectado.</string>
@@ -364,7 +357,6 @@
     <string name="accessibility_rotation_lock_on_portrait_changed">A tela está bloqueada na orientação retrato.</string>
     <string name="accessibility_scanning_face">Digitalizando rosto</string>
     <string name="accessibility_search_light">Pesquisar</string>
-    <string name="accessibility_search_scanner">"Scanner"</string>
     <string name="accessibility_send_smart_reply">Enviar</string>
     <string name="accessibility_sensors_off_active">Sensores desligados ativado</string>
     <string name="accessibility_settings">Configurações</string>
@@ -459,7 +451,6 @@
     <string name="add_guest_failed">Falha ao criar um novo convidado</string>
     <string name="add_user_failed">Falha ao criar um novo usuário</string>
     <string name="adjust_button_width">Ajustar largura do botão</string>
-    <string name="afternoon">"PM"</string>
     <string name="air_quality_index_abbreviation">IQA</string>
     <string name="airplane_mode">Modo avião</string>
     <string name="alarm_template">às %1$s</string>
@@ -480,7 +471,6 @@ Se esta permissão estiver desativada, alarmes existentes e eventos baseados em 
     <string name="allow_turn_screen_on_description">Permite que um app ligue a tela. Se concedido, o app poderá ligar a tela a qualquer momento sem sua intenção explícita.</string>
     <string name="always_use_accessory">Abrir sempre %1$s quando %2$s estiver conectado</string>
     <string name="always_use_device">Abrir sempre %1$s quando %2$s estiver conectado</string>
-    <string name="am">"AM"</string>
     <string name="animator_duration_scale_title">Escala de duração da animação</string>
     <string name="anniversary_status">Aniversário</string>
     <string name="anniversary_status_content_description">"É o aniversário de %1$s"</string>
@@ -506,7 +496,6 @@ Se esta permissão estiver desativada, alarmes existentes e eventos baseados em 
     <string name="as_unimportant">Não importante</string>
     <string name="aspect_cancel">Cancelar</string>
     <string name="aspect_message">Este app será executado novamente no Modo Tela cheia. Caso encontre algum problema, você pode desativar o Modo Tela cheia para este app em Configurações > Tela infinita > Modo Tela cheia.</string>
-    <string name="aspect_ok">"OK"</string>
     <string name="aspect_title">Modo Tela cheia</string>
     <string name="audio_effect_custom">Configurar</string>
     <string name="audio_effect_info">Otimizar áudio</string>
@@ -741,7 +730,6 @@ Taxa de amostra"</string>
     <string name="bluetooth_select_map_version_string">Versão Bluetooth MAP</string>
     <string name="bluetooth_show_devices_without_names">Mostrar dispositivos Bluetooth sem nome</string>
     <string name="bluetooth_show_devices_without_names_summary">Dispositivos Bluetooth sem nome (apenas com endereço MAC) serão exibidos</string>
-    <string name="bluetooth_talkback_bluetooth">"Bluetooth"</string>
     <string name="bluetooth_talkback_computer">Computador</string>
     <string name="bluetooth_talkback_headphone">Fones de ouvido</string>
     <string name="bluetooth_talkback_headset">Fone de ouvido</string>
@@ -853,7 +841,6 @@ Toque para reajustar"</string>
     <string name="close">Fechar</string>
     <string name="compat_mode_off">Esticar para preencher a tela</string>
     <string name="compat_mode_on">Ampliar para preencher a tela</string>
-    <string name="confirm">"OK"</string>
     <string name="confirm_enable_oem_unlock_text">ALERTA: Os recursos de proteção do dispositivo não funcionarão neste dispositivo enquanto esta configuração estiver desativada.</string>
     <string name="confirm_enable_oem_unlock_title">Permitir desbloqueio de OEM?</string>
     <string name="confirm_pin_msg">Insira o PIN novamente</string>
@@ -868,7 +855,6 @@ Toque para reajustar"</string>
     <string name="connected_with_pc">Conectado ao computador</string>
     <string name="connected_with_phone">Conectado ao telefone</string>
     <string name="connected_with_tv">Conectado à TV</string>
-    <string name="content_description_menu_button">"Menu"</string>
     <string name="control_center_notification_switch_guide">Deslize parar alternar entre o centro de controle e a Área de notificações</string>
     <string name="control_quick_settings_tiles_super_save">gps,nfc,captura de tela,vibrar</string>
     <string name="controls_added_tooltip">Segure o botão de energia para ver os novos controles</string>
@@ -937,7 +923,6 @@ Toque para reajustar"</string>
     <string name="daltonizer_mode_tritanomaly">Tritanomalia (azul-amarelo)</string>
     <string name="daltonizer_type_overridden">Substituído por %1$s</string>
     <string name="data_connection_no_internet">Sem internet</string>
-    <string name="data_connection_roaming">"Roaming"</string>
     <string name="data_saver">Economia de dados</string>
     <string name="data_saver_description">Para ajudar a reduzir o uso de dados, a Economia de dados impede que alguns apps enviem ou recebam dados em 2º plano. Um app que você estiver usando pode acessar os dados, mas com menos frequência. Isso significa, por exemplo, que imagens não aparecerão até que você toque nelas.</string>
     <string name="data_saver_enable_button">Ativar</string>
@@ -1018,7 +1003,6 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
     <string name="dlg_confirm_kill_storage_users_text">Se você ativar o armazenamento USB, alguns apps em uso serão encerrados e poderão ficar indisponíveis até você desativar o armazenamento USB novamente.</string>
     <string name="dlg_confirm_kill_storage_users_title">Ativar armazenamento USB</string>
     <string name="dlg_error_title">A operação USB falhou</string>
-    <string name="dlg_ok">"OK"</string>
     <string name="dnd_notification_warnings_title">O Não perturbe está ativado. Chamadas e notificações serão silenciadas.</string>
     <string name="dnd_suppressing_shade_text">Notificações pausadas pelo Não perturbe</string>
     <string name="do_disclosure_generic">Este dispositivo pertence a organização</string>
@@ -1040,7 +1024,6 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
     <string name="drive_mode_tip_idle">Modo carro ativado</string>
     <string name="drive_mode_tip_idle_notch">Modo carro</string>
     <string name="drive_mode_tip_notch">Modo carro</string>
-    <string name="early_morning">"AM"</string>
     <string name="emergency_call_string">Emergência</string>
     <string name="empty_shade_text">Sem notificações</string>
     <string name="empty_status">Vamos conversar esta noite!</string>
@@ -1070,15 +1053,12 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
     <string name="error_disable_esim_msg">O eSIM não pode ser desativado devido a um erro.</string>
     <string name="error_disable_esim_title">Não é possível desativar o eSIM</string>
     <string name="error_icon_content_description">Erro</string>
-    <string name="ethernet_label">"Ethernet"</string>
-    <string name="evening">"PM"</string>
     <string name="expand_button_title">Avançado</string>
     <string name="expanded_header_battery_charged">Carregado</string>
     <string name="expanded_header_battery_charging">Carregando</string>
     <string name="expanded_header_battery_charging_with_time">%s até estar carregada</string>
     <string name="expanded_header_battery_not_charging">Não está carregando</string>
     <string name="expanded_notification_manager">Gerenciar notificações</string>
-    <string name="experimental">"Experimental"</string>
     <string name="exposed_dropdown_menu_content_description">Mostrar menu suspenso</string>
     <string name="ext_media_badremoval_notification_message">Desmonte o armazenamento USB antes de removê-lo para evitar a perda de dados.</string>
     <string name="ext_media_badremoval_notification_title">Armaz. USB removido inesperadamente</string>
@@ -1118,7 +1098,6 @@ Ao retomar o uso, cobranças extras poderão ocorrer."</string>
     <string name="failed_to_open_app_settings_toast">Não foi possível abrir as configurações para %1$s</string>
     <string name="feedback_alerted">Esta notificação foi automaticamente &lt;b>promovido a Padrão&lt;/b> pelo sistema.</string>
     <string name="feedback_demoted">Esta notificação foi automaticamente &lt;b>classificação mais baixa&lt;/b> em sua sombra.</string>
-    <string name="feedback_ok">"OK"</string>
     <string name="feedback_promoted">Esta notificação foi automaticamente &lt;b>classificação mais alta&lt;/b> em sua sombra.</string>
     <string name="feedback_prompt">Deixe o desenvolvedor saber seu feedback. Isso estava correto?</string>
     <string name="feedback_response">Obrigado pelo seu feedback!</string>
@@ -1260,18 +1239,15 @@ Digite seu PIN para desbloquear."</string>
     <string name="gxzw_quick_open_add_note_sub">Notas</string>
     <string name="gxzw_quick_open_alipay_pay">Código de pagamento</string>
     <string name="gxzw_quick_open_alipay_pay_sub">Alipay</string>
-    <string name="gxzw_quick_open_alipay_scan">"Scanner"</string>
     <string name="gxzw_quick_open_alipay_scan_sub">Alipay</string>
     <string name="gxzw_quick_open_dialer">Discador</string>
     <string name="gxzw_quick_open_dialer_sub">Telefone</string>
     <string name="gxzw_quick_open_qr_code">Código QR</string>
-    <string name="gxzw_quick_open_qr_code_sub">"Scanner"</string>
     <string name="gxzw_quick_open_search">Pesquisar</string>
     <string name="gxzw_quick_open_skip_teach">Pular tutorial</string>
     <string name="gxzw_quick_open_title">Menu de atalhos aberto</string>
     <string name="gxzw_quick_open_wechat_pay">Código de pagamento</string>
     <string name="gxzw_quick_open_wechat_pay_sub">WeChat</string>
-    <string name="gxzw_quick_open_wechat_scan">"Scanner"</string>
     <string name="gxzw_quick_open_wechat_scan_sub">WeChat</string>
     <string name="gxzw_quick_open_xiaoai_sub">"Mi AI"</string>
     <string name="gxzw_quick_open_xiaoai_super_sub">"Xiaomi Hyper XiaoAi"</string>
@@ -1474,7 +1450,6 @@ prioridades"</string>
 %2$s"</string>
     <string name="keyguard_instructions_when_pattern_disabled">Pressione Menu para desbloquear.</string>
     <string name="keyguard_invalid_sim_puk_hint">O código PUK deve conter %1$d dígitos.</string>
-    <string name="keyguard_left_mi_wallet">"Mi Wallet"</string>
     <string name="keyguard_left_remotecentral">Mi Remote</string>
     <string name="keyguard_left_smarthome">Mi Home</string>
     <string name="keyguard_left_torch">Lanterna</string>
@@ -1613,7 +1588,6 @@ Tente novamente em %2$d segundos."</string>
     <string name="left_icon">Ícone do botão esquerdo</string>
     <string name="left_keycode">Código do botão esquerdo</string>
     <string name="left_nav_bar_button_type">Tipo de botão esquerdo extra</string>
-    <string name="legacy_vpn_name">"VPN"</string>
     <string name="loading_injected_setting_summary">Aguarde…</string>
     <string name="local_backup_password_summary_change">Toque para alterar ou remover a senha para backups completos da Tela inicial</string>
     <string name="local_backup_password_summary_none">Os backups completos da Tela inicial não estão protegidos no momento</string>
@@ -1650,7 +1624,7 @@ d 'de' MMMM"</string>
     <string name="lockscreen_carrier_default">Sem serviço</string>
     <string name="lockscreen_charging_msg">Carregando</string>
     <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Você tentou desbloquear o dispositivo incorretamente %d vezes. Depois de mais %d tentativas incorretas, o dispositivo será redefinido para os padrões de fábrica e todos os dados do usuário serão perdidos.</string>
-    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Você inseriu sua senha incorretamente %d vezes. Depois de mais %d tentativas incorretas, será necessário desbloquear o seu dispositivo usando o login da sua Conta Mi.
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Você inseriu sua senha incorretamente %d vezes. Depois de mais %d tentativas incorretas, será necessário desbloquear o seu dispositivo usando o login da sua Conta Xiaomi.
 
  Tente novamente em %d segundos."</string>
     <string name="lockscreen_failed_attempts_now_wiping">Você tentou desbloquear o dispositivo incorretamente %d vezes. O dispositivo será redefinido para os padrões de fábrica.</string>
@@ -1733,9 +1707,7 @@ captura de tela estendida"</string>
     <string name="mic_camera_stopped_recording_announcement">Câmera e microfone pararam de gravar</string>
     <string name="mic_recording_announcement">Microfone está gravando</string>
     <string name="mic_stopped_recording_announcement">Microfone parou de gravar</string>
-    <string name="midnight">"AM"</string>
     <string name="missed_call">Chamada não atendida</string>
-    <string name="miui_clock_city_name_local">"Local"</string>
     <string name="miui_clock_city_name_second">Segundo relógio</string>
     <string name="miui_guide_dialog_button_negative_text">Configurações</string>
     <string name="miui_guide_dialog_button_positive_text">Entendi</string>
@@ -1759,7 +1731,6 @@ dd/MM"</string>
     <string name="miui_magazine_clock_date">d/M</string>
     <string name="miui_magazine_clock_date_content_description">dd/MM</string>
     <string name="miui_magazine_clock_week">"EEE"</string>
-    <string name="miui_notification_menu_aggregate_feedback">"Feedback"</string>
     <string name="miui_notification_menu_allow">Permitir</string>
     <string name="miui_notification_menu_feedback_success">Obrigado pelo seu feedback!</string>
     <string name="miui_notification_menu_fold">Não importante</string>
@@ -1900,7 +1871,6 @@ Você também está conectado a uma VPN, que pode monitorar sua atividade de red
 Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="monitoring_subtitle_ca_certificate">Certificados CA</string>
     <string name="monitoring_subtitle_network_logging">Registro de rede</string>
-    <string name="monitoring_subtitle_vpn">"VPN"</string>
     <string name="monitoring_title">Monitoramento de rede</string>
     <string name="monitoring_title_device_owned">Gerenciamento do dispositivo</string>
     <string name="monitoring_title_financed_device">Este dispositivo é fornecido por %s</string>
@@ -1942,7 +1912,6 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="month_september_short">Set</string>
     <string name="month_september_shortest">Set</string>
     <string name="more">Mais</string>
-    <string name="morning">"AM"</string>
     <string name="mount_storage">Sim</string>
     <string name="mr_button_content_description">Transmitir</string>
     <string name="mr_cast_button_connected">Transmitir. Conectado</string>
@@ -2170,9 +2139,7 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="output_calls_title">Saída de som de chamada telefônica</string>
     <string name="output_none_found">Nenhum dispositivo encontrado</string>
     <string name="output_none_found_service_off">Nenhum dispositivo encontrado. Tente ativar o %1$s</string>
-    <string name="output_service_bt">"Bluetooth"</string>
     <string name="output_service_bt_wifi">Bluetooth e Wi-Fi</string>
-    <string name="output_service_wifi">"Wi-Fi"</string>
     <string name="output_title">Saída de mídia</string>
     <string name="over_one_week_timestamp">Mais de 1 semana atrás</string>
     <string name="over_two_weeks_timestamp">Mais de 2 semanas atrás</string>
@@ -2471,8 +2438,6 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="quick_settings_flashlight_state_change_message_off">Lanterna desativada</string>
     <string name="quick_settings_flashlight_state_change_message_on">Lanterna ativada</string>
     <string name="quick_settings_font_scaling_label">Tamanho da fonte</string>
-    <string name="quick_settings_googlehome_label">"Google Home"</string>
-    <string name="quick_settings_googlepay_label">"Google Pay"</string>
     <string name="quick_settings_header_onboarding_text">Toque e segure os ícones para mais opções</string>
     <string name="quick_settings_hotspot_label">"Hotspot"</string>
     <string name="quick_settings_hotspot_secondary_label_data_saver_enabled">Economia de dados ativada</string>
@@ -2483,19 +2448,15 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="quick_settings_ime_label">Método de entrada</string>
     <string name="quick_settings_intelligent_dual_sim_accelerate_summary">Usa os dados móveis do SIM secundário para aumentar a velocidade de conexão</string>
     <string name="quick_settings_intelligent_dual_sim_accelerate_title">Dual SIM inteligente</string>
-    <string name="quick_settings_internet_label">"Internet"</string>
     <string name="quick_settings_inversion_label">Inverter cores</string>
-    <string name="quick_settings_location_label">GPS</string>
-    <string name="quick_settings_location_off_label">GPS desativado</string>
-    <string name="quick_settings_location_state_change_message_off">GPS desativado</string>
-    <string name="quick_settings_location_state_change_message_on">GPS ativado</string>
+    <string name="quick_settings_location_label">Localização</string>
+    <string name="quick_settings_location_off_label">Localização desativada</string>
+    <string name="quick_settings_location_state_change_message_off">Localização desativada</string>
+    <string name="quick_settings_location_state_change_message_on">Localização ativada</string>
     <string name="quick_settings_media_device_label">Dispositivo de mídia</string>
     <string name="quick_settings_mic_label">Acessar o microfone</string>
     <string name="quick_settings_miui_wifi_detail_empty_text">Nenhuma rede Wi-Fi disponível</string>
-    <string name="quick_settings_miui_wifi_label">"Wi-Fi"</string>
     <string name="quick_settings_miui_wlan_detail_empty_text">Nenhuma rede Wi-Fi disponível</string>
-    <string name="quick_settings_miui_wlan_label">"Wi-Fi"</string>
-    <string name="quick_settings_midrop_label">"Xiaomi Share"</string>
     <string name="quick_settings_more_settings">Mais configurações</string>
     <string name="quick_settings_more_user_settings">Configurações do usuário</string>
     <string name="quick_settings_mute_label">Silencioso</string>
@@ -2503,7 +2464,6 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="quick_settings_mute_state_change_message_on">Modo silencioso ativado</string>
     <string name="quick_settings_networks_available">Redes disponíveis</string>
     <string name="quick_settings_networks_unavailable">Redes indisponíveis</string>
-    <string name="quick_settings_nfc_label">"NFC"</string>
     <string name="quick_settings_nfc_off">O NFC está desativado</string>
     <string name="quick_settings_nfc_on">O NFC está ativado</string>
     <string name="quick_settings_nfc_state_change_message_off">NFC desativado</string>
@@ -2543,7 +2503,6 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="quick_settings_screen_rotation_outer_portrait_locked">Tela externa bloqueada no modo retrato</string>
     <string name="quick_settings_screen_rotation_outer_unlocked">Rotação da tela externa ativada</string>
     <string name="quick_settings_rssi_emergency_only">Apenas chamadas de emergência</string>
-    <string name="quick_settings_rssi_label">"RSSI"</string>
     <string name="quick_settings_screenbutton_label">Botões</string>
     <string name="quick_settings_screenlock_label">Bloquear tela</string>
     <string name="quick_settings_screensaver_label">Protetor de tela</string>
@@ -2584,7 +2543,6 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="quick_settings_wifi_detail_dual_wifi_switching_summary">A otimização de banda dupla do Wi-Fi necessita de usar duas bandas diferentes. Se caso você se conectar a uma rede principal diferente, a conexão auxiliar será perdida</string>
     <string name="quick_settings_wifi_detail_empty_text">Nenhuma rede Wi-Fi disponível</string>
     <string name="quick_settings_wifi_is_off">Wi-Fi está desativado</string>
-    <string name="quick_settings_wifi_label">"Wi-Fi"</string>
     <string name="quick_settings_wifi_nearby">Selecione uma rede próxima</string>
     <string name="quick_settings_wifi_no_network">Nenhuma rede</string>
     <string name="quick_settings_wifi_not_connected">Não conectado</string>
@@ -2771,7 +2729,6 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="screenshot_failed_to_save_title">Espaço de armazenamento insuficiente para novas capturas de tela</string>
     <string name="screenshot_failed_to_save_unknown_text">Ocorreu um erro ao salvar a captura de tela.</string>
     <string name="screenshot_failed_to_save_user_locked_text">O dispositivo deve ser desbloqueado antes que a captura de tela possa ser salva</string>
-    <string name="screenshot_feedback_txt">"Feedback"</string>
     <string name="screenshot_insert_failed">Não foi possível carregar a captura de tela. Tire uma nova ou veja a imagem na Galeria.</string>
     <string name="screenshot_left_boundary_pct">"Limite esquerdo %1$d%%"</string>
     <string name="screenshot_long_screenshot">Estender</string>
@@ -2895,7 +2852,6 @@ Se você tiver dúvidas, entre em contato %2$s."</string>
     <string name="speed_bump_explanation">Notificações menos urgentes abaixo</string>
     <string name="speed_label_fast">Rápida</string>
     <string name="speed_label_medium">Média</string>
-    <string name="speed_label_okay">"OK"</string>
     <string name="speed_label_slow">Lenta</string>
     <string name="speed_label_very_fast">Muito rápida</string>
     <string name="speed_label_very_slow">Muito lenta</string>
@@ -2919,7 +2875,6 @@ monitorada"</string>
 d 'de' MMMM"</string>
     <string name="status_bar_date_format_12">"EEEE
 d 'de' MMMM"</string>
-    <string name="status_bar_ethernet">"Ethernet"</string>
     <string name="status_bar_input_method_settings_configure_input_methods">Configurar métodos de entrada</string>
     <string name="status_bar_latest_events_title">Notificações</string>
     <string name="status_bar_network_flow_content">Hoje: %1$s | Restante: %2$s</string>
@@ -2953,7 +2908,6 @@ Deslize para baixo para bloquear"</string>
     <string name="status_bar_settings_settings_button">Configurações</string>
     <string name="status_bar_settings_signal_meter_disconnected">Sem conexão à internet</string>
     <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi conectado</string>
-    <string name="status_bar_settings_wifi_button">"Wi-Fi"</string>
     <string name="status_bar_style_settings">Notificações</string>
     <string name="status_bar_use_physical_keyboard">Teclado físico</string>
     <string name="status_bar_work">Perfil de trabalho</string>
@@ -2963,7 +2917,6 @@ Deslize para baixo para bloquear"</string>
     <string name="storage_is_connecting">%1$s está conectado</string>
     <string name="stream_accessibility">Acessibilidade</string>
     <string name="stream_alarm">Alarmes</string>
-    <string name="stream_bluetooth_sco">"Bluetooth"</string>
     <string name="stream_dtmf">Frequência de DTMF</string>
     <string name="stream_music">Mídia</string>
     <string name="stream_notification">Notificações</string>
@@ -3080,10 +3033,6 @@ Toque para obter mais informações"</string>
     <string name="torch_opened">Lanterna ligada</string>
     <string name="touch_filtered_warning">Como um app está obscurecendo uma solicitação de permissão, as Configurações não podem verificar sua resposta.</string>
     <string name="track_frame_time">Renderização de perfil HWUI</string>
-    <string name="traffic_unit_byte">"B"</string>
-    <string name="traffic_unit_gigabyte">"GB"</string>
-    <string name="traffic_unit_kilobyte">"KB"</string>
-    <string name="traffic_unit_megabyte">"MB"</string>
     <string name="transcode_default">Suponha que os apps sejam compatíveis com formatos modernos</string>
     <string name="transcode_disable_cache">Desativar cache de transcodificação</string>
     <string name="transcode_enable_all">Ativar transcodificação</string>
@@ -3134,7 +3083,6 @@ Toque para obter mais informações"</string>
     <string name="tuner_left">Esquerda</string>
     <string name="tuner_lock_screen">Bloquear tela</string>
     <string name="tuner_low_priority">Mostrar ícones de notificação de baixa prioridade</string>
-    <string name="tuner_menu">"Menu"</string>
     <string name="tuner_minus">Menos</string>
     <string name="tuner_other_apps">Outros apps</string>
     <string name="tuner_persistent_warning">Estes recursos experimentais podem alterar, quebrar ou desaparecer em lançamentos futuros. Proceda com cautela.</string>
@@ -3455,7 +3403,6 @@ Parece que o armazenamento de credenciais não está ativado."</string>
     <string name="wifitrackerlib_saved_network">Salvo por %1$s</string>
     <string name="wifitrackerlib_speed_label_fast">Rápida</string>
     <string name="wifitrackerlib_speed_label_medium">Regular</string>
-    <string name="wifitrackerlib_speed_label_okay">"OK"</string>
     <string name="wifitrackerlib_speed_label_slow">"Lenta"</string>
     <string name="wifitrackerlib_speed_label_very_fast">Muito rápida</string>
     <string name="wifitrackerlib_speed_label_very_slow">Muito lenta</string>

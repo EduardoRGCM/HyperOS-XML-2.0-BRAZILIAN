@@ -104,7 +104,7 @@ monitoramento de terremoto"</string>
     <string name="exposed_dropdown_menu_content_description">Exibir menu suspenso</string>
     <string name="fastboot_locked_answer_1">O Fastboot é um método tradicional para a instalação de firmwares em dispositivos Mi. Quando o dispositivo está em Modo Fastboot, todos os dados armazenados nele podem ser acessados ou apagados diretamente. Nós bloqueamos o Fastboot para certificar de que seus dados permaneçam seguros caso você perca o dispositivo, assim como garantir a confiabilidade dos recursos do Encontrar dispositivo.</string>
     <string name="fastboot_locked_answer_2">"Caso você perca seu dispositivo, o Fastboot garante a segurança dos itens armazenados no telefone. Caso você desbloqueie o Fastboot, você não será capaz de bloquear seu dispositivo remotamente ou apagar seus dados usando o Encontrar dispositivo. É por isso que não recomendamos o desbloqueio do Fastboot em seu dispositivo."</string>
-    <string name="fastboot_locked_answer_3">"Você precisa usar a ferramenta de desbloqueio disponível no site do HyperOS. Para desbloquear o dispositivo, precisaremos garantir que ele pertence a você. É por isso que ao receber o seu dispositivo você deve fazer login em sua Conta Mi e ativar o Encontrar dispositivo."</string>
+    <string name="fastboot_locked_answer_3">"Você precisa usar a ferramenta de desbloqueio disponível no site do HyperOS. Para desbloquear o dispositivo, precisaremos garantir que ele pertence a você. É por isso que ao receber o seu dispositivo você deve fazer login em sua Conta Xiaomi e ativar o Encontrar dispositivo."</string>
     <string name="fastboot_locked_question_1">Por que o Fastboot precisa ser bloqueado?</string>
     <string name="fastboot_locked_question_2">Existe algum risco envolvendo o desbloqueio do Fastboot?</string>
     <string name="fastboot_locked_question_3">Sei dos riscos, mas ainda quero desbloquear meu dispositivo. O que preciso fazer?</string>
@@ -266,11 +266,11 @@ monitoramento de terremoto"</string>
     <string name="gdpr_msg"><Data>"Para usar os recursos básicos do app Segurança, você deve concordar que a Xiaomi coletará, processará e usará seus dados pessoais, incluindo informações sobre as maneiras como você usa os recursos do app Segurança (ex.: estatísticas de uso de dados móveis, informações sobre malwares, bem como informações básicas sobre o seu dispositivo) e outros tipos de informações especificadas em nossa &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Política de Privacidade&lt;/a>."</Data></string>
     <string name="global_satisfaction_network_error">"Não foi possível obter dados. Verifique suas configurações de rede e tente novamente."</string>
     <string name="global_satisfactionnetwork_loading">Obtendo dados…</string>
-    <string name="gtb_dialog_privacy_speed_message">"Você está prestes a usar o Game Booster Xunyou. Este serviço irá coletar o seu ID da sua Conta Mi para registrar a duração da sua adesão."</string>
+    <string name="gtb_dialog_privacy_speed_message">"Você está prestes a usar o Game Booster Xunyou. Este serviço irá coletar o seu ID da sua Conta Xiaomi para registrar a duração da sua adesão."</string>
     <string name="gtb_dialog_privacy_speed_tips"><Data>"Li e aceito a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do Game Booster Xunyou."</Data></string>
     <string name="gtb_dialog_privacy_speed_tips_new"><Data>"Li e aceito a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do Game Booster Xunyou."</Data></string>
     <string name="gtb_dialog_privacy_speed_title">Game Booster Xunyou</string>
-    <string name="gtb_dialog_privacy_voice_message">"Você está prestes a usar o Modificador de voz Xunyou Game. Este serviço coletará o ID da sua Conta Mi para registrar a duração da sua assinatura."</string>
+    <string name="gtb_dialog_privacy_voice_message">"Você está prestes a usar o Modificador de voz Xunyou Game. Este serviço coletará o ID da sua Conta Xiaomi para registrar a duração da sua assinatura."</string>
     <string name="gtb_dialog_privacy_voice_tips"><Data>"Li e aceito a &lt;a href=\"%1$s\">Política de Privacidade&lt;/a> do Modificador de voz Xunyou Game."</Data></string>
     <string name="gtb_dialog_privacy_voice_title">Modificador de voz Xunyou Game</string>
     <string name="hybrid_provider">Fornecido por %1$s</string>

@@ -90,7 +90,7 @@
     <string name="cancel_mi_drive_alert_reminder_card_summary" formatted="false">"&lt;xliff:g id=cancel_mi_drive_alert_reminder_card_summary_list_1 refersto=1>%1d&lt;/xliff:g>. Recomendamos fazer backup de seus itens antes de excluí-los. Para fazer isso, visite i.mi.com, clique em Mi Drive e baixe seus itens para um computador.&lt;br />&lt;xliff:g id=cancel_mi_drive_alert_reminder_card_summary_list_2 refersto=2>%2d&lt;/xliff:g>. Por favor, observe que os itens apagados dos Itens excluídos recentemente não podem ser recuperados posteriormente."</string>
     <string name="cancel_mi_drive_confirm_button">Cancelar serviços</string>
     <string name="cancel_mi_drive_confirm_description">"Se você continuar, os serviços do Mi Drive serão cancelados. Deixaremos de coletar suas informações pessoais e as informações pessoais já coletadas e retidas serão excluídas dentro do período especificado de acordo com as leis e regulamentos aplicáveis, a menos que exigido de outra forma."</string>
-    <string name="cancel_mi_drive_confirm_hint">"O cancelamento dos serviços do Mi Drive não afetará o uso de outros produtos e serviços da Xiaomi. Se você deseja excluir sua Conta Mi, você pode fazer isso &lt;font color=#0097FF>&lt;a href=%1$s>aqui&lt;/a>&lt;/font>."</string>
+    <string name="cancel_mi_drive_confirm_hint">"O cancelamento dos serviços do Mi Drive não afetará o uso de outros produtos e serviços da Xiaomi. Se você deseja excluir sua Conta Xiaomi, você pode fazer isso &lt;font color=#0097FF>&lt;a href=%1$s>aqui&lt;/a>&lt;/font>."</string>
     <string name="cancel_mi_drive_confirm_reminder_card_summary" formatted="false">&lt;font color=#F22424>Os seguintes itens serão excluídos permanentemente após o cancelamento dos serviços:&lt;/font>&lt;br />&lt;xliff:g id=cancel_mi_drive_confirm_reminder_card_summary_list_1 refersto=1>%1d&lt;/xliff:g>. Todos os itens no Mi Drive, incluindo, entre outros, documentos, arquivos privados e Itens excluídos recentemente.&lt;br />&lt;xliff:g id=cancel_mi_drive_confirm_reminder_card_summary_list_2 refersto=2>%2d&lt;/xliff:g>. Permissões do dispositivo, configurações e outros conteúdos em cache.&lt;br />&lt;xliff:g id=cancel_mi_drive_confirm_reminder_card_summary_list_3 refersto=3>%3d&lt;/xliff:g>. Histórico de upload e download do Mi Drive.</string>
     <string name="cancel_mi_drive_privacy_revoked_retry">Ative o Mi Drive e tente novamente</string>
     <string name="cancel_mi_drive_success">Serviços cancelados com sucesso</string>
@@ -183,7 +183,7 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="copy_to">Copiar para…</string>
     <string name="create_folder">Criar</string>
     <string name="create_shortcut_success">Atalho adicionado com sucesso</string>
-    <string name="cta_function_account_operation">Para um rápido login em sua Conta Mi</string>
+    <string name="cta_function_account_operation">Para um rápido login em sua Conta Xiaomi</string>
     <string name="cta_use_sync_midrive_file">Para sincronizar arquivos com o Mi Drive</string>
     <string name="data_consume_dialog_message">"Você está usando dados móveis no momento. Se você continuar, isso usará %s de dados."</string>
     <string name="data_consume_dialog_title">Usar dados móveis?</string>

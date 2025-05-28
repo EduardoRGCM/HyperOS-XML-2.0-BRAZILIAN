@@ -494,7 +494,7 @@
     <string name="security_permission_open_wifi_settings">Abrir configurações do Wi-Fi</string>
     <string name="security_permission_validate_warning">Obrigado por ajudar a melhorar o HyperOS!</string>
     <string name="security_permission_wifi_and_data_opened_text">Dados móveis e Wi-Fi ativados</string>
-    <string name="security_permission_xiaomi_account_missed_text">Digite seu ID da Conta Mi</string>
+    <string name="security_permission_xiaomi_account_missed_text">Digite seu ID da Conta Xiaomi</string>
     <string name="security_share_text">Proteção de privacidade</string>
     <string name="select">Selecionar</string>
     <string name="select_all">Selecionar todos</string>
@@ -549,19 +549,16 @@
     <string name="standard_title">Silencioso</string>
     <string name="start_activity_tip">Continue na tela interna</string>
     <string name="start_dump_log">Iniciar obtenção de logs relacionados a problemas</string>
-    <string name="start_security_permission_verify_text">Verificar permissões com sua Conta Mi</string>
+    <string name="start_security_permission_verify_text">Verificar permissões com sua Conta Xiaomi</string>
     <string name="status_bar_toggle_auto_brightness">Brilho</string>
     <string name="status_bar_toggle_battery_saver">Economia de bateria</string>
-    <string name="status_bar_toggle_bluetooth">"Bluetooth"</string>
     <string name="status_bar_toggle_cast">Transmitir</string>
     <string name="status_bar_toggle_data">Dados móveis</string>
     <string name="status_bar_toggle_edit">Ordenar</string>
     <string name="status_bar_toggle_flight_mode">Modo avião</string>
-    <string name="status_bar_toggle_gps">"GPS"</string>
+    <string name="status_bar_toggle_gps">Localização</string>
     <string name="status_bar_toggle_lock">Bloquear</string>
-    <string name="status_bar_toggle_midrop">"Xiaomi Share"</string>
     <string name="status_bar_toggle_mute">Silencioso</string>
-    <string name="status_bar_toggle_nfc">"NFC"</string>
     <string name="status_bar_toggle_paper_mode">Modo leitura</string>
     <string name="status_bar_toggle_power_mode">Desempenho</string>
     <string name="status_bar_toggle_quiet_mode">Não perturbe</string>
@@ -571,8 +568,6 @@
     <string name="status_bar_toggle_sync">Sincronizar</string>
     <string name="status_bar_toggle_torch">Lanterna</string>
     <string name="status_bar_toggle_vibrate">Vibrar</string>
-    <string name="status_bar_toggle_wifi">"Wi-Fi"</string>
-    <string name="status_bar_toggle_wifi_ap">"Hotspot"</string>
     <string name="stoneskimming_preview">Passos leves</string>
     <string name="stop_operate_camera_frequently">"Você está abrindo a câmera frontal com muita frequência."</string>
     <string name="stylus_pen_mask_screenshot">Toque na tela para fazer uma captura de tela</string>
@@ -628,7 +623,6 @@ usar a câmera frontal"</string>
     <string name="user_switching_dialog_switch_into_kid_space">Alternando para o Espaço infantil…</string>
     <string name="user_switching_dialog_switch_out_kid_space">Saindo do Espaço infantil…</string>
     <string name="user_switching_dialog_text">Alternando…</string>
-    <string name="vigor">"Vigor"</string>
     <string name="voice_assist">"Mi AI"</string>
     <string name="wallpaper_Fragrant_title">Flores</string>
     <string name="wallpaper_floral_arrangement_title">Arranjo floral</string>
@@ -659,7 +653,6 @@ usar a câmera frontal"</string>
     <string name="wallpaper_group_red_mars_title">Marte</string>
     <string name="wallpaper_group_sgn_mountain_title">Monte Siguniang</string>
     <string name="wallpaper_group_shadow_geometry_title">Geometria das sombras</string>
-    <string name="wallpaper_neon_title">"Neon"</string>
     <string name="wallpaper_overlapping_space_title">Forma e sombra</string>
     <string name="wallpaper_softlight_title">Luz suave</string>
     <string name="waterdrop_preview">Gotas</string>
