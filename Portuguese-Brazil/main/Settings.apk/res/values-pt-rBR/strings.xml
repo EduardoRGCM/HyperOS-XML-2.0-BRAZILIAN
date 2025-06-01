@@ -8567,7 +8567,7 @@ Reinicie o dispositivo e tente novamente."</string>
     <string name="ring_to_you_info">Defina um toque personalizado que outras pessoas ouvirão antes de você atender</string>
     <string name="ring_volume_option_title">Toques</string>
     <string name="ring_volume_title">Volume do toque e notificações</string>
-    <string name="ringer_mode_setting_summary">Silencia as chamadas e notificações</string>
+    <string name="ringer_mode_setting_summary">Silencia as chamadas e notificações recebidas</string>
     <string name="ringer_mode_setting_title">Modo silencioso</string>
     <string name="ringtone_slot_setting_title">Configurações de SIM individual</string>
     <string name="ringtone_title">Toque</string>
@@ -10865,7 +10865,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="top_to_bottom_slide">Deslize para baixo</string>
     <string name="total">Não perturbe</string>
     <string name="total_info">Silenciar chamadas recebidas, notificações, e restringir vibração</string>
-    <string name="total_info_no_vibrator">Silenciar chamadas recebidas e notificações</string>
+    <string name="total_info_no_vibrator">Silencia as chamadas e notificações recebidas</string>
     <string name="total_memory">Memória total</string>
     <string name="total_size">%s no total</string>
     <string name="total_size_label">"Total"</string>
