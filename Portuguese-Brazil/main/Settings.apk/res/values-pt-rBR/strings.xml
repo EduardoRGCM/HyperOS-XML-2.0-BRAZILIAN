@@ -2014,6 +2014,7 @@ Você não se conectou a %2$s antes."</string>
     <string name="bluetooth_profile_volume_control">Controle de volume</string>
     <string name="bluetooth_quick_toggle_summary">Ativar Bluetooth</string>
     <string name="bluetooth_quick_toggle_title">"Bluetooth"</string>
+    <string name="bluetooth_refresh">Atualizar</string>
     <string name="bluetooth_remember_choice">Não perguntar novamente</string>
     <string name="bluetooth_rename_button">Renomear</string>
     <string name="bluetooth_rename_device">Renomear o dispositivo</string>
@@ -3449,7 +3450,7 @@ Esta configuração afeta todos os usuários deste dispositivo."</string>
     <string name="device_oaid">Gerenciar ID virtual</string>
     <string name="device_oaid_desc">Em vez do seu identificador único, o sistema fornecerá um identificador virtual (OAID) a apps instalados. Ele evita que os apps rastreiem o seu comportamento e preferências, e protege a sua privacidade.</string>
     <string name="device_oaid_title">ID virtual</string>
-    <string name="device_of_someone">"%1$s de %2$s"</string>
+    <string name="device_of_someone">"%2$s de %1$s"</string>
     <string name="device_opcust_version">Versão do operador</string>
     <string name="device_picker">Escolha o dispositivo Bluetooth</string>
     <string name="device_rear_camera">Câmera</string>
