@@ -793,7 +793,7 @@ Você pode controlar esse recurso em Configurações > Impressões digitais, dad
     <string name="terms_of_use_label_app_vault">"Mi Link"</string>
     <string name="terms_of_use_label_back">Serviço de backup</string>
     <string name="terms_of_use_label_ble">Provedor de localização fundido</string>
-    <string name="terms_of_use_label_cloud">"MiCloud"</string>
+    <string name="terms_of_use_label_cloud">"Xiaomi Cloud"</string>
     <string name="terms_of_use_label_communication_service">Serviço de comunicação pela internet da Xiaomi</string>
     <string name="terms_of_use_label_config_updater">"ConfigUpdater"</string>
     <string name="terms_of_use_label_finddevice">Encontrar dispositivo</string>

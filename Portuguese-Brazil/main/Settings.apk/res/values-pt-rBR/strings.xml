@@ -4996,7 +4996,7 @@ Crie um backup neste dispositivo, então vá em Armazenamento/MIUI/backup/AllBac
 Drive USB
 Salve suas configurações de sistema, contas, dados de apps e outros itens em um drive USB.
 
-MiCloud
+Xiaomi Cloud
 Sincronize seus contatos, fotos, vídeos, sua lista de apps, configurações do sistema e layout da Tela inicial com a nuvem."</string>
     <string name="how_backup_title">Como faço backup dos itens?</string>
     <string name="how_encrypt_content">"Você só pode criptografar backups locais. Aqui estão alguns métodos de criptografia que você pode usar:
@@ -5016,7 +5016,7 @@ Copie o backup do seu computador para a pasta \"AllBackup\" em: Armazenamento/MI
 Drive USB
 Copie o backup do seu drive USB para a pasta \"AllBackup\" em: Armazenamento/MIUI/backup/AllBackup e selecione a opção para restaurar itens de um drive USB para continuar.
 
-MiCloud
+Xiaomi Cloud
 Abra a Xiaomi Cloud e restaure os itens por lá."</string>
     <string name="how_restore_backup_title">Como eu restauro os itens de um backup?</string>
     <string name="http_invoke_app">Apps da web</string>
@@ -5406,7 +5406,7 @@ Abra a Xiaomi Cloud e restaure os itens por lá."</string>
     <string name="keywords_storage_menu_free">limpeza, armazenamento</string>
     <string name="keywords_storage_settings">memória, cache de dados, excluir, limpar, liberar, espaço</string>
     <string name="keywords_styles">ícone, tom, cor, tela inicial, tela de bloqueio, atalho, tamanho do relógio</string>
-    <string name="keywords_sync">Sincronização;Sincronizar;MiCloud</string>
+    <string name="keywords_sync">Sincronização;Sincronizar;Xiaomi Cloud</string>
     <string name="keywords_system_navigation">navegação no sistema, navegação com dois botões, navegação com três botões, navegação por gestos, deslizar</string>
     <string name="keywords_system_update_settings">atualização, android</string>
     <string name="keywords_systemui_theme">tema escuro</string>
@@ -6376,7 +6376,7 @@ Não poderá reverter esta ação."</string>
     <string name="mic_toggle_title">Acessar microfone</string>
     <string name="micloud_service_summary">Sincronize a lista de apps, faça o backup de configurações do sistema e do layout da Tela inicial</string>
     <string name="micloud_service_summary_temp">Sincronize fotos, vídeos, contatos e muito mais</string>
-    <string name="micloud_service_title">"MiCloud"</string>
+    <string name="micloud_service_title">"Xiaomi Cloud"</string>
     <string name="middle_function_key">Área central</string>
     <string name="midnight">"AM"</string>
     <string name="miheadet_up_music">Anterior</string>
@@ -8960,7 +8960,7 @@ Para usar a fixação de apps: \u0009
     <string name="search_children_mode_title">Modo Criança;Bloquear SMS;Controle parental;Parental;Restringir SMS</string>
     <string name="search_choose_timezone">Escolher fuso horário;Fuso horário;Fusos horários</string>
     <string name="search_cloud_backup_settings_section_title">Configurações de Backup;Backup;Backup;Backups</string>
-    <string name="search_cloud_restore_section_title">Restaurar da Mi Cloud;Mi Cloud;Backups na nuvem;MiCloud;Restaurar da Xiaomi Cloud</string>
+    <string name="search_cloud_restore_section_title">Restaurar da Mi Cloud;Mi Cloud;Backups na nuvem;Xiaomi Cloud;Restaurar da Xiaomi Cloud</string>
     <string name="search_connection_and_sharing">Mais;Sem fio</string>
     <string name="search_control_center_style">Estilo de notificação</string>
     <string name="search_copyright_title">Direitos autorais</string>
@@ -9013,7 +9013,7 @@ Para usar a fixação de apps: \u0009
     <string name="search_master_clear_title">Redefinir configurações de fábrica</string>
     <string name="search_menu">Pesquisar nas Configurações</string>
     <string name="search_menu_title">Pesquisar</string>
-    <string name="search_micloud">Sincronização;Mi Cloud;MiCloud;Sincronização com a nuvem;Sincronizar com a nuvem;Sincronizar com a Xiaomi Cloud</string>
+    <string name="search_micloud">Sincronização;Mi Cloud;Xiaomi Cloud;Sincronização com a nuvem;Sincronizar com a nuvem;Sincronizar com a Xiaomi Cloud</string>
     <string name="search_music_audio_effect_optimize">Configurações de áudio;Configurações de som</string>
     <string name="search_music_equalizer">Equalizador</string>
     <string name="search_music_headset_calibrate">Atribuir botões;botões</string>

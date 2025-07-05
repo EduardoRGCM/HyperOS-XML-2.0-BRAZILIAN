@@ -627,7 +627,7 @@ Se ainda for difícil adormecer após 30 minutos na cama, reduza os fatores que 
     <string name="has_record">Registros</string>
     <string name="health_app_name">Mi Saúde</string>
     <string name="health_app_name_dev">Desenvolvimento do Mi Saúde</string>
-    <string name="health_cloud_service">MiCloud</string>
+    <string name="health_cloud_service">"Xiaomi Cloud"</string>
     <string name="health_data_cloud_sync_subtitle">Sincronize os seus dados com a Xiaomi Cloud e acesse de qualquer dispositivo</string>
     <string name="health_data_cloud_sync_title">Sincronização com a Xiaomi Cloud</string>
     <string name="health_data_sync">Sincronizar dados do Health</string>

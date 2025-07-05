@@ -5929,7 +5929,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
     <string name="title_chain_start">Restringir início sequencial</string>
     <string name="title_cleaner_cloudscan">Verificação de lixo na nuvem</string>
     <string name="title_cloud_account">Conta Xiaomi</string>
-    <string name="title_cloud_service">"MiCloud"</string>
+    <string name="title_cloud_service">"Xiaomi Cloud"</string>
     <string name="title_cloud_space_almost_full">O armazenamento na nuvem está quase cheio, alguns itens poderão não sincronizar</string>
     <string name="title_cloud_space_full">A nuvem está cheia</string>
     <string name="title_cmcc_app_check">Verificação incompleta</string>

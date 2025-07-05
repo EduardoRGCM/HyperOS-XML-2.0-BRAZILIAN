@@ -114,7 +114,7 @@ Você pode fazer login com sua Conta Xiaomi usando %s agora."</string>
     <string name="cloud_member_vipname_mega">"Mega"</string>
     <string name="cloud_member_vipname_premium">"Premium"</string>
     <string name="cloud_member_vipname_ultra">"Ultra"</string>
-    <string name="cloud_service">MiCloud</string>
+    <string name="cloud_service">"Xiaomi Cloud"</string>
     <string name="cloud_service_cloud_open">Ativar</string>
     <string name="cloud_service_space_full">Armazenamento cheio</string>
     <string name="cloud_service_space_not_enough">Armazenamento insuficiente</string>
@@ -853,7 +853,7 @@ Escaneie o código abaixo com o app Scanner."</string>
     <string name="search_menu_title">Pesquisar</string>
     <string name="search_mi_account">Conta Xiaomi</string>
     <string name="search_mi_account_desc">Conta Xiaomi</string>
-    <string name="search_mi_account_key_words">MiCloud,Configurações da conta,Informações do Mi Pay,Sair</string>
+    <string name="search_mi_account_key_words">Xiaomi Cloud,Configurações da conta,Informações do Mi Pay,Sair</string>
     <string name="search_mi_account_path">Configurações/Conta Xiaomi</string>
     <string name="search_user_detail">Informações pessoais</string>
     <string name="search_user_detail_bottom_key_words">Alterar renda,Alterar educação,Alterar localização,Alterar região</string>
@@ -1010,6 +1010,6 @@ Escaneie o código abaixo com o app Scanner."</string>
     <string name="wednesday_short">Qua</string>
     <string name="wednesday_shortest">Qua</string>
     <string name="weixin_login">Fazer login com o WeChat</string>
-    <string name="xiaomi_cloud_service">MiCloud</string>
+    <string name="xiaomi_cloud_service">"Xiaomi Cloud"</string>
     <string name="yesterday">Ontem</string>
 </resources>

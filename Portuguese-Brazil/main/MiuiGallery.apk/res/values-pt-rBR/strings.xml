@@ -724,7 +724,7 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="cloud_full_space_tip_title_completely">O armazenamento em nuvem está cheio</string>
     <string name="cloud_guide_auto_backup_title">Escolha os álbuns para sincronizar</string>
     <string name="cloud_guide_login_title">Backup automático de fotos e vídeos</string>
-    <string name="cloud_guide_welcome_title">"MiCloud"</string>
+    <string name="cloud_guide_welcome_title">"Xiaomi Cloud"</string>
     <string name="cloud_login_ok">Entendi</string>
     <string name="cloud_login_settings_title">Configurações de sincronização</string>
     <string name="cloud_privacy_with_ai_album">Recursos e privacidade</string>
@@ -3606,7 +3606,7 @@ Até %1$s, você pode mover seus itens para o Google Fotos ou visitar i.mi.com p
     <string name="transfer_dialog_migrate_complete_msg">"Suas fotos e vídeos foram transferidos para o Google Fotos. Depois disso, os itens que não foram sincronizados com este dispositivo não serão exibidos. Você pode visualizar esses itens entre seus backups agora."</string>
     <string name="transfer_dialog_migrate_msg">"Os serviços de sincronização da Xiaomi Cloud foram substituídos pelo backup do Google Fotos. Depois disso, os itens que não foram sincronizados com este dispositivo não serão exibidos. Até %1$s, você pode mover seus itens para o Google Fotos ou visitar i.mi.com para baixá-los. Depois disso, os itens que ainda estiverem armazenados na Xiaomi Cloud serão excluídos permanentemente."</string>
     <string name="transfer_dialog_msg_link">Encerramento dos serviços de sincronização para itens da Galeria e transferência de itens para o Google Fotos</string>
-    <string name="transfer_dialog_title">MiCloud substituída pelo backup do Google Fotos</string>
+    <string name="transfer_dialog_title">Xiaomi Cloud substituída pelo backup do Google Fotos</string>
     <string name="transfer_service_msg">Os serviços de sincronização da Xiaomi Cloud foram substituídos pelo backup do Google Fotos. Downloads de itens não sincronizados não estão mais disponíveis.</string>
     <string name="transfer_status_banner_msg_complete">Itens transferidos com sucesso</string>
     <string name="transfer_status_banner_msg_need_retry">Transferência interrompida. Tente novamente ou visite i.mi.com para baixar itens.</string>
