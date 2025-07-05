@@ -221,6 +221,10 @@ Selecione outras fotos e tente novamente."</string>
     <string name="ai_privacy_tip_2">Retrato de aniversário</string>
     <string name="ai_privacy_tip_input">Descrição do texto</string>
     <string name="ai_privacy_title">Declaração de privacidade</string>
+    <string name="ai_process_grogress_tip">Analisando itens da Galeria: %1$s </string>
+    <string name="ai_process_grogress_tip_search">Analisando imagens da Galeria: %1$s </string>
+    <string name="ai_progress_click_talkback_show">Ver detalhes</string>
+    <string name="ai_progress_grogress_tip_guide">"Seu dispositivo analisará itens mais rapidamente quando estiver carregando e a tela estiver desligada."</string>
     <string name="ai_re_create_image">Tentar novamente</string>
     <string name="ai_ready_to_have_try">Começar</string>
     <string name="ai_recreate_image_cancel_text_btn">Continuar</string>
@@ -1104,6 +1108,23 @@ Tire mais fotos de seus amigos!"</string>
     <string name="feature_guidance_photo_effects">"Novos efeitos de foto
 estão disponíveis"</string>
     <string name="feature_guidance_video_editor_smart_effects">Novos efeitos estão disponíveis</string>
+    <string name="featured_added_to_top_album">Adicionado com sucesso</string>
+    <string name="featured_change_album_cover">Mudar a capa do álbum</string>
+    <string name="featured_customize">Personalizar</string>
+    <string name="featured_edit_album_name">Editar nome do álbum</string>
+    <string name="featured_edit_group_name">Editar nome do grupo</string>
+    <string name="featured_edit_time_name">Editar título</string>
+    <string name="featured_journey_empty_title">Nenhuma viagem aqui ainda</string>
+    <string name="featured_journey_pets_empty_des">As viagens serão organizadas quando o dispositivo estiver carregando e a tela estiver desligada.</string>
+    <string name="featured_page_label">Coleções</string>
+    <string name="featured_people_empty_des">Pessoas e grupos serão organizados quando o dispositivo estiver carregando e a tela estiver desligada</string>
+    <string name="featured_people_empty_title">Ainda não há pessoas</string>
+    <string name="featured_people_pets_empty_des">Ative a sincronização com a nuvem e tire mais fotos para ver pessoas, animais de estimação e grupos em destaque aqui.</string>
+    <string name="featured_people_pets_empty_title">Ainda não há pessoas ou animais de estimação aqui</string>
+    <string name="featured_pin_to_collection">Adicionar às coleções em destaque</string>
+    <string name="featured_remove_top_album">Desanexado com sucesso</string>
+    <string name="featured_time_empty_des">As memórias serão organizadas quando o dispositivo estiver carregando e a tela estiver desligada.</string>
+    <string name="featured_time_empty_title">Nenhuma memória aqui ainda</string>
     <string name="feedback_my_reports">"Feedback"</string>
     <string name="feedback_problem">Informar um problema</string>
     <string name="feedback_suggest">Envie uma sugestão</string>

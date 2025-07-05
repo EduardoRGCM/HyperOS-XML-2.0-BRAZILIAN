@@ -4974,6 +4974,11 @@ Você poderá alterar essa opção mais tarde em Configurações > Apps e notifi
     <string name="homepage_all_settings">Todas as configurações</string>
     <string name="homepage_condition_footer_content_description">Recolher</string>
     <string name="homepage_personal_settings">Sugestões</string>
+    <string name="hotspot_battery_charging_summary">%1$s ‑ Carregando</string>
+    <string name="hotspot_connection_category">Conexão hotspot</string>
+    <string name="hotspot_connection_strength">Força da conexão</string>
+    <string name="hotspot_device_details_category">Detalhes do dispositivo Hotspot</string>
+    <string name="hotspot_device_details_internet_source">Fonte da Internet</string>
     <string name="hourly_battery_usage_chart">Gráfico de uso da bateria por hora</string>
     <string name="hover_mode_guide_text">Quando a tela interna está atendendo uma chamada ou reproduzindo vídeos, você pode usar o modo Hover na metade inferior da tela.</string>
     <string name="hover_mode_name">Modo pairar</string>
@@ -7608,10 +7613,10 @@ Isso também autoriza o app a ativar ou desativar o Não perturbe e alterar as c
     <string name="ota_disable_automatic_update_summary">Aplique as atualizações quando o dispositivo for reiniciado</string>
     <string name="otg_button">"OTG"</string>
     <string name="otg_closed">Desativado</string>
-    <string name="otg_new_tip">Ative o OTG para poder conectar seu dispositivo diretamente a outros dispositivos usando USB. Este recurso será desativado automaticamente após %d minutos de inatividade.</string>
+    <string name="otg_new_tip">Este recurso permite que você conecte e forneça energia a dispositivos Type-C. Se fones de ouvido, pendrives ou outros dispositivos conectados não forem reconhecidos, ative esta função. Este recurso será desativado automaticamente após %d minutos de inatividade.</string>
     <string name="otg_opened">Ativado</string>
     <string name="otg_settings">"OTG"</string>
-    <string name="otg_tip">"O USB OTG permite que discos USB e teclados portáteis conectem-se ao seu dispositivo e troquem dados.
+    <string name="otg_tip">"O USB OTG permite que unidades USB e teclados portáteis conectem-se ao seu dispositivo e troquem dados.
 
 O OTG é desativado automaticamente após 10 minutos de inatividade."</string>
     <string name="other">Outros</string>
@@ -9492,6 +9497,7 @@ Nota: não é possível usar sua impressão digital para desbloquear este dispos
     <string name="set_shoulder_key_shortcut_positive_button">Sim</string>
     <string name="set_shoulder_key_shortcut_title">Configurar botões pop-up</string>
     <string name="setting_alarm_clock_title">Alarme</string>
+    <string name="setting_hotspot_title">"Hotspot"</string>
     <string name="setting_location_title">Localização</string>
     <string name="setting_network_speed_title">Velocidade da conexão</string>
     <string name="setting_pc_title">Computador</string>
