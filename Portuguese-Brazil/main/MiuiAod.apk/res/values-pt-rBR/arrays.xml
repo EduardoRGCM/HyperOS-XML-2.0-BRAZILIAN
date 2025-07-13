@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="big_time_clock_title_array">
+        <item>Fonte do sistema</item>
+        <item>Quadrado largo</item>
+        <item>Preto simples</item>
+        <item>Camada dupla</item>
+    </string-array>
     <string-array name="kg_glass_filters">
         <item>"Original"</item>
         <item>"Blur"</item>

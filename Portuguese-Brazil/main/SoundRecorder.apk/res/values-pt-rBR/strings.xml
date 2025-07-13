@@ -49,6 +49,8 @@
     <string name="airecorder_os2_off_screen_notification_stop">Gravação concluída</string>
     <string name="airecorder_pause_status_focus_notification">Gravação pausada</string>
     <string name="airecorder_record_while_in_call_tip">"Não é possível gravar durante chamadas"</string>
+    <string name="recorder_finished">Gravação finalizada</string>
+    <string name="recorder_started">Gravação iniciada</string>
     <string name="airecorder_recording_status_focus_notification">Gravando</string>
     <string name="airecorder_speaker">"Interlocutor "</string>
     <string name="airecorder_stop_status_focus_notification">Gravação concluída</string>

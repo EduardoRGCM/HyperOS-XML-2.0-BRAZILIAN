@@ -54,8 +54,8 @@
         <item quantity="one">Corrigiu hábitos pouco saudáveis %2$s vez em %1$s</item>
     </plurals>
     <plurals name="format_less_than_last_interval_unlock">
-        <item quantity="other">%2$d vezes a menos que %1$s</item>
-        <item quantity="one">%2$d vez a menos que %1$s</item>
+        <item quantity="other">%2$d vezes menos que %1$s</item>
+        <item quantity="one">%2$d vez menos que %1$s</item>
     </plurals>
     <plurals name="format_more_than_last_interval_unlock">
         <item quantity="other">%2$d vezes a mais que %1$s</item>
@@ -138,20 +138,20 @@
         <item quantity="one">Desbloqueado %d vez na semana passada</item>
     </plurals>
     <plurals name="less_than_last_day_unlock">
-        <item quantity="other">%d vezes a menos que ontem</item>
-        <item quantity="one">%d vez a menos que ontem</item>
+        <item quantity="other">%d vezes menos que ontem</item>
+        <item quantity="one">%d vez menos que ontem</item>
     </plurals>
     <plurals name="less_than_last_interval_unlock">
-        <item quantity="other">%d vezes a menos que no período passado</item>
-        <item quantity="one">%d vez a menos que no período passado</item>
+        <item quantity="other">%d vezes menos que no período passado</item>
+        <item quantity="one">%d vez menos que no período passado</item>
     </plurals>
     <plurals name="less_than_last_month_unlock">
-        <item quantity="other">%d vezes a menos que no último mês</item>
-        <item quantity="one">%d vez a menos que no último mês</item>
+        <item quantity="other">%d vezes menos que no último mês</item>
+        <item quantity="one">%d vez menos que no último mês</item>
     </plurals>
     <plurals name="less_than_last_week_unlock">
-        <item quantity="other">%d vezes a menos que na última semana</item>
-        <item quantity="one">%d vez a menos que na última semana</item>
+        <item quantity="other">%d vezes menos que na última semana</item>
+        <item quantity="one">%d vez menos que na última semana</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Agora mesmo</item>

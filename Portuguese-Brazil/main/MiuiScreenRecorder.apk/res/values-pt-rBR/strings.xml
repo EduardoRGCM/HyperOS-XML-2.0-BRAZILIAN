@@ -233,7 +233,7 @@
     <string name="preference_copied">\"%1$s\" copiado para a área de transferência.</string>
     <string name="privacy_settings">Privacidade</string>
     <string name="protect_oneself_when_recording">"Gravando chamada. Proteja a sua privacidade e a de outras pessoas ao usar este recurso."</string>
-    <string name="quit_recording">Sair do Gravador de tela</string>
+    <string name="quit_recording">Gravador de tela encerrado</string>
     <string name="record_time_too_short">O vídeo gravado é muito curto</string>
     <string name="recording_failure">"Não foi possível gravar, tente novamente."</string>
     <string name="recording_max_size">"A gravação foi parada e salva porque o arquivo do vídeo atingiu seu limite de tamanho. Inicie a gravação navamente caso deseje continuar a gravar."</string>

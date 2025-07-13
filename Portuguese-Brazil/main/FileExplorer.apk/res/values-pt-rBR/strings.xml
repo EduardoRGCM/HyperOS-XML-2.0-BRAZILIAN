@@ -237,7 +237,7 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="disk_available">"Disponível: "</string>
     <string name="disk_total">"Total: "</string>
     <string name="display_all_dirs">Todas as pastas</string>
-    <string name="display_hide_sys_dirs">Pastas do sistema ocultas</string>
+    <string name="display_hide_sys_dirs">Pastas ocultas do sistema</string>
     <string name="display_mode">Exibir</string>
     <string name="display_setting">Itens exibidos</string>
     <string name="doc_all">Todos</string>
@@ -381,7 +381,7 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="ftp_transfer_secure">Segurança</string>
     <string name="ftp_username_and_passworld">Fazer login</string>
     <string name="ftp_username_hint">Usuário</string>
-    <string name="func_settings">Configuração de funções</string>
+    <string name="func_settings">Configurar recursos</string>
     <string name="function_file_operation">Para exibir ou editar arquivos</string>
     <string name="function_set_private">Para ver e criptografar arquivos</string>
     <string name="function_use_imei">Para acessar o IMEI e criptografar arquivos</string>
@@ -863,7 +863,7 @@ Tente mover arquivos do seu dispositivo para o Mi Drive."</string>
     <string name="request_timeout">Pedido de rede expirado</string>
     <string name="reset_password">Alterar senha</string>
     <string name="restoring">Restaurando…</string>
-    <string name="reverse_order">Reverso</string>
+    <string name="reverse_order">Decrescente</string>
     <string name="rlv_last_refreshing_time">Atualizado %1$s</string>
     <string name="rlv_loading_more">Aguarde…</string>
     <string name="rlv_pull_to_close">Puxe para fechar</string>

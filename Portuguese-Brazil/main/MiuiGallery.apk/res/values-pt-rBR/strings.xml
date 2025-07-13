@@ -390,7 +390,7 @@ Conecte o carregador e desligue a tela para que as memórias apareçam."</string
     <string name="app_summary">Gerenciar e editar suas fotos e vídeos no seu dispositivo e na Xiaomi Cloud</string>
     <string name="app_summary_2">Armazenar, gerenciar e editar fotos e vídeos neste dispositivo</string>
     <string name="apply">Aplicar</string>
-    <string name="art_still_download_failed_for_notwork">"Não foi possível baixar. Verifique suas configurações de rede e tente novamente."</string>
+    <string name="art_still_download_failed_for_notwork">"Não foi possível baixar. Verifique sua internet e tente novamente."</string>
     <string name="art_still_download_sdk_without_wifi_msg">"Parece que seu dispositivo não está conectado ao Wi-Fi. Baixar plugin usando dados móveis?"</string>
     <string name="art_still_download_sdk_without_wifi_msg_china">"Parece que seu dispositivo não está conectado ao Wi-Fi. Baixar plugin usando dados móveis?"</string>
     <string name="art_still_download_sdk_without_wifi_title">Baixar plugin \"Arte\"</string>
@@ -922,7 +922,7 @@ Envie este código para o supervisor."</string>
     <string name="download_error_tip">. Os downloads foram interrompidos.</string>
     <string name="download_library_dialog_message">A Galeria precisa de modelos para poder criar memórias neste dispositivo. Recomendamos usar o Wi-Fi para baixar os modelos.</string>
     <string name="download_library_dialog_title">Baixar modelos</string>
-    <string name="download_retry_message">"Não foi possível baixar os arquivos, verifique a conexão de rede e tente novamente."</string>
+    <string name="download_retry_message">"Não foi possível baixar os arquivos, verifique sua internet e tente novamente."</string>
     <string name="download_retry_text">Repetir</string>
     <string name="download_retry_title">"Não foi possível baixar os arquivos"</string>
     <string name="download_tip">Baixar</string>
@@ -1248,8 +1248,8 @@ estão disponíveis"</string>
     <string name="filter_sky_dawn">Amanhecer</string>
     <string name="filter_sky_detect_forbidden_tips">Não foi possível detectar o céu</string>
     <string name="filter_sky_double_rainbow">Duplo arco-íris</string>
-    <string name="filter_sky_download_failed">Não foi possível baixar o plugin. Verifique suas configurações de rede e tente novamente.</string>
-    <string name="filter_sky_download_failed_msg">Não foi possível baixar. Verifique suas configurações de rede e tente novamente.</string>
+    <string name="filter_sky_download_failed">Não foi possível baixar o plugin. Verifique sua internet e tente novamente.</string>
+    <string name="filter_sky_download_failed_msg">Não foi possível baixar. Verifique sua internet e tente novamente.</string>
     <string name="filter_sky_download_finish">Plugin baixado com sucesso</string>
     <string name="filter_sky_download_sdk_without_wifi_msg">Se você não está conectado ao Wi-Fi, você pode usar os dados móveis para baixar o plugin (%1$d MB) que permite substituir o céu nas suas fotos.</string>
     <string name="filter_sky_download_sdk_without_wifi_title">Baixar plugin</string>
@@ -1509,7 +1509,7 @@ estão disponíveis"</string>
     <string name="hybrid_service_unavailiable">Serviço indisponível</string>
     <string name="hybrid_try_again">Repetir</string>
     <string name="i_know">Entendi</string>
-    <string name="id_photo_download_failed_for_notwork">"Não foi possível baixar. Verifique as suas configurações de internet e tente novamente."</string>
+    <string name="id_photo_download_failed_for_notwork">"Não foi possível baixar. Verifique sua internet e tente novamente."</string>
     <string name="id_photo_download_sdk_without_wifi_msg">"Parece que seu dispositivo não está conectado ao Wi-Fi. Baixar plugin usando dados móveis?"</string>
     <string name="id_photo_download_sdk_without_wifi_msg_china">"Parece que seu dispositivo não está conectado ao Wi-Fi. Baixar plugin usando dados móveis?"</string>
     <string name="id_photo_download_sdk_without_wifi_title">Baixar plugin \"Identificação\"</string>
@@ -2439,7 +2439,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="photo_editor_navigator_module_download_wait_wlan">Aguardar Wi-Fi</string>
     <string name="photo_editor_navigator_module_downloading">Baixando %s…</string>
     <string name="photo_editor_navigator_need_download">Conecte-se à internet para baixar %s.</string>
-    <string name="photo_editor_navigator_sticker_download_failed">Não foi possível baixar. Verifique as suas configurações de rede e tente novamente.</string>
+    <string name="photo_editor_navigator_sticker_download_failed">Não foi possível baixar. Verifique sua internet e tente novamente.</string>
     <string name="photo_editor_navigator_sticker_download_success">Baixado com sucesso</string>
     <string name="photo_editor_navigator_sticker_download_without_wifi_msg">Não está conectado ao Wi-Fi. Usar %1$d MB dos dados móveis para baixar o plugin?</string>
     <string name="photo_editor_navigator_sticker_download_without_wifi_msg_china">Não está conectado ao Wi-Fi. Usar %1$d MB dos dados móveis para baixar o plugin?</string>
@@ -2675,6 +2675,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="realme">Realme</string>
     <string name="realme_phone">Realme</string>
     <string name="recent_album_empty_title">"Nenhuma foto adicionada recentemente"</string>
+    <string name="recently_deleted">Itens excluídos</string>
     <string name="recipient_editor_count_format">%d</string>
     <string name="recommanded_face_abandon_tip">Removido das sugestões</string>
     <string name="recommanded_face_added_tip">Adicionado ao álbum \"%s\"</string>
@@ -3905,7 +3906,7 @@ Até %1$s, você pode mover seus itens para o Google Fotos ou visitar i.mi.com p
     <string name="vlog_download_cloud_file_retry">Não foi possível baixar os itens da nuvem. Tente novamente.</string>
     <string name="vlog_download_cloud_file_without_wifi_msg">Não foi possível conectar-se ao Wi-Fi. Você também pode baixar itens da nuvem (%s) usando dados móveis.</string>
     <string name="vlog_download_fail">Não foi possível baixar. Verifique suas configurações de rede e tente novamente.</string>
-    <string name="vlog_download_failed_for_notwork">Não foi possível baixar. Verifique as suas configurações de rede e tente novamente.</string>
+    <string name="vlog_download_failed_for_notwork">Não foi possível baixar. Verifique sua internet e tente novamente.</string>
     <string name="vlog_download_sdk_without_wifi_msg">Não foi possível conectar-se ao Wi-Fi. Você também pode baixar o editor de vídeo usando dados móveis.</string>
     <string name="vlog_download_sdk_without_wifi_title">Baixando editor de vídeos…</string>
     <string name="vlog_downloading_cloud_file">Baixando itens da nuvem…</string>

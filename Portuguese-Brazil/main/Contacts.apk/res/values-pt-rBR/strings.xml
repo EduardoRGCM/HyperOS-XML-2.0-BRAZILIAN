@@ -58,6 +58,7 @@
     <string name="aggregation_suggestion_join_dialog_message">Mesclar o contato atual ao contato selecionado?</string>
     <string name="ai_calllog_call_record_menu">Gravação de chamadas por IA</string>
     <string name="all_list_empty">Nenhum contato</string>
+    <string name="all_selected">Selecionar todos</string>
     <string name="am">"AM"</string>
     <string name="antispam_mark_my_contribution">Compartilhando informações reportadas</string>
     <string name="app_name">Contatos</string>
@@ -191,7 +192,9 @@
     <string name="bh_permission_read_contact_desc_and_reason">Ler os contatos para completar o saldo de seus contatos</string>
     <string name="bh_permission_read_phone_state_desc">Para exibir números de telefone e informações relacionadas à operadora</string>
     <string name="bh_permission_showing">Detalhes de permissões</string>
+    <string name="bh_pkg_current_month">Este mês</string>
     <string name="bh_pkg_data_cant_query">"Não é possível visualizar detalhes devido a restrições da operadora"</string>
+    <string name="bh_pkg_setting_talkback">Configurações</string>
     <string name="bh_please_check_operation">Verifique se a operadora está configurada corretamente</string>
     <string name="bh_please_complete_sim_before_charge">Para recarregar, primeiro adicione um número de telefone.</string>
     <string name="bh_please_fill_total_limit">Adicione dados móveis incluídos em seu plano</string>
@@ -214,6 +217,8 @@
     <string name="bh_sim">"SIM %1$d"</string>
     <string name="bh_similar_number_hint">Este número é similar ao %1$s. Recarregar este número mesmo assim?</string>
     <string name="bh_stop_carrier_services">Desativar os Serviços de operadora Mi</string>
+    <string name="bh_state_not_selected_talkback">Não selecionado: SIM %1$s</string>
+    <string name="bh_state_selected_talkback">Selecionado: SIM %1$s</string>
     <string name="bh_stop_carrier_services_short">Desativar os Serviços de operadora Mi</string>
     <string name="bh_stop_result">"Você não poderá gerenciar seu plano de operadora ou comprar dados e minutos de chamada se desativar os Serviços de operadora Mi. Desativar mesmo assim?"</string>
     <string name="bh_system_recommend">Recomendações do sistema</string>
@@ -960,6 +965,7 @@ Toque em \"%1$s\", e então selecione \"%2$s\"."</string>
     <string name="non_phone_add_to_contacts">Adicionar a um contato existente</string>
     <string name="non_phone_caption">Número de telefone</string>
     <string name="non_phone_close">Fechar</string>
+    <string name="none_selected">Desmarcar tudo</string>
     <string name="noon">"PM"</string>
     <string name="not_applied">"Não foi possível aplicar"</string>
     <string name="not_set">Não definido</string>

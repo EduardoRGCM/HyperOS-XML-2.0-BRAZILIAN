@@ -36,6 +36,7 @@
     <string name="accessibility_menu_item_smallwindow_enable">Este app suporta janelas flutuantes</string>
     <string name="accessibility_menu_item_split_disable">"O app não suporta Tela dividida."</string>
     <string name="accessibility_menu_item_split_enable">O app suporta Tela dividida</string>
+    <string name="accessibility_recent_task_clear_info">Limpar todos os recentes</string>
     <string name="accessibility_recent_task_enter">Recentes aberto</string>
     <string name="accessibility_recent_task_exit">Recentes fechado</string>
     <string name="accessibility_recent_task_locked_state">Bloqueado</string>

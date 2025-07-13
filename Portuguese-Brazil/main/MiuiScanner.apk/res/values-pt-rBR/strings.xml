@@ -52,6 +52,10 @@
     <string name="already_ocr_result">Itens selecionados automaticamente</string>
     <string name="always">Sempre</string>
     <string name="am">"AM"</string>
+    <string name="aon_no_network_tip">Ative o Wi-Fi ou os dados móveis e tente novamente</string>
+    <string name="aon_pay_setting_default_des">Método de pagamento padrão</string>
+    <string name="aon_recognize_code_des">Código QR reconhecido</string>
+    <string name="aon_recognize_code_lottie_res">Escaneamento rápido</string>
     <string name="app_description_content">O Scanner permite a digitalização de códigos de barra, documentos, cartões de visita e mais. Certifique-se de que não usará estes recursos antes de desinstalar o app.</string>
     <string name="app_description_title">Sobre o Scanner</string>
     <string name="app_details">"App:"</string>
