@@ -786,7 +786,7 @@ Para desativar este recurso, vá em Configurações > Som e vibração > Vídeo 
     <string name="kg_font_filter_object_label_time_weather">Relógio com clima</string>
     <string name="kg_font_filter_rhombus_secondary_label">Coluna</string>
     <string name="kg_function_button_text_color">Cor</string>
-    <string name="kg_function_button_text_effect">Efeitos de plano de fundo</string>
+    <string name="kg_function_button_text_effect">Efeitos do plano de fundo</string>
     <string name="kg_function_button_text_font">Efeitos de fonte</string>
     <string name="kg_function_button_text_hierarchy">Profundidade</string>
     <string name="kg_function_button_text_lang">Idioma</string>
@@ -842,7 +842,7 @@ Para desativar este recurso, vá em Configurações > Som e vibração > Vídeo 
     <string name="kg_title_fonts_and_content">Fonte e conteúdo</string>
     <string name="kg_title_name">Fonte</string>
     <string name="kg_typesetting_string">"Layout"</string>
-    <string name="kg_wallpaper_filter_title">Efeitos de plano de fundo</string>
+    <string name="kg_wallpaper_filter_title">Efeitos do plano de fundo</string>
     <string name="kg_wallpaper_filter_type_crystallized">Cristais</string>
     <string name="kg_wallpaper_filter_type_focus">Foco</string>
     <string name="kg_wallpaper_filter_type_front_back">Em camadas</string>

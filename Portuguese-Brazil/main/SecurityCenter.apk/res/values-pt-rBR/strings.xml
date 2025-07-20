@@ -5523,7 +5523,7 @@ Para usar este ^1, você precisa montá-lo primeiro."</string>
 
 Para usar este ^1 com este dispositivo, você precisa configurá-lo primeiro."</string>
     <string name="storage_fbo_clear">Atualização de armazenamento</string>
-    <string name="storage_fbo_des">"O armazenamento interno está fragmentado, o que pode diminuir significativamente a velocidade do seu dispositivo. A atualização do armazenamento funciona automaticamente enquanto você não está usando o dispositivo. Ela organiza fisicamente seus arquivos no menor número de fragmentos, reduzindo a lentidão."</string>
+    <string name="storage_fbo_des">"O armazenamento interno sofre de fragmentação, o que pode diminuir significativamente a velocidade do seu dispositivo. A atualização do armazenamento funciona automaticamente enquanto você não está usando o dispositivo. Ela organiza fisicamente seus arquivos no menor número de fragmentos, reduzindo a lentidão."</string>
     <string name="storage_fbo_number_tip">Processado em %1$s</string>
     <string name="storage_fbo_tools">Otimização de armazenamento</string>
     <string name="storage_file_delete_tip">Excluir itens selecionados permanentemente? Alguns deles podem ser carregados novamente quando necessário.</string>

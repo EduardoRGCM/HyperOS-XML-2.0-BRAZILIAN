@@ -208,7 +208,7 @@
     <string-array name="title_app_info">
         <item>Fonte da instalação</item>
         <item>Hora da instalação</item>
-        <item>Última atualização da fonte</item>
+        <item>Última fonte da atualização</item>
         <item>Última atualização</item>
     </string-array>
     <string-array name="traffic_package_type">
