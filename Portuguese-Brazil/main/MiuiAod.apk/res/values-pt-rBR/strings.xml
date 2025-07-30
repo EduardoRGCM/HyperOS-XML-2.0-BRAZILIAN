@@ -216,6 +216,7 @@ dd/MM"</string>
     <string name="format_month_day_lunar_calendar_month_day_desc">%1$s de %2$s, data de acordo com o Calendário Tradicional Chinês: %3$s, feriado: %4$s</string>
     <string name="format_month_day_style1">d/MMM</string>
     <string name="format_month_day_style2">d/M</string>
+    <string name="format_month_day_style_interactive_pets">d/M</string>
     <string name="format_month_day_week">EEE, dd/MMM</string>
     <string name="format_month_day_week_lunar_calendar_month_day_desc">%1$s de %2$s, %3$s, data de acordo com o Calendário Tradicional Chinês: %4$s</string>
     <string name="format_month_day_week_solar_desc">%1$s de %2$s, %3$s, feriado: %4$s</string>
@@ -240,6 +241,7 @@ dd/MM"</string>
     <string name="health_chart_step_count_unit">Passos</string>
     <string name="health_no_data">Sem dados de saúde</string>
     <string name="health_sleep_desc">Duração do sono %1$s, qualidade do sono: %2$s</string>
+    <string name="horizontal_clock">Relógio horizontal</string>
     <string name="humidity_format">Umidade %s</string>
     <string name="icon_content_description">Ícone de diálogo</string>
     <string name="item_view_role_description">Guia</string>
@@ -491,6 +493,7 @@ dd/MM"</string>
     <string name="miui_clock_oversize_date">dd/MM</string>
     <string name="miui_clock_pad_exclusive_format_week_full_date">"EEEE
 dd/MM/yyyy"</string>
+    <string name="miui_depth_pets_moth_format">dd/MMM</string>
     <string name="miui_lock_aqi_level_description_critical">Perigoso</string>
     <string name="miui_lock_aqi_level_description_excellent">Bom</string>
     <string name="miui_lock_aqi_level_description_good">Normal</string>
@@ -804,6 +807,10 @@ dd/MM"</string>
     <string name="time_style_layout">"Layout"</string>
     <string name="tiny_accessibility_kg_battery_level">Bateria</string>
     <string name="tiny_camera_content_description">Câmera</string>
+    <string name="tiny_bubble_date_format">d/M</string>
+    <string name="tiny_bubble_date_week_content_description">EEEE, dd/MMM</string>
+    <string name="tiny_bubble_date_week_format">d/M EEE</string>
+    <string name="tiny_bubble_week_format">EE</string>
     <string name="tiny_classic_date_format">d/M EEE</string>
     <string name="tiny_clock_time_format_12">hh:mm</string>
     <string name="tiny_clock_time_format_24">HH:mm</string>
@@ -825,6 +832,10 @@ dd/MM"</string>
     <string name="uvi_format_desc">Índice de raios UV: %1$s, %2$s</string>
     <string name="v7_preference_off">DESATIVADO</string>
     <string name="v7_preference_on">ATIVADO</string>
+    <string name="vertical_clock">Relógio vertical</string>
+    <string name="vertical_clock_with_paint">Relógio vertical com pintura</string>
+    <string name="vertical_clock_with_planet">Relógio vertical com planeta</string>
+    <string name="vertical_clock_with_shadow">Relógio vertical com sombra</string>
     <string name="weather_no_data">Não há dados meteorológicos</string>
     <string name="wednesday">Quarta</string>
     <string name="wednesday_short">Qua</string>
