@@ -106,7 +106,7 @@
     <string name="ai_in_line_match">O servidor está ocupado</string>
     <string name="ai_inquire_apply_wallpaper">Aplicar este plano de fundo?</string>
     <string name="ai_moving_your_wallpaper">Veja como a IA pode dar vida aos seus planos de fundo</string>
-    <string name="ai_pic_unavailable_content">Certifique-se de que o assunto da foto esteja claro e desobstruído.</string>
+    <string name="ai_pic_unavailable_content">Certifique-se de que o objeto (ou pessoa) da foto esteja claro e desobstruído.</string>
     <string name="ai_pic_unavailable_title">"Esta foto não atende aos requisitos de geração"</string>
     <string name="ai_read_the_privacy_policy">&lt;Data>Leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade&lt;/a> antes de continuar.&lt;/Data></string>
     <string name="ai_read_the_privacy_policy_pad">&lt;Data>Leia e aceite o nosso &lt;a href=\"%1$s\">Contrato do Usuário&lt;/a> e a &lt;a href=\"%2$s\">Política de Privacidade do Plano de Fundo e Personalização&lt;/a> antes de continuar.&lt;/Data></string>
@@ -116,7 +116,7 @@
     <string name="ai_select_again">Selecionar</string>
     <string name="ai_select_images_in_the_following_formats">Selecione imagens em qualquer um dos seguintes formatos suportados: *.jpg, *.jpeg, *.png, *.bmp, WebP, HEIC e HEIF.</string>
     <string name="ai_select_images_smaller_than_one_hundred">Selecione uma imagem de %d MB e tente novamente.</string>
-    <string name="ai_select_message">Selecione uma foto em que o assunto esteja claramente visível.</string>
+    <string name="ai_select_message">Selecione uma foto na qual o objeto (ou pessoa) esteja claramente visível.</string>
     <string name="ai_select_title">"Não foi possível gerar"</string>
     <string name="ai_select_wallpaper">Selecionar plano de fundo</string>
     <string name="ai_service_temporarily_unavailable">"Este recurso não está disponível"</string>
@@ -143,7 +143,7 @@
     <string name="ai_wallpaper_retry">Tentar novamente</string>
     <string name="ai_wallpaper_select_picture">Selecionar</string>
     <string name="ai_wallpaper_selection_prompt">Selecionar fotos</string>
-    <string name="ai_wallpaper_selection_prompt_message">Para obter melhores resultados, selecione fotos que se enquadrem nas categorias a seguir e certifique-se de que o assunto principal da imagem esteja claro e desobstruído.</string>
+    <string name="ai_wallpaper_selection_prompt_message">Para melhores resultados, selecione fotos que se encaixem nas seguintes categorias e certifique-se de que o tema principal da imagem esteja nítido e sem obstruções.</string>
     <string name="ai_wallpaper_service_exception">Ocorreu um erro</string>
     <string name="ai_wallpaper_start_use">Iniciar</string>
     <string name="ai_wallpaper_tips_car">Carros</string>

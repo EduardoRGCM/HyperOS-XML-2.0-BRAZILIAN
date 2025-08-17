@@ -89,6 +89,10 @@
         <item quantity="other">Retroceder %d segundos</item>
         <item quantity="one">Retroceder %d segundo</item>
     </plurals>
+    <plurals name="f07">
+        <item quantity="other">Você pode gravar vídeos com o efeito de congelamento de tempo com até %d objetos.</item>
+        <item quantity="one">Você pode gravar vídeos com o efeito de congelamento de tempo somente com %d objeto.</item>
+    </plurals>
     <plurals name="fastmotion_pro_min_unit">
         <item quantity="other">%1$d minutos</item>
         <item quantity="one">%1$d minuto</item>

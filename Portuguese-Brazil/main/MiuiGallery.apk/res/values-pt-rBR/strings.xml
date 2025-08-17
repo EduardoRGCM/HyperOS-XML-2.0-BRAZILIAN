@@ -2940,7 +2940,7 @@ A decodificação pode levar algum tempo quando você usa este recurso pela prim
     <string name="segment_copy_fail">"Não foi possível copiar"</string>
     <string name="segment_copy_processing">Copiando…</string>
     <string name="segment_copy_success">Copiado com sucesso</string>
-    <string name="segment_no_result">"Não foi possível detectar o objeto desta foto"</string>
+    <string name="segment_no_result">"Não foi possível detectar o objeto principal nesta foto"</string>
     <string name="segment_save">Salvar</string>
     <string name="segment_save_fail">"Não foi possível salvar"</string>
     <string name="segment_save_processing">Salvando…</string>

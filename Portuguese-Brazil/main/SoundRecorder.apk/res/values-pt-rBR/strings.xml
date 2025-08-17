@@ -731,7 +731,7 @@ Toque em \"%1$s\" e selecione \"%2$s\"."</string>
     <string name="search_tip_rename">Nomear gravações manualmente</string>
     <string name="send">Enviar</string>
     <string name="settings_ai_record_abstract">Resumir</string>
-    <string name="settings_ai_record_abstract_description">Resuma o assunto e o conteúdo de uma gravação e salve o resumo nas Notas</string>
+    <string name="settings_ai_record_abstract_description">Resuma o assunto e o conteúdo de uma gravação e salve o resumo em Notas</string>
     <string name="settings_ai_record_diff_speaker">Distinguir interlocutores</string>
     <string name="settings_ai_record_diff_speaker_description">"Se vários interlocutores forem detectados durante a transcrição, eles serão automaticamente distinguidos e rotulados. Assim que a transcrição estiver concluída, personalize o rótulo dos interlocutores para uma leitura mais dinâmica."</string>
     <string name="settings_ai_record_trans">Transcrição</string>
