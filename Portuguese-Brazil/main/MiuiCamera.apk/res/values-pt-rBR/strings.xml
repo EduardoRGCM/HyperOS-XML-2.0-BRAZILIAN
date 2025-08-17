@@ -179,8 +179,8 @@
     <string name="accessibility_mimoji_image_panel_on">Painel de avatar</string>
     <string name="accessibility_mimoji_split_screen">Tela dividida</string>
     <string name="accessibility_mimoji_timbre_panel_on">Painel de voz</string>
-    <string name="accessibility_mimovie_off">Não usando enquadramento de filme</string>
-    <string name="accessibility_mimovie_on">Usando enquadramento de filme</string>
+    <string name="accessibility_mimovie_off">Enquadramento de filme desativado</string>
+    <string name="accessibility_mimovie_on">Enquadramento de filme ativado</string>
     <string name="accessibility_module_picker_finish">Alternado para %s</string>
     <string name="accessibility_moiton_detection_off">Detecção de movimento desativado</string>
     <string name="accessibility_moiton_detection_on">Detecção de movimento ativado</string>
@@ -674,7 +674,7 @@ e ajustar preferências automaticamente"</string>
     <string name="cinematic_guide_item2_des">Com suporte a efeitos de desfoque padrão e de tela ampla, é possível ajustar a intensidade do desfoque para dar aos seus vídeos um efeito cinematográfico de profundidade de campo.</string>
     <string name="cinematic_guide_item2_title">Desfoque</string>
     <string name="cinematic_guide_title">Sobre o Modo filme</string>
-    <string name="cinematic_intell_dolly_guide_item1_des">Identifica e rastreia o sujeito automaticamente para sempre mantê-lo centralizado no enquadramento enquanto estiver em movimento. Toque duas vezes em outro sujeito para alternar.</string>
+    <string name="cinematic_intell_dolly_guide_item1_des">Identifica e rastreia o objeto (ou pessoa) automaticamente para sempre mantê-lo centralizado no enquadramento enquanto estiver em movimento. Toque duas vezes em outro sujeito para alternar.</string>
     <string name="cinematic_intell_dolly_guide_item1_title">Composição inteligente</string>
     <string name="cinematic_intell_dolly_mutex_ratio_2_39x1_tips">"A proporção widescreen não é suportada com a composição inteligente"</string>
     <string name="cinematic_intell_dolly_no_bokeh_tips">"Os efeitos de desfoque não são suportados com a composição inteligente"</string>
