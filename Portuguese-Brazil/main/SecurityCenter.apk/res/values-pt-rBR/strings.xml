@@ -1912,7 +1912,7 @@ monitoramento de terremotos"</string>
     <string name="ew_not_support_area">Os avisos não são suportados nesta área</string>
     <string name="ew_open_tips">O alerta de terremotos está ativado</string>
     <string name="ew_push_message">Intensidade estimada: %s. Espere um tremor leve perto de você.</string>
-    <string name="ew_push_title">Alerta de terremoto para %s</string>
+    <string name="ew_push_title">Alerta | Terremoto de magnitude %2$s próximo a %1$s</string>
     <string name="ew_safe_place_no_maps_tips">Não é possível pesquisar agora. Instale o Baidu Maps ou o Amap primeiro</string>
     <string name="ew_setting_desc_message">O HyperOS estima a intensidade do terremoto com base em sua magnitude, a localização do epicentro e sua localização. Quanto maior a intensidade estimada, mais devastador será o terremoto na sua área.</string>
     <string name="ew_setting_desc_title">Qual é a intensidade estimada?</string>
@@ -4316,6 +4316,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
     <string name="power_dialog_performance_mode_checkbox">Alternar para taxa de atualização de %d Hz</string>
     <string name="power_dialog_super_save_msg">A Ultra economia de bateria restringe os recursos que mais consomem energia e reduz o desempenho do dispositivo para manter os recursos básicos (ex.: chamadas, SMS e conexão à rede) disponíveis o máximo possível. Ativar a Ultra economia de bateria?</string>
     <string name="power_dialog_super_save_msg_5g">A Ultra economia de bateria restringe a maioria dos recursos com alto consumo de energia (ex.: conectividade 5G), reduzindo o desempenho do seu dispositivo. Apenas chamadas, mensagens e conectividade de rede não serão afetadas. Ativar a Ultra economia de bateria?</string>
+     <string name="power_dialog_super_save_msg_p2">"A Ultra economia de bateria desliga o visor traseiro e restringe a maioria dos recursos que consomem energia, diminuindo o desempenho do seu dispositivo para manter as funcionalidades básicas (por exemplo, chamadas, SMS e conexão à rede) disponíveis pelo maior tempo possível. Ativar a Ultra economia de bateria?"</string>
     <string name="power_dialog_super_save_title">Ultra economia de bateria</string>
     <string name="power_idle">Telefone inativo</string>
     <string name="power_main_battery_last_day_hour">%1$s d e %2$s h restante(s)</string>

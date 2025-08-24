@@ -158,6 +158,7 @@
     <string name="flashlight_button_close">Desligar lanterna</string>
     <string name="flashlight_button_open">Ligar lanterna</string>
     <string name="flashlight_not_available">"Não é possível usar a lanterna ao usar a câmera"</string>
+    <string name="flashlight_notification_btn_close">Desativar</string>
     <string name="flashlight_notification_button">Alternar lanterna</string>
     <string name="flashlight_notification_channel_name">Status da lanterna</string>
     <string name="flashlight_notification_content_text">Lanterna ativada</string>
@@ -432,6 +433,10 @@ Usuários de outros fones de ouvido: redefina seus fones de ouvido nas configura
     <string name="qs_customize_header_title">Editar e ordenar</string>
     <string name="qs_customize_title">Editar</string>
     <string name="qs_open_night_mode_alert_summary">"Algumas configurações de exibição não são compatíveis com o Modo escuro. Entretanto, elas serão restauradas assim que o Modo escuro for desativado."</string>
+    <string name="qs_item_drag">Dragging</string>
+    <string name="qs_item_drag_and_sort">Arraste para reorganizar.</string>
+    <string name="qs_open_night_mode_alert_summary">"Algumas configurações de tela não são compatíveis com o Modo escuro. No entanto, elas serão restauradas assim que você desativá-lo"</string>
+    <string name="qs_position_hint">Posicionado na linha %1$d, coluna %2$d</string>
     <string name="quick_controls_subtitle">Adicione controles para seus dispositivos conectados</string>
     <string name="quick_controls_title">Controles do dispositivo</string>
     <string name="quick_settings_aisubtitles_label">Legendas inteligentes</string>
@@ -492,6 +497,7 @@ Usuários de outros fones de ouvido: redefina seus fones de ouvido nas configura
     <string name="recovery">"Recovery"</string>
     <string name="reset">Redefinir</string>
     <string name="restart">Reiniciar</string>
+    <string name="restart_hint">Pressione e segure o botão de Ligar/Desligar por %d segundos para forçar a reinicialização do seu dispositivo.</string>
     <string name="safe_media_volume_warning">"Aumentar o volume acima do nível recomendado?
 
 A longa exposição a sons altos pode causar problemas auditivos."</string>
@@ -617,5 +623,7 @@ A longa exposição a sons altos pode causar problemas auditivos."</string>
     <string name="wireless_charging_tips_message">Coloque o dispositivo que você deseja carregar sem fio (ex.: telefone, relógio inteligente, fones de ouvido) na traseira deste dispositivo. Certifique-se de que este dispositivo esteja pelo menos %d%% carregado antes de usar o Carregamento reverso sem fio.</string>
     <string name="wireless_charging_tips_sub_message">O outro dispositivo deve suportar o padrão de carregamento sem fios Qi.</string>
     <string name="wireless_charging_tips_title">Carregamento reverso sem fio</string>
+    <string name="wordless_mode_subtitle_text">Ative para exibir os nomes dos ícones na Central de Controle.</string>
+    <string name="wordless_mode_title_text">Exibir nomes dos ícones na Central de Controle.</string>
     <string name="yesterday">Ontem</string>
 </resources>

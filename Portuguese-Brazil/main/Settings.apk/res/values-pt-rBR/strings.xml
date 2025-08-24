@@ -5032,7 +5032,7 @@ Abra a Xiaomi Cloud e restaure os itens por lá."</string>
     <string name="hwui_force_dark_summary">Modifique o recurso de forçar Modo escuro para que fique sempre ativado</string>
     <string name="hwui_force_dark_title">Modificar o recurso forçar Modo escuro</string>
     <string name="icon_content_description">Ícone de diálogo</string>
-    <string name="icon_display_customization_action">Personalizar barra de status</string>
+    <string name="icon_display_customization_action">Personalizar exibição dos ícones</string>
     <string name="ignore_optimizations_off">Otimizar</string>
     <string name="ignore_optimizations_off_desc">Recomendado para maior duração da bateria.</string>
     <string name="ignore_optimizations_on">Não otimizar</string>

@@ -838,7 +838,7 @@ Verifique suas configurações de rede e tente novamente."</string>
     <string name="passport_account_secure_info_pref_title">Informações da Conta</string>
     <string name="passport_account_security_info_pref_title">Informações de segurança</string>
     <string name="passport_account_user_avatar">Foto de perfil</string>
-    <string name="passport_account_user_avatar_from_album">Galeria</string>
+    <string name="passport_account_user_avatar_from_album">Selecione da Galeria.</string>
     <string name="passport_account_user_avatar_from_camera">Câmera</string>
     <string name="passport_account_user_base_info">Informações básicas</string>
     <string name="passport_account_user_details">Informações pessoais</string>
@@ -944,7 +944,7 @@ Verifique suas configurações de rede e tente novamente."</string>
     <string name="passport_request_error_invalid_token">"Não foi possível verificar"</string>
     <string name="passport_request_error_network">Ocorreu um erro de rede. Verifique suas configurações de rede e tente novamente.</string>
     <string name="passport_request_error_unknown">Ocorreu um erro no sistema. Volte e tente novamente.</string>
-    <string name="passport_request_gallery_permission_message">Permitir acesso à Galeria:&lt;br />Para definir fotos de perfil</string>
+    <string name="passport_request_gallery_permission_message">Este app precisa de acesso aos itens selecionados da Galeria para poder definir sua foto de perfil. Permitir agora?</string>
     <string name="passport_resend_email_reach_limit_message">"Você solicitou muitos e-mails de verificação. Certifique-se de que o e-mail de verificação não esteja na pasta Spam da sua caixa de entrada."</string>
     <string name="passport_resend_email_reach_limit_title">Muitas tentativas</string>
     <string name="passport_resend_ticket">Reenviar código</string>

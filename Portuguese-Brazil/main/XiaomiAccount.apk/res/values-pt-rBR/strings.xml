@@ -183,9 +183,9 @@ Você pode fazer login com sua Conta Xiaomi usando %s agora."</string>
     <string name="default_popup_window_title">Janela pop-up</string>
     <string name="delete_bank_card_message">Os cartões bancários do Mi Pay e cartões NFC serão excluídos após você sair.</string>
     <string name="delete_bank_card_title">Atenção!</string>
-    <string name="delete_device_btn">Remover</string>
+    <string name="delete_device_btn">Remover dispositivo</string>
     <string name="delete_device_failed">"Não é possível remover o dispositivo"</string>
-    <string name="delete_device_notice">"Depois que o dispositivo for removido, ele será desconectado da sua Conta Xiaomi automaticamente. Você não poderá mais usar esse dispositivo para acessar fotos, mensagens, ou outros conteúdos armazenados em sua conta."</string>
+    <string name="delete_device_notice">"Se você remover este dispositivo, sua conta Xiaomi também será desconectada. Você não conseguirá mais acessar os itens armazenados na nuvem depois de removê-lo."</string>
     <string name="deny">Recusar</string>
     <string name="device_delete_success_message">"Caso não tenha feito o login neste dispositivo, troque sua senha imediatamente."</string>
     <string name="device_delete_success_title">Desconectado</string>
@@ -738,7 +738,7 @@ Você pode fazer login com sua Conta Xiaomi usando %s agora."</string>
     <string name="passport_to_verify_code_login">Fazer login por SMS</string>
     <string name="passport_trust_device">Confiar neste dispositivo</string>
     <string name="passport_two_factor_auth">Autenticação de dois fatores</string>
-    <string name="passport_two_factor_auth_hint">Ative para exigir a autenticação de dois fatores ao fazer login na sua conta</string>
+    <string name="passport_two_factor_auth_hint"><Data>Conclua duas etapas de autenticação a cada vez que fizer login na sua conta Xiaomi. &lt;a href= >Saiba mais&lt;/a></Data></string>
     <string name="passport_tz_invalid">Riscos de segurança encontrados. Este dispositivo pode estar com acesso root ou ter sido modificado. Tente outras opções de login.</string>
     <string name="passport_unknown_error">Erro desconhecido</string>
     <string name="passport_unknown_host_network_error">Verifique suas configurações de rede e tente novamente</string>
