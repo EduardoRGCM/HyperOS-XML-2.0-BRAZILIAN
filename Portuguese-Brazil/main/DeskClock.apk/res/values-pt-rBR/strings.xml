@@ -138,7 +138,7 @@
     <string name="channel_name_alarm">Alarme</string>
     <string name="channel_name_sleep">Dormir</string>
     <string name="channel_name_stopwatch">Cronômetro</string>
-    <string name="channel_name_timer">Timer</string>
+    <string name="channel_name_timer">"Timer"</string>
     <string name="character_counter_content_description">Caracteres inseridos: %1$d de %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite de caracteres excedido: %1$d de %2$d</string>
     <string name="check_theme_app_install">Certifique-se de que o app Temas esteja instalado.</string>
@@ -258,7 +258,7 @@
     <string name="force_start_permission_title">Início automático</string>
     <string name="force_touch_add_alarm">Novo alarme</string>
     <string name="force_touch_enter_stopwatch">Cronômetro</string>
-    <string name="force_touch_enter_timer">Timer</string>
+    <string name="force_touch_enter_timer">"Timer"</string>
     <string name="friday">Sexta</string>
     <string name="friday_short">Sex</string>
     <string name="friday_shortest">Sex</string>
@@ -576,7 +576,7 @@ mm"</string>
     <string name="revert">Reverter</string>
     <string name="ringtone_all">Todos os toques</string>
     <string name="ringtone_dew">Orvalho da manhã</string>
-    <string name="ringtone_digital_timer">Timer</string>
+    <string name="ringtone_digital_timer">"Timer"</string>
     <string name="ringtone_dream">Sonhando acordado</string>
     <string name="ringtone_firefly">Vaga-lumes</string>
     <string name="ringtone_more">Outros</string>
@@ -589,7 +589,7 @@ mm"</string>
     <string name="search_alarm_clock_keywords">Alarme;Alarme;</string>
     <string name="search_menu_title">Pesquisar</string>
     <string name="search_stopwatch_keywords">Cronômetro</string>
-    <string name="search_timer_keywords">Timer</string>
+    <string name="search_timer_keywords">"Timer"</string>
     <string name="search_worldclock_keywords">Hora;Relógio Mundial;Relógio</string>
     <string name="select_all">Selecionar todos</string>
     <string name="select_operation">Selecionar</string>
@@ -746,7 +746,7 @@ mm"</string>
     <string name="time_settings">Configurações do relógio</string>
     <string name="timer_alarm_alert_pad">%s</string>
     <string name="timer_alarm_cancel_pad">Toque na tela para parar de tocar</string>
-    <string name="timer_alarm_dot_matrix_label">Timer</string>
+    <string name="timer_alarm_dot_matrix_label">"Timer"</string>
     <string name="timer_alert_alert_silenced">Timer silenciado após %1$s.</string>
     <string name="timer_alert_mute_off">O alarme tocará quando o timer parar</string>
     <string name="timer_alert_mute_on">"O alarme não tocará quando o timer parar"</string>
@@ -792,12 +792,12 @@ mm"</string>
     <string name="timer_pause_timer">Pausar timer</string>
     <string name="timer_ringtone">Toque do timer</string>
     <string name="timer_running">Timer em execução</string>
-    <string name="timer_running_notification">Timer</string>
+    <string name="timer_running_notification">"Timer"</string>
     <string name="timer_screen_on">A tela permanece ligada</string>
     <string name="timer_screen_turn_on">Manter tela ligada</string>
     <string name="timer_start_alarm">"O tempo acabou!"</string>
     <string name="timer_start_timer">Iniciar timer</string>
-    <string name="timer_title">Timer</string>
+    <string name="timer_title">"Timer"</string>
     <string name="timezone_exist_error_message">"Você já está exibindo este fuso horário"</string>
     <string name="timezone_null_massage">Nada aqui ainda</string>
     <string name="today">Hoje</string>
