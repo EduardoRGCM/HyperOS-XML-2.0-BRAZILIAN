@@ -664,8 +664,8 @@ Você não perderá nenhum dado de apps."</string>
     <string name="app_powerkeeper_miui_auto_summary">Identifica apps e atividades para manter processos importantes em execução. A Economia de bateria irá tratar apps importantes de forma seletiva.</string>
     <string name="app_powerkeeper_no_restrict">Nenhuma restrição</string>
     <string name="app_powerkeeper_no_restrict_summary">"A Economia de bateria não restringirá as atividades deste app"</string>
-    <string name="app_powerkeeper_restrict_bg">Restringir apps em segundo plano</string>
-    <string name="app_powerkeeper_restrict_running">Encerra os apps após %d minutos de atividade em segundo plano</string>
+    <string name="app_powerkeeper_restrict_bg">Restringir o app em segundo plano</string>
+    <string name="app_powerkeeper_restrict_running">Encerra o app após %d minutos de atividade em segundo plano</string>
     <string name="app_predict_black_list_empty">Nenhum item aqui ainda</string>
     <string name="app_predict_black_list_setting_title">Lista de bloqueio de sugestões de apps</string>
     <string name="app_predict_classification_search_empty">Nenhum resultado encontrado</string>
